@@ -1,8 +1,8 @@
 [
   {
-    "title": "2023 Artificial Intelligence Index Report | Stanford HAI",
-    "url": "https://hai.stanford.edu/news/2023-artificial-intelligence-index-report",
-    "description": "2023 Artificial Intelligence Index Report | Stanford HAI",
+    "title": "\"SpudCell will replicate continuously by 2030\" | Kate Adamala",
+    "url": "https://www.asimov.press/p/spudcell-adamala",
+    "description": "\"SpudCell will replicate continuously by 2030\" | Kate Adamala",
     "tags": [
       "tldr"
     ],
@@ -10,9 +10,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
-    "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity",
-    "description": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
+    "title": "125 Tests of the New AI Siri",
+    "url": "https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri",
+    "description": "125 Tests of the New AI Siri",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A CERN for AI-assisted science?",
+    "url": "https://terrytao.wordpress.com/2026/09/17/a-cern-for-ai-assisted-science",
+    "description": "A CERN for AI-assisted science?",
     "tags": [
       "tldr"
     ],
@@ -23,26 +33,6 @@
     "title": "AI Cheating is on the Rise",
     "url": "https://www.vals.ai/blogs/cheating-on-the-rise",
     "description": "AI Cheating is on the Rise",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI Labs Want Compute Commitments and Their Customers Want Model Choice",
-    "url": "https://davefriedman.substack.com/p/ai-labs-want-compute-commitments",
-    "description": "AI Labs Want Compute Commitments and Their Customers Want Model Choice",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI Skills with Matt Pocock",
-    "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
-    "description": "AI Skills with Matt Pocock",
     "tags": [
       "tldr"
     ],
@@ -70,9 +60,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Annual index finds AI is ‘industrializing’ but needs better metrics and testing | Stanford HAI",
-    "url": "https://hai.stanford.edu/news/annual-index-finds-ai-industrializing-needs-better-metrics-and-testing",
-    "description": "Annual index finds AI is ‘industrializing’ but needs better metrics and testing | Stanford HAI",
+    "title": "Android Bench 2.0 focuses on long-horizon tasks, agent evaluations",
+    "url": "https://9to5google.com/2026/09/17/android-bench-2-0",
+    "description": "Android Bench 2.0 focuses on long-horizon tasks, agent evaluations",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "App Tracking Transparency Changes Coming to the European Union",
+    "url": "https://pxlnv.com/linklog/eu-app-tracking-transparency-changes",
+    "description": "App Tracking Transparency Changes Coming to the European Union",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Artificial intelligence now beats some of the best human forecasters",
+    "url": "https://hraness.com/reading/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+    "description": "Artificial intelligence now beats some of the best human forecasters",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Astra uses some of its no-CoT capability in practice",
+    "url": "https://www.lesswrong.com/posts/kaoeXZkWhNELmgbKg/astra-uses-some-of-its-no-cot-capability-in-practice",
+    "description": "Astra uses some of its no-CoT capability in practice",
     "tags": [
       "tldr"
     ],
@@ -90,9 +110,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building a t-shirt factory factory - by Michelle Bu",
-    "url": "https://www.breakingchange.blog/p/building-a-t-shirt-factory-factory",
-    "description": "Building a t-shirt factory factory - by Michelle Bu",
+    "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
+    "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads",
+    "description": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
     "tags": [
       "tldr"
     ],
@@ -100,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building an AI Detection Engine That Understands Agent Intent",
-    "url": "https://www.wiz.io/blog/building-an-ai-detection-engine-for-agent-intent",
-    "description": "Building an AI Detection Engine That Understands Agent Intent",
+    "title": "Claude gets 2 new features & a simpler platform",
+    "url": "https://www.superhuman.ai/p/claude-gets-2-new-features-a-simpler-platform",
+    "description": "Claude gets 2 new features & a simpler platform",
     "tags": [
       "tldr"
     ],
@@ -110,39 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ChatGPT Is About to Revolutionize the Economy. We Need to Decide What That Looks Like. | Stanford HAI",
-    "url": "https://hai.stanford.edu/news/chatgpt-about-revolutionize-economy-we-need-decide-what-looks",
-    "description": "ChatGPT Is About to Revolutionize the Economy. We Need to Decide What That Looks Like. | Stanford HAI",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Claude Cowork and chat are now one Claude | Claude by Anthropic",
-    "url": "https://claude.com/blog/cowork-is-now-claude",
-    "description": "Claude Cowork and chat are now one Claude | Claude by Anthropic",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "CoreWeave launches $3 billion convertible debt sale",
-    "url": "https://whbl.com/2026/09/17/coreweave-launches-3-billion-convertible-debt-sale",
-    "description": "CoreWeave launches $3 billion convertible debt sale",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "First Real-World Study Showed Generative AI Boosted Worker Productivity by 14% | Stanford HAI",
-    "url": "https://hai.stanford.edu/news/first-real-world-study-showed-generative-ai-boosted-worker-productivity-14",
-    "description": "First Real-World Study Showed Generative AI Boosted Worker Productivity by 14% | Stanford HAI",
+    "title": "Crusoe raises $3.9bn and starts trucking data centres to spare power",
+    "url": "https://thenextweb.com/news/crusoe-3-9-billion-series-f-30-9-billion-valuation-spark",
+    "description": "Crusoe raises $3.9bn and starts trucking data centres to spare power",
     "tags": [
       "tldr"
     ],
@@ -160,9 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GPT 6 Astra leads Epoch AI’s broad capability index",
-    "url": "https://x.com/EpochAIResearch/status/2100279761339887847",
-    "description": "GPT 6 Astra leads Epoch AI’s broad capability index",
+    "title": "Google announces new experimental \"CC\" AI agent for families",
+    "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families",
+    "description": "Google announces new experimental \"CC\" AI agent for families",
     "tags": [
       "tldr"
     ],
@@ -170,29 +160,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "German court rules Meta liable for scam ads on Facebook and Instagram",
-    "url": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
-    "description": "German court rules Meta liable for scam ads on Facebook and Instagram",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home",
-    "url": "https://9to5google.com/2026/09/16/google-home-mcp",
-    "description": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents? - Arena.ai",
-    "url": "https://arena.ai/blog/coding-agents-harness-tax",
-    "description": "HarnessTax: How Much Does the Harness Matter for Coding Agents? - Arena.ai",
+    "title": "Helix 2.5: Zero-Shot 30-Home Generalization",
+    "url": "https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization",
+    "description": "Helix 2.5: Zero-Shot 30-Home Generalization",
     "tags": [
       "tldr"
     ],
@@ -203,6 +173,16 @@
     "title": "Here's our take on the new Snap Specs with AI",
     "url": "https://www.thedeepview.com/articles/here-s-our-take-on-the-new-snap-specs-with-ai",
     "description": "Here's our take on the new Snap Specs with AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Claude is uplifting biomolecular modeling \\ Anthropic",
+    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+    "description": "How Claude is uplifting biomolecular modeling \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -230,36 +210,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Huge “foundation models” are turbo-charging AI progress | Stanford HAI",
-    "url": "https://hai.stanford.edu/news/huge-foundation-models-are-turbo-charging-ai-progress",
-    "description": "Huge “foundation models” are turbo-charging AI progress | Stanford HAI",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "I Gave 16 AI Models a Search Button and Asked Who the King of Norway Is. Five Named a Dead Man.",
-    "url": "https://thoughts.jock.pl/p/training-cutoff-vs-web-search-16-models-dead-king-2026",
-    "description": "I Gave 16 AI Models a Search Button and Asked Who the King of Norway Is. Five Named a Dead Man.",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
-    "url": "https://www.404media.co/spotify-ai-music-scam",
-    "description": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
     "title": "I don't like LLMs",
     "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
     "description": "I don't like LLMs",
@@ -270,9 +220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Inside ChatGPT’s Breakout Moment And The Race To Put AI To Work | Stanford HAI",
-    "url": "https://hai.stanford.edu/news/inside-chatgpts-breakout-moment-and-race-put-ai-work",
-    "description": "Inside ChatGPT’s Breakout Moment And The Race To Put AI To Work | Stanford HAI",
+    "title": "Introducing the Life Sciences Verification Program",
+    "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "description": "Introducing the Life Sciences Verification Program",
     "tags": [
       "tldr"
     ],
@@ -280,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Inside Gemini: How Google Runs Product for Its Model",
-    "url": "https://theskip.substack.com/p/inside-gemini-how-google-runs-product",
-    "description": "Inside Gemini: How Google Runs Product for Its Model",
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts",
+    "description": "LLMs respond differently to harmful prompts when AI watermarking is used",
     "tags": [
       "tldr"
     ],
@@ -290,9 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-    "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data",
-    "description": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+    "title": "Measurements for understanding the pace of AI development inside frontier labs \\ Anthropic",
+    "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+    "description": "Measurements for understanding the pace of AI development inside frontier labs \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -300,19 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
-    "url": "https://doug.sh/posts/vllm-kv-cache-agents",
-    "description": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Lucid and Bolt to deploy 25,000 autonomous EVs across Europe",
-    "url": "https://electrek.co/2026/09/17/lucid-bolt-25000-autonomous-evs-europe",
-    "description": "Lucid and Bolt to deploy 25,000 autonomous EVs across Europe",
+    "title": "Microsoft exec called AI scraping the “largest theft of labor in human history” - Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history",
+    "description": "Microsoft exec called AI scraping the “largest theft of labor in human history” - Ars Technica",
     "tags": [
       "tldr"
     ],
@@ -330,6 +270,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Models know when they’re reward hacking — and we can catch them at scale",
+    "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+    "description": "Models know when they’re reward hacking — and we can catch them at scale",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
     "title": "No Code Is Code: Zapier CEO Wade Foster on Headless Tools, Zapier MCP & Automation Bench",
     "url": "https://www.cognitiverevolution.ai/no-code-is-code-zapier-ceo-wade-foster-on-headless-tools-zapier-mcp-automation-bench",
     "description": "No Code Is Code: Zapier CEO Wade Foster on Headless Tools, Zapier MCP & Automation Bench",
@@ -340,9 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
-    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment",
-    "description": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+    "url": "https://www.dwarkesh.com/p/noam-brown",
+    "description": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
     "tags": [
       "tldr"
     ],
@@ -350,29 +300,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI lets advertisers run ChatGPT ads from HubSpot and Shopify",
-    "url": "https://ppc.land/openai-lets-advertisers-run-chatgpt-ads-from-hubspot-and-shopify",
-    "description": "OpenAI lets advertisers run ChatGPT ads from HubSpot and Shopify",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Part-human part-mouse brain developed in science breakthrough",
-    "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-    "description": "Part-human part-mouse brain developed in science breakthrough",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-17",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Peak traffic shouldn’t mean peak anxiety",
-    "url": "https://links.tldrnewsletter.com/JJmoyH",
-    "description": "Traffic skyrocketing? If you’re onMicrosoft Azure, there’s no reason to panic. When user demand spikes, Azure adjusts capacity in the background. Performance stays steady with no manual intervention, no late-night firefighting, and no scrambling to explain why the site went down during the big launch.",
+    "title": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors",
+    "url": "https://www.lawnext.com/2026/09/openai-releases-astra-for-law-a-gpt-6-model-configured-for-legal-work.html",
+    "description": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors",
     "tags": [
       "tldr"
     ],
@@ -400,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "S&P Global Enters Agreement to Acquire OpenZeppelin",
-    "url": "https://www.openzeppelin.com/news/spglobal-enters-agreement-to-acquire-openzeppelin",
-    "description": "S&P Global Enters Agreement to Acquire OpenZeppelin",
+    "title": "SEC Opens the Door to Wall Street Onchain With New Innovation Exemption",
+    "url": "https://www.cryptoinamerica.com/p/sec-opens-the-door-to-wall-street",
+    "description": "SEC Opens the Door to Wall Street Onchain With New Innovation Exemption",
     "tags": [
       "tldr"
     ],
@@ -410,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SEC Opens the Door to Wall Street Onchain With New Innovation Exemption",
-    "url": "https://www.cryptoinamerica.com/p/sec-opens-the-door-to-wall-street",
-    "description": "SEC Opens the Door to Wall Street Onchain With New Innovation Exemption",
+    "title": "SpaceX weighs buying data from troubled startups to train its AI models",
+    "url": "https://thenextweb.com/news/spacex-dead-startups-data-grok",
+    "description": "SpaceX weighs buying data from troubled startups to train its AI models",
     "tags": [
       "tldr"
     ],
@@ -430,9 +360,49 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Energy Department launches $215 million push to make quantum computers scientifically useful by 2028",
-    "url": "https://www.fastcompany.com/91608672/the-energy-department-launches-a-215-million-push-to-make-quantum-computers-scientifically-useful-by-2028",
-    "description": "The Energy Department launches $215 million push to make quantum computers scientifically useful by 2028",
+    "title": "The Harness Margin Opportunity",
+    "url": "https://tomtunguz.com/the-harness-margin-opportunity",
+    "description": "The Harness Margin Opportunity",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Provenance Gap in Agent-Written Code",
+    "url": "https://stack72.dev/the-provenance-gap-in-agent-written-code",
+    "description": "The Provenance Gap in Agent-Written Code",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Test Suite Is the New Code Review",
+    "url": "https://allen.hutchison.org/2026/09/17/the-test-suite-is-the-new-code-review",
+    "description": "The Test Suite Is the New Code Review",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Thoughts on Learning with AI",
+    "url": "https://kmicinski.com/ai-and-college",
+    "description": "Thoughts on Learning with AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "UN turns to Google to make its global data ready for AI agents",
+    "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+    "description": "UN turns to Google to make its global data ready for AI agents",
     "tags": [
       "tldr"
     ],
@@ -450,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "We are too early for Astra",
-    "url": "https://www.lesswrong.com/posts/GDiJAKJK53AmxrmgF/we-are-too-early-for-astra-1",
-    "description": "We are too early for Astra",
+    "title": "Who Should Pace the Frontier? Not Dario Amodei",
+    "url": "https://techpolicy.press/who-should-pace-the-frontier-not-dario-amodei",
+    "description": "Who Should Pace the Frontier? Not Dario Amodei",
     "tags": [
       "tldr"
     ],
@@ -460,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What Does Pacing the AI Frontier Even Mean?",
-    "url": "https://weightythoughts.com/p/what-does-pacing-the-ai-frontier",
-    "description": "What Does Pacing the AI Frontier Even Mean?",
+    "title": "Why I didn’t sign the Fields medallists’ letter",
+    "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter",
+    "description": "Why I didn’t sign the Fields medallists’ letter",
     "tags": [
       "tldr"
     ],
@@ -470,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Where the Industry Is Investing: A Look at MLPerf Inference v6.1",
-    "url": "https://mlcommons.org/2026/09/chairs-mlperf-inference-v6-1",
-    "description": "Where the Industry Is Investing: A Look at MLPerf Inference v6.1",
+    "title": "World’s first: US scientists capture quantum jump in sound in real time",
+    "url": "https://interestingengineering.com/science/quantum-jump-in-sound-in-real-time",
+    "description": "World’s first: US scientists capture quantum jump in sound in real time",
     "tags": [
       "tldr"
     ],
@@ -480,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Zipline seeks $1B at a $20B valuation for its U.S. delivery push",
-    "url": "https://runtimewire.com/article/zipline-seeks-1-billion-20-billion-valuation-us-drone-delivery",
-    "description": "Zipline seeks $1B at a $20B valuation for its U.S. delivery push",
+    "title": "Xcode’s New .xcproj Files Are JSON",
+    "url": "https://mjtsai.com/blog/2026/09/17/xcodes-new-xcproj-files-are-json",
+    "description": "Xcode’s New .xcproj Files Are JSON",
     "tags": [
       "tldr"
     ],
@@ -490,9 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "macOS 27 Golden Gate Is Out: What Changes for Developers",
-    "url": "https://blakecrosley.com/blog/macos-27-golden-gate-release",
-    "description": "macOS 27 Golden Gate Is Out: What Changes for Developers",
+    "title": "YC says nearly one in five companies is solo-founded as startups move into hardware",
+    "url": "https://runtimewire.com/article/yc-solo-founders-startups-bits-atoms-2026",
+    "description": "YC says nearly one in five companies is solo-founded as startups move into hardware",
     "tags": [
       "tldr"
     ],
@@ -500,9 +470,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "🧠 SWIFT got Swift.",
-    "url": "https://www.fintechbrainfood.com/p/swift-got-swift",
-    "description": "🧠 SWIFT got Swift.",
+    "title": "You handle the reps. Codex handles the repo. Talk to the voice agent in Codex, powered by GPT-Li...",
+    "url": "https://x.com/OpenAIDevs/status/2100677280297324759",
+    "description": "You handle the reps. Codex handles the repo. Talk to the voice agent in Codex, powered by GPT-Li...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People",
+    "url": "https://www.404media.co/flock-city-pd-the-fake-flock-owned-police-department-that-searched-real-cameras-for-real-people",
+    "description": "‘Flock City PD:’ The Fake Flock-Owned ‘Police Department’ That Searched Real Cameras for Real People",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-17",
+    "site_name": "tldr"
+  },
+  {
+    "title": "⚠️ OpenAI Puts Its Safety Failures on Record",
+    "url": "https://read.getsuperintel.com/p/openai-puts-its-safety-failures-on-record",
+    "description": "⚠️ OpenAI Puts Its Safety Failures on Record",
     "tags": [
       "tldr"
     ],
