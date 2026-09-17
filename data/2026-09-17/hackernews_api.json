@@ -1,198 +1,215 @@
 [
   {
-    "title": "25 years of mass surveillance is enough",
-    "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-    "author": "iamnothere",
+    "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+    "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "author": "berkeleyjunk",
     "date": "2026-09-15",
-    "score": 899,
-    "comments": 333,
-    "id": 49710883,
-    "discussion_url": "https://news.ycombinator.com/item?id=49710883",
-    "description": "25 years of mass surveillance is enough",
+    "score": 497,
+    "comments": 415,
+    "id": 49719249,
+    "discussion_url": "https://news.ycombinator.com/item?id=49719249",
+    "description": "AWS says it can't restore some data from mideast facilities struck by Iran",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.155175"
+    "fetched_at": "2026-09-17T15:26:52.511589"
   },
   {
-    "title": "An update on Wayback Machine access",
-    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "author": "ChrisArchitect",
+    "title": "Anecdotally, programmers dislike \"reduce\"",
+    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "author": "vinhnx",
+    "date": "2026-09-14",
+    "score": 161,
+    "comments": 247,
+    "id": 49692844,
+    "discussion_url": "https://news.ycombinator.com/item?id=49692844",
+    "description": "Anecdotally, programmers dislike \"reduce\"",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511693"
+  },
+  {
+    "title": "Backups Aren't Simple",
+    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "author": "afilipovski",
     "date": "2026-09-16",
-    "score": 643,
-    "comments": 340,
-    "id": 49716176,
-    "discussion_url": "https://news.ycombinator.com/item?id=49716176",
-    "description": "An update on Wayback Machine access",
+    "score": 303,
+    "comments": 183,
+    "id": 49732513,
+    "discussion_url": "https://news.ycombinator.com/item?id=49732513",
+    "description": "Backups Aren't Simple",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154673"
+    "fetched_at": "2026-09-17T15:26:52.511541"
   },
   {
-    "title": "Apple Reference Image: A New Approach for Verified Photography",
-    "url": "https://security.apple.com/blog/apple-reference-image/",
-    "author": "imwally",
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "url": "https://arxiv.org/abs/2609.16338",
+    "author": "matt_d",
     "date": "2026-09-16",
-    "score": 415,
-    "comments": 268,
-    "id": 49721322,
-    "discussion_url": "https://news.ycombinator.com/item?id=49721322",
-    "description": "Apple Reference Image: A New Approach for Verified Photography",
+    "score": 227,
+    "comments": 36,
+    "id": 49732931,
+    "discussion_url": "https://news.ycombinator.com/item?id=49732931",
+    "description": "Breaking the 1.58-bit Barrier for Ternary LLMs",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154470"
+    "fetched_at": "2026-09-17T15:26:52.511593"
   },
   {
-    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-    "url": "https://codyho.dev/blog/gpu-driver/",
-    "author": "ADevWithAnIdea",
+    "title": "CCC invites all model citizens to 40C3",
+    "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+    "author": "antonly",
+    "date": "2026-09-17",
+    "score": 166,
+    "comments": 44,
+    "id": 49737787,
+    "discussion_url": "https://news.ycombinator.com/item?id=49737787",
+    "description": "CCC invites all model citizens to 40C3",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511581"
+  },
+  {
+    "title": "Canada welcomes EU proposal to become 'associate member'",
+    "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+    "author": "witweb",
+    "date": "2026-09-17",
+    "score": 221,
+    "comments": 256,
+    "id": 49740507,
+    "discussion_url": "https://news.ycombinator.com/item?id=49740507",
+    "description": "Canada welcomes EU proposal to become 'associate member'",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511689"
+  },
+  {
+    "title": "Cloudflare/Security-Audit-Skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "author": "donk8r",
+    "date": "2026-09-17",
+    "score": 148,
+    "comments": 29,
+    "id": 49736466,
+    "discussion_url": "https://news.ycombinator.com/item?id=49736466",
+    "description": "Cloudflare/Security-Audit-Skill",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511613"
+  },
+  {
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "url": "https://arxiv.org/abs/2609.14858",
+    "author": "bananaflag",
     "date": "2026-09-16",
-    "score": 392,
-    "comments": 242,
-    "id": 49717638,
-    "discussion_url": "https://news.ycombinator.com/item?id=49717638",
-    "description": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "score": 207,
+    "comments": 50,
+    "id": 49726955,
+    "discussion_url": "https://news.ycombinator.com/item?id=49726955",
+    "description": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154505"
+    "fetched_at": "2026-09-17T15:26:52.511704"
   },
   {
-    "title": "Chopping up books when they're physically too big",
-    "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-    "author": "matt_kirkland",
-    "date": "2026-09-16",
-    "score": 205,
-    "comments": 189,
-    "id": 49716953,
-    "discussion_url": "https://news.ycombinator.com/item?id=49716953",
-    "description": "Chopping up books when they're physically too big",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154927"
-  },
-  {
-    "title": "Doing Everyone Else's Job",
-    "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-    "author": "luu",
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "author": "my123",
     "date": "2026-09-15",
-    "score": 168,
-    "comments": 78,
-    "id": 49705944,
-    "discussion_url": "https://news.ycombinator.com/item?id=49705944",
-    "description": "Doing Everyone Else's Job",
+    "score": 179,
+    "comments": 57,
+    "id": 49715813,
+    "discussion_url": "https://news.ycombinator.com/item?id=49715813",
+    "description": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154109"
+    "fetched_at": "2026-09-17T15:26:52.511585"
   },
   {
-    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "author": "leumon",
-    "date": "2026-09-16",
-    "score": 469,
-    "comments": 313,
-    "id": 49715947,
-    "discussion_url": "https://news.ycombinator.com/item?id=49715947",
-    "description": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "title": "GLM Built Its Own Inference Infrastructure",
+    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "author": "whiteros_e",
+    "date": "2026-09-17",
+    "score": 213,
+    "comments": 164,
+    "id": 49737922,
+    "discussion_url": "https://news.ycombinator.com/item?id=49737922",
+    "description": "GLM Built Its Own Inference Infrastructure",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154128"
+    "fetched_at": "2026-09-17T15:26:52.511632"
   },
   {
-    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-    "author": "summarity",
-    "date": "2026-09-16",
-    "score": 266,
-    "comments": 98,
-    "id": 49718928,
-    "discussion_url": "https://news.ycombinator.com/item?id=49718928",
-    "description": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154243"
-  },
-  {
-    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+    "title": "Hackers Got Inside a Flock Camera",
     "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
     "author": "driverdan",
     "date": "2026-09-16",
-    "score": 239,
-    "comments": 110,
+    "score": 548,
+    "comments": 249,
     "id": 49726586,
     "discussion_url": "https://news.ycombinator.com/item?id=49726586",
-    "description": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+    "description": "Hackers Got Inside a Flock Camera",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154597"
+    "fetched_at": "2026-09-17T15:26:52.511729"
   },
   {
-    "title": "I can't stop thinking about Papua New Guinea",
-    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-    "author": "networked",
-    "date": "2026-09-15",
-    "score": 1096,
-    "comments": 456,
-    "id": 49708431,
-    "discussion_url": "https://news.ycombinator.com/item?id=49708431",
-    "description": "I can't stop thinking about Papua New Guinea",
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "url": "https://harnesstax.github.io/",
+    "author": "matt_d",
+    "date": "2026-09-16",
+    "score": 193,
+    "comments": 73,
+    "id": 49733726,
+    "discussion_url": "https://news.ycombinator.com/item?id=49733726",
+    "description": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154978"
-  },
-  {
-    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-    "url": "https://arxiv.org/abs/2511.07885",
-    "author": "pythonic_hell",
-    "date": "2026-09-14",
-    "score": 123,
-    "comments": 40,
-    "id": 49694035,
-    "discussion_url": "https://news.ycombinator.com/item?id=49694035",
-    "description": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154202"
+    "fetched_at": "2026-09-17T15:26:52.511599"
   },
   {
     "title": "Introducing System One Models and Jev",
     "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
     "author": "albelfio",
-    "date": "2026-09-16",
-    "score": 1686,
-    "comments": 459,
+    "date": "2026-09-15",
+    "score": 1838,
+    "comments": 484,
     "id": 49717558,
     "discussion_url": "https://news.ycombinator.com/item?id=49717558",
     "description": "Introducing System One Models and Jev",
@@ -201,151 +218,185 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154579"
+    "fetched_at": "2026-09-17T15:26:52.511720"
   },
   {
-    "title": "Jean-Pierre Serre turns 100",
-    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-    "author": "jzox",
-    "date": "2026-09-16",
-    "score": 142,
-    "comments": 25,
-    "id": 49718822,
-    "discussion_url": "https://news.ycombinator.com/item?id=49718822",
-    "description": "Jean-Pierre Serre turns 100",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154961"
-  },
-  {
-    "title": "Learning Programming in an Age of LLMs",
-    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-    "author": "moneroloop2018",
-    "date": "2026-09-16",
-    "score": 166,
-    "comments": 119,
-    "id": 49723873,
-    "discussion_url": "https://news.ycombinator.com/item?id=49723873",
-    "description": "Learning Programming in an Age of LLMs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154791"
-  },
-  {
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "url": "https://mistral.ai/news/mistral-x-mozilla/",
-    "author": "vertigoruntime",
-    "date": "2026-09-16",
-    "score": 351,
-    "comments": 115,
-    "id": 49723408,
-    "discussion_url": "https://news.ycombinator.com/item?id=49723408",
-    "description": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154432"
-  },
-  {
-    "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-    "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-    "author": "rbanffy",
-    "date": "2026-09-16",
-    "score": 167,
-    "comments": 45,
-    "id": 49725356,
-    "discussion_url": "https://news.ycombinator.com/item?id=49725356",
-    "description": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154618"
-  },
-  {
-    "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-    "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-    "author": "alexjplant",
+    "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+    "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+    "author": "hebelehubele",
     "date": "2026-09-17",
-    "score": 249,
-    "comments": 166,
-    "id": 49727627,
-    "discussion_url": "https://news.ycombinator.com/item?id=49727627",
-    "description": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+    "score": 183,
+    "comments": 113,
+    "id": 49739018,
+    "discussion_url": "https://news.ycombinator.com/item?id=49739018",
+    "description": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154394"
+    "fetched_at": "2026-09-17T15:26:52.511654"
   },
   {
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "author": "zdw",
-    "date": "2026-09-16",
-    "score": 171,
-    "comments": 49,
-    "id": 49719938,
-    "discussion_url": "https://news.ycombinator.com/item?id=49719938",
-    "description": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+    "title": "Japan's book scene is moving from bookstores to libraries",
+    "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+    "author": "herbertl",
+    "date": "2026-09-12",
+    "score": 230,
+    "comments": 107,
+    "id": 49677916,
+    "discussion_url": "https://news.ycombinator.com/item?id=49677916",
+    "description": "Japan's book scene is moving from bookstores to libraries",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154280"
+    "fetched_at": "2026-09-17T15:26:52.511629"
   },
   {
-    "title": "Salesforce Global Outage",
-    "url": "https://status.salesforce.com/products/all",
-    "author": "mabil",
-    "date": "2026-09-16",
-    "score": 219,
-    "comments": 122,
-    "id": 49724488,
-    "discussion_url": "https://news.ycombinator.com/item?id=49724488",
-    "description": "Salesforce Global Outage",
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "url": "https://ryan.science/blog/keys-not-included",
+    "author": "Ryan5453",
+    "date": "2026-09-17",
+    "score": 236,
+    "comments": 101,
+    "id": 49735930,
+    "discussion_url": "https://news.ycombinator.com/item?id=49735930",
+    "description": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154728"
+    "fetched_at": "2026-09-17T15:26:52.511625"
   },
   {
-    "title": "Saving Jet Fuel",
-    "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-    "author": "marklit",
-    "date": "2026-09-16",
-    "score": 126,
-    "comments": 61,
-    "id": 49720164,
-    "discussion_url": "https://news.ycombinator.com/item?id=49720164",
-    "description": "Saving Jet Fuel",
+    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+    "url": "https://jakeasmith.com/blog/http-build-url/",
+    "author": "jakeasmith",
+    "date": "2026-09-15",
+    "score": 242,
+    "comments": 60,
+    "id": 49718773,
+    "discussion_url": "https://news.ycombinator.com/item?id=49718773",
+    "description": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154765"
+    "fetched_at": "2026-09-17T15:26:52.511547"
+  },
+  {
+    "title": "Nvidia announces native GPU programming in Rust",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "author": "nonmaskable",
+    "date": "2026-09-16",
+    "score": 856,
+    "comments": 341,
+    "id": 49724881,
+    "discussion_url": "https://news.ycombinator.com/item?id=49724881",
+    "description": "Nvidia announces native GPU programming in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511635"
+  },
+  {
+    "title": "One Year of Sponsored Servo Development",
+    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "author": "AshleysBrain",
+    "date": "2026-09-17",
+    "score": 252,
+    "comments": 110,
+    "id": 49737849,
+    "discussion_url": "https://news.ycombinator.com/item?id=49737849",
+    "description": "One Year of Sponsored Servo Development",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511529"
+  },
+  {
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "url": "https://openspec.dev/",
+    "author": "etoxin",
+    "date": "2026-09-16",
+    "score": 172,
+    "comments": 87,
+    "id": 49734264,
+    "discussion_url": "https://news.ycombinator.com/item?id=49734264",
+    "description": "OpenSpec – A lightweight and configurable AI spec framework",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511661"
+  },
+  {
+    "title": "PCB is brought to you by Fable 5",
+    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+    "author": "jasonpeacock",
+    "date": "2026-09-14",
+    "score": 153,
+    "comments": 87,
+    "id": 49695689,
+    "discussion_url": "https://news.ycombinator.com/item?id=49695689",
+    "description": "PCB is brought to you by Fable 5",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511683"
+  },
+  {
+    "title": "Performance Improvements in .NET 11",
+    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+    "author": "soheilpro",
+    "date": "2026-09-15",
+    "score": 327,
+    "comments": 99,
+    "id": 49711424,
+    "discussion_url": "https://news.ycombinator.com/item?id=49711424",
+    "description": "Performance Improvements in .NET 11",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511657"
+  },
+  {
+    "title": "Reversing Factorio's RNG",
+    "url": "https://gegell.github.io/posts/factorio-rng/",
+    "author": "jheitmann",
+    "date": "2026-09-12",
+    "score": 232,
+    "comments": 42,
+    "id": 49674451,
+    "discussion_url": "https://news.ycombinator.com/item?id=49674451",
+    "description": "Reversing Factorio's RNG",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511671"
   },
   {
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "url": "https://github.com/arnegiacomo/fugleramme",
     "author": "arnemunthekaas",
     "date": "2026-09-15",
-    "score": 1858,
-    "comments": 221,
+    "score": 2233,
+    "comments": 246,
     "id": 49711544,
     "discussion_url": "https://news.ycombinator.com/item?id=49711544",
     "description": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -354,159 +405,108 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154320"
+    "fetched_at": "2026-09-17T15:26:52.511609"
   },
   {
-    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-    "url": "https://withcapsule.app/",
-    "author": "bashtian",
+    "title": "Small programming tricks",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "author": "signa11",
+    "date": "2026-09-16",
+    "score": 606,
+    "comments": 266,
+    "id": 49729000,
+    "discussion_url": "https://news.ycombinator.com/item?id=49729000",
+    "description": "Small programming tricks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511562"
+  },
+  {
+    "title": "Tell the speakers that you liked their talks",
+    "url": "https://ohhelloana.blog/tell-the-speakers/",
+    "author": "whisper2020",
     "date": "2026-09-15",
-    "score": 359,
-    "comments": 155,
-    "id": 49712278,
-    "discussion_url": "https://news.ycombinator.com/item?id=49712278",
-    "description": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+    "score": 306,
+    "comments": 86,
+    "id": 49710903,
+    "discussion_url": "https://news.ycombinator.com/item?id=49710903",
+    "description": "Tell the speakers that you liked their talks",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154747"
+    "fetched_at": "2026-09-17T15:26:52.511744"
   },
   {
-    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-    "url": "https://bkovac.github.io/modem-thing/",
-    "author": "bobili1234",
+    "title": "The DeepMind Institute",
+    "url": "https://institute.deepmind.com/",
+    "author": "vertigoruntime",
+    "date": "2026-09-16",
+    "score": 177,
+    "comments": 67,
+    "id": 49727659,
+    "discussion_url": "https://news.ycombinator.com/item?id=49727659",
+    "description": "The DeepMind Institute",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-17T15:26:52.511726"
+  },
+  {
+    "title": "The engineering behind the US Strategic Petroleum Reserve",
+    "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "author": "johnjwang",
     "date": "2026-09-15",
-    "score": 196,
-    "comments": 36,
-    "id": 49712102,
-    "discussion_url": "https://news.ycombinator.com/item?id=49712102",
-    "description": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+    "score": 249,
+    "comments": 99,
+    "id": 49719596,
+    "discussion_url": "https://news.ycombinator.com/item?id=49719596",
+    "description": "The engineering behind the US Strategic Petroleum Reserve",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.155075"
+    "fetched_at": "2026-09-17T15:26:52.511603"
   },
   {
-    "title": "Show HN: I made a flight simulator, except you're just a passenger",
-    "url": "https://inflightsimulator.com",
-    "author": "rkotcher",
-    "date": "2026-09-14",
-    "score": 324,
-    "comments": 184,
-    "id": 49693971,
-    "discussion_url": "https://news.ycombinator.com/item?id=49693971",
-    "description": "Show HN: I made a flight simulator, except you're just a passenger",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154061"
-  },
-  {
-    "title": "Suspected sabotage causes major Netherlands rail disruption",
-    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-    "author": "choult",
-    "date": "2026-09-15",
-    "score": 510,
-    "comments": 456,
-    "id": 49710253,
-    "discussion_url": "https://news.ycombinator.com/item?id=49710253",
-    "description": "Suspected sabotage causes major Netherlands rail disruption",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154848"
-  },
-  {
-    "title": "The Google Play app review process now regularly takes longer than a week",
-    "url": "https://gultsch.social/@daniel/117280438824908947",
-    "author": "inputmice",
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "author": "polyphilz",
     "date": "2026-09-16",
-    "score": 263,
-    "comments": 233,
-    "id": 49724927,
-    "discussion_url": "https://news.ycombinator.com/item?id=49724927",
-    "description": "The Google Play app review process now regularly takes longer than a week",
+    "score": 643,
+    "comments": 129,
+    "id": 49731285,
+    "discussion_url": "https://news.ycombinator.com/item?id=49731285",
+    "description": "Training a 4B model to produce 81% faster query plans than Postgres",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154635"
+    "fetched_at": "2026-09-17T15:26:52.511638"
   },
   {
-    "title": "The Inference Hardware Revolution of 2026",
-    "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-    "author": "vinhnx",
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "url": "https://mimo.xiaomi.com/rl/",
+    "author": "krackers",
     "date": "2026-09-16",
-    "score": 156,
-    "comments": 20,
-    "id": 49713024,
-    "discussion_url": "https://news.ycombinator.com/item?id=49713024",
-    "description": "The Inference Hardware Revolution of 2026",
+    "score": 506,
+    "comments": 140,
+    "id": 49732270,
+    "discussion_url": "https://news.ycombinator.com/item?id=49732270",
+    "description": "Xiaomi Mimo 2.6 live post-training dashboard",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.155123"
-  },
-  {
-    "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-    "url": "https://github.com/GraafHenk/numberwang",
-    "author": "Liogra123",
-    "date": "2026-09-16",
-    "score": 173,
-    "comments": 61,
-    "id": 49717605,
-    "discussion_url": "https://news.ycombinator.com/item?id=49717605",
-    "description": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154994"
-  },
-  {
-    "title": "We got admin access to Baseten's production GitHub",
-    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "author": "bearsyankees",
-    "date": "2026-09-16",
-    "score": 310,
-    "comments": 176,
-    "id": 49716476,
-    "discussion_url": "https://news.ycombinator.com/item?id=49716476",
-    "description": "We got admin access to Baseten's production GitHub",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154654"
-  },
-  {
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "author": "jaykru",
-    "date": "2026-09-16",
-    "score": 373,
-    "comments": 474,
-    "id": 49715927,
-    "discussion_url": "https://news.ycombinator.com/item?id=49715927",
-    "description": "Why I'm still bearish on LLMs after Navier-Stokes",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-17T03:38:21.154146"
+    "fetched_at": "2026-09-17T15:26:52.511566"
   }
 ]
