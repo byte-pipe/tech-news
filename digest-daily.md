@@ -1,55 +1,73 @@
 ---
-date: '2026-09-17'
+date: '2026-09-18'
 model: gpt-oss:120b-cloud
-generated_at: '2026-09-17T11:06:51.265722'
+generated_at: '2026-09-18T05:29:14.055999'
 ---
 
 ## Executive Summary
-- The AI community is grappling with the impact of large‑language‑model‑generated code, highlighted by the departure of the PS5 Linux project lead and a growing critique that AI tools enable “vibe‑coding” without true understanding.  
-- New research shows local inference is becoming dramatically more power‑efficient, with the “Intelligence per Watt” metric indicating a 5‑fold improvement and the potential to shift most everyday queries off cloud data‑centers.  
-- Open‑source and commercial AI ventures are accelerating: Arcee AI secured a $1 billion‑valued Series B to build U.S.‑owned foundation models, while Anthropic merged its Claude Cowork and chat products into a single, more integrated assistant.  
-- Cyber‑security breaches continue to expose privacy risks, from a hacked Flock Safety camera revealing nationwide surveillance data to the historic reverse‑engineering of the original PlayStation 2 security chip.  
-- Political turnover is set to reshape U.S. governance, with 99 congressional seats slated for new occupants after a wave of retirements, defeats, and resignations.
+- AI developers are mastering “tool calling,” enabling language models to fetch live data while remaining sandboxed, a technique detailed in a step‑by‑step guide.  
+- Japan’s Fujitsu unveiled a domestically‑produced, 2 nm AI‑optimized CPU and server line, positioning itself as a sovereign alternative amid global supply‑chain tensions.  
+- The UN released a damning report that the U.S. likely committed war crimes in Iran’s February 28 school and sports‑complex strikes, while a separate investigation highlighted ongoing Iranian human‑rights abuses.  
+- Renewable‑energy‑focused retrofits are reviving wind‑assisted propulsion on cargo ships, promising sizable fuel savings and emissions cuts.  
+- A range of cultural, technical, and geopolitical stories—from the Chaos Computer Club’s 40C3 call for “model citizens” to a pilot program on Medicaid drug pricing—round out a week of rapid developments across AI, hardware, and world affairs.  
 
 ---
 
 ## AI and Machine Learning
 
-- **PS5 Linux lead quits as open‑source projects become “a bunch of noobs using LLMs” – FRVR** – Andy “TheFlow0” Nguyen abandons the PS5 Linux effort, citing AI‑generated “vibe‑coding” and premature bug disclosures that undermine the project’s future.  
-- **Intelligence per Watt: Measuring Intelligence Efficiency of Local AI – Hacker News** – A new benchmark shows local LMs (≤20 B parameters) achieve 88.7 % query accuracy while improving energy efficiency 5.3×, suggesting 71 % of everyday queries could be served on‑device by 2025.  
-- **Enclave: DeepSeek V4.1 Flash is Now Our Best Hacking Model – Hacker News** – DeepSeek V4.1 Flash scores a perfect 11/11 on an AI‑hacking benchmark, exposing the need for tighter path‑level verification in future security tests.  
-- **Oh Hello Ana – Tell the speakers that you liked their talks – Hacker News** *(trending)* – A conference‑goer reflects on the importance of giving speakers quick, sincere feedback to counteract the silence that often follows talks.  
-- **VAR controversy: Pressure for quick decisions obvious in rushed derby review – BBC Sport** – The Manchester derby VAR error sparks debate over the Premier League’s push for faster reviews at the expense of accuracy.  
-- **Agent Reliability Needs Repeated Evidence – Jason Doyle (TLDR)** – IBM researchers propose an “agent reliability profile” that measures both average success and strict repeated‑success metrics to ensure autonomous agents are trustworthy in production.  
-- **Arcee AI Raises Series B to Build American Open Models – TLDR** – Arcee AI closes a Series B at a >$1 billion valuation to expand its open‑weight Trinity model family and partner with U.S. research labs.  
-- **Claude Cowork and chat are now one Claude – TLDR** – Anthropic unifies its Cowork and chat experiences, adding Docs, Slides, and Design tools that can be invoked directly within a single conversation.
+### How AI Actually Calls an API? Tool Calling Explained from Scratch – DEV Community  
+A four‑step loop (prompt → decision → execution → result injection) lets static foundation models request external functions, keeping the model sandboxed while delivering up‑to‑date answers.
 
----
+### CCC invites all model citizens to 40C3 – CCC Event Blog *(Trending)*  
+The Chaos Computer Club announced the 40th Chaos Communication Congress (Dec 27‑30, 2026) in Hamburg, themed “Model Citizens,” inviting speakers, artists, musicians, and activists to shape a democratic, anti‑authoritarian gathering for over 16 000 participants.
 
-## Cybersecurity and Privacy
+### Fujitsu launches made‑in‑Japan next‑generation CPU FUJITSU‑MONAKA and MONAKA Server – Fujitsu Global *(Trending)*  
+Fujitsu will sell its 2 nm, 3.8 GHz MONAKA CPU and accompanying server globally from Nov 2026, touting double‑the‑AI‑inference performance, hardware‑based memory encryption, and fully Japanese supply‑chain traceability for sovereign AI workloads.
 
-- **Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works – WIRED** – Physical tampering of a Flock Safety camera exposed unencrypted partitions, revealing millions of vehicle images and a searchable nationwide surveillance network that can be misused by thousands of agencies.  
-- **Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years – Hacker News** – After four years of reverse‑engineering, the MechaCon security chip from the PS2 “Fat” console is fully dumped, opening new possibilities for preservation, emulation, and homebrew development.
+### How GLM built its own inference infrastructure – Hacker News API *(Trending)*  
+*Details of the article were not provided; the story is noted as trending but cannot be summarized without source text.*
+
+### Iran school bombing: grounds to believe US was behind atrocity, UN finds – The Guardian  
+A UN fact‑finding mission concluded there are reasonable grounds to deem the Feb 28 U.S. strikes on a Minab school and Lamerd sports complex war crimes, citing indiscriminate targeting and outdated intelligence, while also documenting Iranian crackdown abuses.
+
+### mysetup.ai – What’s the craic with your AI setup? – HN RSS  
+A community hub where users share personal AI toolchains; featured setups illustrate varied approaches to agents, retrieval, and evidence handling, encouraging peer comparison and discussion.
+
+### The American Religion of Self‑Storage Facilities – The New Yorker  
+Self‑storage dominates U.S. real‑estate, accounting for 90 % of global capacity and $40 billion in annual revenue, driven by “death, displacement, divorce, downsizing, and delusion” and increasingly treated as a stable, institutional asset class.
+
+### Who Is In Space – HN RSS  
+Current low‑Earth orbit crew includes SpaceX Crew‑12, Soyuz ms‑29, and China’s Shenzhou 23 missions, totaling ten astronauts and cosmonauts aboard the ISS and Tiangong stations.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-- **AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did. – DEV Community** – The author warns that AI‑assisted coding can mask the lack of true engineering effort, using a GitHub Copilot‑aided project that still required manual debugging and design decisions.  
-- **Chop up your books – Attainable Felicity** – A practical guide encourages readers to physically split oversized books into smaller volumes for easier handling, outlining a safe DIY method.  
-- **Converting a $20 4G wireless hotspot into a texting device** – A hobbyist repurposes a cheap 4G hotspot, integrating a Clicks keyboard and a Sharp memory display to create a minimalist texting terminal.  
-- **Numberwang – small neural network repository** – An open‑source Python model classifies inputs as “Numberwang” with 88.9 % accuracy, demonstrating a lightweight character‑level architecture that runs without external dependencies.  
-- **Doing everyone else's job – Hacker News** – The essay argues that taking on tasks outside one’s formal role builds deep organizational insight, but cautions against creating redundant solutions that waste resources.  
-- **Apple planning to sell AI servers powered by M8 Ultra chips – TLDR** – Apple is prototyping enterprise AI servers using upcoming M8 Ultra silicon and Nvidia NVLink Fusion, targeting external AI developers with a potential launch as late as 2029.
+### Reversing Factorio's RNG – Hacker News API  
+An analysis reveals Factorio’s Space‑Age DLC relies on the deterministic taus88 PRNG (three LFSRs); by extracting the internal seed state, players can predict future “quality” drops, despite a recent game update that altered RNG access but left the algorithm intact.
 
 ---
 
-## Startups and Business
+## Science and Research
 
-- **ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation – TLDR** – Anew Labs secures a $290 million round, expanding its AI‑driven drug discovery platform with four candidates in the pipeline and positioning itself as a rare AI‑focused biotech spin‑out.
+### The Return of Sail Power: Cargo Ships Are Turning Back to the Wind – HN RSS  
+Over 100 merchant vessels now carry wind‑assist systems—rotor sails, rigid wings, suction‑based eSAIL, and soft sails—delivering single‑digit to low‑double‑digit fuel savings; projects from Maersk, Vale, and Idemitsu illustrate a growing push toward decarbonising maritime transport.
 
 ---
 
 ## World News and Geopolitics
 
-- **Who in Congress is not running for reelection in 2026? – NPR** – A record turnover looms as 99 congressional seats (83 House, 16 Senate) will see new occupants, driven by retirements, primary defeats, and strategic career moves, reshaping the political landscape ahead of the 2026 elections.
+### Did Trump lower Medicaid drug prices, as promised? – NPR  
+The “Generous” pilot, a voluntary “most‑favored‑nation” discount scheme launched in 2025, remains limited in scope and participation; lack of transparent drug lists and repeated deadline extensions cast doubt on its effectiveness in reducing Medicaid spending.
+
+---
+
+## Notable Mentions
+- Why I didn’t sign the Fields medallists’ letter – Gowers's Weblog  
+- AI is feared globally as the destroyer of jobs – The Verge  
+- *American Scoundrel* traces Roy Cohn's playbook from McCarthyism to Trump – NPR  
+- 125 Tests of the New AI Siri – by David Pogue  
+- After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans – Ars Technica  
+- AI safety researchers call rogue OpenAI model industry’s first “warning shot” — AI Chat Daily  
+- Android Developers Blog: Android Bench 2.0: Pushing the frontier with challenging long‑horizon tasks  
+- Astra uses some of its no‑CoT capability in practice — LessWrong
