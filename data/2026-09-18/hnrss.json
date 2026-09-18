@@ -1,197 +1,227 @@
 [
   {
-    "title": "CCC invites all model citizens to 40C3",
-    "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-    "description": "CCC invites all model citizens to 40C3",
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "description": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "date": "2026-09-18",
+    "score": 280,
+    "comments": 123,
+    "discussion_url": "https://news.ycombinator.com/item?id=49758736",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-18T21:26:16.453226"
+  },
+  {
+    "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+    "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+    "description": "Border agents can search cellphones without a warrant or reasonable suspicion",
+    "date": "2026-09-18",
+    "score": 139,
+    "comments": 93,
+    "discussion_url": "https://news.ycombinator.com/item?id=49758028",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-18T21:26:16.453236"
+  },
+  {
+    "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "description": "C++26: Trivial infinite loops are no longer undefined behaviour",
     "date": "2026-09-17",
-    "score": 268,
-    "comments": 127,
-    "discussion_url": "https://news.ycombinator.com/item?id=49737787",
+    "score": 119,
+    "comments": 146,
+    "discussion_url": "https://news.ycombinator.com/item?id=49746406",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.940069"
+    "fetched_at": "2026-09-18T21:26:16.453356"
   },
   {
-    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-    "description": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-    "date": "2026-09-15",
-    "score": 403,
-    "comments": 150,
-    "discussion_url": "https://news.ycombinator.com/item?id=49715813",
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "description": "Cloudflare Quick Tunnels",
+    "date": "2026-09-18",
+    "score": 461,
+    "comments": 203,
+    "discussion_url": "https://news.ycombinator.com/item?id=49754785",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.940130"
+    "fetched_at": "2026-09-18T21:26:16.453288"
   },
   {
-    "title": "Hister: A private search engine for the pages you visit and the files you keep",
-    "url": "https://github.com/asciimoo/hister",
-    "description": "Hister: A private search engine for the pages you visit and the files you keep",
+    "title": "How SpaceX streamlined the Raptor engine",
+    "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+    "description": "How SpaceX streamlined the Raptor engine",
     "date": "2026-09-17",
-    "score": 198,
-    "comments": 71,
-    "discussion_url": "https://news.ycombinator.com/item?id=49743097",
+    "score": 111,
+    "comments": 15,
+    "discussion_url": "https://news.ycombinator.com/item?id=49746626",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.939918"
+    "fetched_at": "2026-09-18T21:26:16.453348"
   },
   {
-    "title": "How GLM built its own inference infrastructure",
-    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-    "description": "How GLM built its own inference infrastructure",
+    "title": "How to Write with an LLM",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "description": "How to Write with an LLM",
     "date": "2026-09-17",
-    "score": 303,
-    "comments": 230,
-    "discussion_url": "https://news.ycombinator.com/item?id=49737922",
+    "score": 320,
+    "comments": 218,
+    "discussion_url": "https://news.ycombinator.com/item?id=49747070",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.940040"
+    "fetched_at": "2026-09-18T21:26:16.453339"
   },
   {
-    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-    "url": "https://ryan.science/blog/keys-not-included",
-    "description": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-    "date": "2026-09-17",
-    "score": 275,
-    "comments": 138,
-    "discussion_url": "https://news.ycombinator.com/item?id=49735930",
+    "title": "I vibed a proof of Conway's conjecture",
+    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+    "description": "I vibed a proof of Conway's conjecture",
+    "date": "2026-09-18",
+    "score": 182,
+    "comments": 170,
+    "discussion_url": "https://news.ycombinator.com/item?id=49755024",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.940087"
+    "fetched_at": "2026-09-18T21:26:16.453273"
   },
   {
-    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-    "url": "https://jakeasmith.com/blog/http-build-url/",
-    "description": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-    "date": "2026-09-15",
+    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "description": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "date": "2026-09-18",
+    "score": 223,
+    "comments": 86,
+    "discussion_url": "https://news.ycombinator.com/item?id=49750694",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-18T21:26:16.453309"
+  },
+  {
+    "title": "Korea raises data breach fines to 10% of revenue",
+    "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+    "description": "Korea raises data breach fines to 10% of revenue",
+    "date": "2026-09-18",
+    "score": 160,
+    "comments": 43,
+    "discussion_url": "https://news.ycombinator.com/item?id=49759466",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-18T21:26:16.453207"
+  },
+  {
+    "title": "Minimal Phone 2",
+    "url": "https://minimalcompany.com/",
+    "description": "Minimal Phone 2",
+    "date": "2026-09-18",
+    "score": 126,
+    "comments": 119,
+    "discussion_url": "https://news.ycombinator.com/item?id=49749369",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-18T21:26:16.453318"
+  },
+  {
+    "title": "North Korean nuclear test sets off years of earthquakes",
+    "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+    "description": "North Korean nuclear test sets off years of earthquakes",
+    "date": "2026-09-18",
+    "score": 155,
+    "comments": 141,
+    "discussion_url": "https://news.ycombinator.com/item?id=49755160",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-18T21:26:16.453264"
+  },
+  {
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "description": "OpenJev",
+    "date": "2026-09-18",
+    "score": 497,
+    "comments": 234,
+    "discussion_url": "https://news.ycombinator.com/item?id=49752041",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-18T21:26:16.453299"
+  },
+  {
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "description": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "date": "2026-09-18",
+    "score": 120,
+    "comments": 39,
+    "discussion_url": "https://news.ycombinator.com/item?id=49757050",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-18T21:26:16.453255"
+  },
+  {
+    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+    "url": "https://cactuscompute.com/needle",
+    "description": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+    "date": "2026-09-18",
+    "score": 126,
+    "comments": 64,
+    "discussion_url": "https://news.ycombinator.com/item?id=49748553",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-18T21:26:16.453331"
+  },
+  {
+    "title": "US Military had close call after using AI for hallucinated intelligence report",
+    "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+    "description": "US Military had close call after using AI for hallucinated intelligence report",
+    "date": "2026-09-18",
     "score": 298,
-    "comments": 85,
-    "discussion_url": "https://news.ycombinator.com/item?id=49718773",
+    "comments": 239,
+    "discussion_url": "https://news.ycombinator.com/item?id=49757520",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.940116"
-  },
-  {
-    "title": "One year of sponsored Servo development",
-    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-    "description": "One year of sponsored Servo development",
-    "date": "2026-09-17",
-    "score": 311,
-    "comments": 128,
-    "discussion_url": "https://news.ycombinator.com/item?id=49737849",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.940054"
-  },
-  {
-    "title": "Rate limits on GitLab.com are changing",
-    "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-    "description": "Rate limits on GitLab.com are changing",
-    "date": "2026-09-17",
-    "score": 104,
-    "comments": 88,
-    "discussion_url": "https://news.ycombinator.com/item?id=49742353",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.939977"
-  },
-  {
-    "title": "Show HN: Share your AI Setup, Learn from others",
-    "url": "https://mysetup.ai/",
-    "description": "Show HN: Share your AI Setup, Learn from others",
-    "date": "2026-09-17",
-    "score": 118,
-    "comments": 72,
-    "discussion_url": "https://news.ycombinator.com/item?id=49740105",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.940011"
-  },
-  {
-    "title": "The American Religion of Self-Storage Facilities",
-    "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-    "description": "The American Religion of Self-Storage Facilities",
-    "date": "2026-09-17",
-    "score": 109,
-    "comments": 182,
-    "discussion_url": "https://news.ycombinator.com/item?id=49740260",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.939996"
-  },
-  {
-    "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-    "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-    "description": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-    "date": "2026-09-17",
-    "score": 145,
-    "comments": 104,
-    "discussion_url": "https://news.ycombinator.com/item?id=49734929",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.940102"
-  },
-  {
-    "title": "Whoisinspace.com/",
-    "url": "https://whoisinspace.com",
-    "description": "Whoisinspace.com/",
-    "date": "2026-09-17",
-    "score": 109,
-    "comments": 56,
-    "discussion_url": "https://news.ycombinator.com/item?id=49742714",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.939959"
-  },
-  {
-    "title": "Why I didn’t sign the Fields medallists’ letter",
-    "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-    "description": "Why I didn’t sign the Fields medallists’ letter",
-    "date": "2026-09-17",
-    "score": 129,
-    "comments": 182,
-    "discussion_url": "https://news.ycombinator.com/item?id=49738091",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-18T05:28:04.940026"
+    "fetched_at": "2026-09-18T21:26:16.453246"
   }
 ]
