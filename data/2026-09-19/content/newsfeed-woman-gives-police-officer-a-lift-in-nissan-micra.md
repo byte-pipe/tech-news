@@ -1,0 +1,74 @@
+---
+title: Woman gives police officer a lift in Nissan Micra while chasing man - BBC News
+url: https://www.bbc.co.uk/news/articles/crx2zjdg9p5go?at_medium=RSS&at_campaign=rss
+site_name: newsfeed
+content_file: newsfeed-woman-gives-police-officer-a-lift-in-nissan-micra
+fetched_at: '2026-09-19T06:01:02.883214'
+original_url: https://www.bbc.co.uk/news/articles/crx2zjdg9p5go?at_medium=RSS&at_campaign=rss
+date: '2026-09-18'
+description: The suspect reverse-rammed a police car and crashed into parked cars while trying to escape.
+tags:
+- bbc
+---
+
+## To play this video you need to enable JavaScript in your browser.
+
+This video can not be played
+
+Figure caption, 
+
+Police officer given lift by driver in Nissan Micra mid-chase
+
+By
+Miriam Barker
+BBC Wales
+* Published18 September 2026, 15:25 BST
+Updated 4 hours ago
+
+A driver came to the aid of a police officer who was chasing a suspect on foot - telling him to "get in" after stopping her Nissan Micra and offering him a lift.
+
+The officer had been pursuing Jacob Roberts, 25, who had reverse-rammed a police car twice and crashed into parked cars and a building while trying to escape.
+
+Roberts sped away from officers who had smelled cannabis coming from his van, with the chase seeing him drive in an erratic manner, failing to stop at multiple junctions, mounting pavements and putting pedestrians at risk.
+
+The driver helped PC Kerswell catch up to Roberts, who was arrested and later jailed for one year and two months for a number of driving offences.
+
+While fleeing from police in his white van, Roberts had driven into a dead-end street in Abercwmboi, Rhondda Cynon Taf, where he ditched the car and tried to escape officers on foot.
+
+Police bodycam footage captured the moment the officer then runs to a red Nissan Micra driven by an un-named female driver and tells her: "I need a lift."
+
+"Get in," the woman replies.
+
+As she gave chase the woman is heard asking the officer to direct her, saying: "Where to?"
+
+The officer is seen jumping out of the car after spotting the suspect and takes out his taser and arrests him.
+
+During a search officers found two cannabis cigarettes on him.
+
+Roberts, from Mountain Ash, was jailed for one year and two months for dangerous driving and disqualified from driving for three years.
+
+He was sentenced at Merthyr Tydfil Crown Court on 16 September, where he pleaded guilty to dangerous driving, driving whilst disqualified, driving without insurance, failure to stop after a road accident, criminal damage to property, and possession of controlled Class B drugs.
+
+Kerswell said: "Roberts was already banned from driving when he committed these offences - he showed complete disregard for all other road users, including pedestrians.
+
+"I hope it acts as a deterrent for others who think of driving dangerously.
+
+"It's lucky that no one was seriously injured during this pursuit. We hope this sentence will give Roberts time to reflect on his actions."
+
+## Related topics
+
+* Wales
+* Mountain Ash
+
+## More top stories
+
+* Learner drivers turn to YouTube and TikTok to cut costs - but instructors warn of risksPublished14 hours ago
+* Published14 hours ago
+* Repeat offender fined for searching for gold in protected riverPublished1 day ago
+* Published1 day ago
+* Ex-BBC presenter questions role of Royal Family in new documentaryPublished2 days ago
+* Published2 days ago
+
+## Related internet links
+
+* HM Courts & Tribunal

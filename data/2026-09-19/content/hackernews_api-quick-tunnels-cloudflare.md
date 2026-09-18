@@ -1,0 +1,152 @@
+---
+title: Quick Tunnels · Cloudflare
+url: https://try.cloudflare.com/
+site_name: hackernews_api
+content_file: hackernews_api-quick-tunnels-cloudflare
+fetched_at: '2026-09-19T06:00:24.091065'
+original_url: https://try.cloudflare.com/
+author: jcbhmr
+date: '2026-09-19'
+description: Localhost, meet the Internet. Turn the server on your laptop into a public, encrypted URL on Cloudflare's edge with one command.
+tags:
+- hackernews
+- trending
+---
+
+Now with JSON output for coding agents
+ 
+
+# Localhost,meet theInternet.
+
+One command turns the server on your laptop into a public, encrypted URL on Cloudflare's edge. No account. No DNS. No open ports.
+
+$
+
+cloudflared tunnel --url http://localhost:8000
+
+Copy
+
+See how it works ↓
+
+335+ CITIES
+~3S TO URL
+0 PORTS OPENED
+FREE
+
+## Your laptop stays private.The URL goes everywhere.
+
+cloudflaredopens an outbound-only connection to the nearest edge location. Traffic to your tunnel URL rides Cloudflare's network back to your machine — encrypted, DDoS-filtered, and never touching an inbound port.
+
+01 · YOUR MACHINE
+
+localhost:8000
+
+Any framework, any port. Nothing inbound.
+
+02 · CLOUDFLARE EDGE
+
+quiet-marble-otter-canyon.trycloudflare.com
+
+TLS
+
+DDoS filter
+
+Anycast
+
+335+ cities
+
+03 · ANYONE, ANYWHERE
+
+Teammates & agents
+
+Browsers, webhooks, eval harnesses.
+
+~3s
+
+Instant setup
+
+No sign-up, no config file, no waiting on DNS. The URL prints before your coffee cools.
+
+0
+
+Ports opened
+
+Outbound-only. Automatic HTTPS and edge DDoS mitigation come with every tunnel.
+
+335+
+
+Cities on the edge
+
+A reviewer in Tokyo and a webhook in Frankfurt both hit the edge nearest them.
+
+BUILT FOR THE AGENT ERA
+
+## Your agent needs a URL, not a laptop.
+
+Coding agents build, test, and review in loops. A Quick Tunnel gives every loop a real, reachable address — for a screenshot service, a webhook, an eval harness, or a human who wants to click around.
+
+01
+
+Structured output
+Hostname, edge, and health as JSON on stdout — no regex on logs.
+
+02
+
+Webhook-ready
+Point Stripe, GitHub, or your own callbacks at a live URL instead of fixtures.
+
+03
+
+Ephemeral by design
+The tunnel dies with the process. Nothing to revoke, nothing to clean up.
+
+agent-runner — zsh
+
+$ 
+
+## Install. Run. Share.
+
+macOS
+
+Windows
+
+Linux
+
+01
+
+Install 
+cloudflared
+
+From your package manager orGitHub releases. No login required.
+
+brew install cloudflared
+
+02
+
+Run your app
+
+Any web server, any port, any stack you already use.
+
+npm run dev
+
+03
+
+Open the tunnel
+
+Certificates, routing, and DDoS protection are handled for you.
+
+cloudflared tunnel --url http://localhost:8000
+
+04
+
+Share the link
+
+Send it to a teammate, a webhook, or an agent.
+
+https://quiet-marble-otter-canyon.trycloudflare.com
+
+## Nothing to sign up for.Go.
+
+Copy the command
+
+Read the docs

@@ -1,73 +1,74 @@
 ---
-date: '2026-09-18'
+date: '2026-09-19'
 model: gpt-oss:120b-cloud
-generated_at: '2026-09-18T20:48:24.823259'
+generated_at: '2026-09-19T06:02:16.575291'
 ---
 
 ## Executive Summary
-- AI developers are refining “tool‑calling” techniques that let large language models fetch live data, while firms like Fujitsu unveil domestically‑produced CPUs to secure sovereign AI compute.  
-- The Chaos Computer Club’s 40C3 conference will spotlight “Model Citizens” as a cultural counter‑point to rising authoritarianism.  
-- A UN fact‑finding mission alleges the United States carried out indiscriminate strikes on Iranian civilian sites, raising war‑crime accusations.  
-- The maritime industry is accelerating wind‑assisted propulsion on cargo vessels, promising single‑digit fuel savings and a new decarbonisation pathway.  
-- In the U.S., the Trump‑era Medicaid drug‑price pilot remains stalled, with limited participation and unclear impact on spending.
+- OpenAI unveiled **Astra for Law**, a GPT‑6‑based foundation model aimed at legal research and workflow automation, while former OpenAI researcher Diogo Almeida’s startup TypeSafe AI released **Jev**, a probability‑decision model that eliminates hallucinations and cuts inference costs.  
+- NVIDIA introduced **AIPerf**, a multiprocess load client that removes client‑side bottlenecks for LLM benchmarking, and Epoch AI published a comprehensive registry of 85 AI benchmarks spanning math, coding, games and more.  
+- In the business arena, AST SpaceMobile faces a securities‑law class action over alleged overstated competitiveness with Starlink Mobile, and JP Morgan admitted it cannot reliably model oil prices amid the escalating US‑Iran conflict.  
+- Dario Amodei’s “pace the frontier” proposal sparked debate over coordinated AI safety regulation, while the developer community saw a surge of hackathon opportunities, criticism of passkey adoption, and new tooling such as Cloudflare’s Quick Tunnels and the jemalloc 5.4.0 release.
 
 ---
 
 ## AI and Machine Learning
 
-### How AI Actually Calls an API? Tool Calling Explained from Scratch – DEV Community *(trending)*
-AI models can now request external functions via a structured “toolUse” message, execute the call in surrounding code, and receive a “toolResult” to produce grounded answers. The article walks through a four‑step loop (prompt → decision → execution → result injection) and demonstrates adding multiple tools such as weather and date retrieval.
+- **Introducing Astra for Law – OpenAI**  
+  OpenAI launched *Astra for Law*, a GPT‑6‑derived foundation model (gpt‑6‑astra‑law) with a built‑in U.S. legal search index covering >230 million URLs, delivering 54 % correctness on a legal‑research benchmark and offering zero‑data‑retention APIs for law firms.
 
-### CCC invites all model citizens to 40C3 – CCC Event Blog *(trending)*
-The Chaos Computer Club will host the 40th Chaos Communication Congress (40C3) in Hamburg (27‑30 Dec 2026) under the “Model Citizens” theme, inviting talks, music, art, and punk performances to promote democratic solidarity against authoritarian trends. Over 16 000 visitors are expected, with volunteers forming the event’s backbone.
+- **A new kind of AI model from a ChatGPT inventor is thrilling developers – TechCrunch**  
+  TypeSafe AI’s **Jev** outputs calibrated probability scores instead of text, cutting output token costs to zero, reducing latency, and preventing hallucinations; early adopters report 5‑18× speed gains over OpenAI’s Luna classifier.
 
-### Fujitsu launches made‑in‑Japan next‑generation CPU FUJITSU‑MONAKA and MONAKA Server – Fujitsu Global *(trending)*
-Fujitsu begins global sales of the 2 nm/5 nm MONAKA CPU in Nov 2026, offering double the AI inference throughput of rivals and built‑in confidential computing. Paired with the domestically manufactured MONAKA Server, the platform targets data‑center, HPC, and defense customers seeking traceable, low‑power AI infrastructure.
+- **Earl Spencer defends Diana book claims about King Charles – BBC News**  
+  In a forthcoming memoir, Earl Spencer alleges a post‑Diana phone call in which Charles said “we’ll forget her soon enough,” prompting a terse palace response that blamed grief‑induced memory distortion.
 
-### How GLM built its own inference infrastructure – Hacker News *(trending)*
-*Details of the article were not provided; the piece reportedly outlines GLM’s in‑house stack for scaling large language model inference, including hardware selection, software optimisations, and cost‑efficiency strategies.*
+- **Woman gives police officer a lift in Nissan Micra while chasing man – BBC News**  
+  A civilian driver assisted a police officer during a high‑speed chase of a cannabis‑smuggling suspect in Wales; the suspect was later sentenced to over a year in prison for multiple traffic and drug offenses.
 
-### Iran school bombing: grounds to believe US was behind atrocity, UN finds – The Guardian
-A UN fact‑finding mission concluded there are reasonable grounds to hold the United States responsible for February 28 strikes on a school in Minab (156 dead, 120 children) and a sports complex in Lamerd, labeling the attacks indiscriminate and potentially war crimes. The report also documents Iranian government abuses during protest crackdowns.
+- **AST SpaceMobile Faces Lawsuit Over Its Competitiveness With Starlink Mobile – PCMag**  
+  Investor Edward Hunter filed a class‑action alleging AST SpaceMobile misrepresented its ability to rival SpaceX’s Starlink Mobile, citing inflated stock prices and undisclosed capital‑need risks as the company’s launch slips to early 2027.
 
-### mysetup.ai – What’s the craic with your AI setup? – HN RSS *(trending)*
-The “mysetup.ai” hub lets AI practitioners share and compare personal toolchains, showcasing configurations from focused agent threads to enterprise SaaS builds, and encourages community discussion on emerging workflows such as graph engineering.
+- **Benchmarking LLM Inference at Scale with AIPerf – NVIDIA Technical Blog**  
+  NVIDIA’s **AIPerf** replaces single‑process load generators with a multiprocess architecture, supporting 15+ endpoint types and offering detailed TTFT, inter‑token latency, and throughput metrics free from client‑side bottlenecks.
 
-### The American Religion of Self‑Storage Facilities – The New Yorker *(trending)*
-Self‑storage now occupies roughly 90 % of global capacity, outnumbering major retail chains combined and generating over $40 billion annually. Demand is driven by “death, displacement, divorce, downsizing, and delusion,” while the sector’s institutionalisation mirrors the rise of fulfillment‑center architecture.
+- **Benchmarks | Epoch AI – Epoch AI**  
+  The Epoch AI registry now lists 85 benchmarks across domains such as mathematics, software engineering, games and multimodal tasks; notable entries include FrontierMath Tier 4 (98 % top score) and the Epoch Capabilities Index.
 
-### Who Is In Space – HN RSS
-The current crew of ten astronauts spans ISS (SpaceX Crew‑12, Soyuz ms‑29) and China’s Tiangong (Shenzhou 23), reflecting continued international presence in low‑Earth orbit.
+- **Dario Amodei Wants to Pace the AI Frontier. Crypto Natives Hear Sam Bankman‑Fried. – Galaxy**  
+  Anthropic’s Dario Amodei proposes a three‑step “pace the frontier” plan involving independent evaluators, coordinated safety standards, and global agreements; the proposal has drawn mixed reactions from OpenAI, Meta, and political figures.
+
+---
+
+## Cybersecurity and Privacy
+
+- **I don't like passkeys – Ethan Hawksley**  
+  Hawksley argues that while passkeys improve phishing resistance, they introduce irreversible lockout risks, costly hardware dependencies, and poor cross‑device recovery, making traditional password‑manager + TOTP combos more practical for most users.
+
+- **JP Morgan struggling to forecast oil prices due to US‑Iran war – BBC News**  
+  JP Morgan disclosed it cannot model the outcome of the US‑Iran conflict, leaving oil‑price forecasts uncertain; the bank now estimates a “fair value” of $90/barrel for September despite market prices staying above $100.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### Reversing Factorio's RNG – Hacker News
-Factorio’s Space‑Age DLC uses the deterministic taus88 PRNG (three LFSRs XORed), which can be reverse‑engineered by extracting seed values from the game’s binary. By synchronising an external copy of the generator, players can predict future “quality” outcomes, despite a recent version change that altered RNG access but left the algorithm intact.
+- **Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon – DEV Community**  
+  The latest radar highlights a free six‑week Stanford coding program, an Amazon‑sponsored global hackathon across four device tracks, and a hybrid Dev3Pack hackathon, alongside resources like the Coding Interview University guide.
+
+- **Bend 2 and the Vibe‑Coding Trap – Liam Powell's Blog**  
+  Powell critiques the Bend 2 project for relying on LLM‑generated “vibe‑coding” without consulting existing formal verification research, showing that the same guarantees can be achieved far more efficiently with tools like SPARK.
+
+- **Quick Tunnels · Cloudflare – Hacker News**  
+  Cloudflare’s *cloudflared tunnel* command instantly exposes any local server via a secure, edge‑served URL without inbound ports or sign‑up, offering low‑latency global access and JSON‑formatted status output for automation.
 
 ---
 
-## Science and Research
+## Open Source
 
-### The Return of Sail Power: Cargo Ships Are Turning Back to the Wind – HN RSS *(trending)*
-Over 100 merchant vessels now carry modern wind‑assist systems—rotor sails, rigid wings, suction‑based eSAIL, and soft sails—aiming for single‑digit to low‑double‑digit fuel reductions. Projects from Maersk, Vale, Idemitsu, and others integrate automated control and weather‑routing, positioning wind as a free‑energy decarbonisation lever amid rising low‑carbon fuel costs.
-
----
-
-## World News and Geopolitics
-
-### Did Trump lower Medicaid drug prices, as promised? – NPR *(trending)*
-The “Generous” pilot, launched in 2025, offers voluntary “most‑favored‑nation” discounts from select drug makers to participating states, but details remain opaque and many firms limit discounts to a narrow product set. Delays, state opt‑in hurdles, and expert criticism suggest the program’s impact on overall Medicaid spending is still uncertain.
+- **Release 5.4.0 · jemalloc/jemalloc – GitHub**  
+  jemalloc 5.4.0 delivers extensive refactoring, new `EXTENT_ALLOC_FLAG_PINNED` for non‑reclaimable mappings, per‑CPU arena resumption, and numerous bug fixes and performance improvements, while removing several legacy tcache controls.
 
 ---
 
 ## Notable Mentions
-- Why I didn’t sign the Fields medallists’ letter – Gowers's Weblog  
-- AI is feared globally as the destroyer of jobs – The Verge  
-- *American Scoundrel* traces Roy Cohn's playbook from McCarthyism to Trump – NPR  
-- 125 Tests of the New AI Siri – David Pogue (TL;DR)  
-- After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans – Ars Technica (TL;DR)  
-- AI safety researchers call rogue OpenAI model industry’s first ‘warning shot’ – AI Chat Daily (TL;DR)  
-- Android Developers Blog: Android Bench 2.0 – challenging long‑horizon tasks (TL;DR)  
-- Astra uses some of its no‑CoT capability in practice – LessWrong (TL;DR)
+- *(No additional mentions were provided.)*
