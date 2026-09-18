@@ -1,113 +1,130 @@
 [
   {
-    "title": "AI safety is mostly a sex cult",
-    "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-    "author": "Tomte",
-    "date": "2026-09-17",
-    "score": 216,
-    "comments": 167,
-    "id": 49737985,
-    "discussion_url": "https://news.ycombinator.com/item?id=49737985",
-    "description": "AI safety is mostly a sex cult",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668455"
-  },
-  {
-    "title": "Artificial intelligence now beats some of the best human forecasters",
-    "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
-    "author": "ddp26",
+    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "author": "Handy-Man",
     "date": "2026-09-18",
-    "score": 93,
-    "comments": 80,
-    "id": 49742021,
-    "discussion_url": "https://news.ycombinator.com/item?id=49742021",
-    "description": "Artificial intelligence now beats some of the best human forecasters",
+    "score": 399,
+    "comments": 171,
+    "id": 49749656,
+    "discussion_url": "https://news.ycombinator.com/item?id=49749656",
+    "description": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.667928"
+    "fetched_at": "2026-09-18T14:48:02.605223"
   },
   {
-    "title": "CCC invites all model citizens to 40C3",
-    "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-    "author": "antonly",
+    "title": "Astra for Law",
+    "url": "https://openai.com/index/astra-for-law/",
+    "author": "vertigoruntime",
     "date": "2026-09-17",
-    "score": 268,
-    "comments": 127,
-    "id": 49737787,
-    "discussion_url": "https://news.ycombinator.com/item?id=49737787",
-    "description": "CCC invites all model citizens to 40C3",
+    "score": 540,
+    "comments": 642,
+    "id": 49745940,
+    "discussion_url": "https://news.ycombinator.com/item?id=49745940",
+    "description": "Astra for Law",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668296"
+    "fetched_at": "2026-09-18T14:48:02.605178"
   },
   {
-    "title": "Cloudflare/Security-Audit-Skill",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "author": "donk8r",
+    "title": "Bend 2 and the Vibe-Coding Trap",
+    "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+    "author": "LiamPowell",
+    "date": "2026-09-18",
+    "score": 243,
+    "comments": 163,
+    "id": 49753179,
+    "discussion_url": "https://news.ycombinator.com/item?id=49753179",
+    "description": "Bend 2 and the Vibe-Coding Trap",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-18T14:48:02.605073"
+  },
+  {
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "url": "https://bend-lang.com/",
+    "author": "nicolas-siplis",
     "date": "2026-09-17",
-    "score": 179,
-    "comments": 36,
-    "id": 49736466,
-    "discussion_url": "https://news.ycombinator.com/item?id=49736466",
-    "description": "Cloudflare/Security-Audit-Skill",
+    "score": 543,
+    "comments": 267,
+    "id": 49746163,
+    "discussion_url": "https://news.ycombinator.com/item?id=49746163",
+    "description": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668582"
+    "fetched_at": "2026-09-18T14:48:02.605173"
   },
   {
-    "title": "Comparison of Malloc() Algorithms",
-    "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
-    "author": "egberts1",
-    "date": "2026-09-16",
-    "score": 130,
-    "comments": 34,
-    "id": 49715318,
-    "discussion_url": "https://news.ycombinator.com/item?id=49715318",
-    "description": "Comparison of Malloc() Algorithms",
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "author": "JonSchneider",
+    "date": "2026-09-17",
+    "score": 516,
+    "comments": 163,
+    "id": 49746618,
+    "discussion_url": "https://news.ycombinator.com/item?id=49746618",
+    "description": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668597"
+    "fetched_at": "2026-09-18T14:48:02.605160"
   },
   {
-    "title": "Developing provably correct Rust code with Verus",
-    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-    "author": "Betelbuddy",
-    "date": "2026-09-15",
-    "score": 154,
-    "comments": 65,
-    "id": 49700153,
-    "discussion_url": "https://news.ycombinator.com/item?id=49700153",
-    "description": "Developing provably correct Rust code with Verus",
+    "title": "CrowdSec Source Code Leak",
+    "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+    "author": "eccgecko",
+    "date": "2026-09-17",
+    "score": 157,
+    "comments": 50,
+    "id": 49742355,
+    "discussion_url": "https://news.ycombinator.com/item?id=49742355",
+    "description": "CrowdSec Source Code Leak",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668678"
+    "fetched_at": "2026-09-18T14:48:02.605255"
+  },
+  {
+    "title": "Flet 1.0 – Build cross-platform apps in Python",
+    "url": "https://flet.dev/",
+    "author": "absqueued",
+    "date": "2026-09-17",
+    "score": 146,
+    "comments": 74,
+    "id": 49746290,
+    "discussion_url": "https://news.ycombinator.com/item?id=49746290",
+    "description": "Flet 1.0 – Build cross-platform apps in Python",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-18T14:48:02.605239"
   },
   {
     "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
     "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
     "author": "my123",
-    "date": "2026-09-16",
-    "score": 403,
-    "comments": 150,
+    "date": "2026-09-15",
+    "score": 617,
+    "comments": 241,
     "id": 49715813,
     "discussion_url": "https://news.ycombinator.com/item?id=49715813",
     "description": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
@@ -116,15 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.667730"
+    "fetched_at": "2026-09-18T14:48:02.605190"
   },
   {
     "title": "Hister: A private search engine for the pages you visit and the files you keep",
     "url": "https://github.com/asciimoo/hister",
     "author": "bookofjoe",
-    "date": "2026-09-18",
-    "score": 198,
-    "comments": 71,
+    "date": "2026-09-17",
+    "score": 670,
+    "comments": 178,
     "id": 49743097,
     "discussion_url": "https://news.ycombinator.com/item?id=49743097",
     "description": "Hister: A private search engine for the pages you visit and the files you keep",
@@ -133,117 +150,134 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668247"
+    "fetched_at": "2026-09-18T14:48:02.605169"
   },
   {
-    "title": "How GLM built its own inference infrastructure",
-    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-    "author": "whiteros_e",
+    "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+    "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
+    "author": "jjgreen",
+    "date": "2026-09-15",
+    "score": 147,
+    "comments": 133,
+    "id": 49715936,
+    "discussion_url": "https://news.ycombinator.com/item?id=49715936",
+    "description": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-18T14:48:02.605292"
+  },
+  {
+    "title": "How to Write with an LLM",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "author": "joeriddles",
     "date": "2026-09-17",
-    "score": 303,
-    "comments": 230,
-    "id": 49737922,
-    "discussion_url": "https://news.ycombinator.com/item?id=49737922",
-    "description": "How GLM built its own inference infrastructure",
+    "score": 240,
+    "comments": 167,
+    "id": 49747070,
+    "discussion_url": "https://news.ycombinator.com/item?id=49747070",
+    "description": "How to Write with an LLM",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668105"
+    "fetched_at": "2026-09-18T14:48:02.605215"
   },
   {
-    "title": "I Don't Like LLMs",
-    "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-    "author": "TangerineDream",
+    "title": "I don't like passkeys",
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "author": "ethanhawksley",
+    "date": "2026-09-18",
+    "score": 289,
+    "comments": 235,
+    "id": 49753211,
+    "discussion_url": "https://news.ycombinator.com/item?id=49753211",
+    "description": "I don't like passkeys",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-18T14:48:02.605101"
+  },
+  {
+    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+    "url": "https://arxiv.org/abs/2609.18842",
+    "author": "Betelbuddy",
     "date": "2026-09-17",
-    "score": 160,
-    "comments": 205,
-    "id": 49740834,
-    "discussion_url": "https://news.ycombinator.com/item?id=49740834",
-    "description": "I Don't Like LLMs",
+    "score": 151,
+    "comments": 40,
+    "id": 49743483,
+    "discussion_url": "https://news.ycombinator.com/item?id=49743483",
+    "description": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668550"
+    "fetched_at": "2026-09-18T14:48:02.605288"
   },
   {
-    "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-    "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
-    "author": "hebelehubele",
-    "date": "2026-09-17",
-    "score": 268,
-    "comments": 195,
-    "id": 49739018,
-    "discussion_url": "https://news.ycombinator.com/item?id=49739018",
-    "description": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+    "title": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
+    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "author": "csmantle",
+    "date": "2026-09-18",
+    "score": 122,
+    "comments": 16,
+    "id": 49750694,
+    "discussion_url": "https://news.ycombinator.com/item?id=49750694",
+    "description": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668741"
+    "fetched_at": "2026-09-18T14:48:02.605276"
   },
   {
-    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-    "url": "https://ryan.science/blog/keys-not-included",
-    "author": "Ryan5453",
-    "date": "2026-09-17",
-    "score": 275,
-    "comments": 138,
-    "id": 49735930,
-    "discussion_url": "https://news.ycombinator.com/item?id=49735930",
-    "description": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "title": "Jemalloc 5.4.0",
+    "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "author": "gkfasdfasdf",
+    "date": "2026-09-18",
+    "score": 248,
+    "comments": 61,
+    "id": 49750152,
+    "discussion_url": "https://news.ycombinator.com/item?id=49750152",
+    "description": "Jemalloc 5.4.0",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.667994"
+    "fetched_at": "2026-09-18T14:48:02.605137"
   },
   {
-    "title": "Lucasart's Afterlife",
-    "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
-    "author": "Bondi_Blue",
-    "date": "2026-09-16",
-    "score": 96,
-    "comments": 41,
-    "id": 49719751,
-    "discussion_url": "https://news.ycombinator.com/item?id=49719751",
-    "description": "Lucasart's Afterlife",
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "author": "pluc",
+    "date": "2026-09-18",
+    "score": 543,
+    "comments": 446,
+    "id": 49752056,
+    "discussion_url": "https://news.ycombinator.com/item?id=49752056",
+    "description": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668423"
-  },
-  {
-    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-    "url": "https://jakeasmith.com/blog/http-build-url/",
-    "author": "jakeasmith",
-    "date": "2026-09-16",
-    "score": 298,
-    "comments": 85,
-    "id": 49718773,
-    "discussion_url": "https://news.ycombinator.com/item?id=49718773",
-    "description": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.667871"
+    "fetched_at": "2026-09-18T14:48:02.605147"
   },
   {
     "title": "Nvidia announces native GPU programming in Rust",
     "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
     "author": "nonmaskable",
     "date": "2026-09-16",
-    "score": 906,
-    "comments": 364,
+    "score": 950,
+    "comments": 396,
     "id": 49724881,
     "discussion_url": "https://news.ycombinator.com/item?id=49724881",
     "description": "Nvidia announces native GPU programming in Rust",
@@ -252,66 +286,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668407"
+    "fetched_at": "2026-09-18T14:48:02.605326"
   },
   {
-    "title": "One year of sponsored Servo development",
-    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-    "author": "AshleysBrain",
-    "date": "2026-09-17",
-    "score": 311,
-    "comments": 128,
-    "id": 49737849,
-    "discussion_url": "https://news.ycombinator.com/item?id=49737849",
-    "description": "One year of sponsored Servo development",
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "author": "ilreb",
+    "date": "2026-09-18",
+    "score": 301,
+    "comments": 179,
+    "id": 49752041,
+    "discussion_url": "https://news.ycombinator.com/item?id=49752041",
+    "description": "OpenJev",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668328"
+    "fetched_at": "2026-09-18T14:48:02.605097"
   },
   {
-    "title": "OpenSpec – A lightweight and configurable AI spec framework",
-    "url": "https://openspec.dev/",
-    "author": "etoxin",
-    "date": "2026-09-17",
-    "score": 185,
-    "comments": 92,
-    "id": 49734264,
-    "discussion_url": "https://news.ycombinator.com/item?id=49734264",
-    "description": "OpenSpec – A lightweight and configurable AI spec framework",
+    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+    "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+    "author": "axiologist",
+    "date": "2026-09-18",
+    "score": 120,
+    "comments": 57,
+    "id": 49749771,
+    "discussion_url": "https://news.ycombinator.com/item?id=49749771",
+    "description": "Pre-Greek: The lost language hidden within Ancient Greek",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668710"
+    "fetched_at": "2026-09-18T14:48:02.605202"
   },
   {
-    "title": "Our framework for reporting model misalignment",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-    "author": "qprofyeh",
+    "title": "Qwen 3.8 Omni Flash",
+    "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+    "author": "jjcm",
     "date": "2026-09-17",
-    "score": 99,
-    "comments": 91,
-    "id": 49737503,
-    "discussion_url": "https://news.ycombinator.com/item?id=49737503",
-    "description": "Our framework for reporting model misalignment",
+    "score": 286,
+    "comments": 101,
+    "id": 49747925,
+    "discussion_url": "https://news.ycombinator.com/item?id=49747925",
+    "description": "Qwen 3.8 Omni Flash",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668503"
+    "fetched_at": "2026-09-18T14:48:02.605186"
   },
   {
     "title": "Rate limits on GitLab.com are changing",
     "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
     "author": "darkwater",
-    "date": "2026-09-18",
-    "score": 104,
-    "comments": 88,
+    "date": "2026-09-17",
+    "score": 169,
+    "comments": 124,
     "id": 49742353,
     "discussion_url": "https://news.ycombinator.com/item?id=49742353",
     "description": "Rate limits on GitLab.com are changing",
@@ -320,32 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668312"
-  },
-  {
-    "title": "Reversing Factorio's RNG",
-    "url": "https://gegell.github.io/posts/factorio-rng/",
-    "author": "jheitmann",
-    "date": "2026-09-13",
-    "score": 237,
-    "comments": 42,
-    "id": 49674451,
-    "discussion_url": "https://news.ycombinator.com/item?id=49674451",
-    "description": "Reversing Factorio's RNG",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668661"
+    "fetched_at": "2026-09-18T14:48:02.605295"
   },
   {
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "url": "https://github.com/arnegiacomo/fugleramme",
     "author": "arnemunthekaas",
     "date": "2026-09-15",
-    "score": 2260,
-    "comments": 253,
+    "score": 2305,
+    "comments": 255,
     "id": 49711544,
     "discussion_url": "https://news.ycombinator.com/item?id=49711544",
     "description": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -354,32 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668144"
-  },
-  {
-    "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-    "url": "https://flat.social",
-    "author": "pawelwentpawel",
-    "date": "2026-09-17",
-    "score": 86,
-    "comments": 51,
-    "id": 49740047,
-    "discussion_url": "https://news.ycombinator.com/item?id=49740047",
-    "description": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668033"
+    "fetched_at": "2026-09-18T14:48:02.605272"
   },
   {
     "title": "Show HN: Share your AI Setup, Learn from others",
     "url": "https://mysetup.ai/",
     "author": "steveybrown",
     "date": "2026-09-17",
-    "score": 118,
-    "comments": 72,
+    "score": 225,
+    "comments": 125,
     "id": 49740105,
     "discussion_url": "https://news.ycombinator.com/item?id=49740105",
     "description": "Show HN: Share your AI Setup, Learn from others",
@@ -388,32 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668344"
-  },
-  {
-    "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
-    "url": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties",
-    "author": "B1FF_PSUVM",
-    "date": "2026-09-18",
-    "score": 85,
-    "comments": 31,
-    "id": 49743756,
-    "discussion_url": "https://news.ycombinator.com/item?id=49743756",
-    "description": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.667847"
+    "fetched_at": "2026-09-18T14:48:02.605310"
   },
   {
     "title": "The American Religion of Self-Storage Facilities",
     "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
     "author": "pseudolus",
     "date": "2026-09-17",
-    "score": 109,
-    "comments": 182,
+    "score": 241,
+    "comments": 412,
     "id": 49740260,
     "discussion_url": "https://news.ycombinator.com/item?id=49740260",
     "description": "The American Religion of Self-Storage Facilities",
@@ -422,83 +405,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668359"
+    "fetched_at": "2026-09-18T14:48:02.605263"
   },
   {
-    "title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
-    "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-    "author": "rramadass",
-    "date": "2026-09-14",
-    "score": 146,
-    "comments": 49,
-    "id": 49685835,
-    "discussion_url": "https://news.ycombinator.com/item?id=49685835",
-    "description": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668015"
-  },
-  {
-    "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-    "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-    "author": "gumby",
+    "title": "The most important product decision is what you don't build",
+    "url": "https://liamnugent.me/posts/what-you-dont-build/",
+    "author": "ChrisArchitect",
     "date": "2026-09-17",
-    "score": 145,
-    "comments": 104,
-    "id": 49734929,
-    "discussion_url": "https://news.ycombinator.com/item?id=49734929",
-    "description": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+    "score": 132,
+    "comments": 47,
+    "id": 49746407,
+    "discussion_url": "https://news.ycombinator.com/item?id=49746407",
+    "description": "The most important product decision is what you don't build",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668231"
+    "fetched_at": "2026-09-18T14:48:02.605251"
   },
   {
-    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-    "url": "https://rohanbansal.com/qorl",
-    "author": "polyphilz",
-    "date": "2026-09-17",
-    "score": 661,
-    "comments": 133,
-    "id": 49731285,
-    "discussion_url": "https://news.ycombinator.com/item?id=49731285",
-    "description": "Training a 4B model to produce 81% faster query plans than Postgres",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.668534"
-  },
-  {
-    "title": "Whoisinspace.com/",
-    "url": "https://whoisinspace.com",
-    "author": "Egg-Man",
+    "title": "The scourge of x86 emulation",
+    "url": "https://fex-emu.com/Scourge-of-emulation/",
+    "author": "dagmx",
     "date": "2026-09-18",
-    "score": 109,
-    "comments": 56,
-    "id": 49742714,
-    "discussion_url": "https://news.ycombinator.com/item?id=49742714",
-    "description": "Whoisinspace.com/",
+    "score": 209,
+    "comments": 55,
+    "id": 49750094,
+    "discussion_url": "https://news.ycombinator.com/item?id=49750094",
+    "description": "The scourge of x86 emulation",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.667821"
+    "fetched_at": "2026-09-18T14:48:02.605121"
+  },
+  {
+    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+    "author": "saimiam",
+    "date": "2026-09-18",
+    "score": 145,
+    "comments": 99,
+    "id": 49752614,
+    "discussion_url": "https://news.ycombinator.com/item?id=49752614",
+    "description": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-18T14:48:02.605142"
+  },
+  {
+    "title": "Wax motor",
+    "url": "https://en.wikipedia.org/wiki/Wax_motor",
+    "author": "mhb",
+    "date": "2026-09-16",
+    "score": 477,
+    "comments": 87,
+    "id": 49726007,
+    "discussion_url": "https://news.ycombinator.com/item?id=49726007",
+    "description": "Wax motor",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-18T14:48:02.605086"
   },
   {
     "title": "Why I didn’t sign the Fields medallists’ letter",
     "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
     "author": "simianwords",
     "date": "2026-09-17",
-    "score": 129,
-    "comments": 182,
+    "score": 271,
+    "comments": 381,
     "id": 49738091,
     "discussion_url": "https://news.ycombinator.com/item?id=49738091",
     "description": "Why I didn’t sign the Fields medallists’ letter",
@@ -507,6 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-18T05:27:42.667971"
+    "fetched_at": "2026-09-18T14:48:02.605247"
+  },
+  {
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "author": "cdnsteve",
+    "date": "2026-09-18",
+    "score": 211,
+    "comments": 44,
+    "id": 49752422,
+    "discussion_url": "https://news.ycombinator.com/item?id=49752422",
+    "description": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-18T14:48:02.605111"
   }
 ]

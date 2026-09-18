@@ -95,7 +95,7 @@
       "title": "GitHub - anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-01-18/content/github-github-anthropicsclaude-code-claude-code-is-an-age.md",
       "summary_path": "",
-      "seen_count": 73,
+      "seen_count": 74,
       "seen_dates": [
         "2026-01-18",
         "2026-02-07",
@@ -134,7 +134,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:11.352438"
+      "last_seen": "2026-09-18T14:47:55.329064"
     },
     "https://alexharri.com/blog/ascii-rendering": {
       "first_seen": "2026-01-18T11:06:33.440633",
@@ -404,7 +404,7 @@
       "title": "GitHub - obra/superpowers: An agentic skills framework & software development methodology that works.",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-02-07/content/github-github-obrasuperpowers-an-agentic-skills-framework.md",
       "summary_path": "",
-      "seen_count": 341,
+      "seen_count": 342,
       "seen_dates": [
         "2026-02-07",
         "2026-02-08",
@@ -545,7 +545,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:10.851988"
+      "last_seen": "2026-09-18T14:47:54.959327"
     },
     "https://www.anthropic.com/news/claude-opus-4-6": {
       "first_seen": "2026-02-07T11:08:16.247438",
@@ -8821,7 +8821,7 @@
       "title": "GitHub - google-research/timesfm: TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-02-20/content/github-github-google-researchtimesfm-timesfm-time-series.md",
       "summary_path": "",
-      "seen_count": 117,
+      "seen_count": 118,
       "seen_dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8871,7 +8871,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:14.192031"
+      "last_seen": "2026-09-18T14:47:57.573952"
     },
     "https://github.com/MoonshotAI/kimi-cli": {
       "first_seen": "2026-02-20T11:15:06.665409",
@@ -15032,7 +15032,7 @@
       "title": "GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-03-01/content/github-github-microsoftmarkitdown-python-tool-for-convert.md",
       "summary_path": "",
-      "seen_count": 204,
+      "seen_count": 205,
       "seen_dates": [
         "2026-03-01",
         "2026-03-02",
@@ -15116,7 +15116,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:11.227289"
+      "last_seen": "2026-09-18T14:47:55.205568"
     },
     "https://github.com/basecamp/omarchy": {
       "first_seen": "2026-03-01T19:09:15.577827",
@@ -30774,7 +30774,7 @@
       "title": "GitHub - jingyaogong/minimind: 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-03-23/content/github-github-jingyaogongminimind-大模型2小时完全从0训练26m的小参数gpt.md",
       "summary_path": "",
-      "seen_count": 43,
+      "seen_count": 44,
       "seen_dates": [
         "2026-03-23",
         "2026-03-24",
@@ -30796,7 +30796,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:12.357424"
+      "last_seen": "2026-09-18T14:47:56.323929"
     },
     "https://github.com/tinygrad/tinygrad": {
       "first_seen": "2026-03-23T11:21:15.673013",
@@ -31678,7 +31678,7 @@
       "title": "GitHub - supermemoryai/supermemory: Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-03-24/content/github-github-supermemoryaisupermemory-memory-engine-and.md",
       "summary_path": "",
-      "seen_count": 62,
+      "seen_count": 63,
       "seen_dates": [
         "2026-03-24",
         "2026-03-25",
@@ -31704,9 +31704,10 @@
         "2026-06-26",
         "2026-06-27",
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-09-18"
       ],
-      "last_seen": "2026-06-29T19:22:37.139634"
+      "last_seen": "2026-09-18T14:47:58.202139"
     },
     "https://github.com/mvanhorn/last30days-skill": {
       "first_seen": "2026-03-24T11:20:48.639157",
@@ -47089,12 +47090,13 @@
       "title": "GitHub - rustfs/rustfs: 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-04-12/content/github-github-rustfsrustfs-23x-faster-than-minio-for-4kb.md",
       "summary_path": "",
-      "seen_count": 3,
+      "seen_count": 4,
       "seen_dates": [
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-09-18"
       ],
-      "last_seen": "2026-04-13T06:00:12.740496"
+      "last_seen": "2026-09-18T14:47:57.699768"
     },
     "https://github.com/ahujasid/blender-mcp": {
       "first_seen": "2026-04-12T11:34:10.748456",
@@ -49637,7 +49639,7 @@
       "title": "GitHub - addyosmani/agent-skills: Production-grade engineering skills for AI coding agents. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-04-16/content/github-github-addyosmaniagent-skills-production-grade-eng.md",
       "summary_path": "",
-      "seen_count": 181,
+      "seen_count": 182,
       "seen_dates": [
         "2026-04-16",
         "2026-04-17",
@@ -49717,7 +49719,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:11.477811"
+      "last_seen": "2026-09-18T14:47:55.580568"
     },
     "https://github.com/BasedHardware/omi": {
       "first_seen": "2026-04-16T11:58:47.761556",
@@ -54700,7 +54702,7 @@
       "title": "GitHub - mksglu/context-mode: Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-04-23/content/github-github-mksglucontext-mode-context-window-optimizat.md",
       "summary_path": "",
-      "seen_count": 48,
+      "seen_count": 49,
       "seen_dates": [
         "2026-04-23",
         "2026-04-24",
@@ -54725,7 +54727,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:15.343086"
+      "last_seen": "2026-09-18T14:47:58.702709"
     },
     "https://github.com/hugohe3/ppt-master": {
       "first_seen": "2026-04-23T20:05:51.835390",
@@ -57009,7 +57011,7 @@
       "title": "GitHub - home-assistant/core: :house_with_garden: Open source home automation that puts local control and privacy first. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-04-26/content/github-github-home-assistantcore-house_with_garden-open-s.md",
       "summary_path": "",
-      "seen_count": 14,
+      "seen_count": 15,
       "seen_dates": [
         "2026-04-26",
         "2026-04-27",
@@ -57020,7 +57022,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:11.605658"
+      "last_seen": "2026-09-18T14:47:55.706088"
     },
     "https://github.com/curl/curl": {
       "first_seen": "2026-04-26T11:38:19.511462",
@@ -73258,7 +73260,7 @@
       "title": "GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-05-16/content/github-github-heygen-comhyperframes-write-html-render-vid.md",
       "summary_path": "",
-      "seen_count": 42,
+      "seen_count": 43,
       "seen_dates": [
         "2026-05-16",
         "2026-05-17",
@@ -73276,9 +73278,10 @@
         "2026-09-13",
         "2026-09-14",
         "2026-09-15",
-        "2026-09-16"
+        "2026-09-16",
+        "2026-09-18"
       ],
-      "last_seen": "2026-09-16T21:54:30.805111"
+      "last_seen": "2026-09-18T14:47:56.449239"
     },
     "https://github.com/pranshuparmar/witr": {
       "first_seen": "2026-05-16T11:25:02.846883",
@@ -74346,7 +74349,7 @@
       "title": "GitHub - tech-leads-club/agent-skills: The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-05-17/content/github-github-tech-leads-clubagent-skills-the-secure-vali.md",
       "summary_path": "",
-      "seen_count": 15,
+      "seen_count": 16,
       "seen_dates": [
         "2026-05-17",
         "2026-05-18",
@@ -74358,7 +74361,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:16.975401"
+      "last_seen": "2026-09-18T14:48:00.075193"
     },
     "https://github.com/dograh-hq/dograh": {
       "first_seen": "2026-05-17T19:29:29.930784",
@@ -79763,7 +79766,7 @@
       "title": "GitHub - anthropics/knowledge-work-plugins: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-05-24/content/github-github-anthropicsknowledge-work-plugins-open-sourc.md",
       "summary_path": "",
-      "seen_count": 67,
+      "seen_count": 68,
       "seen_dates": [
         "2026-05-24",
         "2026-05-25",
@@ -79795,7 +79798,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:15.217731"
+      "last_seen": "2026-09-18T14:47:58.577182"
     },
     "https://github.com/stablyai/orca": {
       "first_seen": "2026-05-24T11:30:58.640371",
@@ -79803,7 +79806,7 @@
       "title": "GitHub - stablyai/orca: Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-05-24/content/github-github-stablyaiorca-orca-is-the-next-gen-ade-for-w.md",
       "summary_path": "",
-      "seen_count": 155,
+      "seen_count": 156,
       "seen_dates": [
         "2026-05-24",
         "2026-06-23",
@@ -79867,7 +79870,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:11.982124"
+      "last_seen": "2026-09-18T14:47:55.953449"
     },
     "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift": {
       "first_seen": "2026-05-24T11:31:00.174741",
@@ -80158,7 +80161,7 @@
       "title": "GitHub - affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-05-25/content/github-github-affaan-mecc-the-agent-harness-performance-o.md",
       "summary_path": "",
-      "seen_count": 120,
+      "seen_count": 121,
       "seen_dates": [
         "2026-05-25",
         "2026-05-26",
@@ -80209,7 +80212,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:10.975407"
+      "last_seen": "2026-09-18T14:47:55.082056"
     },
     "https://github.com/Leonxlnx/taste-skill": {
       "first_seen": "2026-05-25T12:11:55.236335",
@@ -80564,7 +80567,7 @@
       "title": "GitHub - cursor/plugins: Cursor plugin specification and official plugins · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-05-25/content/github-github-cursorplugins-cursor-plugin-specification-a.md",
       "summary_path": "",
-      "seen_count": 106,
+      "seen_count": 107,
       "seen_dates": [
         "2026-05-25",
         "2026-05-26",
@@ -80612,7 +80615,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:16.221610"
+      "last_seen": "2026-09-18T14:47:59.575201"
     },
     "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html": {
       "first_seen": "2026-05-25T19:34:47.763647",
@@ -88037,7 +88040,7 @@
       "title": "GitHub - Panniantong/Agent-Reach: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-06-05/content/github-github-panniantongagent-reach-give-your-ai-agent-e.md",
       "summary_path": "",
-      "seen_count": 138,
+      "seen_count": 139,
       "seen_dates": [
         "2026-06-05",
         "2026-06-06",
@@ -88097,7 +88100,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:11.730314"
+      "last_seen": "2026-09-18T14:47:55.830119"
     },
     "https://github.com/openai/plugins": {
       "first_seen": "2026-06-05T12:03:52.297689",
@@ -88105,7 +88108,7 @@
       "title": "GitHub - openai/plugins: OpenAI Plugins · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-06-05/content/github-github-openaiplugins-openai-plugins-github.md",
       "summary_path": "",
-      "seen_count": 99,
+      "seen_count": 100,
       "seen_dates": [
         "2026-06-05",
         "2026-06-06",
@@ -88151,7 +88154,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:16.724052"
+      "last_seen": "2026-09-18T14:47:59.825270"
     },
     "https://www.fieggen.com/shoelace/secureknot.htm": {
       "first_seen": "2026-06-05T12:03:53.499787",
@@ -88662,7 +88665,7 @@
       "title": "GitHub - alibaba/open-code-review: Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. · GitHub",
       "content_path": "/Users/a/data/news/tech-news/data/2026-06-06/content/hackernews_api-github-alibabaopen-code-review-battle-tested-at-al.md",
       "summary_path": "",
-      "seen_count": 46,
+      "seen_count": 47,
       "seen_dates": [
         "2026-06-06",
         "2026-07-23",
@@ -88685,7 +88688,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:14.064906"
+      "last_seen": "2026-09-18T14:47:57.448212"
     },
     "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/": {
       "first_seen": "2026-06-06T11:50:11.201344",
@@ -98910,7 +98913,7 @@
       "title": "GitHub - tashfeenahmed/freellmapi: OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. · GitHub",
       "content_path": "/Users/a/data/news/tech-news/data/2026-06-22/content/github-github-tashfeenahmedfreellmapi-openai-compatible-p.md",
       "summary_path": "",
-      "seen_count": 61,
+      "seen_count": 62,
       "seen_dates": [
         "2026-06-22",
         "2026-06-21",
@@ -98939,7 +98942,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:14.839789"
+      "last_seen": "2026-09-18T14:47:58.327471"
     },
     "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam": {
       "first_seen": "2026-06-22T00:53:00.856089",
@@ -101696,7 +101699,7 @@
       "title": "GitHub - every-app/open-seo: Open source alternative to Semrush and Ahrefs · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-06-25/content/github-github-every-appopen-seo-open-source-alternative-t.md",
       "summary_path": "",
-      "seen_count": 119,
+      "seen_count": 120,
       "seen_dates": [
         "2026-06-25",
         "2026-06-26",
@@ -101749,9 +101752,10 @@
         "2026-09-09",
         "2026-09-10",
         "2026-09-11",
-        "2026-09-12"
+        "2026-09-12",
+        "2026-09-18"
       ],
-      "last_seen": "2026-09-11T21:35:05.606335"
+      "last_seen": "2026-09-18T14:47:59.078537"
     },
     "https://hackernewstrends.com": {
       "first_seen": "2026-06-25T19:39:54.619633",
@@ -102630,12 +102634,13 @@
       "title": "GitHub - Fission-AI/OpenSpec: Spec-driven development (SDD) for AI coding assistants. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-06-27/content/github-github-fission-aiopenspec-spec-driven-development.md",
       "summary_path": "",
-      "seen_count": 3,
+      "seen_count": 4,
       "seen_dates": [
         "2026-06-27",
-        "2026-06-28"
+        "2026-06-28",
+        "2026-09-18"
       ],
-      "last_seen": "2026-06-28T18:00:12.924279"
+      "last_seen": "2026-09-18T14:47:56.077305"
     },
     "https://github.com/keycloak/keycloak": {
       "first_seen": "2026-06-27T11:33:42.964872",
@@ -106106,12 +106111,13 @@
       "title": "GitHub - supabase/supabase: The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-07-03/content/github-github-supabasesupabase-the-postgres-development-p.md",
       "summary_path": "",
-      "seen_count": 4,
+      "seen_count": 5,
       "seen_dates": [
         "2026-07-03",
-        "2026-09-16"
+        "2026-09-16",
+        "2026-09-18"
       ],
-      "last_seen": "2026-09-16T21:54:29.662912"
+      "last_seen": "2026-09-18T14:47:55.456354"
     },
     "https://github.com/elastic/elasticsearch": {
       "first_seen": "2026-07-03T11:49:33.044124",
@@ -110930,7 +110936,7 @@
       "title": "GitHub - tt-a1i/archify: Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-07-10/content/github-github-tt-a1iarchify-any-agent-skill-generate-beau.md",
       "summary_path": "",
-      "seen_count": 130,
+      "seen_count": 131,
       "seen_dates": [
         "2026-07-10",
         "2026-07-11",
@@ -110983,7 +110989,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:12.232280"
+      "last_seen": "2026-09-18T14:47:56.201567"
     },
     "https://davidoks.blog/p/why-american-ambulance-rides-are": {
       "first_seen": "2026-07-10T19:32:56.985379",
@@ -116885,7 +116891,7 @@
       "title": "GitHub - ayghri/i-have-adhd: A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-07-21/content/github-github-ayghrii-have-adhd-a-skill-for-your-coding-a.md",
       "summary_path": "",
-      "seen_count": 121,
+      "seen_count": 122,
       "seen_dates": [
         "2026-07-21",
         "2026-07-22",
@@ -116933,7 +116939,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:13.181350"
+      "last_seen": "2026-09-18T14:47:56.699992"
     },
     "https://github.com/tradesdontlie/tradingview-mcp": {
       "first_seen": "2026-07-21T19:33:16.267664",
@@ -116941,12 +116947,13 @@
       "title": "GitHub - tradesdontlie/tradingview-mcp: AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-07-21/content/github-github-tradesdontlietradingview-mcp-ai-assisted-tr.md",
       "summary_path": "",
-      "seen_count": 2,
+      "seen_count": 3,
       "seen_dates": [
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-09-18"
       ],
-      "last_seen": "2026-07-22T06:00:13.835873"
+      "last_seen": "2026-09-18T14:48:00.323833"
     },
     "https://github.com/agegr/pi-web": {
       "first_seen": "2026-07-21T19:33:16.981664",
@@ -129666,7 +129673,7 @@
       "title": "GitHub - cathrynlavery/diagram-design: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-11/content/github-github-cathrynlaverydiagram-design-29-editorial-di.md",
       "summary_path": "",
-      "seen_count": 71,
+      "seen_count": 72,
       "seen_dates": [
         "2026-08-11",
         "2026-08-12",
@@ -129697,7 +129704,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:13.559101"
+      "last_seen": "2026-09-18T14:47:57.075359"
     },
     "https://www.bbc.com/news/articles/c75gk620r22o": {
       "first_seen": "2026-08-11T20:02:31.950507",
@@ -129939,7 +129946,7 @@
       "title": "GitHub - kunchenguid/firstmate: Talk to one agent. Ship with a crew. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-12/content/github-github-kunchenguidfirstmate-talk-to-one-agent-ship.md",
       "summary_path": "",
-      "seen_count": 12,
+      "seen_count": 13,
       "seen_dates": [
         "2026-08-12",
         "2026-08-13",
@@ -129950,7 +129957,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:16.850128"
+      "last_seen": "2026-09-18T14:47:59.950246"
     },
     "https://github.com/macro-inc/macro": {
       "first_seen": "2026-08-12T11:44:16.471895",
@@ -134890,7 +134897,7 @@
       "title": "GitHub - AprilNEA/OpenLogi: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-20/content/github-github-aprilneaopenlogi-a-native-local-first-alter.md",
       "summary_path": "",
-      "seen_count": 82,
+      "seen_count": 83,
       "seen_dates": [
         "2026-08-20",
         "2026-08-21",
@@ -134923,7 +134930,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:15.468695"
+      "last_seen": "2026-09-18T14:47:58.827998"
     },
     "https://github.com/Tencent/AI-Infra-Guard": {
       "first_seen": "2026-08-20T11:23:54.033122",
@@ -136050,7 +136057,7 @@
       "title": "GitHub - apache/maka: Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-22/content/github-github-apachemaka-apache-maka-incubating-is-a-loca.md",
       "summary_path": "",
-      "seen_count": 76,
+      "seen_count": 77,
       "seen_dates": [
         "2026-08-22",
         "2026-08-23",
@@ -136081,7 +136088,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:17.226850"
+      "last_seen": "2026-09-18T14:48:00.447937"
     },
     "https://danluu.com/perf-opt/": {
       "first_seen": "2026-08-22T11:19:19.723069",
@@ -136601,7 +136608,7 @@
       "title": "GitHub - freestylefly/awesome-gpt-image-2: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-23/content/github-github-freestyleflyawesome-gpt-image-2-prompt-as-c.md",
       "summary_path": "",
-      "seen_count": 73,
+      "seen_count": 74,
       "seen_dates": [
         "2026-08-23",
         "2026-08-24",
@@ -136631,7 +136638,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:14.327129"
+      "last_seen": "2026-09-18T14:47:57.951166"
     },
     "https://github.com/anthropics/claude-plugins-community": {
       "first_seen": "2026-08-23T11:19:04.918761",
@@ -136639,7 +136646,7 @@
       "title": "GitHub - anthropics/claude-plugins-community: Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-23/content/github-github-anthropicsclaude-plugins-community-communit.md",
       "summary_path": "",
-      "seen_count": 71,
+      "seen_count": 72,
       "seen_dates": [
         "2026-08-23",
         "2026-08-24",
@@ -136669,7 +136676,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:17.478847"
+      "last_seen": "2026-09-18T14:48:00.961134"
     },
     "https://twitter.com/moxie/status/2091218652133732491": {
       "first_seen": "2026-08-23T11:19:06.819770",
@@ -137162,7 +137169,7 @@
       "title": "GitHub - vorssaint/vorssaint-utils: Free and open-source macOS menu bar toolkit. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-24/content/github-github-vorssaintvorssaint-utils-free-and-open-sour.md",
       "summary_path": "",
-      "seen_count": 39,
+      "seen_count": 40,
       "seen_dates": [
         "2026-08-24",
         "2026-09-04",
@@ -137181,7 +137188,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:15.594235"
+      "last_seen": "2026-09-18T14:47:58.954539"
     },
     "https://schlarp.com/posts/everything-i-own-owned/": {
       "first_seen": "2026-08-24T11:25:14.574550",
@@ -137774,7 +137781,7 @@
       "title": "GitHub - asciimoo/hister: Your own search engine · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-25/content/github-github-asciimoohister-your-own-search-engine-githu.md",
       "summary_path": "",
-      "seen_count": 9,
+      "seen_count": 11,
       "seen_dates": [
         "2026-08-25",
         "2026-08-26",
@@ -137783,7 +137790,7 @@
         "2026-09-18",
         "2026-09-17"
       ],
-      "last_seen": "2026-09-17T21:56:19.086000"
+      "last_seen": "2026-09-18T14:48:02.857980"
     },
     "https://github.com/marin-community/marin": {
       "first_seen": "2026-08-25T11:24:45.565031",
@@ -139101,7 +139108,7 @@
       "title": "GitHub - bilawalsidhu/gods-eye-view: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-27/content/github-github-bilawalsidhugods-eye-view-a-spy-satellite-s.md",
       "summary_path": "",
-      "seen_count": 43,
+      "seen_count": 44,
       "seen_dates": [
         "2026-08-27",
         "2026-08-28",
@@ -139123,7 +139130,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:13.811512"
+      "last_seen": "2026-09-18T14:47:57.324758"
     },
     "https://github.com/securo-finance/securo": {
       "first_seen": "2026-08-27T20:57:25.686261",
@@ -140179,7 +140186,7 @@
       "title": "GitHub - omacom/omarchy: Beautiful, Modern & Opinionated Linux · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-08-29/content/github-github-omacomomarchy-beautiful-modern-opinionated.md",
       "summary_path": "",
-      "seen_count": 57,
+      "seen_count": 58,
       "seen_dates": [
         "2026-08-29",
         "2026-08-30",
@@ -140203,7 +140210,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:13.433233"
+      "last_seen": "2026-09-18T14:47:56.951454"
     },
     "https://anil.recoil.org/notes/rumour-is-the-exploit": {
       "first_seen": "2026-08-29T15:28:55.943635",
@@ -140448,7 +140455,7 @@
       "title": "GitHub - THU-MAIC/OpenMAIC: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click · GitHub",
       "content_path": "/Users/a/data/news/tech-news/data/2026-08-30/content/github-github-thu-maicopenmaic-open-multi-agent-interacti.md",
       "summary_path": "",
-      "seen_count": 56,
+      "seen_count": 57,
       "seen_dates": [
         "2026-08-30",
         "2026-08-29",
@@ -140472,7 +140479,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:13.685877"
+      "last_seen": "2026-09-18T14:47:57.200654"
     },
     "https://github.com/Osmantic/ODS": {
       "first_seen": "2026-08-30T06:00:14.233303",
@@ -140616,7 +140623,7 @@
       "title": "GitHub - Tencent/BrowserSkill: Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. · GitHub",
       "content_path": "/Users/a/data/news/tech-news/data/2026-08-30/content/tldr-github-tencentbrowserskill-let-ai-agents-use-your.md",
       "summary_path": "",
-      "seen_count": 8,
+      "seen_count": 9,
       "seen_dates": [
         "2026-08-30",
         "2026-08-29",
@@ -140624,7 +140631,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:17.604729"
+      "last_seen": "2026-09-18T14:48:00.583226"
     },
     "https://www.cncf.io/blog/2026/08/27/building-an-ai-factory-on-kubernetes/": {
       "first_seen": "2026-08-30T06:00:41.125727",
@@ -142249,7 +142256,7 @@
       "title": "GitHub - debpalash/VoiceStudio: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-01/content/github-github-debpalashvoicestudio-voicestudio-is-the-ope.md",
       "summary_path": "",
-      "seen_count": 47,
+      "seen_count": 48,
       "seen_dates": [
         "2026-09-01",
         "2026-09-02",
@@ -142270,7 +142277,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:14.455901"
+      "last_seen": "2026-09-18T14:47:57.824329"
     },
     "https://github.com/averygan/reclip": {
       "first_seen": "2026-09-01T15:24:55.310996",
@@ -142915,7 +142922,7 @@
       "title": "GitHub - blader/humanizer: Agent skill that removes signs of AI-generated writing from text · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-02/content/github-github-bladerhumanizer-agent-skill-that-removes-si.md",
       "summary_path": "",
-      "seen_count": 42,
+      "seen_count": 43,
       "seen_dates": [
         "2026-09-02",
         "2026-09-03",
@@ -142935,7 +142942,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:12.738625"
+      "last_seen": "2026-09-18T14:47:56.575053"
     },
     "https://github.com/fmtlib/fmt": {
       "first_seen": "2026-09-02T14:58:50.217418",
@@ -146968,7 +146975,7 @@
       "title": "GitHub - petergyang/no-ai-slop: Removes 20+ patterns of AI slop from any piece of writing. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-09/content/github-github-petergyangno-ai-slop-removes-20-patterns-of.md",
       "summary_path": "",
-      "seen_count": 19,
+      "seen_count": 20,
       "seen_dates": [
         "2026-09-09",
         "2026-09-10",
@@ -146980,7 +146987,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:16.096188"
+      "last_seen": "2026-09-18T14:47:59.451516"
     },
     "https://github.com/Tencent/teamai-cli": {
       "first_seen": "2026-09-09T15:29:48.385281",
@@ -148345,7 +148352,7 @@
       "title": "GitHub - Tencent/WeKnora: Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-11/content/github-github-tencentweknora-open-source-llm-knowledge-pl.md",
       "summary_path": "",
-      "seen_count": 19,
+      "seen_count": 20,
       "seen_dates": [
         "2026-09-11",
         "2026-09-12",
@@ -148356,7 +148363,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:14.966120"
+      "last_seen": "2026-09-18T14:47:58.452970"
     },
     "https://github.com/Sonarr/Sonarr": {
       "first_seen": "2026-09-11T14:51:31.033014",
@@ -148558,7 +148565,7 @@
       "title": "GitHub - melgarafael/DeskcommCRM: Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. · GitHub",
       "content_path": "/Users/a/data/news/tech-news/data/2026-09-12/content/github-github-melgarafaeldeskcommcrm-open-source-ai-sales.md",
       "summary_path": "",
-      "seen_count": 13,
+      "seen_count": 14,
       "seen_dates": [
         "2026-09-12",
         "2026-09-11",
@@ -148568,7 +148575,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:18.396081"
+      "last_seen": "2026-09-18T14:48:01.212757"
     },
     "https://github.com/alphaXiv/OpenResearch": {
       "first_seen": "2026-09-12T01:21:57.674837",
@@ -149019,7 +149026,7 @@
       "title": "GitHub - max-sixty/worktrunk: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-12/content/github-github-max-sixtyworktrunk-worktrunk-is-a-cli-for-g.md",
       "summary_path": "",
-      "seen_count": 16,
+      "seen_count": 17,
       "seen_dates": [
         "2026-09-12",
         "2026-09-13",
@@ -149029,7 +149036,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:16.347389"
+      "last_seen": "2026-09-18T14:47:59.700637"
     },
     "https://github.com/SnailSploit/Claude-Red": {
       "first_seen": "2026-09-12T13:52:45.341809",
@@ -149593,7 +149600,7 @@
       "title": "Vibe Coding Isn't the Problem. Calling It Engineering Is - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-13/content/devto-vibe-coding-isnt-the-problem-calling-it-engineerin.md",
       "summary_path": "",
-      "seen_count": 13,
+      "seen_count": 14,
       "seen_dates": [
         "2026-09-13",
         "2026-09-14",
@@ -149602,7 +149609,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:23.683245"
+      "last_seen": "2026-09-18T14:48:06.104517"
     },
     "https://threadreaderapp.com/thread/2097762296986817012.html": {
       "first_seen": "2026-09-13T14:49:56.526929",
@@ -149920,7 +149927,7 @@
       "title": "5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relieved They Don't. - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-14/content/devto-5-devto-features-i-wish-existed-3-im-genuinely-rel.md",
       "summary_path": "",
-      "seen_count": 11,
+      "seen_count": 12,
       "seen_dates": [
         "2026-09-14",
         "2026-09-15",
@@ -149928,7 +149935,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:22.172245"
+      "last_seen": "2026-09-18T14:48:04.611243"
     },
     "https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j": {
       "first_seen": "2026-09-14T16:47:27.613269",
@@ -150173,7 +150180,7 @@
       "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊 - DEV Community",
       "content_path": "/Users/a/data/news/tech-news/data/2026-09-15/content/devto-ai-avatar-v20-cursor-avatar-notification-avatar-vo.md",
       "summary_path": "",
-      "seen_count": 10,
+      "seen_count": 11,
       "seen_dates": [
         "2026-09-15",
         "2026-09-14",
@@ -150181,7 +150188,7 @@
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:22.295613"
+      "last_seen": "2026-09-18T14:48:04.744248"
     },
     "https://zanlib.dev/blog/do-you-still-read-the-code": {
       "first_seen": "2026-09-15T07:38:14.677667",
@@ -150460,14 +150467,14 @@
       "title": "GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-15/content/github-github-danny-avilalibrechat-enhanced-chatgpt-clone.md",
       "summary_path": "",
-      "seen_count": 8,
+      "seen_count": 9,
       "seen_dates": [
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:13.307644"
+      "last_seen": "2026-09-18T14:47:56.825841"
     },
     "https://github.com/Homebrew/BrewUI": {
       "first_seen": "2026-09-15T15:27:41.027016",
@@ -150501,14 +150508,14 @@
       "title": "GitHub - arnegiacomo/fugleramme: E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-15/content/hackernews_api-github-arnegiacomofugleramme-e-ink-bird-frame-for.md",
       "summary_path": "",
-      "seen_count": 12,
+      "seen_count": 13,
       "seen_dates": [
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:18.821677"
+      "last_seen": "2026-09-18T14:48:02.607307"
     },
     "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html": {
       "first_seen": "2026-09-15T15:27:45.565867",
@@ -150557,14 +150564,14 @@
       "title": "What Happens When AI Outgrows the Tests We Use to Measure It? - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-15/content/devto-what-happens-when-ai-outgrows-the-tests-we-use-to.md",
       "summary_path": "",
-      "seen_count": 8,
+      "seen_count": 9,
       "seen_dates": [
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:23.808801"
+      "last_seen": "2026-09-18T14:48:06.229598"
     },
     "https://bharatsharma.pro/articles/activity-based-engineering-metrics-are-obsolete": {
       "first_seen": "2026-09-15T15:27:50.825872",
@@ -150730,14 +150737,14 @@
       "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-15/content/devto-the-slow-and-quiet-cognitive-atrophy-of-a-modern-s.md",
       "summary_path": "",
-      "seen_count": 7,
+      "seen_count": 8,
       "seen_dates": [
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:23.557928"
+      "last_seen": "2026-09-18T14:48:05.980610"
     },
     "https://rogerwong.me/2026/09/production-useful-not-production-ready": {
       "first_seen": "2026-09-15T21:56:19.009717",
@@ -151046,11 +151053,12 @@
       "title": "GitHub - ankitects/anki: Anki is a smart spaced repetition flashcard program · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/github-github-ankitectsanki-anki-is-a-smart-spaced-repeti.md",
       "summary_path": "",
-      "seen_count": 2,
+      "seen_count": 3,
       "seen_dates": [
-        "2026-09-16"
+        "2026-09-16",
+        "2026-09-18"
       ],
-      "last_seen": "2026-09-16T21:54:33.020619"
+      "last_seen": "2026-09-18T14:47:58.077047"
     },
     "https://github.com/cloudflare/security-audit-skill": {
       "first_seen": "2026-09-16T15:21:38.294701",
@@ -151058,13 +151066,13 @@
       "title": "GitHub - cloudflare/security-audit-skill: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/github-github-cloudflaresecurity-audit-skill-a-coding-age.md",
       "summary_path": "",
-      "seen_count": 5,
+      "seen_count": 6,
       "seen_dates": [
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:15.970900"
+      "last_seen": "2026-09-18T14:47:59.328095"
     },
     "https://github.com/abue-ammar/tinycast": {
       "first_seen": "2026-09-16T15:21:39.020376",
@@ -151072,13 +151080,13 @@
       "title": "GitHub - abue-ammar/tinycast: Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/github-github-abue-ammartinycast-tinycast-a-tiny-fully-na.md",
       "summary_path": "",
-      "seen_count": 5,
+      "seen_count": 6,
       "seen_dates": [
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:17.101170"
+      "last_seen": "2026-09-18T14:48:00.198110"
     },
     "https://codyho.dev/blog/gpu-driver/": {
       "first_seen": "2026-09-16T15:21:40.867010",
@@ -151144,13 +151152,13 @@
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/devto-build-real-time-voice-applications-with-gemini-38.md",
       "summary_path": "",
-      "seen_count": 5,
+      "seen_count": 6,
       "seen_dates": [
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:22.675113"
+      "last_seen": "2026-09-18T14:48:05.031139"
     },
     "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke": {
       "first_seen": "2026-09-16T15:21:44.992941",
@@ -151158,13 +151166,13 @@
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/devto-how-we-built-a-desktop-companion-robot-with-gemma.md",
       "summary_path": "",
-      "seen_count": 5,
+      "seen_count": 6,
       "seen_dates": [
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:23.179806"
+      "last_seen": "2026-09-18T14:48:05.533107"
     },
     "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb": {
       "first_seen": "2026-09-16T15:21:45.355012",
@@ -151186,13 +151194,13 @@
       "title": "The Quiet Weight of Working in Tech in the AI Era - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/devto-the-quiet-weight-of-working-in-tech-in-the-ai-era.md",
       "summary_path": "",
-      "seen_count": 5,
+      "seen_count": 6,
       "seen_dates": [
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:23.430900"
+      "last_seen": "2026-09-18T14:48:05.786629"
     },
     "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m": {
       "first_seen": "2026-09-16T15:21:45.894967",
@@ -151200,13 +151208,13 @@
       "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/devto-why-ai-keeps-making-the-same-coding-mistakesand-ho.md",
       "summary_path": "",
-      "seen_count": 4,
+      "seen_count": 5,
       "seen_dates": [
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:24.062088"
+      "last_seen": "2026-09-18T14:48:06.356648"
     },
     "https://www.producttalk.org/4-new-evals-and-16-experiment-variants": {
       "first_seen": "2026-09-16T15:21:47.130264",
@@ -151426,13 +151434,13 @@
       "title": "AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did. - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/devto-ai-didnt-remove-the-engineering-work-it-just-made.md",
       "summary_path": "",
-      "seen_count": 4,
+      "seen_count": 5,
       "seen_dates": [
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:22.421994"
+      "last_seen": "2026-09-18T14:48:04.868181"
     },
     "https://dev.to/cathylai/how-i-finally-learnt-to-solve-coding-interview-questions-2cop": {
       "first_seen": "2026-09-16T21:54:43.431786",
@@ -151440,13 +151448,13 @@
       "title": "How I Finally Learnt to Solve Coding Interview Questions - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/devto-how-i-finally-learnt-to-solve-coding-interview-que.md",
       "summary_path": "",
-      "seen_count": 4,
+      "seen_count": 5,
       "seen_dates": [
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:23.055312"
+      "last_seen": "2026-09-18T14:48:05.407766"
     },
     "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc": {
       "first_seen": "2026-09-16T21:54:43.644985",
@@ -151454,13 +151462,13 @@
       "title": "🧩 Don't make Tech your entire personality. - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-16/content/devto-dont-make-tech-your-entire-personality-dev-communi.md",
       "summary_path": "",
-      "seen_count": 4,
+      "seen_count": 5,
       "seen_dates": [
         "2026-09-16",
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:24.187765"
+      "last_seen": "2026-09-18T14:48:06.482910"
     },
     "https://jasondoyle.ie/whitepapers/agent-reliability-needs-repeated-evidence": {
       "first_seen": "2026-09-16T21:54:45.247782",
@@ -151626,12 +151634,12 @@
       "title": "GitHub - coder/coder: Secure environments for developers and their agents · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-17/content/github-github-codercoder-secure-environments-for-develope.md",
       "summary_path": "",
-      "seen_count": 3,
+      "seen_count": 4,
       "seen_dates": [
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:15.720025"
+      "last_seen": "2026-09-18T14:47:59.204147"
     },
     "https://github.com/TencentCloud/Octop": {
       "first_seen": "2026-09-17T15:26:50.900680",
@@ -151639,12 +151647,12 @@
       "title": "GitHub - TencentCloud/Octop: A smarter, self-hosted AI assistant — multi-user, multi-agent. · GitHub",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-17/content/github-github-tencentcloudoctop-a-smarter-self-hosted-ai.md",
       "summary_path": "",
-      "seen_count": 3,
+      "seen_count": 4,
       "seen_dates": [
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-17T21:56:17.860375"
+      "last_seen": "2026-09-18T14:48:01.087340"
     },
     "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/": {
       "first_seen": "2026-09-17T15:26:54.223817",
@@ -151652,12 +151660,12 @@
       "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels | NVIDIA Technical Blog",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-17/content/hackernews_api-introducing-cuda-rust-two-tracks-for-writing-gpu-k.md",
       "summary_path": "",
-      "seen_count": 3,
+      "seen_count": 4,
       "seen_dates": [
         "2026-09-17",
         "2026-09-18"
       ],
-      "last_seen": "2026-09-18T05:27:42.776398"
+      "last_seen": "2026-09-18T14:48:02.732510"
     },
     "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/": {
       "first_seen": "2026-09-17T15:26:55.195218",
@@ -151701,10 +151709,12 @@
       "title": "I Added One Key to a PHP Array. It Cost 25 MB of Memory - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-17/content/devto-i-added-one-key-to-a-php-array-it-cost-25-mb-of-me.md",
       "summary_path": "",
-      "seen_count": 1,
+      "seen_count": 2,
       "seen_dates": [
-        "2026-09-17"
-      ]
+        "2026-09-17",
+        "2026-09-18"
+      ],
+      "last_seen": "2026-09-18T14:48:05.657795"
     },
     "https://hai.stanford.edu/news/2023-artificial-intelligence-index-report": {
       "first_seen": "2026-09-17T15:26:59.699635",
@@ -151845,12 +151855,12 @@
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA and Fujitsu MONAKA Server for sovereign AI infrastructure | Fujitsu Global",
       "content_path": "/Users/a/data/news/tech-news/data/2026-09-18/content/hackernews_api-fujitsu-launches-made-in-japan-next-generation-cpu.md",
       "summary_path": "",
-      "seen_count": 3,
+      "seen_count": 4,
       "seen_dates": [
         "2026-09-18",
         "2026-09-17"
       ],
-      "last_seen": "2026-09-17T21:56:18.952371"
+      "last_seen": "2026-09-18T14:48:02.984383"
     },
     "https://z.ai/blog/glm-built-its-inference-infrastructure": {
       "first_seen": "2026-09-18T05:27:44.697675",
@@ -151906,12 +151916,12 @@
       "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch - DEV Community",
       "content_path": "/Users/a/data/news/tech-news/data/2026-09-18/content/devto-how-ai-actually-calls-an-api-tool-calling-explaine.md",
       "summary_path": "",
-      "seen_count": 2,
+      "seen_count": 3,
       "seen_dates": [
         "2026-09-18",
         "2026-09-17"
       ],
-      "last_seen": "2026-09-17T21:56:22.929121"
+      "last_seen": "2026-09-18T14:48:05.282766"
     },
     "https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri": {
       "first_seen": "2026-09-18T05:27:56.046324",
@@ -152093,10 +152103,12 @@
       "title": "Bend",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-17/content/hackernews_api-bend.md",
       "summary_path": "",
-      "seen_count": 1,
+      "seen_count": 2,
       "seen_dates": [
-        "2026-09-17"
-      ]
+        "2026-09-17",
+        "2026-09-18"
+      ],
+      "last_seen": "2026-09-18T14:48:03.110091"
     },
     "https://en.wikipedia.org/wiki/Wax_motor": {
       "first_seen": "2026-09-17T21:56:21.795580",
@@ -152104,10 +152116,12 @@
       "title": "Wax motor - Wikipedia",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-17/content/hackernews_api-wax-motor-wikipedia.md",
       "summary_path": "",
-      "seen_count": 1,
+      "seen_count": 2,
       "seen_dates": [
-        "2026-09-17"
-      ]
+        "2026-09-17",
+        "2026-09-18"
+      ],
+      "last_seen": "2026-09-18T14:48:03.234391"
     },
     "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g": {
       "first_seen": "2026-09-17T21:56:24.433664",
@@ -152115,10 +152129,12 @@
       "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners! - DEV Community",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-17/content/devto-congrats-to-the-dev-weekend-challenge-dog-days-edi.md",
       "summary_path": "",
-      "seen_count": 1,
+      "seen_count": 2,
       "seen_dates": [
-        "2026-09-17"
-      ]
+        "2026-09-17",
+        "2026-09-18"
+      ],
+      "last_seen": "2026-09-18T14:48:05.156713"
     },
     "https://www.asimov.press/p/spudcell-adamala": {
       "first_seen": "2026-09-17T21:56:25.707287",
@@ -152126,10 +152142,12 @@
       "title": "\"SpudCell will replicate continuously by 2030\" | Kate Adamala",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-17/content/tldr-spudcell-will-replicate-continuously-by-2030-kate.md",
       "summary_path": "",
-      "seen_count": 1,
+      "seen_count": 2,
       "seen_dates": [
-        "2026-09-17"
-      ]
+        "2026-09-17",
+        "2026-09-18"
+      ],
+      "last_seen": "2026-09-18T14:48:08.416138"
     },
     "https://terrytao.wordpress.com/2026/09/17/a-cern-for-ai-assisted-science": {
       "first_seen": "2026-09-17T21:56:25.928609",
@@ -152148,10 +152166,12 @@
       "title": "Android Bench 2.0 focuses on long-horizon tasks, agent evaluations",
       "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-17/content/tldr-android-bench-20-focuses-on-long-horizon-tasks-age.md",
       "summary_path": "",
-      "seen_count": 1,
+      "seen_count": 2,
       "seen_dates": [
-        "2026-09-17"
-      ]
+        "2026-09-17",
+        "2026-09-18"
+      ],
+      "last_seen": "2026-09-18T14:48:08.538702"
     },
     "https://pxlnv.com/linklog/eu-app-tracking-transparency-changes": {
       "first_seen": "2026-09-17T21:56:26.938878",
@@ -152185,11 +152205,198 @@
       "seen_dates": [
         "2026-09-17"
       ]
+    },
+    "https://github.com/ahmedkhaleel2004/gitdiagram": {
+      "first_seen": "2026-09-18T14:48:01.977593",
+      "site_name": "github",
+      "title": "GitHub - ahmedkhaleel2004/gitdiagram: Free, simple, fast interactive diagrams for any GitHub repository · GitHub",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/github-github-ahmedkhaleel2004gitdiagram-free-simple-fast.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/": {
+      "first_seen": "2026-09-18T14:48:03.470676",
+      "site_name": "hackernews_api",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal | TechCrunch",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/hackernews_api-microsoft-exec-called-ai-scraping-the-largest-thef.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://prismml.com/news/bonsai-2-27b": {
+      "first_seen": "2026-09-18T14:48:03.748736",
+      "site_name": "hackernews_api",
+      "title": "PrismML — Introducing Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/hackernews_api-prismml-introducing-bonsai-2-27b-near-lossless-com.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://www.hacktron.ai/blog/hacking-openai": {
+      "first_seen": "2026-09-18T14:48:04.015401",
+      "site_name": "hackernews_api",
+      "title": "Hacking OpenAI | Hacktron AI",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/hackernews_api-hacking-openai-hacktron-ai.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://openjev.com/": {
+      "first_seen": "2026-09-18T14:48:04.254887",
+      "site_name": "hackernews_api",
+      "title": "SemIf — local decisions in your browser",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/hackernews_api-semif-local-decisions-in-your-browser.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn": {
+      "first_seen": "2026-09-18T14:48:06.781781",
+      "site_name": "devto",
+      "title": "API Performance Testing: How to Design Realistic Tests - DEV Community",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/devto-api-performance-testing-how-to-design-realistic-te.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264394": {
+      "first_seen": "2026-09-18T14:48:06.990701",
+      "site_name": "devto",
+      "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners! - DEV Community",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/devto-join-the-sanity-challenge-2500-in-prizes-for-five.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3": {
+      "first_seen": "2026-09-18T14:48:07.226592",
+      "site_name": "devto",
+      "title": "Progressive Disclosure: What, Where, When, and Why - DEV Community",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/devto-progressive-disclosure-what-where-when-and-why-dev.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://dev.to/devteam/what-was-your-win-this-week-2hcb": {
+      "first_seen": "2026-09-18T14:48:07.520060",
+      "site_name": "devto",
+      "title": "What was your win this week?! - DEV Community",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/devto-what-was-your-win-this-week-dev-community.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence": {
+      "first_seen": "2026-09-18T14:48:09.341006",
+      "site_name": "tldr",
+      "title": "AI Agent Evaluation Starts With Evidence",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/tldr-ai-agent-evaluation-starts-with-evidence.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://www.thedeepview.com/articles/ai-still-has-a-credibility-problem-on-jobs": {
+      "first_seen": "2026-09-18T14:48:09.849230",
+      "site_name": "tldr",
+      "title": "AI still has a credibility problem on jobs | The Deep View",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/tldr-ai-still-has-a-credibility-problem-on-jobs-the-dee.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html": {
+      "first_seen": "2026-09-18T14:48:10.150712",
+      "site_name": "tldr",
+      "title": "Anthropic, OpenAI hunt for smaller AI data center deals, sources say",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/tldr-anthropic-openai-hunt-for-smaller-ai-data-center-d.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://www.cnbc.com/2026/09/18/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-report.html": {
+      "first_seen": "2026-09-18T14:48:10.424223",
+      "site_name": "tldr",
+      "title": "Anthropic quietly sets up biology lab as it ramps AI drug program: Report",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/tldr-anthropic-quietly-sets-up-biology-lab-as-it-ramps.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss": {
+      "first_seen": "2026-09-18T14:48:17.339192",
+      "site_name": "newsfeed",
+      "title": "'Insufficient funds' to pay Brewdog creditors after takeover deal - BBC News",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/newsfeed-insufficient-funds-to-pay-brewdog-creditors-after.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/": {
+      "first_seen": "2026-09-18T14:48:17.993112",
+      "site_name": "newsfeed",
+      "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us - Ars Technica",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/newsfeed-2026-hyundai-ioniq-5-heres-what-we-still-like-here.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language": {
+      "first_seen": "2026-09-18T14:48:18.573503",
+      "site_name": "newsfeed",
+      "title": "A new DHS email raises questions about Trump election plans : NPR",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/newsfeed-a-new-dhs-email-raises-questions-about-trump-elect.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
+    },
+    "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/": {
+      "first_seen": "2026-09-18T14:48:18.850096",
+      "site_name": "newsfeed",
+      "title": "A dolphin named Bubbles makes other fish vomit, then eats it - Ars Technica",
+      "content_path": "/home/runner/work/tech-news/tech-news/data/2026-09-18/content/newsfeed-a-dolphin-named-bubbles-makes-other-fish-vomit-the.md",
+      "summary_path": "",
+      "seen_count": 1,
+      "seen_dates": [
+        "2026-09-18"
+      ]
     }
   },
   "metadata": {
     "created_at": "2026-01-18T11:06:29.155347",
-    "updated_at": "2026-09-17T21:56:30.100738",
-    "total_urls": 10954
+    "updated_at": "2026-09-18T14:48:18.850132",
+    "total_urls": 10971
   }
 }
