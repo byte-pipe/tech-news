@@ -1,8 +1,8 @@
 [
   {
-    "title": "\"SpudCell will replicate continuously by 2030\" | Kate Adamala",
-    "url": "https://www.asimov.press/p/spudcell-adamala",
-    "description": "\"SpudCell will replicate continuously by 2030\" | Kate Adamala",
+    "title": "10 browser APIs that replaced a library I used to install",
+    "url": "https://flaviocopes.com/browser-apis-replacing-libraries",
+    "description": "10 browser APIs that replaced a library I used to install",
     "tags": [
       "tldr"
     ],
@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Labs’ Call to 'Pace Frontier’ Gives Crypto Vets FTX Flashbacks",
-    "url": "https://www.galaxy.com/insights/research/dario-amodei-pace-frontier-ai-essay-crypto-ftx-effective-altruism-critique",
-    "description": "AI Labs’ Call to 'Pace Frontier’ Gives Crypto Vets FTX Flashbacks",
+    "title": "A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Im9WRlFMVXFOcDciLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5NjU2My9haS1zYWZldHktcmVzZWFyY2gtbWV0ci1yZWR3b29kLW9wZW5haS1hbnRocm9waWMiLCJleHAiOjE3OTAwNzgwNzYsImlhdCI6MTc4OTY0NjA3Nn0.uqC7_g7QOvm2irjweDneh4zzkSalQCFKxlgKwM-Q1Ms",
+    "description": "A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight",
     "tags": [
       "tldr"
     ],
@@ -20,9 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI still has a credibility problem on jobs",
-    "url": "https://www.thedeepview.com/articles/ai-still-has-a-credibility-problem-on-jobs",
-    "description": "AI still has a credibility problem on jobs",
+    "title": "AI safety researchers call rogue OpenAI model industry's first 'warning shot'",
+    "url": "https://www.aichatdaily.com/ai-security/ai-safety-researchers-call-rogue-openai-model-industry",
+    "description": "AI safety researchers call rogue OpenAI model industry's first 'warning shot'",
     "tags": [
       "tldr"
     ],
@@ -30,9 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AST SpaceMobile Faces Lawsuit Over Its Competitiveness With Starlink Mobile",
-    "url": "https://www.pcmag.com/news/ast-spacemobile-faces-lawsuit-over-its-competitiveness-with-starlink-mobile",
-    "description": "AST SpaceMobile Faces Lawsuit Over Its Competitiveness With Starlink Mobile",
+    "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+    "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying",
+    "description": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
     "tags": [
       "tldr"
     ],
@@ -40,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic Adds a Coordinator to Claude Projects for Running AI Work in Parallel",
-    "url": "https://devops.com/anthropic-adds-a-coordinator-to-claude-projects-for-running-ai-work-in-parallel",
-    "description": "Anthropic Adds a Coordinator to Claude Projects for Running AI Work in Parallel",
+    "title": "Alibaba Ships Qwen3.8-Omni-Flash Native Omnimodal Model With 1M Context",
+    "url": "https://pandaily.com/qwen3-8-omni-flash-native-omni-model",
+    "description": "Alibaba Ships Qwen3.8-Omni-Flash Native Omnimodal Model With 1M Context",
     "tags": [
       "tldr"
     ],
@@ -50,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic quietly sets up biology lab as it ramps AI drug program: Report",
-    "url": "https://www.cnbc.com/2026/09/18/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-report.html",
-    "description": "Anthropic quietly sets up biology lab as it ramps AI drug program: Report",
+    "title": "Android Bench 2.0: Pushing the frontier with challenging long-horizon tasks",
+    "url": "https://developer.android.com/blog/posts/android-bench-2-0-pushing-the-frontier-with-challenging-long-horizon-tasks",
+    "description": "Android Bench 2.0: Pushing the frontier with challenging long-horizon tasks",
     "tags": [
       "tldr"
     ],
@@ -60,9 +60,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Benchmarking LLM Inference at Scale with AIPerf",
-    "url": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf",
-    "description": "Benchmarking LLM Inference at Scale with AIPerf",
+    "title": "Anthropic quietly sets up biology lab as it ramps AI drug program",
+    "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program/articleshow/134340552.cms",
+    "description": "Anthropic quietly sets up biology lab as it ramps AI drug program",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code",
+    "url": "https://claude.com/blog/projects-redesigned",
+    "description": "Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code",
     "tags": [
       "tldr"
     ],
@@ -80,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "California Gov. Newsom issues executive order to rein in AI",
-    "url": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
-    "description": "California Gov. Newsom issues executive order to rein in AI",
+    "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+    "url": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first",
+    "description": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
     "tags": [
       "tldr"
     ],
@@ -90,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Cline",
-    "url": "https://github.com/cline/cline",
-    "description": "Cline",
+    "title": "Claude Cowork and chat are now one Claude",
+    "url": "https://simonwillison.net/2026/Sep/16/one-claude",
+    "description": "Claude Cowork and chat are now one Claude",
     "tags": [
       "tldr"
     ],
@@ -110,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Developers finally get Xcode tools to prepare apps for iPhone Duo",
-    "url": "https://appleinsider.com/articles/26/09/18/developers-finally-get-xcode-tools-to-prepare-apps-for-iphone-duo",
-    "description": "Developers finally get Xcode tools to prepare apps for iPhone Duo",
+    "title": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
+    "url": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers",
+    "description": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
     "tags": [
       "tldr"
     ],
@@ -120,19 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Figure AI's Helix 2.5 Robot Made Beds in 30 Homes It Had Never Seen",
-    "url": "https://startupfortune.com/figure-ais-helix-25-robot-made-beds-in-30-homes-it-had-never-seen",
-    "description": "Figure AI's Helix 2.5 Robot Made Beds in 30 Homes It Had Never Seen",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "GPT-6 Astra Just Broke a Long-Standing Complexity Bound GPT-6 Astra reduced a competitive program...",
-    "url": "https://x.com/zhihufrontier/status/2100894678199812533",
-    "description": "GPT-6 Astra Just Broke a Long-Standing Complexity Bound GPT-6 Astra reduced a competitive program...",
+    "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "description": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
     "tags": [
       "tldr"
     ],
@@ -170,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-    "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work",
-    "description": "Here’s How an AI Slowdown Could Actually Be Enforced",
+    "title": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home",
+    "url": "https://9to5google.com/2026/09/16/google-home-mcp",
+    "description": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home",
     "tags": [
       "tldr"
     ],
@@ -180,9 +180,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "How I Vibed a Proof of Conway’s Conjecture",
-    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture",
-    "description": "How I Vibed a Proof of Conway’s Conjecture",
+    "title": "Helix 2.5: Zero-Shot 30-Home Generalization",
+    "url": "https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization",
+    "description": "Helix 2.5: Zero-Shot 30-Home Generalization",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Here's our take on the new Snap Specs with AI",
+    "url": "https://www.thedeepview.com/articles/here-s-our-take-on-the-new-snap-specs-with-ai",
+    "description": "Here's our take on the new Snap Specs with AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Claude is uplifting biomolecular modeling \\ Anthropic",
+    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+    "description": "How Claude is uplifting biomolecular modeling \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -200,19 +220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How underground nuclear explosions can trigger earthquakes long after tests end",
-    "url": "https://interestingengineering.com/science/underground-nuclear-tests-cause-earthquakes",
-    "description": "How underground nuclear explosions can trigger earthquakes long after tests end",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Image Generation Models Compared: Cost, Edit, Quality",
-    "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
-    "description": "Image Generation Models Compared: Cost, Edit, Quality",
+    "title": "I don't like LLMs",
+    "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+    "description": "I don't like LLMs",
     "tags": [
       "tldr"
     ],
@@ -240,16 +250,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Making Sense of Anthropic’s Pacing Rhetoric",
-    "url": "https://murmurationstwo.substack.com/p/making-sense-of-anthropics-pacing",
-    "description": "Making Sense of Anthropic’s Pacing Rhetoric",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Measurements for understanding the pace of AI development inside frontier labs \\ Anthropic",
     "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
     "description": "Measurements for understanding the pace of AI development inside frontier labs \\ Anthropic",
@@ -260,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta's Muse hits Mac, letting the AI take actions on your computer | TechCrunch",
-    "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
-    "description": "Meta's Muse hits Mac, letting the AI take actions on your computer | TechCrunch",
+    "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+    "description": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
     "tags": [
       "tldr"
     ],
@@ -270,9 +270,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-    "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station",
-    "description": "NASA Awards SpaceX Three Crew Flights to Space Station",
+    "title": "Muse Platform",
+    "url": "http://muse.ai/platform",
+    "description": "Muse Platform",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+    "url": "https://www.dwarkesh.com/p/noam-brown",
+    "description": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
     "tags": [
       "tldr"
     ],
@@ -290,9 +300,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Persuasion Undermining Control: Can AI Talk its Way Out of Human Control?",
-    "url": "https://www.lesswrong.com/posts/9tJZntDWXCwZRGk6k/persuasion-undermining-control-can-ai-talk-its-way-out-of",
-    "description": "Persuasion Undermining Control: Can AI Talk its Way Out of Human Control?",
+    "title": "OpenAI adds Chrome extensions to ChatGPT's desktop browser",
+    "url": "https://runtimewire.com/article/openai-chatgpt-desktop-browser-chrome-extensions",
+    "description": "OpenAI adds Chrome extensions to ChatGPT's desktop browser",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI told investors in February its compute bill would be around $600bn. A July presentation puts it at $856bn.",
+    "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
+    "description": "OpenAI told investors in February its compute bill would be around $600bn. A July presentation puts it at $856bn.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Partnering with Accenture on embedded evaluation \\ Anthropic",
+    "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "description": "Partnering with Accenture on embedded evaluation \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -310,36 +340,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Prompt Caching Explained: The 90% Discount Most Teams Never Claim (2026)",
-    "url": "https://octomind.run/blog/prompt-caching-explained",
-    "description": "Prompt Caching Explained: The 90% Discount Most Teams Never Claim (2026)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Quoting Thariq Shihipar",
-    "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar",
-    "description": "Quoting Thariq Shihipar",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Qwen3.8-Omni-Flash — Alibaba's omni model gets a 1M-token context",
-    "url": "https://ai-tldr.dev/releases/qwen-3-8-omni-flash",
-    "description": "Qwen3.8-Omni-Flash — Alibaba's omni model gets a 1M-token context",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Saving another 100TB of RAM with math (and Rust)",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math",
     "description": "Saving another 100TB of RAM with math (and Rust)",
@@ -350,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ship Node.js applications as a single executable",
-    "url": "https://www.echooff.dev/blog/ship-nodejs-applications-as-a-single-executable",
-    "description": "Ship Node.js applications as a single executable",
+    "title": "Splash: A Local Engine Built Around the Model",
+    "url": "https://inco.ai/blog/splash",
+    "description": "Splash: A Local Engine Built Around the Model",
     "tags": [
       "tldr"
     ],
@@ -360,49 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Software Factories, Light and Dark",
-    "url": "https://oreillyradar.substack.com/p/software-factories-light-and-dark",
-    "description": "Software Factories, Light and Dark",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Software engineering is getting a second material",
-    "url": "https://workos.com/blog/software-engineering-second-material",
-    "description": "Software engineering is getting a second material",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Spanberger Signs Data Center Accountability Order, Creates AI Task Force",
-    "url": "https://www.unite.ai/spanberger-signs-data-center-accountability-order-creates-ai-task-force",
-    "description": "Spanberger Signs Data Center Accountability Order, Creates AI Task Force",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Spanner queues overview | Google Cloud Documentation",
-    "url": "https://docs.cloud.google.com/spanner/docs/queues/queues-overview",
-    "description": "Spanner queues overview | Google Cloud Documentation",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Next Chapter of Entertainment and Fandom",
-    "url": "https://blog.character.ai/the-next-chapter-of-entertainment-and-fandom",
-    "description": "The Next Chapter of Entertainment and Fandom",
+    "title": "Step 5 Preview - Intelligence, Performance & Price Analysis | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/step-5",
+    "description": "Step 5 Preview - Intelligence, Performance & Price Analysis | Artificial Analysis",
     "tags": [
       "tldr"
     ],
@@ -420,6 +380,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The ciphertext has a calendar",
+    "url": "https://lord.technology/2026/09/19/the-ciphertext-has-a-calendar.html",
+    "description": "The ciphertext has a calendar",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
     "title": "There's no point at which turning your brain off will work",
     "url": "https://danluu.com/brain-off",
     "description": "There's no point at which turning your brain off will work",
@@ -430,9 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Two responses to “A Severe Misalignment of AI in Mathematics”",
-    "url": "https://proofsandprompts.com/2026/09/18/two-responses-to-a-severe-misalignment-of-ai-in-mathematics",
-    "description": "Two responses to “A Severe Misalignment of AI in Mathematics”",
+    "title": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
+    "url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now",
+    "description": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
     "tags": [
       "tldr"
     ],
@@ -440,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Universal and Sony sue Suno again, this time over 60,202 recordings",
-    "url": "https://thenextweb.com/news/universal-sony-second-lawsuit-suno-60202-recordings",
-    "description": "Universal and Sony sue Suno again, this time over 60,202 recordings",
+    "title": "Unsealed ruling orders Google to open AdX and DFP to Prebid",
+    "url": "https://ppc.land/unsealed-ruling-orders-google-to-open-adx-and-dfp-to-prebid",
+    "description": "Unsealed ruling orders Google to open AdX and DFP to Prebid",
     "tags": [
       "tldr"
     ],
@@ -450,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Unsealed documents show Microsoft, OpenAI executives all too aware of ethical concerns ↦",
-    "url": "https://sixcolors.com/link/2026/09/unsealed-documents-show-microsoft-openai-executives-all-too-aware-of-ethical-concerns",
-    "description": "Unsealed documents show Microsoft, OpenAI executives all too aware of ethical concerns ↦",
+    "title": "We found defects in 37 of DeepSWE’s 113 tasks | Scrimdata | Scrimdata",
+    "url": "https://www.scrimdata.com/blog/deep-swe-benchmark-defects-ambiguities",
+    "description": "We found defects in 37 of DeepSWE’s 113 tasks | Scrimdata | Scrimdata",
     "tags": [
       "tldr"
     ],
@@ -460,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
-    "url": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support",
-    "description": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
+    "title": "WebKit Features for Safari 27.0",
+    "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0",
+    "description": "WebKit Features for Safari 27.0",
     "tags": [
       "tldr"
     ],
@@ -480,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Who Controls Your Startup? Why Governance Matters from Day One",
-    "url": "https://ilyastrebulaev.substack.com/p/who-controls-your-startup-why-governance",
-    "description": "Who Controls Your Startup? Why Governance Matters from Day One",
+    "title": "Will SpaceX's Orbiting Data Centers Rain Debris Over Earth?",
+    "url": "https://au.pcmag.com/networking/119990/will-spacexs-orbiting-data-centers-rain-debris-over-earth",
+    "description": "Will SpaceX's Orbiting Data Centers Rain Debris Over Earth?",
     "tags": [
       "tldr"
     ],
@@ -493,6 +463,36 @@
     "title": "Your diff has a demo now with Junie /demo",
     "url": "https://blog.jetbrains.com/junie/2026/09/junie-demo",
     "description": "Your diff has a demo now with Junie /demo",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
+    "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
+    "description": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "‘Sketchy AF’: What to Know About How OpenAI Staff Discussed Book-Pirating",
+    "url": "https://www.wsj.com/tech/ai/sketchy-af-what-to-know-about-how-openai-staff-discussed-book-pirating-fdc788a1",
+    "description": "‘Sketchy AF’: What to Know About How OpenAI Staff Discussed Book-Pirating",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "⚠️ OpenAI Puts Its Safety Failures on Record",
+    "url": "https://read.getsuperintel.com/p/openai-puts-its-safety-failures-on-record",
+    "description": "⚠️ OpenAI Puts Its Safety Failures on Record",
     "tags": [
       "tldr"
     ],
