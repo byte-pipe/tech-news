@@ -25,7 +25,7 @@
     "date": "2026-09-15",
     "description": "Comments debate where true engineering beginsDhruv JaniDhruv JaniDhruv JaniFollowSep 15AI Didn't Remove the Engineering Work. It Just Made It Easier t...",
     "tags": "#discuss, #ai, #career, #webdev",
-    "reactions": "105 reactions",
+    "reactions": "107 reactions",
     "comments": "0",
     "url": "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9"
   },
@@ -35,7 +35,7 @@
     "date": "2026-09-17",
     "description": "Real-world traffic rules and root-cause painsDaniel BalcarekDaniel BalcarekDaniel BalcarekFollowSep 17API Performance Testing: How to Design Realistic...",
     "tags": "#testing, #performance, #api, #webdev",
-    "reactions": "60 reactions",
+    "reactions": "62 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn"
   },
@@ -50,13 +50,23 @@
     "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5"
   },
   {
+    "title": "Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way",
+    "author": "Amara Graham",
+    "date": "2026-09-16",
+    "description": "Comparing ChatGPT Codex and Copilot featuresAmara GrahamAmara GrahamAmara GrahamFollowSep 16Building PoCs with Codex and GitHub Copilot while they try...",
+    "tags": "#ai, #productivity",
+    "reactions": "19 reactions",
+    "comments": "0",
+    "url": "https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9"
+  },
+  {
     "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
     "author": "Jem",
     "date": "2026-09-17",
     "description": "Data analysis dispels black dog syndrome mythJemJemJemFollowforThe DEV TeamSep 17Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!#devc...",
     "tags": "#devchallenge, #weekendchallenge, #hackathon, #programming",
     "reactions": "59 reactions",
-    "comments": "Comments 23 comments",
+    "comments": "Comments 24 comments",
     "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
   },
   {
@@ -85,7 +95,7 @@
     "date": "2026-09-15",
     "description": "Storage fails without negative feedback loopsEdward IzgorodinEdward IzgorodinEdward IzgorodinFollowSep 15How can I prevent my AI coding assistant from...",
     "tags": "#ai, #agents, #mcp, #architecture",
-    "reactions": "24 reactions",
+    "reactions": "27 reactions",
     "comments": "0",
     "url": "https://dev.to/izgorodin/how-can-i-prevent-my-ai-coding-assistant-from-repeating-fixed-mistakes-across-sessions-2kf7"
   },
@@ -100,24 +110,14 @@
     "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
   },
   {
-    "title": "I Added One Key to a PHP Array. It Cost 25 MB of Memory",
-    "author": "Nazar Boyko",
-    "date": "2026-09-14",
-    "description": "Reveals PHP hash table internals on version 8.4Nazar BoykoNazar BoykoNazar BoykoFollowSep 14I Added One Key to a PHP Array. It Cost 25 MB of Memory#ph...",
-    "tags": "#php, #performance, #webdev, #programming",
-    "reactions": "38 reactions",
-    "comments": "0",
-    "url": "https://dev.to/nazar-boyko/i-added-one-key-to-a-php-array-it-cost-25-mb-of-memory-4b80"
-  },
-  {
     "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
     "author": "Jem",
     "date": "2026-09-18",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxYour agent is only as good as what it reads.Structured content in, ...",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardx$2,500 across five winners. Two ways in.Ship an agent backed by a r...",
     "tags": "#sanitychallenge, #devchallenge, #agents, #webdev",
     "reactions": "8 reactions",
     "comments": "Comments 1 comment",
-    "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264397"
+    "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264396"
   },
   {
     "title": "Progressive Disclosure: What, Where, When, and Why",
@@ -135,7 +135,7 @@
     "date": "2026-09-15",
     "description": "Resignations sparked by AI replacement fearsJames AndersonJames AndersonJames AndersonFollowSep 15The Quiet Weight of Working in Tech in the AI Era#di...",
     "tags": "#discuss, #mentalhealth, #career, #ai",
-    "reactions": "128 reactions",
+    "reactions": "135 reactions",
     "comments": "0",
     "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g"
   },
@@ -173,10 +173,10 @@
     "title": "What was your win this week?!",
     "author": "Jess Lee",
     "date": "2026-09-18",
-    "description": "Community celebrating diverse weekly achievementsJess LeeJess LeeJess LeeFollowforThe DEV TeamSep 18What was your win this week?!#weeklyretro45reactio...",
+    "description": "Community celebrating diverse weekly achievementsJess LeeJess LeeJess LeeFollowforThe DEV TeamSep 18What was your win this week?!#weeklyretro46reactio...",
     "tags": "#weeklyretro",
-    "reactions": "45 reactions",
-    "comments": "Comments 27 comments",
+    "reactions": "46 reactions",
+    "comments": "Comments 31 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
   },
   {
@@ -185,7 +185,7 @@
     "date": "2026-09-15",
     "description": "Comments debate treating hobbies like a frameworkTanay DwivediTanay DwivediTanay DwivediFollowSep 15🧩 Don't make Tech your entire personality.#product...",
     "tags": "#productivity, #webdev, #ai, #javascript",
-    "reactions": "20 reactions",
+    "reactions": "23 reactions",
     "comments": "0",
     "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc"
   }

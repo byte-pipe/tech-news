@@ -1,10 +1,10 @@
 ---
 title: 'Join the Sanity Challenge: $2,500 in prizes for FIVE winners! - DEV Community'
-url: https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264397
+url: https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264396
 site_name: devto
 content_file: devto-join-the-sanity-challenge-2500-in-prizes-for-five
-fetched_at: '2026-09-19T14:10:47.434194'
-original_url: https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264397
+fetched_at: '2026-09-19T21:18:03.867763'
+original_url: https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264396
 author: Jem
 date: '2026-09-18'
 description: We're excited to announce our newest challenge with Sanity! The Sanity Challenge runs September 18... Tagged with sanitychallenge, devchallenge, agents, webdev.
@@ -178,7 +178,7 @@ Preview
 
 Dismiss
 
- View full discussion (16 comments)
+ View full discussion (18 comments)
  
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.

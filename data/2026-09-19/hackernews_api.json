@@ -1,28 +1,11 @@
 [
   {
-    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-    "url": "https://www.hacktron.ai/blog/hacking-openai",
-    "author": "Handy-Man",
-    "date": "2026-09-18",
-    "score": 479,
-    "comments": 203,
-    "id": 49749656,
-    "discussion_url": "https://news.ycombinator.com/item?id=49749656",
-    "description": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421786"
-  },
-  {
     "title": "AI-generated posters don’t have to be horrible",
     "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
     "author": "ereiamjh",
     "date": "2026-09-19",
-    "score": 491,
-    "comments": 306,
+    "score": 1164,
+    "comments": 647,
     "id": 49764791,
     "discussion_url": "https://news.ycombinator.com/item?id=49764791",
     "description": "AI-generated posters don’t have to be horrible",
@@ -31,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421544"
+    "fetched_at": "2026-09-19T21:17:57.776569"
   },
   {
     "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
     "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
     "author": "theanonymousone",
     "date": "2026-09-18",
-    "score": 920,
-    "comments": 503,
+    "score": 1078,
+    "comments": 631,
     "id": 49758736,
     "discussion_url": "https://news.ycombinator.com/item?id=49758736",
     "description": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
@@ -48,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421583"
+    "fetched_at": "2026-09-19T21:17:57.776616"
   },
   {
     "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
     "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
     "author": "ibobev",
     "date": "2026-09-17",
-    "score": 164,
-    "comments": 257,
+    "score": 167,
+    "comments": 270,
     "id": 49746406,
     "discussion_url": "https://news.ycombinator.com/item?id=49746406",
     "description": "C++26: Trivial infinite loops are no longer undefined behaviour",
@@ -65,32 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421726"
-  },
-  {
-    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "url": "https://code.claude.com/docs/en/changelog",
-    "author": "datadrivenangel",
-    "date": "2026-09-18",
-    "score": 684,
-    "comments": 249,
-    "id": 49760187,
-    "discussion_url": "https://news.ycombinator.com/item?id=49760187",
-    "description": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421706"
+    "fetched_at": "2026-09-19T21:17:57.776710"
   },
   {
     "title": "Cloudflare Quick Tunnels",
     "url": "https://try.cloudflare.com/",
     "author": "jcbhmr",
     "date": "2026-09-18",
-    "score": 756,
-    "comments": 296,
+    "score": 801,
+    "comments": 306,
     "id": 49754785,
     "discussion_url": "https://news.ycombinator.com/item?id=49754785",
     "description": "Cloudflare Quick Tunnels",
@@ -99,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421606"
+    "fetched_at": "2026-09-19T21:17:57.776589"
   },
   {
     "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
     "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
     "author": "nsoonhui",
     "date": "2026-09-19",
-    "score": 195,
-    "comments": 107,
+    "score": 328,
+    "comments": 155,
     "id": 49763987,
     "discussion_url": "https://news.ycombinator.com/item?id=49763987",
     "description": "GPT-6 Astra Solves a WWI German Radio Cipher",
@@ -116,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421597"
+    "fetched_at": "2026-09-19T21:17:57.776592"
   },
   {
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
     "url": "https://spectrum.ieee.org/llms-for-chip-design",
     "author": "maxall4",
     "date": "2026-09-18",
-    "score": 157,
-    "comments": 107,
+    "score": 193,
+    "comments": 128,
     "id": 49761432,
     "discussion_url": "https://news.ycombinator.com/item?id=49761432",
     "description": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
@@ -133,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421578"
+    "fetched_at": "2026-09-19T21:17:57.776666"
   },
   {
     "title": "How SpaceX streamlined the Raptor engine",
     "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
     "author": "JumpCrisscross",
     "date": "2026-09-17",
-    "score": 221,
-    "comments": 88,
+    "score": 230,
+    "comments": 99,
     "id": 49746626,
     "discussion_url": "https://news.ycombinator.com/item?id=49746626",
     "description": "How SpaceX streamlined the Raptor engine",
@@ -150,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421690"
+    "fetched_at": "2026-09-19T21:17:57.776708"
   },
   {
     "title": "How to Write with an LLM",
     "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "author": "joeriddles",
     "date": "2026-09-17",
-    "score": 533,
-    "comments": 354,
+    "score": 601,
+    "comments": 369,
     "id": 49747070,
     "discussion_url": "https://news.ycombinator.com/item?id=49747070",
     "description": "How to Write with an LLM",
@@ -167,66 +133,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421602"
+    "fetched_at": "2026-09-19T21:17:57.776580"
   },
   {
-    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-    "author": "emigre",
+    "title": "I built non-autoregressive decision models with RL a year ago",
+    "url": "https://laya.convaiinnovations.com/",
+    "author": "nandakishor_ml",
     "date": "2026-09-19",
-    "score": 402,
-    "comments": 150,
-    "id": 49763697,
-    "discussion_url": "https://news.ycombinator.com/item?id=49763697",
-    "description": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "score": 927,
+    "comments": 224,
+    "id": 49765348,
+    "discussion_url": "https://news.ycombinator.com/item?id=49765348",
+    "description": "I built non-autoregressive decision models with RL a year ago",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421554"
+    "fetched_at": "2026-09-19T21:17:57.776533"
   },
   {
-    "title": "I don't like passkeys",
-    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-    "author": "ethanhawksley",
-    "date": "2026-09-18",
-    "score": 796,
-    "comments": 771,
-    "id": 49753211,
-    "discussion_url": "https://news.ycombinator.com/item?id=49753211",
-    "description": "I don't like passkeys",
+    "title": "I think you should almost never use AI to write",
+    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+    "author": "erwald",
+    "date": "2026-09-19",
+    "score": 142,
+    "comments": 88,
+    "id": 49767937,
+    "discussion_url": "https://news.ycombinator.com/item?id=49767937",
+    "description": "I think you should almost never use AI to write",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421783"
-  },
-  {
-    "title": "I vibed a proof of Conway's conjecture",
-    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-    "author": "m-hodges",
-    "date": "2026-09-18",
-    "score": 250,
-    "comments": 239,
-    "id": 49755024,
-    "discussion_url": "https://news.ycombinator.com/item?id=49755024",
-    "description": "I vibed a proof of Conway's conjecture",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421738"
+    "fetched_at": "2026-09-19T21:17:57.776603"
   },
   {
     "title": "If math is more than proof, we need to better celebrate the rest of it",
     "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
     "author": "num42",
     "date": "2026-09-19",
-    "score": 186,
-    "comments": 145,
+    "score": 276,
+    "comments": 226,
     "id": 49763928,
     "discussion_url": "https://news.ycombinator.com/item?id=49763928",
     "description": "If math is more than proof, we need to better celebrate the rest of it",
@@ -235,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421550"
+    "fetched_at": "2026-09-19T21:17:57.776625"
   },
   {
     "title": "Inside ZCode: Silently uploading your Git history to the cloud",
     "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
     "author": "csmantle",
     "date": "2026-09-18",
-    "score": 315,
-    "comments": 107,
+    "score": 326,
+    "comments": 108,
     "id": 49750694,
     "discussion_url": "https://news.ycombinator.com/item?id=49750694",
     "description": "Inside ZCode: Silently uploading your Git history to the cloud",
@@ -252,66 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421670"
-  },
-  {
-    "title": "Laya the open source version of Jev",
-    "url": "https://laya.convaiinnovations.com/",
-    "author": "nandakishor_ml",
-    "date": "2026-09-19",
-    "score": 242,
-    "comments": 35,
-    "id": 49765348,
-    "discussion_url": "https://news.ycombinator.com/item?id=49765348",
-    "description": "Laya the open source version of Jev",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421531"
-  },
-  {
-    "title": "Minimal Phone 2",
-    "url": "https://minimalcompany.com/",
-    "author": "nashashmi",
-    "date": "2026-09-18",
-    "score": 300,
-    "comments": 241,
-    "id": 49749369,
-    "discussion_url": "https://news.ycombinator.com/item?id=49749369",
-    "description": "Minimal Phone 2",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421746"
-  },
-  {
-    "title": "North Korean nuclear test sets off years of earthquakes",
-    "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-    "author": "rbanffy",
-    "date": "2026-09-18",
-    "score": 211,
-    "comments": 167,
-    "id": 49755160,
-    "discussion_url": "https://news.ycombinator.com/item?id=49755160",
-    "description": "North Korean nuclear test sets off years of earthquakes",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421730"
+    "fetched_at": "2026-09-19T21:17:57.776671"
   },
   {
     "title": "OpenJev",
     "url": "https://openjev.com/",
     "author": "ilreb",
     "date": "2026-09-18",
-    "score": 649,
-    "comments": 273,
+    "score": 689,
+    "comments": 284,
     "id": 49752041,
     "discussion_url": "https://news.ycombinator.com/item?id=49752041",
     "description": "OpenJev",
@@ -320,15 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421653"
+    "fetched_at": "2026-09-19T21:17:57.776727"
   },
   {
     "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
     "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
     "author": "synack",
     "date": "2026-09-18",
-    "score": 206,
-    "comments": 76,
+    "score": 211,
+    "comments": 85,
     "id": 49757050,
     "discussion_url": "https://news.ycombinator.com/item?id=49757050",
     "description": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
@@ -337,49 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421661"
-  },
-  {
-    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-    "url": "https://linguisticdiscovery.com/posts/pre-greek/",
-    "author": "axiologist",
-    "date": "2026-09-18",
-    "score": 179,
-    "comments": 70,
-    "id": 49749771,
-    "discussion_url": "https://news.ycombinator.com/item?id=49749771",
-    "description": "Pre-Greek: The lost language hidden within Ancient Greek",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421749"
-  },
-  {
-    "title": "Replacing Pull Requests with Delta",
-    "url": "https://zed.dev/blog/delta-public-beta",
-    "author": "vquemener",
-    "date": "2026-09-16",
-    "score": 143,
-    "comments": 101,
-    "id": 49727245,
-    "discussion_url": "https://news.ycombinator.com/item?id=49727245",
-    "description": "Replacing Pull Requests with Delta",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421756"
+    "fetched_at": "2026-09-19T21:17:57.776681"
   },
   {
     "title": "San Francisco Onion Futures Company",
     "url": "https://onionfutures.com/",
     "author": "z-mach9",
     "date": "2026-09-19",
-    "score": 252,
-    "comments": 89,
+    "score": 344,
+    "comments": 146,
     "id": 49763296,
     "discussion_url": "https://news.ycombinator.com/item?id=49763296",
     "description": "San Francisco Onion Futures Company",
@@ -388,15 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421588"
+    "fetched_at": "2026-09-19T21:17:57.776560"
   },
   {
     "title": "Saving another 100TB of RAM",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "author": "f311a",
     "date": "2026-09-18",
-    "score": 395,
-    "comments": 86,
+    "score": 452,
+    "comments": 101,
     "id": 49758580,
     "discussion_url": "https://news.ycombinator.com/item?id=49758580",
     "description": "Saving another 100TB of RAM",
@@ -405,15 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421626"
+    "fetched_at": "2026-09-19T21:17:57.776611"
+  },
+  {
+    "title": "Science Is Open Software",
+    "url": "https://jepedersen.dk/blog/202505_research/",
+    "author": "jegp",
+    "date": "2026-09-19",
+    "score": 149,
+    "comments": 65,
+    "id": 49762687,
+    "discussion_url": "https://news.ycombinator.com/item?id=49762687",
+    "description": "Science Is Open Software",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-19T21:17:57.776663"
   },
   {
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
     "url": "https://github.com/arnegiacomo/fugleramme",
     "author": "arnemunthekaas",
     "date": "2026-09-15",
-    "score": 2333,
-    "comments": 258,
+    "score": 2346,
+    "comments": 259,
     "id": 49711544,
     "discussion_url": "https://news.ycombinator.com/item?id=49711544",
     "description": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -422,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421682"
+    "fetched_at": "2026-09-19T21:17:57.776720"
   },
   {
     "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
     "url": "https://cactuscompute.com/needle",
     "author": "HenryNdubuaku",
     "date": "2026-09-18",
-    "score": 209,
-    "comments": 89,
+    "score": 222,
+    "comments": 90,
     "id": 49748553,
     "discussion_url": "https://news.ycombinator.com/item?id=49748553",
     "description": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
@@ -439,15 +320,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421658"
+    "fetched_at": "2026-09-19T21:17:57.776678"
+  },
+  {
+    "title": "The Secret Life of Circuits",
+    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+    "author": "surprisetalk",
+    "date": "2026-09-15",
+    "score": 259,
+    "comments": 67,
+    "id": 49720143,
+    "discussion_url": "https://news.ycombinator.com/item?id=49720143",
+    "description": "The Secret Life of Circuits",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-19T21:17:57.776606"
   },
   {
     "title": "The first new cat species discovered in 100 years",
     "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
     "author": "ohjeez",
     "date": "2026-09-17",
-    "score": 300,
-    "comments": 114,
+    "score": 357,
+    "comments": 134,
     "id": 49744704,
     "discussion_url": "https://news.ycombinator.com/item?id=49744704",
     "description": "The first new cat species discovered in 100 years",
@@ -456,15 +354,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421645"
+    "fetched_at": "2026-09-19T21:17:57.776660"
+  },
+  {
+    "title": "Tin: full-text search for Postgres",
+    "url": "https://planetscale.com/blog/introducing-tin",
+    "author": "ksec",
+    "date": "2026-09-19",
+    "score": 154,
+    "comments": 65,
+    "id": 49766611,
+    "discussion_url": "https://news.ycombinator.com/item?id=49766611",
+    "description": "Tin: full-text search for Postgres",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-19T21:17:57.776595"
+  },
+  {
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "author": "emigre",
+    "date": "2026-09-19",
+    "score": 585,
+    "comments": 225,
+    "id": 49763697,
+    "discussion_url": "https://news.ycombinator.com/item?id=49763697",
+    "description": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-19T21:17:57.776543"
+  },
+  {
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+    "author": "Jimmc414",
+    "date": "2026-09-18",
+    "score": 124,
+    "comments": 69,
+    "id": 49755533,
+    "discussion_url": "https://news.ycombinator.com/item?id=49755533",
+    "description": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-19T21:17:57.776723"
   },
   {
     "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
     "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
     "author": "succinct_ideas",
     "date": "2026-09-18",
-    "score": 188,
-    "comments": 94,
+    "score": 211,
+    "comments": 102,
     "id": 49749724,
     "discussion_url": "https://news.ycombinator.com/item?id=49749724",
     "description": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
@@ -473,15 +422,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421674"
+    "fetched_at": "2026-09-19T21:17:57.776641"
+  },
+  {
+    "title": "We made Playwright 2x faster and 80% more token efficient",
+    "url": "https://github.com/browserbase/stagehand",
+    "author": "wittydeveloper",
+    "date": "2026-09-18",
+    "score": 122,
+    "comments": 34,
+    "id": 49756671,
+    "discussion_url": "https://news.ycombinator.com/item?id=49756671",
+    "description": "We made Playwright 2x faster and 80% more token efficient",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-19T21:17:57.776715"
+  },
+  {
+    "title": "What Zig felt like, coming from Rust",
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "author": "ksec",
+    "date": "2026-09-19",
+    "score": 161,
+    "comments": 190,
+    "id": 49766637,
+    "discussion_url": "https://news.ycombinator.com/item?id=49766637",
+    "description": "What Zig felt like, coming from Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-19T21:17:57.776636"
+  },
+  {
+    "title": "Why building a Rust LSP is hard",
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "author": "agluszak",
+    "date": "2026-09-16",
+    "score": 130,
+    "comments": 57,
+    "id": 49734131,
+    "discussion_url": "https://news.ycombinator.com/item?id=49734131",
+    "description": "Why building a Rust LSP is hard",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-19T21:17:57.776669"
   },
   {
     "title": "Xcode 27.1 Beta Release Notes",
     "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
     "author": "CameronBanga",
     "date": "2026-09-18",
-    "score": 142,
-    "comments": 105,
+    "score": 148,
+    "comments": 108,
     "id": 49758419,
     "discussion_url": "https://news.ycombinator.com/item?id=49758419",
     "description": "Xcode 27.1 Beta Release Notes",
@@ -490,23 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421702"
+    "fetched_at": "2026-09-19T21:17:57.776725"
   },
   {
-    "title": "“The Secret Life of Circuits” is here",
-    "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-    "author": "surprisetalk",
-    "date": "2026-09-15",
-    "score": 139,
-    "comments": 31,
-    "id": 49720143,
-    "discussion_url": "https://news.ycombinator.com/item?id=49720143",
-    "description": "“The Secret Life of Circuits” is here",
+    "title": "You can run Git on object storage if you re-make packfiles",
+    "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+    "author": "evacchi",
+    "date": "2026-09-16",
+    "score": 129,
+    "comments": 30,
+    "id": 49730069,
+    "discussion_url": "https://news.ycombinator.com/item?id=49730069",
+    "description": "You can run Git on object storage if you re-make packfiles",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-19T14:10:39.421568"
+    "fetched_at": "2026-09-19T21:17:57.776630"
   }
 ]
