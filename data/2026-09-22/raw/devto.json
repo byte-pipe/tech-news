@@ -1,13 +1,13 @@
 [
   {
-    "title": "AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.",
-    "author": "Dhruv Jani",
-    "date": "2026-09-15",
-    "description": "Comments debate where true engineering beginsDhruv JaniDhruv JaniDhruv JaniFollowSep 15AI Didn't Remove the Engineering Work. It Just Made It Easier t...",
-    "tags": "#discuss, #ai, #career, #webdev",
-    "reactions": "119 reactions",
-    "comments": "0",
-    "url": "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9"
+    "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
+    "author": "xbill",
+    "date": "2026-09-16",
+    "description": "xbillxbillxbillFollowforGoogle Developer ExpertsSep 16A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4#machinelearning#gpu#benchmarking#python...",
+    "tags": "#machinelearning, #gpu, #benchmarking, #python",
+    "reactions": "15 reactions",
+    "comments": "Comments 7 comments",
+    "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150"
   },
   {
     "title": "API Performance Testing: How to Design Realistic Tests",
@@ -15,7 +15,7 @@
     "date": "2026-09-17",
     "description": "Real-world traffic rules and root-cause painsDaniel BalcarekDaniel BalcarekDaniel BalcarekFollowSep 17API Performance Testing: How to Design Realistic...",
     "tags": "#testing, #performance, #api, #webdev",
-    "reactions": "109 reactions",
+    "reactions": "114 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn"
   },
@@ -25,7 +25,7 @@
     "date": "2026-09-20",
     "description": "Treating prompt files as actual codeJitendra GuptaJitendra GuptaJitendra GuptaFollowforGoogle Developer ExpertsSep 20Architecting a Resilient DevSecOp...",
     "tags": "#ai, #devsecops, #github, #security",
-    "reactions": "18 reactions",
+    "reactions": "19 reactions",
     "comments": "0",
     "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4"
   },
@@ -50,12 +50,22 @@
     "url": "https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9"
   },
   {
+    "title": "Clean Code Is Not the Same as Clear Code: Comments Were Never the Problem",
+    "author": "Giorgi Kobaidze",
+    "date": "2026-09-21",
+    "description": "Includes a helpful regex breakdown in the commentsGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowSep 21Clean Code Is Not the Same as Clear Code: C...",
+    "tags": "#discuss, #programming, #documentation, #coding",
+    "reactions": "54 reactions",
+    "comments": "0",
+    "url": "https://dev.to/georgekobaidze/clean-code-is-not-the-same-as-clear-code-comments-were-never-the-problem-42n"
+  },
+  {
     "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
     "author": "Jem",
     "date": "2026-09-17",
     "description": "Data analysis dispels black dog syndrome mythJemJemJemFollowforThe DEV TeamSep 17Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!#devc...",
     "tags": "#devchallenge, #weekendchallenge, #hackathon, #programming",
-    "reactions": "70 reactions",
+    "reactions": "79 reactions",
     "comments": "Comments 29 comments",
     "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
   },
@@ -65,7 +75,7 @@
     "date": "2026-09-16",
     "description": "Clarifies models only request tools not run themRohini GaonkarRohini GaonkarRohini GaonkarFollowforAWSSep 16How AI Actually Calls an API? Tool Calling...",
     "tags": "#ai, #mcp, #aws, #tutorial",
-    "reactions": "33 reactions",
+    "reactions": "34 reactions",
     "comments": "0",
     "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8"
   },
@@ -80,16 +90,6 @@
     "url": "https://dev.to/cathylai/how-i-finally-learnt-to-solve-coding-interview-questions-2cop"
   },
   {
-    "title": "How can I prevent my AI coding assistant from repeating fixed mistakes across sessions?",
-    "author": "Edward Izgorodin",
-    "date": "2026-09-15",
-    "description": "Storage fails without negative feedback loopsEdward IzgorodinEdward IzgorodinEdward IzgorodinFollowSep 15How can I prevent my AI coding assistant from...",
-    "tags": "#ai, #agents, #mcp, #architecture",
-    "reactions": "27 reactions",
-    "comments": "0",
-    "url": "https://dev.to/izgorodin/how-can-i-prevent-my-ai-coding-assistant-from-repeating-fixed-mistakes-across-sessions-2kf7"
-  },
-  {
     "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
     "author": "bebechien",
     "date": "2026-09-16",
@@ -98,6 +98,16 @@
     "reactions": "38 reactions",
     "comments": "0",
     "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke"
+  },
+  {
+    "title": "I got rejected for using AI in an interview. Then I watched the interviewer do it.",
+    "author": "Info Inlet",
+    "date": "2026-09-19",
+    "description": "Comments highlight the new era of AI hypocrisyInfo InletInfo InletInfo InletFollowSep 19I got rejected for using AI in an interview. Then I watched th...",
+    "tags": "#discuss, #ai, #webdev, #career",
+    "reactions": "39 reactions",
+    "comments": "Comments 20 comments",
+    "url": "https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0"
   },
   {
     "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
@@ -120,26 +130,6 @@
     "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3"
   },
   {
-    "title": "The Quiet Weight of Working in Tech in the AI Era",
-    "author": "James Anderson",
-    "date": "2026-09-15",
-    "description": "Resignations sparked by AI replacement fearsJames AndersonJames AndersonJames AndersonFollowSep 15The Quiet Weight of Working in Tech in the AI Era#di...",
-    "tags": "#discuss, #mentalhealth, #career, #ai",
-    "reactions": "143 reactions",
-    "comments": "0",
-    "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g"
-  },
-  {
-    "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
-    "author": "Elmar Chavez",
-    "date": "2026-09-15",
-    "description": "The danger of skipping your own Step 1Elmar ChavezElmar ChavezElmar ChavezFollowSep 15The Slow and Quiet Cognitive Atrophy of a Modern Software Engine...",
-    "tags": "#software, #ai, #programming, #productivity",
-    "reactions": "88 reactions",
-    "comments": "0",
-    "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh"
-  },
-  {
     "title": "The beauty and terror of negative feedback",
     "author": "Amanda Mayfield",
     "date": "2026-09-18",
@@ -150,12 +140,22 @@
     "url": "https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d"
   },
   {
+    "title": "Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy",
+    "author": "xulingfeng",
+    "date": "2026-09-22",
+    "description": "Relatable impostor syndrome at an AI startupxulingfengxulingfengxulingfengFollowSep 22Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy#di...",
+    "tags": "#discuss, #career, #testing, #ai",
+    "reactions": "64 reactions",
+    "comments": "Comments 50 comments",
+    "url": "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3"
+  },
+  {
     "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
     "author": "Sylwia Laskowska",
     "date": "2026-09-21",
     "description": "Insights from speaking at AGNTCon EuropeSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowSep 21What If Your AI Agent Never Had to Leave the Brows...",
     "tags": "#ai, #webdev, #mcp, #typescript",
-    "reactions": "69 reactions",
+    "reactions": "81 reactions",
     "comments": "0",
     "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g"
   },
@@ -163,11 +163,21 @@
     "title": "What was your win this week?!",
     "author": "Jess Lee",
     "date": "2026-09-18",
-    "description": "Community celebrating diverse weekly achievementsJess LeeJess LeeJess LeeFollowforThe DEV TeamSep 18What was your win this week?!#weeklyretro65reactio...",
+    "description": "Community celebrating diverse weekly achievementsJess LeeJess LeeJess LeeFollowforThe DEV TeamSep 18What was your win this week?!#weeklyretro66reactio...",
     "tags": "#weeklyretro",
-    "reactions": "65 reactions",
+    "reactions": "66 reactions",
     "comments": "Comments 42 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
+  },
+  {
+    "title": "You're not an impostor, you just started from a different line",
+    "author": "Daniel Reis",
+    "date": "2026-09-21",
+    "description": "Daniel ReisDaniel ReisDaniel ReisFollowSep 21You're not an impostor, you just started from a different line#discuss#career#beginners#braziliandevs146r...",
+    "tags": "#discuss, #career, #beginners, #braziliandevs",
+    "reactions": "146 reactions",
+    "comments": "Comments 3 comments",
+    "url": "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph"
   },
   {
     "title": "i built a green blob that lives on my desktop. now it has feelings.",
@@ -175,18 +185,8 @@
     "date": "2026-09-20",
     "description": "Built natively with Python and GTK4Mika FlowersMika FlowersMika FlowersFollowSep 20i built a green blob that lives on my desktop. now it has feelings....",
     "tags": "#showdev, #python, #linux, #opensource",
-    "reactions": "59 reactions",
+    "reactions": "66 reactions",
     "comments": "0",
     "url": "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd"
-  },
-  {
-    "title": "🧩 Don't make Tech your entire personality.",
-    "author": "Tanay Dwivedi",
-    "date": "2026-09-15",
-    "description": "Comments debate treating hobbies like a frameworkTanay DwivediTanay DwivediTanay DwivediFollowSep 15🧩 Don't make Tech your entire personality.#product...",
-    "tags": "#productivity, #webdev, #ai, #javascript",
-    "reactions": "29 reactions",
-    "comments": "0",
-    "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc"
   }
 ]
