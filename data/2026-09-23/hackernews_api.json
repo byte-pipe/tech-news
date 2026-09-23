@@ -3,9 +3,9 @@
     "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
     "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
     "author": "spenvo",
-    "date": "2026-09-23",
-    "score": 76,
-    "comments": 36,
+    "date": "2026-09-22",
+    "score": 724,
+    "comments": 524,
     "id": 49805278,
     "discussion_url": "https://news.ycombinator.com/item?id=49805278",
     "description": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523037"
+    "fetched_at": "2026-09-23T15:19:21.285921"
   },
   {
     "title": "16-bit Intel 8088 chip (c. 1985)",
     "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
     "author": "rbanffy",
-    "date": "2026-09-23",
-    "score": 88,
-    "comments": 12,
+    "date": "2026-09-22",
+    "score": 127,
+    "comments": 17,
     "id": 49803635,
     "discussion_url": "https://news.ycombinator.com/item?id=49803635",
     "description": "16-bit Intel 8088 chip (c. 1985)",
@@ -31,32 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.522880"
-  },
-  {
-    "title": "A font that reads what you wrote",
-    "url": "https://rohanadwankar.github.io/posts/semfont.html",
-    "author": "RohanAdwankar",
-    "date": "2026-09-20",
-    "score": 79,
-    "comments": 40,
-    "id": 49774161,
-    "discussion_url": "https://news.ycombinator.com/item?id=49774161",
-    "description": "A font that reads what you wrote",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523339"
+    "fetched_at": "2026-09-23T15:19:21.286036"
   },
   {
     "title": "AMD's random number generator can't generate a 0?",
     "url": "https://board.flatassembler.net/topic.php?t=24261",
     "author": "BruceEel",
     "date": "2026-09-22",
-    "score": 236,
-    "comments": 183,
+    "score": 269,
+    "comments": 209,
     "id": 49798204,
     "discussion_url": "https://news.ycombinator.com/item?id=49798204",
     "description": "AMD's random number generator can't generate a 0?",
@@ -65,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523180"
+    "fetched_at": "2026-09-23T15:19:21.285991"
   },
   {
     "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
     "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
     "author": "MC995",
-    "date": "2026-09-23",
-    "score": 502,
-    "comments": 385,
+    "date": "2026-09-22",
+    "score": 761,
+    "comments": 559,
     "id": 49801939,
     "discussion_url": "https://news.ycombinator.com/item?id=49801939",
     "description": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
@@ -82,49 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.522945"
+    "fetched_at": "2026-09-23T15:19:21.286009"
   },
   {
-    "title": "Attention is all you have",
-    "url": "https://alicegg.tech/2026/09/21/attention",
-    "author": "zer0tonin",
-    "date": "2026-09-22",
-    "score": 1021,
-    "comments": 311,
-    "id": 49787726,
-    "discussion_url": "https://news.ycombinator.com/item?id=49787726",
-    "description": "Attention is all you have",
+    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "author": "pszypowicz",
+    "date": "2026-09-23",
+    "score": 320,
+    "comments": 159,
+    "id": 49814947,
+    "discussion_url": "https://news.ycombinator.com/item?id=49814947",
+    "description": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523363"
-  },
-  {
-    "title": "Can gzip be a language model?",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "author": "networked",
-    "date": "2026-09-22",
-    "score": 362,
-    "comments": 141,
-    "id": 49797323,
-    "discussion_url": "https://news.ycombinator.com/item?id=49797323",
-    "description": "Can gzip be a language model?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523162"
+    "fetched_at": "2026-09-23T15:19:21.285841"
   },
   {
     "title": "Claude Opus 5.5",
     "url": "https://www.anthropic.com/claude-opus-5-5",
     "author": "km144",
-    "date": "2026-09-23",
-    "score": 853,
-    "comments": 645,
+    "date": "2026-09-22",
+    "score": 1672,
+    "comments": 1022,
     "id": 49803892,
     "discussion_url": "https://news.ycombinator.com/item?id=49803892",
     "description": "Claude Opus 5.5",
@@ -133,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.522837"
+    "fetched_at": "2026-09-23T15:19:21.285856"
   },
   {
     "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
     "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
     "author": "theanonymousone",
-    "date": "2026-09-23",
-    "score": 159,
-    "comments": 49,
+    "date": "2026-09-22",
+    "score": 318,
+    "comments": 99,
     "id": 49804316,
     "discussion_url": "https://news.ycombinator.com/item?id=49804316",
     "description": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
@@ -150,32 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523136"
-  },
-  {
-    "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-    "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
-    "author": "fuzzythinker",
-    "date": "2026-09-21",
-    "score": 56,
-    "comments": 38,
-    "id": 49785202,
-    "discussion_url": "https://news.ycombinator.com/item?id=49785202",
-    "description": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523396"
+    "fetched_at": "2026-09-23T15:19:21.285969"
   },
   {
     "title": "GPT-6 Sol and Luna",
     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
     "author": "OfficialTurkey",
-    "date": "2026-09-23",
-    "score": 762,
-    "comments": 424,
+    "date": "2026-09-22",
+    "score": 1655,
+    "comments": 795,
     "id": 49805509,
     "discussion_url": "https://news.ycombinator.com/item?id=49805509",
     "description": "GPT-6 Sol and Luna",
@@ -184,15 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.522979"
+    "fetched_at": "2026-09-23T15:19:21.285899"
+  },
+  {
+    "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+    "author": "ksec",
+    "date": "2026-09-23",
+    "score": 279,
+    "comments": 83,
+    "id": 49811484,
+    "discussion_url": "https://news.ycombinator.com/item?id=49811484",
+    "description": "Grammarly will send unhinged messages to all your users if you try to cancel",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T15:19:21.286025"
   },
   {
     "title": "How did AMD Ryzen get 50% faster in two years?",
     "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
     "author": "ibobev",
-    "date": "2026-09-19",
-    "score": 111,
-    "comments": 19,
+    "date": "2026-09-18",
+    "score": 415,
+    "comments": 170,
     "id": 49758709,
     "discussion_url": "https://news.ycombinator.com/item?id=49758709",
     "description": "How did AMD Ryzen get 50% faster in two years?",
@@ -201,117 +167,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523080"
+    "fetched_at": "2026-09-23T15:19:21.285876"
   },
   {
-    "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
-    "url": "https://mouse.dev/blog/muse-runtime-export/",
-    "author": "Aeroi",
+    "title": "I don't want the details",
+    "url": "https://michaelheap.com/i-dont-want-the-details/",
+    "author": "mooreds",
     "date": "2026-09-23",
-    "score": 264,
-    "comments": 136,
-    "id": 49802871,
-    "discussion_url": "https://news.ycombinator.com/item?id=49802871",
-    "description": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+    "score": 137,
+    "comments": 87,
+    "id": 49815466,
+    "discussion_url": "https://news.ycombinator.com/item?id=49815466",
+    "description": "I don't want the details",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523255"
+    "fetched_at": "2026-09-23T15:19:21.285861"
   },
   {
-    "title": "I said no and Apple said yes",
-    "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-    "author": "thatslast",
-    "date": "2026-09-22",
-    "score": 765,
-    "comments": 613,
-    "id": 49797982,
-    "discussion_url": "https://news.ycombinator.com/item?id=49797982",
-    "description": "I said no and Apple said yes",
+    "title": "Jev in 25 Lines of Python",
+    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+    "author": "bashbjorn",
+    "date": "2026-09-23",
+    "score": 433,
+    "comments": 134,
+    "id": 49812769,
+    "discussion_url": "https://news.ycombinator.com/item?id=49812769",
+    "description": "Jev in 25 Lines of Python",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523313"
+    "fetched_at": "2026-09-23T15:19:21.285846"
   },
   {
-    "title": "MUNI Heritage Weekend in San Francisco",
-    "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
-    "author": "plun9",
+    "title": "Markdown in /src",
+    "url": "https://htmx.org/essays/markdown-in-src/",
+    "author": "perrygeo",
     "date": "2026-09-21",
-    "score": 128,
-    "comments": 30,
-    "id": 49780622,
-    "discussion_url": "https://news.ycombinator.com/item?id=49780622",
-    "description": "MUNI Heritage Weekend in San Francisco",
+    "score": 147,
+    "comments": 85,
+    "id": 49794478,
+    "discussion_url": "https://news.ycombinator.com/item?id=49794478",
+    "description": "Markdown in /src",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523046"
+    "fetched_at": "2026-09-23T15:19:21.286082"
   },
   {
-    "title": "Meta’s Muse has a serious 0-day",
-    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-    "author": "pavel_lishin",
-    "date": "2026-09-23",
-    "score": 105,
-    "comments": 47,
-    "id": 49802030,
-    "discussion_url": "https://news.ycombinator.com/item?id=49802030",
-    "description": "Meta’s Muse has a serious 0-day",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523295"
-  },
-  {
-    "title": "MiMo v2.6",
-    "url": "https://mimo.xiaomi.com/mimo-v2-6",
-    "author": "volf_",
+    "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+    "url": "https://foxscript.org/",
+    "author": "boredjohnny",
     "date": "2026-09-22",
-    "score": 1082,
-    "comments": 469,
-    "id": 49792730,
-    "discussion_url": "https://news.ycombinator.com/item?id=49792730",
-    "description": "MiMo v2.6",
+    "score": 409,
+    "comments": 225,
+    "id": 49808023,
+    "discussion_url": "https://news.ycombinator.com/item?id=49808023",
+    "description": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523304"
+    "fetched_at": "2026-09-23T15:19:21.285934"
   },
   {
-    "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-    "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-    "author": "theanonymousone",
+    "title": "Native apps written in TypeScript and CSS",
+    "url": "https://github.com/geastack/examples",
+    "author": "arbayi",
     "date": "2026-09-22",
-    "score": 149,
-    "comments": 61,
-    "id": 49796660,
-    "discussion_url": "https://news.ycombinator.com/item?id=49796660",
-    "description": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+    "score": 118,
+    "comments": 46,
+    "id": 49807021,
+    "discussion_url": "https://news.ycombinator.com/item?id=49807021",
+    "description": "Native apps written in TypeScript and CSS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523331"
+    "fetched_at": "2026-09-23T15:19:21.286033"
+  },
+  {
+    "title": "Obscura: VPN that can't log your activity",
+    "url": "https://obscura.com/#faq-technical",
+    "author": "Flimm",
+    "date": "2026-09-22",
+    "score": 168,
+    "comments": 123,
+    "id": 49807003,
+    "discussion_url": "https://news.ycombinator.com/item?id=49807003",
+    "description": "Obscura: VPN that can't log your activity",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T15:19:21.286021"
   },
   {
     "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
     "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
     "author": "sohkamyung",
     "date": "2026-09-22",
-    "score": 479,
-    "comments": 338,
+    "score": 702,
+    "comments": 411,
     "id": 49801324,
     "discussion_url": "https://news.ycombinator.com/item?id=49801324",
     "description": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
@@ -320,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523063"
+    "fetched_at": "2026-09-23T15:19:21.285912"
   },
   {
     "title": "OpenAI is well positioned to fast-follow Jev",
     "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
     "author": "JohnBerryman",
-    "date": "2026-09-23",
-    "score": 211,
-    "comments": 166,
+    "date": "2026-09-22",
+    "score": 305,
+    "comments": 213,
     "id": 49802161,
     "discussion_url": "https://news.ycombinator.com/item?id=49802161",
     "description": "OpenAI is well positioned to fast-follow Jev",
@@ -337,49 +303,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523263"
+    "fetched_at": "2026-09-23T15:19:21.286003"
   },
   {
-    "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
     "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
     "author": "devonnull",
-    "date": "2026-09-23",
-    "score": 216,
-    "comments": 114,
+    "date": "2026-09-22",
+    "score": 785,
+    "comments": 405,
     "id": 49806430,
     "discussion_url": "https://news.ycombinator.com/item?id=49806430",
-    "description": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+    "description": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.522865"
+    "fetched_at": "2026-09-23T15:19:21.286017"
   },
   {
-    "title": "SAML: A Fractal of Bad Design",
-    "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-    "author": "aray07",
-    "date": "2026-09-23",
-    "score": 72,
-    "comments": 20,
-    "id": 49806335,
-    "discussion_url": "https://news.ycombinator.com/item?id=49806335",
-    "description": "SAML: A Fractal of Bad Design",
+    "title": "People hooked on vapes try a new way to quit: cigarettes",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+    "author": "alephnerd",
+    "date": "2026-09-22",
+    "score": 225,
+    "comments": 301,
+    "id": 49795686,
+    "discussion_url": "https://news.ycombinator.com/item?id=49795686",
+    "description": "People hooked on vapes try a new way to quit: cigarettes",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523099"
+    "fetched_at": "2026-09-23T15:19:21.285982"
+  },
+  {
+    "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+    "url": "https://github.com/xCuri0/ReBarUEFI",
+    "author": "nateb2022",
+    "date": "2026-09-21",
+    "score": 201,
+    "comments": 62,
+    "id": 49781862,
+    "discussion_url": "https://news.ycombinator.com/item?id=49781862",
+    "description": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T15:19:21.285908"
+  },
+  {
+    "title": "SAML: A fractal of bad design",
+    "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+    "author": "aray07",
+    "date": "2026-09-22",
+    "score": 297,
+    "comments": 156,
+    "id": 49806335,
+    "discussion_url": "https://news.ycombinator.com/item?id=49806335",
+    "description": "SAML: A fractal of bad design",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T15:19:21.285930"
+  },
+  {
+    "title": "Samsung accidentally freezes its smart fridges with a software update",
+    "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+    "author": "Markoff",
+    "date": "2026-09-23",
+    "score": 144,
+    "comments": 128,
+    "id": 49815381,
+    "discussion_url": "https://news.ycombinator.com/item?id=49815381",
+    "description": "Samsung accidentally freezes its smart fridges with a software update",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T15:19:21.285960"
   },
   {
     "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
     "url": "https://droprun.sh/",
     "author": "mixedbit",
     "date": "2026-09-22",
-    "score": 140,
-    "comments": 48,
+    "score": 177,
+    "comments": 59,
     "id": 49801329,
     "discussion_url": "https://news.ycombinator.com/item?id=49801329",
     "description": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
@@ -388,100 +405,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523109"
+    "fetched_at": "2026-09-23T15:19:21.286078"
   },
   {
-    "title": "Solitaire Alone Together",
-    "url": "https://solitairealonetogether.com/",
-    "author": "eieio",
+    "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+    "url": "https://benchmarkheaven.com/jev-models",
+    "author": "florianstandhar",
     "date": "2026-09-22",
-    "score": 116,
-    "comments": 28,
-    "id": 49794193,
-    "discussion_url": "https://news.ycombinator.com/item?id=49794193",
-    "description": "Solitaire Alone Together",
+    "score": 125,
+    "comments": 34,
+    "id": 49800574,
+    "discussion_url": "https://news.ycombinator.com/item?id=49800574",
+    "description": "Show HN: JevBench, a reproducible benchmark for typed decision models",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.522989"
+    "fetched_at": "2026-09-23T15:19:21.286029"
   },
   {
-    "title": "Spymarks, not Watermarks",
-    "url": "https://brand.io/article/spymarks/",
-    "author": "possibilistic",
+    "title": "The darker side of being a doctor",
+    "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+    "author": "Danhale93",
+    "date": "2026-09-23",
+    "score": 226,
+    "comments": 234,
+    "id": 49814159,
+    "discussion_url": "https://news.ycombinator.com/item?id=49814159",
+    "description": "The darker side of being a doctor",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T15:19:21.286064"
+  },
+  {
+    "title": "Transit rewards",
+    "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+    "author": "raybb",
+    "date": "2026-09-23",
+    "score": 207,
+    "comments": 257,
+    "id": 49811065,
+    "discussion_url": "https://news.ycombinator.com/item?id=49811065",
+    "description": "Transit rewards",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T15:19:21.285946"
+  },
+  {
+    "title": "Unreal Agent",
+    "url": "https://unreallabs.ai/blog/unreal-agent/",
+    "author": "trollied",
     "date": "2026-09-22",
-    "score": 640,
-    "comments": 158,
-    "id": 49794615,
-    "discussion_url": "https://news.ycombinator.com/item?id=49794615",
-    "description": "Spymarks, not Watermarks",
+    "score": 220,
+    "comments": 117,
+    "id": 49805748,
+    "discussion_url": "https://news.ycombinator.com/item?id=49805748",
+    "description": "Unreal Agent",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523347"
+    "fetched_at": "2026-09-23T15:19:21.285965"
   },
   {
-    "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-    "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
-    "author": "Cider9986",
-    "date": "2026-09-23",
-    "score": 192,
-    "comments": 84,
-    "id": 49804683,
-    "discussion_url": "https://news.ycombinator.com/item?id=49804683",
-    "description": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+    "title": "What California is learning from solar panels built over irrigation canals",
+    "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+    "author": "Jtsummers",
+    "date": "2026-09-22",
+    "score": 285,
+    "comments": 542,
+    "id": 49796379,
+    "discussion_url": "https://news.ycombinator.com/item?id=49796379",
+    "description": "What California is learning from solar panels built over irrigation canals",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.522935"
-  },
-  {
-    "title": "Vacate a drone restriction that criminalized recording immigration agents",
-    "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
-    "author": "hn_acker",
-    "date": "2026-09-23",
-    "score": 82,
-    "comments": 16,
-    "id": 49802581,
-    "discussion_url": "https://news.ycombinator.com/item?id=49802581",
-    "description": "Vacate a drone restriction that criminalized recording immigration agents",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523322"
-  },
-  {
-    "title": "What It's Like to Work in One of America's Data Centers",
-    "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
-    "author": "JumpCrisscross",
-    "date": "2026-09-21",
-    "score": 61,
-    "comments": 61,
-    "id": 49780175,
-    "discussion_url": "https://news.ycombinator.com/item?id=49780175",
-    "description": "What It's Like to Work in One of America's Data Centers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523287"
+    "fetched_at": "2026-09-23T15:19:21.285999"
   },
   {
     "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
     "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
     "author": "vntok",
-    "date": "2026-09-23",
-    "score": 103,
-    "comments": 54,
+    "date": "2026-09-22",
+    "score": 216,
+    "comments": 115,
     "id": 49803959,
     "discussion_url": "https://news.ycombinator.com/item?id=49803959",
     "description": "WordPress: Unauthenticated path traversal leading to conditional RCE",
@@ -490,23 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.523029"
-  },
-  {
-    "title": "Writing Rust code that's fast by asking agents to make the code faster",
-    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
-    "author": "mooreds",
-    "date": "2026-09-23",
-    "score": 84,
-    "comments": 46,
-    "id": 49803085,
-    "discussion_url": "https://news.ycombinator.com/item?id=49803085",
-    "description": "Writing Rust code that's fast by asking agents to make the code faster",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T06:44:45.522966"
+    "fetched_at": "2026-09-23T15:19:21.285942"
   }
 ]

@@ -30,9 +30,49 @@
     "site_name": "tldr"
   },
   {
-    "title": "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
-    "url": "https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062",
-    "description": "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
+    "title": "Agility Robotics: Inside the First US Humanoid Company to Go Public",
+    "url": "https://www.tanayj.com/p/agility-robotics-inside-the-first",
+    "description": "Agility Robotics: Inside the First US Humanoid Company to Go Public",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Alibaba Opens Qwen-Image-2.1: 7B Gen-and-Edit Model With Native RGBA",
+    "url": "https://pandaily.com/alibaba-qwen-image-2-1-7b-rgba-open-weight",
+    "description": "Alibaba Opens Qwen-Image-2.1: 7B Gen-and-Edit Model With Native RGBA",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Alibaba touts new AI chip, Qwen Intelligence and age of machine intelligence",
+    "url": "https://www.constellationr.com/insights/news/alibaba-touts-new-ai-chip-qwen-intelligence-and-age-machine-intelligence",
+    "description": "Alibaba touts new AI chip, Qwen Intelligence and age of machine intelligence",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+    "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+    "description": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic, OpenAI release cheaper AI even as safety fears grow",
+    "url": "https://techxplore.com/news/2026-09-anthropic-openai-cheaper-ai-safety.html",
+    "description": "Anthropic, OpenAI release cheaper AI even as safety fears grow",
     "tags": [
       "tldr"
     ],
@@ -43,36 +83,6 @@
     "title": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
     "url": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band",
     "description": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Apple has reportedly ‘postponed’ AI pendant product",
-    "url": "https://9to5mac.com/2026/09/22/apple-has-reportedly-postponed-ai-pendant-product",
-    "description": "Apple has reportedly ‘postponed’ AI pendant product",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Apple's Smart Glasses to Enter a Rapidly Growing Market",
-    "url": "https://www.macrumors.com/2026/09/22/apple-smart-glasses-to-enter-growing-market",
-    "description": "Apple's Smart Glasses to Enter a Rapidly Growing Market",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Armenia on track to become one of leading hubs for US AI infrastructure – Bloomberg - ARMENPRESS Armenian News Agency",
-    "url": "https://armenpress.am/en/article/1261009",
-    "description": "Armenia on track to become one of leading hubs for US AI infrastructure – Bloomberg - ARMENPRESS Armenian News Agency",
     "tags": [
       "tldr"
     ],
@@ -100,9 +110,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-    "description": "ChatGPT now knows what you do on other websites via ad collector",
+    "title": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue",
+    "description": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "China’s Next-Generation Crypto Candidates Drew 104 Public Findings in Three Days. Researchers Broke Five Designs on Day Two",
+    "url": "https://postquantum.com/security-pqc/china-ngcc-candidate-flaws",
+    "description": "China’s Next-Generation Crypto Candidates Drew 104 Public Findings in Three Days. Researchers Broke Five Designs on Day Two",
     "tags": [
       "tldr"
     ],
@@ -120,16 +140,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude Opus 5.5 now available on AI Gateway",
-    "url": "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
-    "description": "Claude Opus 5.5 now available on AI Gateway",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "DeepSeek-V4.1-Flash: Frontier Agents on a Smaller Memory Budget",
     "url": "https://andlukyane.com/blog/paper-review-deepseek-v41-flash",
     "description": "DeepSeek-V4.1-Flash: Frontier Agents on a Smaller Memory Budget",
@@ -140,29 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Drop: Rootless Linux Sandboxing for Programs and Coding Agents",
-    "url": "https://droprun.sh",
-    "description": "Drop: Rootless Linux Sandboxing for Programs and Coding Agents",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "Frontier Overhangs",
     "url": "https://stratechery.com/2026/frontier-overhangs",
     "description": "Frontier Overhangs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "GitHub Won a Case You Weren’t In",
-    "url": "https://thebuild.com/blog/github-won-a-case-you-werent-in",
-    "description": "GitHub Won a Case You Weren’t In",
     "tags": [
       "tldr"
     ],
@@ -220,6 +210,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Introducing Claude Opus 5.5 \\ Anthropic",
+    "url": "http://anthropic.com/claude-opus-5-5",
+    "description": "Introducing Claude Opus 5.5 \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
     "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
     "url": "https://simonw.substack.com/p/jev-introduces-a-new-shape-of-llm",
     "description": "Jev introduces a new shape of LLM - System One, aka Decision Models",
@@ -230,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-    "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
-    "description": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+    "title": "Latest BGP hijack targets hosting software vendor",
+    "url": "https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor",
+    "description": "Latest BGP hijack targets hosting software vendor",
     "tags": [
       "tldr"
     ],
@@ -240,9 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops",
-    "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops",
-    "description": "MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops",
+    "title": "Markdown in /src",
+    "url": "https://htmx.org/essays/markdown-in-src",
+    "description": "Markdown in /src",
     "tags": [
       "tldr"
     ],
@@ -290,16 +290,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-    "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions",
-    "description": "New ClosedQuorum Windows malware uses AI for attack decisions",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "Open Data: A Dataset Hub for LLM Serving Research (Website)",
     "url": "https://data.agentic-system.org",
     "description": "Open Data: A Dataset Hub for LLM Serving Research (Website)",
@@ -340,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Qwen-Image-2.1 in ComfyUI: Open-Weight Image Generation and Editing, Now with Transparency",
-    "url": "https://blog.comfy.org/p/qwen-image-21-in-comfyui-open-weight",
-    "description": "Qwen-Image-2.1 in ComfyUI: Open-Weight Image Generation and Editing, Now with Transparency",
+    "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown",
+    "description": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
     "tags": [
       "tldr"
     ],
@@ -350,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
-    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown",
-    "description": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+    "title": "Sources: China's SASAC, which oversees state-owned companies, is surveying the number of Broadcom switches in state-backed data centers amid a domestic AI drive",
+    "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1",
+    "description": "Sources: China's SASAC, which oversees state-owned companies, is surveying the number of Broadcom switches in state-backed data centers amid a domestic AI drive",
     "tags": [
       "tldr"
     ],
@@ -370,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Threat Intelligence | Analysis of FomoPeek App Store Poisoning and iOS Kernel Exploitation",
-    "url": "https://slowmist.medium.com/threat-intelligence-analysis-of-fomopeek-app-store-poisoning-and-ios-kernel-exploitation-e568762d11ca?source=rss-4ceeedda40e8------2",
-    "description": "Threat Intelligence | Analysis of FomoPeek App Store Poisoning and iOS Kernel Exploitation",
+    "title": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
+    "url": "https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same",
+    "description": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
     "tags": [
       "tldr"
     ],
@@ -380,9 +370,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Unreal Agent — Unreal Labs",
-    "url": "https://unreallabs.ai/blog/unreal-agent",
-    "description": "Unreal Agent — Unreal Labs",
+    "title": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
+    "url": "https://steveblank.substack.com/p/the-year-ai-came-for-us-teaching",
+    "description": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The plunging price of thought | Epoch AI",
+    "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
+    "description": "The plunging price of thought | Epoch AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+    "url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph",
+    "description": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Using shallow-git tarballs for CI",
+    "url": "https://people.kernel.org/monsieuricon/using-shallow-git-tarballs-for-ci",
+    "description": "Using shallow-git tarballs for CI",
     "tags": [
       "tldr"
     ],
@@ -420,6 +440,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Your AI Coding Assistant Has the Keys to the Repo. Z.ai Just Showed Why That Matters",
+    "url": "https://devops.com/your-ai-coding-assistant-has-the-keys-to-the-repo-z-ai-just-showed-why-that-matters",
+    "description": "Your AI Coding Assistant Has the Keys to the Repo. Z.ai Just Showed Why That Matters",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
     "title": "dlab Open Source Week: Frontier AI on Your Own Hardware — Tim Dettmers",
     "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week",
     "description": "dlab Open Source Week: Frontier AI on Your Own Hardware — Tim Dettmers",
@@ -430,39 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "docling-project/docling: Document parsing and AI integration toolkit",
-    "url": "https://github.com/docling-project/docling",
-    "description": "docling-project/docling: Document parsing and AI integration toolkit",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "google/ax: Google's open agentic orchestrator for Kubernetes clusters",
-    "url": "https://github.com/google/ax",
-    "description": "google/ax: Google's open agentic orchestrator for Kubernetes clusters",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "iamgio/quarkdown: Markdown typesetting system for books, papers, and presentations",
-    "url": "https://github.com/iamgio/quarkdown",
-    "description": "iamgio/quarkdown: Markdown typesetting system for books, papers, and presentations",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "jaredpalmer/kev: Tiny Jev-like decision models built on Qwen3.5",
-    "url": "https://github.com/jaredpalmer/kev/tree/main",
-    "description": "jaredpalmer/kev: Tiny Jev-like decision models built on Qwen3.5",
+    "title": "oss-security - CVE-2026-89775: Guest-to-Host Escape in KVM/arm64",
+    "url": "https://www.openwall.com/lists/oss-security/2026/09/16/14",
+    "description": "oss-security - CVE-2026-89775: Guest-to-Host Escape in KVM/arm64",
     "tags": [
       "tldr"
     ],
