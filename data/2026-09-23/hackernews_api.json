@@ -4,8 +4,8 @@
     "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
     "author": "spenvo",
     "date": "2026-09-22",
-    "score": 724,
-    "comments": 524,
+    "score": 782,
+    "comments": 585,
     "id": 49805278,
     "discussion_url": "https://news.ycombinator.com/item?id=49805278",
     "description": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
@@ -14,66 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285921"
+    "fetched_at": "2026-09-23T22:02:05.828706"
   },
   {
-    "title": "16-bit Intel 8088 chip (c. 1985)",
-    "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
-    "author": "rbanffy",
-    "date": "2026-09-22",
-    "score": 127,
-    "comments": 17,
-    "id": 49803635,
-    "discussion_url": "https://news.ycombinator.com/item?id=49803635",
-    "description": "16-bit Intel 8088 chip (c. 1985)",
+    "title": "28% of job postings on company career sites have been open over 90 days",
+    "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+    "author": "rubatrejo",
+    "date": "2026-09-23",
+    "score": 186,
+    "comments": 267,
+    "id": 49818698,
+    "discussion_url": "https://news.ycombinator.com/item?id=49818698",
+    "description": "28% of job postings on company career sites have been open over 90 days",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286036"
-  },
-  {
-    "title": "AMD's random number generator can't generate a 0?",
-    "url": "https://board.flatassembler.net/topic.php?t=24261",
-    "author": "BruceEel",
-    "date": "2026-09-22",
-    "score": 269,
-    "comments": 209,
-    "id": 49798204,
-    "discussion_url": "https://news.ycombinator.com/item?id=49798204",
-    "description": "AMD's random number generator can't generate a 0?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285991"
-  },
-  {
-    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-    "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-    "author": "MC995",
-    "date": "2026-09-22",
-    "score": 761,
-    "comments": 559,
-    "id": 49801939,
-    "discussion_url": "https://news.ycombinator.com/item?id=49801939",
-    "description": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286009"
+    "fetched_at": "2026-09-23T22:02:05.828640"
   },
   {
     "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
     "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
     "author": "pszypowicz",
     "date": "2026-09-23",
-    "score": 320,
-    "comments": 159,
+    "score": 426,
+    "comments": 238,
     "id": 49814947,
     "discussion_url": "https://news.ycombinator.com/item?id=49814947",
     "description": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
@@ -82,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285841"
+    "fetched_at": "2026-09-23T22:02:05.828644"
   },
   {
     "title": "Claude Opus 5.5",
     "url": "https://www.anthropic.com/claude-opus-5-5",
     "author": "km144",
     "date": "2026-09-22",
-    "score": 1672,
-    "comments": 1022,
+    "score": 1765,
+    "comments": 1074,
     "id": 49803892,
     "discussion_url": "https://news.ycombinator.com/item?id=49803892",
     "description": "Claude Opus 5.5",
@@ -99,15 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285856"
+    "fetched_at": "2026-09-23T22:02:05.828679"
   },
   {
     "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
     "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
     "author": "theanonymousone",
     "date": "2026-09-22",
-    "score": 318,
-    "comments": 99,
+    "score": 329,
+    "comments": 103,
     "id": 49804316,
     "discussion_url": "https://news.ycombinator.com/item?id=49804316",
     "description": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
@@ -116,15 +82,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285969"
+    "fetched_at": "2026-09-23T22:02:05.828710"
+  },
+  {
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "author": "raahelb",
+    "date": "2026-09-23",
+    "score": 345,
+    "comments": 334,
+    "id": 49820134,
+    "discussion_url": "https://news.ycombinator.com/item?id=49820134",
+    "description": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T22:02:05.828586"
+  },
+  {
+    "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+    "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+    "author": "vrganj",
+    "date": "2026-09-23",
+    "score": 225,
+    "comments": 85,
+    "id": 49821608,
+    "discussion_url": "https://news.ycombinator.com/item?id=49821608",
+    "description": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T22:02:05.828631"
+  },
+  {
+    "title": "Fixing the Portobello Police Station Clock",
+    "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "author": "avidly",
+    "date": "2026-09-23",
+    "score": 343,
+    "comments": 77,
+    "id": 49817469,
+    "discussion_url": "https://news.ycombinator.com/item?id=49817469",
+    "description": "Fixing the Portobello Police Station Clock",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T22:02:05.828536"
+  },
+  {
+    "title": "GPT-6 Astra has gained the ability to drive a car",
+    "url": "https://drivingbench.com/",
+    "author": "plurby",
+    "date": "2026-09-23",
+    "score": 256,
+    "comments": 217,
+    "id": 49817404,
+    "discussion_url": "https://news.ycombinator.com/item?id=49817404",
+    "description": "GPT-6 Astra has gained the ability to drive a car",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T22:02:05.828675"
   },
   {
     "title": "GPT-6 Sol and Luna",
     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
     "author": "OfficialTurkey",
     "date": "2026-09-22",
-    "score": 1655,
-    "comments": 795,
+    "score": 1728,
+    "comments": 820,
     "id": 49805509,
     "discussion_url": "https://news.ycombinator.com/item?id=49805509",
     "description": "GPT-6 Sol and Luna",
@@ -133,15 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285899"
+    "fetched_at": "2026-09-23T22:02:05.828668"
+  },
+  {
+    "title": "Gemini 3.8 text-to-speech",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "author": "swolpers",
+    "date": "2026-09-23",
+    "score": 214,
+    "comments": 111,
+    "id": 49817615,
+    "discussion_url": "https://news.ycombinator.com/item?id=49817615",
+    "description": "Gemini 3.8 text-to-speech",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T22:02:05.828577"
   },
   {
     "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
     "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
     "author": "ksec",
     "date": "2026-09-23",
-    "score": 279,
-    "comments": 83,
+    "score": 343,
+    "comments": 97,
     "id": 49811484,
     "discussion_url": "https://news.ycombinator.com/item?id=49811484",
     "description": "Grammarly will send unhinged messages to all your users if you try to cancel",
@@ -150,32 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286025"
-  },
-  {
-    "title": "How did AMD Ryzen get 50% faster in two years?",
-    "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-    "author": "ibobev",
-    "date": "2026-09-18",
-    "score": 415,
-    "comments": 170,
-    "id": 49758709,
-    "discussion_url": "https://news.ycombinator.com/item?id=49758709",
-    "description": "How did AMD Ryzen get 50% faster in two years?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285876"
+    "fetched_at": "2026-09-23T22:02:05.828772"
   },
   {
     "title": "I don't want the details",
     "url": "https://michaelheap.com/i-dont-want-the-details/",
     "author": "mooreds",
     "date": "2026-09-23",
-    "score": 137,
-    "comments": 87,
+    "score": 319,
+    "comments": 178,
     "id": 49815466,
     "discussion_url": "https://news.ycombinator.com/item?id=49815466",
     "description": "I don't want the details",
@@ -184,15 +218,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285861"
+    "fetched_at": "2026-09-23T22:02:05.828599"
+  },
+  {
+    "title": "Italian parliament votes for return to nuclear energy",
+    "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "author": "geox",
+    "date": "2026-09-23",
+    "score": 425,
+    "comments": 256,
+    "id": 49819221,
+    "discussion_url": "https://news.ycombinator.com/item?id=49819221",
+    "description": "Italian parliament votes for return to nuclear energy",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T22:02:05.828572"
   },
   {
     "title": "Jev in 25 Lines of Python",
     "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
     "author": "bashbjorn",
     "date": "2026-09-23",
-    "score": 433,
-    "comments": 134,
+    "score": 592,
+    "comments": 190,
     "id": 49812769,
     "discussion_url": "https://news.ycombinator.com/item?id=49812769",
     "description": "Jev in 25 Lines of Python",
@@ -201,32 +252,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285846"
-  },
-  {
-    "title": "Markdown in /src",
-    "url": "https://htmx.org/essays/markdown-in-src/",
-    "author": "perrygeo",
-    "date": "2026-09-21",
-    "score": 147,
-    "comments": 85,
-    "id": 49794478,
-    "discussion_url": "https://news.ycombinator.com/item?id=49794478",
-    "description": "Markdown in /src",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286082"
+    "fetched_at": "2026-09-23T22:02:05.828582"
   },
   {
     "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
     "url": "https://foxscript.org/",
     "author": "boredjohnny",
     "date": "2026-09-22",
-    "score": 409,
-    "comments": 225,
+    "score": 463,
+    "comments": 249,
     "id": 49808023,
     "discussion_url": "https://news.ycombinator.com/item?id=49808023",
     "description": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
@@ -235,32 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285934"
-  },
-  {
-    "title": "Native apps written in TypeScript and CSS",
-    "url": "https://github.com/geastack/examples",
-    "author": "arbayi",
-    "date": "2026-09-22",
-    "score": 118,
-    "comments": 46,
-    "id": 49807021,
-    "discussion_url": "https://news.ycombinator.com/item?id=49807021",
-    "description": "Native apps written in TypeScript and CSS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286033"
+    "fetched_at": "2026-09-23T22:02:05.828683"
   },
   {
     "title": "Obscura: VPN that can't log your activity",
     "url": "https://obscura.com/#faq-technical",
     "author": "Flimm",
     "date": "2026-09-22",
-    "score": 168,
-    "comments": 123,
+    "score": 180,
+    "comments": 134,
     "id": 49807003,
     "discussion_url": "https://news.ycombinator.com/item?id=49807003",
     "description": "Obscura: VPN that can't log your activity",
@@ -269,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286021"
+    "fetched_at": "2026-09-23T22:02:05.828753"
   },
   {
     "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
     "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
     "author": "sohkamyung",
     "date": "2026-09-22",
-    "score": 702,
-    "comments": 411,
+    "score": 720,
+    "comments": 436,
     "id": 49801324,
     "discussion_url": "https://news.ycombinator.com/item?id=49801324",
     "description": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
@@ -286,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285912"
+    "fetched_at": "2026-09-23T22:02:05.828742"
   },
   {
     "title": "OpenAI is well positioned to fast-follow Jev",
     "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
     "author": "JohnBerryman",
     "date": "2026-09-22",
-    "score": 305,
-    "comments": 213,
+    "score": 314,
+    "comments": 221,
     "id": 49802161,
     "discussion_url": "https://news.ycombinator.com/item?id=49802161",
     "description": "OpenAI is well positioned to fast-follow Jev",
@@ -303,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286003"
+    "fetched_at": "2026-09-23T22:02:05.828765"
   },
   {
     "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
     "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
     "author": "devonnull",
     "date": "2026-09-22",
-    "score": 785,
-    "comments": 405,
+    "score": 883,
+    "comments": 478,
     "id": 49806430,
     "discussion_url": "https://news.ycombinator.com/item?id=49806430",
     "description": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
@@ -320,32 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286017"
-  },
-  {
-    "title": "People hooked on vapes try a new way to quit: cigarettes",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
-    "author": "alephnerd",
-    "date": "2026-09-22",
-    "score": 225,
-    "comments": 301,
-    "id": 49795686,
-    "discussion_url": "https://news.ycombinator.com/item?id=49795686",
-    "description": "People hooked on vapes try a new way to quit: cigarettes",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285982"
+    "fetched_at": "2026-09-23T22:02:05.828735"
   },
   {
     "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
     "url": "https://github.com/xCuri0/ReBarUEFI",
     "author": "nateb2022",
     "date": "2026-09-21",
-    "score": 201,
-    "comments": 62,
+    "score": 229,
+    "comments": 72,
     "id": 49781862,
     "discussion_url": "https://news.ycombinator.com/item?id=49781862",
     "description": "ReBarUEFI: Resizable BAR for almost any UEFI system",
@@ -354,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285908"
+    "fetched_at": "2026-09-23T22:02:05.828691"
   },
   {
     "title": "SAML: A fractal of bad design",
     "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
     "author": "aray07",
     "date": "2026-09-22",
-    "score": 297,
-    "comments": 156,
+    "score": 337,
+    "comments": 177,
     "id": 49806335,
     "discussion_url": "https://news.ycombinator.com/item?id=49806335",
     "description": "SAML: A fractal of bad design",
@@ -371,83 +371,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285930"
+    "fetched_at": "2026-09-23T22:02:05.828703"
   },
   {
-    "title": "Samsung accidentally freezes its smart fridges with a software update",
-    "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-    "author": "Markoff",
+    "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+    "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+    "author": "ortusdux",
     "date": "2026-09-23",
-    "score": 144,
-    "comments": 128,
-    "id": 49815381,
-    "discussion_url": "https://news.ycombinator.com/item?id=49815381",
-    "description": "Samsung accidentally freezes its smart fridges with a software update",
+    "score": 255,
+    "comments": 142,
+    "id": 49816374,
+    "discussion_url": "https://news.ycombinator.com/item?id=49816374",
+    "description": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285960"
+    "fetched_at": "2026-09-23T22:02:05.828623"
   },
   {
-    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
-    "url": "https://droprun.sh/",
-    "author": "mixedbit",
-    "date": "2026-09-22",
-    "score": 177,
-    "comments": 59,
-    "id": 49801329,
-    "discussion_url": "https://news.ycombinator.com/item?id=49801329",
-    "description": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286078"
-  },
-  {
-    "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-    "url": "https://benchmarkheaven.com/jev-models",
-    "author": "florianstandhar",
-    "date": "2026-09-22",
-    "score": 125,
-    "comments": 34,
-    "id": 49800574,
-    "discussion_url": "https://news.ycombinator.com/item?id=49800574",
-    "description": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286029"
-  },
-  {
-    "title": "The darker side of being a doctor",
-    "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
-    "author": "Danhale93",
+    "title": "Stripe's Knowledge AI Platform",
+    "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+    "author": "ltononro",
     "date": "2026-09-23",
-    "score": 226,
-    "comments": 234,
-    "id": 49814159,
-    "discussion_url": "https://news.ycombinator.com/item?id=49814159",
-    "description": "The darker side of being a doctor",
+    "score": 159,
+    "comments": 99,
+    "id": 49815982,
+    "discussion_url": "https://news.ycombinator.com/item?id=49815982",
+    "description": "Stripe's Knowledge AI Platform",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.286064"
+    "fetched_at": "2026-09-23T22:02:05.828531"
+  },
+  {
+    "title": "The GitHub wiki is an anti-pattern (2022)",
+    "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+    "author": "ibobev",
+    "date": "2026-09-23",
+    "score": 160,
+    "comments": 95,
+    "id": 49815484,
+    "discussion_url": "https://news.ycombinator.com/item?id=49815484",
+    "description": "The GitHub wiki is an anti-pattern (2022)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T22:02:05.828687"
+  },
+  {
+    "title": "Tokens too cheap to meter",
+    "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+    "author": "teoruiz",
+    "date": "2026-09-23",
+    "score": 207,
+    "comments": 167,
+    "id": 49813482,
+    "discussion_url": "https://news.ycombinator.com/item?id=49813482",
+    "description": "Tokens too cheap to meter",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-23T22:02:05.828615"
   },
   {
     "title": "Transit rewards",
     "url": "https://waymo.com/blog/2026/09/transit-rewards/",
     "author": "raybb",
     "date": "2026-09-23",
-    "score": 207,
-    "comments": 257,
+    "score": 245,
+    "comments": 314,
     "id": 49811065,
     "discussion_url": "https://news.ycombinator.com/item?id=49811065",
     "description": "Transit rewards",
@@ -456,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285946"
+    "fetched_at": "2026-09-23T22:02:05.828655"
   },
   {
     "title": "Unreal Agent",
     "url": "https://unreallabs.ai/blog/unreal-agent/",
     "author": "trollied",
     "date": "2026-09-22",
-    "score": 220,
-    "comments": 117,
+    "score": 234,
+    "comments": 120,
     "id": 49805748,
     "discussion_url": "https://news.ycombinator.com/item?id=49805748",
     "description": "Unreal Agent",
@@ -473,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285965"
+    "fetched_at": "2026-09-23T22:02:05.828731"
   },
   {
     "title": "What California is learning from solar panels built over irrigation canals",
     "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
     "author": "Jtsummers",
     "date": "2026-09-22",
-    "score": 285,
-    "comments": 542,
+    "score": 356,
+    "comments": 683,
     "id": 49796379,
     "discussion_url": "https://news.ycombinator.com/item?id=49796379",
     "description": "What California is learning from solar panels built over irrigation canals",
@@ -490,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285999"
+    "fetched_at": "2026-09-23T22:02:05.828671"
   },
   {
     "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
     "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
     "author": "vntok",
     "date": "2026-09-22",
-    "score": 216,
-    "comments": 115,
+    "score": 231,
+    "comments": 127,
     "id": 49803959,
     "discussion_url": "https://news.ycombinator.com/item?id=49803959",
     "description": "WordPress: Unauthenticated path traversal leading to conditional RCE",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-23T15:19:21.285942"
+    "fetched_at": "2026-09-23T22:02:05.828714"
   }
 ]

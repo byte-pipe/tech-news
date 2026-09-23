@@ -1,8 +1,8 @@
 [
   {
-    "title": "A summer of AI optimization",
-    "url": "https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization",
-    "description": "A summer of AI optimization",
+    "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+    "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+    "description": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
     "tags": [
       "tldr"
     ],
@@ -20,9 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AWS launches CloudWatch Omni to unify observability for AI agents and applications",
-    "url": "https://www.infoworld.com/article/4225120/aws-launches-cloudwatch-omni-to-unify-observability-for-ai-agents-and-applications.html",
-    "description": "AWS launches CloudWatch Omni to unify observability for AI agents and applications",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+    "description": "Advancing Private AI Compute with secure, server-side memory",
     "tags": [
       "tldr"
     ],
@@ -40,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Alibaba Opens Qwen-Image-2.1: 7B Gen-and-Edit Model With Native RGBA",
-    "url": "https://pandaily.com/alibaba-qwen-image-2-1-7b-rgba-open-weight",
-    "description": "Alibaba Opens Qwen-Image-2.1: 7B Gen-and-Edit Model With Native RGBA",
+    "title": "Alibaba claims new Qwen Image 2.1 AI model beats Google Nano Banana 2.0 with minuscule 7B parameter model",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
+    "description": "Alibaba claims new Qwen Image 2.1 AI model beats Google Nano Banana 2.0 with minuscule 7B parameter model",
     "tags": [
       "tldr"
     ],
@@ -80,16 +80,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
-    "url": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band",
-    "description": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "Big Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases",
     "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&sharetype=gift&token=1178d641-a340-4962-89e1-5a4d7305d3e2",
     "description": "Big Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases",
@@ -110,6 +100,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Center for AI Safety and Scale AI release HLE-Diamond, a cleaned-up subset of Humanity's Last Exam",
+    "url": "https://x.com/CAIS/status/2102787839964729431",
+    "description": "Center for AI Safety and Scale AI release HLE-Diamond, a cleaned-up subset of Humanity's Last Exam",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
     "title": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
     "url": "https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue",
     "description": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
@@ -120,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "China’s Next-Generation Crypto Candidates Drew 104 Public Findings in Three Days. Researchers Broke Five Designs on Day Two",
-    "url": "https://postquantum.com/security-pqc/china-ngcc-candidate-flaws",
-    "description": "China’s Next-Generation Crypto Candidates Drew 104 Public Findings in Three Days. Researchers Broke Five Designs on Day Two",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats \\ Anthropic",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "description": "Claude discovers a novel enzyme system with CRISPR-like repeats \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -130,9 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Chinese memory-maker CXMT claims DRAM production breakthrough",
-    "url": "https://www.theregister.com/systems/2026/09/21/chinese-memory-maker-cxmt-claims-dram-production-breakthrough/5297633",
-    "description": "Chinese memory-maker CXMT claims DRAM production breakthrough",
+    "title": "DeepSeek publishes its method for training AI agents at scale",
+    "url": "https://thenextweb.com/news/deepseek-dsec-agent-sandboxes",
+    "description": "DeepSeek publishes its method for training AI agents at scale",
     "tags": [
       "tldr"
     ],
@@ -150,6 +150,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Europe's fastest supercomputer is finally getting its domestic silicon infusion",
+    "url": "https://www.theregister.com/systems/2026/09/23/europes-fastest-supercomputer-is-finally-getting-its-domestic-silicon-infusion/5298665",
+    "description": "Europe's fastest supercomputer is finally getting its domestic silicon infusion",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Everyone is hilariously prompt-injecting AI via llms.txt and you aren't | Installmap",
+    "url": "https://installmap.com/research/llms-txt-ai-instructions",
+    "description": "Everyone is hilariously prompt-injecting AI via llms.txt and you aren't | Installmap",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
     "title": "Frontier Overhangs",
     "url": "https://stratechery.com/2026/frontier-overhangs",
     "description": "Frontier Overhangs",
@@ -160,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Grok 4.7 (xhigh) - Intelligence, Performance & Price Analysis | Artificial Analysis",
-    "url": "https://artificialanalysis.ai/models/grok-4-7",
-    "description": "Grok 4.7 (xhigh) - Intelligence, Performance & Price Analysis | Artificial Analysis",
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+    "description": "Gemini 3.8 text-to-speech says hello",
     "tags": [
       "tldr"
     ],
@@ -170,9 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "HAWK exits and McEliece parameters buckle under fresh attacks",
-    "url": "https://freenode.net/article/hawk-exits-and-mceliece-parameters-buckle-under-fresh-attacks",
-    "description": "HAWK exits and McEliece parameters buckle under fresh attacks",
+    "title": "GitHub App Private Keys: 474 Leaked Keys Exposed",
+    "url": "https://blog.gitguardian.com/github-app-private-keys-leaked",
+    "description": "GitHub App Private Keys: 474 Leaked Keys Exposed",
     "tags": [
       "tldr"
     ],
@@ -180,9 +200,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "I Don’t Want to Read What You Didn’t Write",
-    "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write",
-    "description": "I Don’t Want to Read What You Didn’t Write",
+    "title": "How we made claude.ai 3x faster in two weeks / claude.dev",
+    "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+    "description": "How we made claude.ai 3x faster in two weeks / claude.dev",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Incubating The Horowitz Andreessen Academy | Andreessen Horowitz",
+    "url": "https://a16z.com/announcement/incubating-horowitz-andreessen-academy",
+    "description": "Incubating The Horowitz Andreessen Academy | Andreessen Horowitz",
     "tags": [
       "tldr"
     ],
@@ -240,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Markdown in /src",
-    "url": "https://htmx.org/essays/markdown-in-src",
-    "description": "Markdown in /src",
+    "title": "Meta Is Testing a Payment Wallet on Its Smart Glasses. Your Face Is the New Checkout.",
+    "url": "https://forkast.news/meta-is-testing-a-payment-wallet-on-its-smart-glasses-your-face-is-the-new-checkout",
+    "description": "Meta Is Testing a Payment Wallet on Its Smart Glasses. Your Face Is the New Checkout.",
     "tags": [
       "tldr"
     ],
@@ -280,16 +310,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "NOFire AI/Brig: MicroVM sandbox for AI coding agents",
-    "url": "https://news.ycombinator.com/item?id=49802729",
-    "description": "NOFire AI/Brig: MicroVM sandbox for AI coding agents",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "Open Data: A Dataset Hub for LLM Serving Research (Website)",
     "url": "https://data.agentic-system.org",
     "description": "Open Data: A Dataset Hub for LLM Serving Research (Website)",
@@ -300,9 +320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-    "url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training",
-    "description": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
+    "title": "OpenAI Agent Hacked Australian Government Website, Albanese Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says",
+    "description": "OpenAI Agent Hacked Australian Government Website, Albanese Says",
     "tags": [
       "tldr"
     ],
@@ -320,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
-    "url": "https://thenextweb.com/news/palo-alto-networks-unit-42",
-    "description": "Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
+    "title": "OpenAI: ChatGPT Voice gets plugins, GPT-6 models, and ChatGPT Work integration",
+    "url": "https://x.com/OpenAI/status/2102808325742322002",
+    "description": "OpenAI: ChatGPT Voice gets plugins, GPT-6 models, and ChatGPT Work integration",
     "tags": [
       "tldr"
     ],
@@ -360,6 +380,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Surge AI's DAYJOB benchmark tests whether agents can handle messy real work instead of spelled-out tasks",
+    "url": "https://x.com/echen/status/2102838282015093024",
+    "description": "Surge AI's DAYJOB benchmark tests whether agents can handle messy real work instead of spelled-out tasks",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Humanoid Lesson, or, Will AI Leave Anything for Database Researchers to Do?",
+    "url": "https://emptysqua.re/blog/review-what-happens-when-the-model-eats-the-stack",
+    "description": "The Humanoid Lesson, or, Will AI Leave Anything for Database Researchers to Do?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-23",
+    "site_name": "tldr"
+  },
+  {
     "title": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
     "url": "https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same",
     "description": "The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same",
@@ -390,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
-    "url": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph",
-    "description": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+    "title": "US rejects global AI governance at UN Security Council",
+    "url": "https://thenextweb.com/news/us-rejects-global-ai-governance",
+    "description": "US rejects global AI governance at UN Security Council",
     "tags": [
       "tldr"
     ],
@@ -410,39 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Vast Data launches confidential computing service for sensitive workloads",
-    "url": "https://siliconangle.com/2026/09/22/vast-data-launches-confidential-computing-service-for-sensitive-workloads",
-    "description": "Vast Data launches confidential computing service for sensitive workloads",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "When dual maintenance ends: Rust Binder deletion and the nova-core binding fight",
-    "url": "https://freenode.net/article/when-dual-maintenance-ends-rust-binder-deletion-and-the-nova-core-binding-fight",
-    "description": "When dual maintenance ends: Rust Binder deletion and the nova-core binding fight",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
     "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
     "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
     "description": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Your AI Coding Assistant Has the Keys to the Repo. Z.ai Just Showed Why That Matters",
-    "url": "https://devops.com/your-ai-coding-assistant-has-the-keys-to-the-repo-z-ai-just-showed-why-that-matters",
-    "description": "Your AI Coding Assistant Has the Keys to the Repo. Z.ai Just Showed Why That Matters",
     "tags": [
       "tldr"
     ],
@@ -473,16 +483,6 @@
     "title": "volotat/mini-AGI: Continual learning language model for 8GB VRAM hardware",
     "url": "https://github.com/volotat/mini-AGI",
     "description": "volotat/mini-AGI: Continual learning language model for 8GB VRAM hardware",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-23",
-    "site_name": "tldr"
-  },
-  {
-    "title": "zzet/gortex: High-performance code-intelligence engine for AI agents and IDEs",
-    "url": "https://github.com/zzet/gortex",
-    "description": "zzet/gortex: High-performance code-intelligence engine for AI agents and IDEs",
     "tags": [
       "tldr"
     ],

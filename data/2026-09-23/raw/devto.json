@@ -20,22 +20,12 @@
     "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4"
   },
   {
-    "title": "Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way",
-    "author": "Amara Graham",
-    "date": "2026-09-16",
-    "description": "Comparing ChatGPT Codex and Copilot featuresAmara GrahamAmara GrahamAmara GrahamFollowSep 16Building PoCs with Codex and GitHub Copilot while they try...",
-    "tags": "#ai, #productivity",
-    "reactions": "26 reactions",
-    "comments": "0",
-    "url": "https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9"
-  },
-  {
     "title": "Clean Code Is Not the Same as Clear Code: Comments Were Never the Problem",
     "author": "Giorgi Kobaidze",
     "date": "2026-09-21",
     "description": "Includes a helpful regex breakdown in the commentsGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowSep 21Clean Code Is Not the Same as Clear Code: C...",
     "tags": "#discuss, #programming, #documentation, #coding",
-    "reactions": "89 reactions",
+    "reactions": "93 reactions",
     "comments": "0",
     "url": "https://dev.to/georgekobaidze/clean-code-is-not-the-same-as-clear-code-comments-were-never-the-problem-42n"
   },
@@ -50,14 +40,14 @@
     "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"
   },
   {
-    "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-    "author": "Rohini Gaonkar",
-    "date": "2026-09-16",
-    "description": "Clarifies models only request tools not run themRohini GaonkarRohini GaonkarRohini GaonkarFollowforAWSSep 16How AI Actually Calls an API? Tool Calling...",
-    "tags": "#ai, #mcp, #aws, #tutorial",
-    "reactions": "38 reactions",
+    "title": "Disappeared Since March: Taking a Long Break Was My Best Decision Yet",
+    "author": "Maame Afua A. P. Fordjour",
+    "date": "2026-09-23",
+    "description": "Community reactions to an extended tech hiatusMaame Afua A. P. FordjourMaame Afua A. P. FordjourMaame Afua A. P. FordjourFollowSep 23Disappeared Since...",
+    "tags": "",
+    "reactions": "41 reactions",
     "comments": "0",
-    "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8"
+    "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
   },
   {
     "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
@@ -65,7 +55,7 @@
     "date": "2026-09-23",
     "description": "Shift from AI vibe coding to real debuggingMika FlowersMika FlowersMika FlowersFollowSep 23I Turned DEV.to Into a Walkable 3D Library — Debugging It H...",
     "tags": "#buildinpublic, #webdev, #nextjs, #ai",
-    "reactions": "27 reactions",
+    "reactions": "45 reactions",
     "comments": "0",
     "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
   },
@@ -75,29 +65,29 @@
     "date": "2026-09-19",
     "description": "Comments highlight the new era of AI hypocrisyInfo InletInfo InletInfo InletFollowSep 19I got rejected for using AI in an interview. Then I watched th...",
     "tags": "#discuss, #ai, #webdev, #career",
-    "reactions": "45 reactions",
-    "comments": "Comments 30 comments",
+    "reactions": "47 reactions",
+    "comments": "Comments 33 comments",
     "url": "https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0"
+  },
+  {
+    "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
+    "author": "Jem",
+    "date": "2026-09-23",
+    "description": "JemJemJemFollowforThe DEV TeamSep 23Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!#devchallenge#kagglechallenge#machinelea...",
+    "tags": "#devchallenge, #kagglechallenge, #machinelearning, #ai",
+    "reactions": "33 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml"
   },
   {
     "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
     "author": "Jem",
     "date": "2026-09-18",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxPrompt it into existence and write the story.A rough app with an ho...",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardx$2,500 across five winners. Two ways in.Ship an agent backed by a r...",
     "tags": "#sanitychallenge, #devchallenge, #agents, #webdev",
     "reactions": "8 reactions",
     "comments": "Comments 1 comment",
-    "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264398"
-  },
-  {
-    "title": "Progressive Disclosure: What, Where, When, and Why",
-    "author": "Gábor Mészáros",
-    "date": "2026-09-16",
-    "description": "Traces AGENTS.md history to modern harness pathsGábor MészárosGábor MészárosGábor MészárosFollowforReporailsSep 16Progressive Disclosure: What, Where,...",
-    "tags": "#ai, #claude, #performance, #productivity",
-    "reactions": "22 reactions",
-    "comments": "0",
-    "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3"
+    "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264396"
   },
   {
     "title": "The Grand Unifying Architecture of Frontend",
@@ -105,7 +95,7 @@
     "date": "2026-09-22",
     "description": "Ryan CarniatoRyan CarniatoRyan CarniatoFollowforPlayful ProgrammingSep 22The Grand Unifying Architecture of Frontend#webdev#javascript#solidjs#archite...",
     "tags": "#webdev, #javascript, #solidjs, #architecture",
-    "reactions": "15 reactions",
+    "reactions": "16 reactions",
     "comments": "0",
     "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
   },
@@ -120,13 +110,23 @@
     "url": "https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d"
   },
   {
+    "title": "Top 7 Featured DEV Posts of the Week",
+    "author": "Jem",
+    "date": "2026-09-22",
+    "description": "Ranging from hardware builds to work-life balanceJemJemJemFollowforThe DEV TeamSep 22Top 7 Featured DEV Posts of the Week#discuss#top720reactionsComme...",
+    "tags": "#discuss, #top7",
+    "reactions": "20 reactions",
+    "comments": "Comments 12 comments",
+    "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl"
+  },
+  {
     "title": "Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy",
     "author": "xulingfeng",
     "date": "2026-09-22",
     "description": "Relatable impostor syndrome at an AI startupxulingfengxulingfengxulingfengFollowSep 22Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy#di...",
     "tags": "#discuss, #career, #testing, #ai",
-    "reactions": "82 reactions",
-    "comments": "Comments 57 comments",
+    "reactions": "87 reactions",
+    "comments": "Comments 61 comments",
     "url": "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3"
   },
   {
@@ -135,7 +135,7 @@
     "date": "2026-09-22",
     "description": "Exposing the hidden costs of AI tool choicesDhruv JaniDhruv JaniDhruv JaniFollowSep 22We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI. When Did...",
     "tags": "#discuss, #ai, #gemini, #antigravity",
-    "reactions": "49 reactions",
+    "reactions": "57 reactions",
     "comments": "0",
     "url": "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2"
   },
@@ -145,7 +145,7 @@
     "date": "2026-09-21",
     "description": "Insights from speaking at AGNTCon EuropeSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowSep 21What If Your AI Agent Never Had to Leave the Brows...",
     "tags": "#ai, #webdev, #mcp, #typescript",
-    "reactions": "113 reactions",
+    "reactions": "121 reactions",
     "comments": "0",
     "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g"
   },
@@ -153,10 +153,10 @@
     "title": "What was your win this week?!",
     "author": "Jess Lee",
     "date": "2026-09-18",
-    "description": "Community celebrating diverse weekly achievementsJess LeeJess LeeJess LeeFollowforThe DEV TeamSep 18What was your win this week?!#weeklyretro71reactio...",
+    "description": "Community celebrating diverse weekly achievementsJess LeeJess LeeJess LeeFollowforThe DEV TeamSep 18What was your win this week?!#weeklyretro76reactio...",
     "tags": "#weeklyretro",
-    "reactions": "71 reactions",
-    "comments": "Comments 56 comments",
+    "reactions": "76 reactions",
+    "comments": "Comments 58 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-2hcb"
   },
   {
@@ -165,7 +165,7 @@
     "date": "2026-09-22",
     "description": "Readers debate the limits of rigid rulesRemo H. JansenRemo H. JansenRemo H. JansenFollowSep 22Why the Best Software Advice Is the Hardest to Follow#di...",
     "tags": "#discuss, #software, #career, #learning",
-    "reactions": "29 reactions",
+    "reactions": "32 reactions",
     "comments": "0",
     "url": "https://dev.to/remojansen/why-the-best-software-advice-is-the-hardest-to-follow-4kg8"
   },
@@ -173,8 +173,8 @@
     "title": "You're not an impostor, you just started from a different line",
     "author": "Daniel Reis",
     "date": "2026-09-21",
-    "description": "Daniel ReisDaniel ReisDaniel ReisFollowSep 21You're not an impostor, you just started from a different line#discuss#career#beginners#braziliandevs152r...",
-    "tags": "#discuss, #career, #beginners, #braziliandevs",
+    "description": "Daniel ReisDaniel ReisDaniel ReisFollowSep 21You're not an impostor, you just started from a different line#discuss#career#beginners152reactionsPicked...",
+    "tags": "#discuss, #career, #beginners",
     "reactions": "152 reactions",
     "comments": "0",
     "url": "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph"
