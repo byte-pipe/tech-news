@@ -1,212 +1,167 @@
 [
   {
-    "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-    "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-    "description": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-    "date": "2026-09-23",
-    "score": 262,
-    "comments": 31,
-    "discussion_url": "https://news.ycombinator.com/item?id=49823664",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174716"
-  },
-  {
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "description": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "date": "2026-09-23",
-    "score": 736,
-    "comments": 738,
-    "discussion_url": "https://news.ycombinator.com/item?id=49820134",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174742"
-  },
-  {
-    "title": "Contrastive Language Models",
-    "url": "https://contrastive-lm.notion.site/",
-    "description": "Contrastive Language Models",
+    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "url": "https://transluce.org/agent-activity",
+    "description": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
     "date": "2026-09-24",
+    "score": 223,
+    "comments": 199,
+    "discussion_url": "https://news.ycombinator.com/item?id=49826565",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-24T21:58:03.726624"
+  },
+  {
+    "title": "F-Droid 2.0",
+    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "description": "F-Droid 2.0",
+    "date": "2026-09-24",
+    "score": 769,
+    "comments": 213,
+    "discussion_url": "https://news.ycombinator.com/item?id=49831968",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-24T21:58:03.726588"
+  },
+  {
+    "title": "Fearless SIMD v1.0",
+    "url": "https://linebender.org/blog/fearless-simd-1-0/",
+    "description": "Fearless SIMD v1.0",
+    "date": "2026-09-22",
     "score": 128,
-    "comments": 36,
-    "discussion_url": "https://news.ycombinator.com/item?id=49826221",
+    "comments": 19,
+    "discussion_url": "https://news.ycombinator.com/item?id=49800085",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174670"
+    "fetched_at": "2026-09-24T21:58:03.726692"
   },
   {
-    "title": "Ideas on modernizing the open-source desktop",
-    "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-    "description": "Ideas on modernizing the open-source desktop",
-    "date": "2026-09-24",
-    "score": 293,
-    "comments": 338,
-    "discussion_url": "https://news.ycombinator.com/item?id=49825642",
+    "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+    "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+    "description": "My weird new hobby: Wandering around Tokyo on Google Maps",
+    "date": "2026-09-22",
+    "score": 154,
+    "comments": 66,
+    "discussion_url": "https://news.ycombinator.com/item?id=49805344",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174678"
-  },
-  {
-    "title": "Linux support is coming to Snapdragon X2 Series",
-    "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-    "description": "Linux support is coming to Snapdragon X2 Series",
-    "date": "2026-09-23",
-    "score": 548,
-    "comments": 228,
-    "discussion_url": "https://news.ycombinator.com/item?id=49823582",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174725"
-  },
-  {
-    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-    "description": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-    "date": "2026-09-24",
-    "score": 495,
-    "comments": 295,
-    "discussion_url": "https://news.ycombinator.com/item?id=49827794",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174660"
+    "fetched_at": "2026-09-24T21:58:03.726681"
   },
   {
     "title": "Nokia Design Archive (2025)",
-    "url": "https://nokiadesignarchive.aalto.fi/index.html",
+    "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
     "description": "Nokia Design Archive (2025)",
     "date": "2026-09-24",
-    "score": 156,
-    "comments": 84,
+    "score": 201,
+    "comments": 111,
     "discussion_url": "https://news.ycombinator.com/item?id=49828385",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174650"
+    "fetched_at": "2026-09-24T21:58:03.726613"
   },
   {
-    "title": "OpenAI agent hacked Australian government website, PM says",
-    "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-    "description": "OpenAI agent hacked Australian government website, PM says",
+    "title": "Rails World 2026 Opening Keynote [video]",
+    "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+    "description": "Rails World 2026 Opening Keynote [video]",
+    "date": "2026-09-23",
+    "score": 176,
+    "comments": 188,
+    "discussion_url": "https://news.ycombinator.com/item?id=49817680",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-24T21:58:03.726669"
+  },
+  {
+    "title": "Show HN: Make cursed fonts like Times New Bastard",
+    "url": "https://bastardica.mitpit.com",
+    "description": "Show HN: Make cursed fonts like Times New Bastard",
+    "date": "2026-09-23",
+    "score": 323,
+    "comments": 47,
+    "discussion_url": "https://news.ycombinator.com/item?id=49823738",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-24T21:58:03.726636"
+  },
+  {
+    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+    "url": "https://github.com/devdotfast/whiteboard",
+    "description": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
     "date": "2026-09-24",
-    "score": 224,
-    "comments": 147,
-    "discussion_url": "https://news.ycombinator.com/item?id=49825580",
+    "score": 148,
+    "comments": 61,
+    "discussion_url": "https://news.ycombinator.com/item?id=49833867",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174695"
+    "fetched_at": "2026-09-24T21:58:03.726549"
   },
   {
-    "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-    "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-    "description": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-    "date": "2026-09-24",
-    "score": 161,
-    "comments": 167,
-    "discussion_url": "https://news.ycombinator.com/item?id=49829960",
+    "title": "Toyota is taking the Corolla electric",
+    "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+    "description": "Toyota is taking the Corolla electric",
+    "date": "2026-09-23",
+    "score": 133,
+    "comments": 191,
+    "discussion_url": "https://news.ycombinator.com/item?id=49823568",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174610"
+    "fetched_at": "2026-09-24T21:58:03.726655"
   },
   {
-    "title": "The \"Windows XP Box\" (2003)",
-    "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-    "description": "The \"Windows XP Box\" (2003)",
-    "date": "2026-09-22",
-    "score": 199,
-    "comments": 41,
-    "discussion_url": "https://news.ycombinator.com/item?id=49796372",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174750"
-  },
-  {
-    "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
-    "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
-    "description": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
-    "date": "2026-09-24",
-    "score": 127,
-    "comments": 49,
-    "discussion_url": "https://news.ycombinator.com/item?id=49828969",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174630"
-  },
-  {
-    "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+    "title": "Two-tier encryption in the UK",
     "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-    "description": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+    "description": "Two-tier encryption in the UK",
     "date": "2026-09-24",
-    "score": 208,
-    "comments": 173,
+    "score": 345,
+    "comments": 352,
     "discussion_url": "https://news.ycombinator.com/item?id=49828731",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174641"
+    "fetched_at": "2026-09-24T21:58:03.726600"
   },
   {
-    "title": "VSCode's SSH Agent Is Bananas (2025)",
-    "url": "https://fly.io/blog/vscode-ssh-wtf/",
-    "description": "VSCode's SSH Agent Is Bananas (2025)",
-    "date": "2026-09-23",
-    "score": 280,
-    "comments": 177,
-    "discussion_url": "https://news.ycombinator.com/item?id=49822555",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174733"
-  },
-  {
-    "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-    "url": "https://github.com/nestrilabs/virtio-nvgpu",
-    "description": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+    "title": "Why is the liver so weirdly regenerative?",
+    "url": "https://dynomight.substack.com/p/liver",
+    "description": "Why is the liver so weirdly regenerative?",
     "date": "2026-09-24",
-    "score": 138,
-    "comments": 56,
-    "discussion_url": "https://news.ycombinator.com/item?id=49824864",
+    "score": 153,
+    "comments": 110,
+    "discussion_url": "https://news.ycombinator.com/item?id=49832938",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-24T15:44:22.174707"
+    "fetched_at": "2026-09-24T21:58:03.726573"
   }
 ]

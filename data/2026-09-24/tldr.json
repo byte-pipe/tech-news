@@ -20,29 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agility Robotics: Inside the First US Humanoid Company to Go Public",
-    "url": "https://www.tanayj.com/p/agility-robotics-inside-the-first",
-    "description": "Agility Robotics: Inside the First US Humanoid Company to Go Public",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Australia says OpenAI's rogue AI hacked a government website, and the company took months to report it",
-    "url": "https://www.techspot.com/news/113980-australia-openai-rogue-ai-hacked-government-website-company.html",
-    "description": "Australia says OpenAI's rogue AI hacked a government website, and the company took months to report it",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Behind Project Suncatcher, our moonshot to put AI in space",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
-    "description": "Behind Project Suncatcher, our moonshot to put AI in space",
+    "title": "Alibaba touts new AI chip, Qwen Intelligence and age of machine intelligence",
+    "url": "https://www.constellationr.com/insights/news/alibaba-touts-new-ai-chip-qwen-intelligence-and-age-machine-intelligence",
+    "description": "Alibaba touts new AI chip, Qwen Intelligence and age of machine intelligence",
     "tags": [
       "tldr"
     ],
@@ -60,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Beta: Gortex",
-    "url": "https://gortex.dev",
-    "description": "Beta: Gortex",
+    "title": "Bringing Private Processing to Meta AI Glasses",
+    "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses",
+    "description": "Bringing Private Processing to Meta AI Glasses",
     "tags": [
       "tldr"
     ],
@@ -70,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Bringing Private Processing to Meta AI Glasses",
-    "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses",
-    "description": "Bringing Private Processing to Meta AI Glasses",
+    "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
+    "url": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
+    "description": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
     "tags": [
       "tldr"
     ],
@@ -170,9 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Foundries vs Navigators: Lowering the Cost of Science",
-    "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-    "description": "Foundries vs Navigators: Lowering the Cost of Science",
+    "title": "FLUX 3 Action Tops RoboLab, but Larger Robotics Companies Can't Use It in a Product",
+    "url": "https://topicqueue.substack.com/p/flux-3-action-tops-robolab-but-larger",
+    "description": "FLUX 3 Action Tops RoboLab, but Larger Robotics Companies Can't Use It in a Product",
     "tags": [
       "tldr"
     ],
@@ -200,6 +180,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Google's first Suncatcher orbital data center test launches October 1",
+    "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1",
+    "description": "Google's first Suncatcher orbital data center test launches October 1",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google, OpenAI and Anthropic AI Safety Group Takes Shape",
+    "url": "https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape",
+    "description": "Google, OpenAI and Anthropic AI Safety Group Takes Shape",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Google’s Gemini 4 Enters Post-Training — and the Three-Way Frontier Race Just Compressed",
     "url": "https://forkast.news/googles-gemini-4-enters-post-training-and-the-three-way-frontier-race-just-compressed",
     "description": "Google’s Gemini 4 Enters Post-Training — and the Three-Way Frontier Race Just Compressed",
@@ -220,9 +220,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+    "url": "https://starlabs.sg/blog/2026/09-how-i-found-a-113337-af_alg-linux-local-privilege-escalation-before-copy-fail",
+    "description": "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
     "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
     "description": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How far behind Nvidia is Huawei?",
+    "url": "https://epochai.substack.com/p/how-far-behind-nvidia-is-huawei",
+    "description": "How far behind Nvidia is Huawei?",
     "tags": [
       "tldr"
     ],
@@ -290,9 +310,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Live: UN Security Council hears AI lab chiefs on loss-of-control risk",
-    "url": "https://thenextweb.com/news/un-security-council-ai-loss-of-control",
-    "description": "Live: UN Security Council hears AI lab chiefs on loss-of-control risk",
+    "title": "Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote",
+    "url": "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote",
+    "description": "Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote",
     "tags": [
       "tldr"
     ],
@@ -310,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center",
-    "url": "https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center",
-    "description": "Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center",
+    "title": "Mark Zuckerberg: “I don’t think that we need some kind of industry-wide coordination... I think t...",
+    "url": "https://x.com/davidsacks/status/2103120103785251096",
+    "description": "Mark Zuckerberg: “I don’t think that we need some kind of industry-wide coordination... I think t...",
     "tags": [
       "tldr"
     ],
@@ -320,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta Unveils VR Glasses Weighing 100 Grams, Launching Spring 2027 for $1,300",
-    "url": "https://www.auganix.org/vr-news-meta-vr-glasses",
-    "description": "Meta Unveils VR Glasses Weighing 100 Grams, Launching Spring 2027 for $1,300",
+    "title": "Meta VR Glasses are coming. Build with Unity from day one.",
+    "url": "https://unity.com/blog/build-for-meta-vr-glasses-with-unity",
+    "description": "Meta VR Glasses are coming. Build with Unity from day one.",
     "tags": [
       "tldr"
     ],
@@ -333,26 +353,6 @@
     "title": "Meta puts its AI assistant on a keychain",
     "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain",
     "description": "Meta puts its AI assistant on a keychain",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits",
-    "url": "https://www.volexity.com/blog/2026/09/21/mind-the-patch-gap-part-2-fake-websites-used-to-deploy-chrome-windows-0-day-exploits",
-    "description": "Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "New Features for Meta Ray-Ban Display",
-    "url": "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram",
-    "description": "New Features for Meta Ray-Ban Display",
     "tags": [
       "tldr"
     ],
@@ -380,9 +380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Oracle cites force majeure over New Mexico data centre, Bloomberg reports",
-    "url": "https://thenextweb.com/news/oracle-force-majeure-project-jupiter-new-mexico",
-    "description": "Oracle cites force majeure over New Mexico data centre, Bloomberg reports",
+    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+    "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center",
+    "description": "Oracle sends force majeure notice on its New Mexico Stargate data center",
     "tags": [
       "tldr"
     ],
@@ -393,6 +393,16 @@
     "title": "Privacy group slams EU for changing the data rules to cater to AI",
     "url": "https://www.theregister.com/legal/2026/09/22/privacy-group-slams-eu-for-changing-the-data-rules-to-cater-to-ai/5298175",
     "description": "Privacy group slams EU for changing the data rules to cater to AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Professor Yoshua Bengio’s speech at UN Security Council",
+    "url": "https://yoshuabengio.org/en/blog/professor-yoshua-bengios-speech-un-security-council",
+    "description": "Professor Yoshua Bengio’s speech at UN Security Council",
     "tags": [
       "tldr"
     ],
@@ -430,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
-    "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch",
-    "description": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
+    "title": "Surge AI's DAYJOB benchmark tests whether agents can handle messy real work instead of spelled-out tasks",
+    "url": "https://x.com/echen/status/2102838282015093024",
+    "description": "Surge AI's DAYJOB benchmark tests whether agents can handle messy real work instead of spelled-out tasks",
     "tags": [
       "tldr"
     ],
@@ -440,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Surge AI's DAYJOB benchmark tests whether agents can handle messy real work instead of spelled-out tasks",
-    "url": "https://x.com/echen/status/2102838282015093024",
-    "description": "Surge AI's DAYJOB benchmark tests whether agents can handle messy real work instead of spelled-out tasks",
+    "title": "The Biggest News From Connect 2026",
+    "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026",
+    "description": "The Biggest News From Connect 2026",
     "tags": [
       "tldr"
     ],
@@ -483,16 +493,6 @@
     "title": "‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees",
     "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees",
     "description": "‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "🧠 Agent Wars: Amazon vs Muse",
-    "url": "https://www.fintechbrainfood.com/p/agent-wars",
-    "description": "🧠 Agent Wars: Amazon vs Muse",
     "tags": [
       "tldr"
     ],
