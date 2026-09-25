@@ -1,45 +1,79 @@
 [
   {
-    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-    "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-    "author": "YeGoblynQueenne",
-    "date": "2026-09-24",
-    "score": 181,
-    "comments": 269,
-    "id": 49829650,
-    "discussion_url": "https://news.ycombinator.com/item?id=49829650",
-    "description": "'That's so AI ' What gen Alpha's biggest insult tells us",
+    "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+    "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+    "author": "behoove",
+    "date": "2026-09-25",
+    "score": 98,
+    "comments": 21,
+    "id": 49848295,
+    "discussion_url": "https://news.ycombinator.com/item?id=49848295",
+    "description": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317885"
+    "fetched_at": "2026-09-25T21:59:43.024927"
   },
   {
-    "title": "2DWillNeverDie",
-    "url": "https://2dwillneverdie.com/",
+    "title": "Allow babywearing carriers on planes",
+    "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
     "author": "surprisetalk",
-    "date": "2026-09-22",
-    "score": 290,
-    "comments": 72,
-    "id": 49801436,
-    "discussion_url": "https://news.ycombinator.com/item?id=49801436",
-    "description": "2DWillNeverDie",
+    "date": "2026-09-25",
+    "score": 186,
+    "comments": 247,
+    "id": 49844786,
+    "discussion_url": "https://news.ycombinator.com/item?id=49844786",
+    "description": "Allow babywearing carriers on planes",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317830"
+    "fetched_at": "2026-09-25T21:59:43.025066"
+  },
+  {
+    "title": "Amiga Screens: A Primer",
+    "url": "https://www.datagubbe.se/amscr/",
+    "author": "msephton",
+    "date": "2026-09-25",
+    "score": 116,
+    "comments": 34,
+    "id": 49841309,
+    "discussion_url": "https://news.ycombinator.com/item?id=49841309",
+    "description": "Amiga Screens: A Primer",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-25T21:59:43.024934"
+  },
+  {
+    "title": "Boards of Casio",
+    "url": "https://www.ambionix.com/blog/boards-of-casio/",
+    "author": "fidotron",
+    "date": "2026-09-25",
+    "score": 101,
+    "comments": 35,
+    "id": 49842084,
+    "discussion_url": "https://news.ycombinator.com/item?id=49842084",
+    "description": "Boards of Casio",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-25T21:59:43.024985"
   },
   {
     "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
     "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
     "author": "ahelwer",
     "date": "2026-09-21",
-    "score": 138,
-    "comments": 58,
+    "score": 146,
+    "comments": 62,
     "id": 49787759,
     "discussion_url": "https://news.ycombinator.com/item?id=49787759",
     "description": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
@@ -48,32 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317866"
-  },
-  {
-    "title": "California is chasing wealth that has feet",
-    "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-    "author": "idbnstra",
-    "date": "2026-09-24",
-    "score": 267,
-    "comments": 745,
-    "id": 49836419,
-    "discussion_url": "https://news.ycombinator.com/item?id=49836419",
-    "description": "California is chasing wealth that has feet",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317887"
+    "fetched_at": "2026-09-25T21:59:43.025049"
   },
   {
     "title": "Dutch governments builds alternative for Microsoft based on NixOS",
     "url": "https://www.dawo.community/en/",
     "author": "fjfaase",
     "date": "2026-09-25",
-    "score": 738,
-    "comments": 416,
+    "score": 914,
+    "comments": 532,
     "id": 49841563,
     "discussion_url": "https://news.ycombinator.com/item?id=49841563",
     "description": "Dutch governments builds alternative for Microsoft based on NixOS",
@@ -82,65 +99,65 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317785"
+    "fetched_at": "2026-09-25T21:59:43.025013"
   },
   {
-    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-    "url": "https://transluce.org/agent-activity",
-    "author": "snikolaev",
-    "date": "2026-09-24",
-    "score": 262,
-    "comments": 293,
-    "id": 49826565,
-    "discussion_url": "https://news.ycombinator.com/item?id=49826565",
-    "description": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "title": "Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+    "author": "safateam",
+    "date": "2026-09-25",
+    "score": 108,
+    "comments": 28,
+    "id": 49841115,
+    "discussion_url": "https://news.ycombinator.com/item?id=49841115",
+    "description": "Entering and Breaking the Avast Antivirus Sandbox Part 2",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317899"
+    "fetched_at": "2026-09-25T21:59:43.024988"
   },
   {
-    "title": "F-Droid 2.0",
-    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-    "author": "daveoc64",
-    "date": "2026-09-24",
-    "score": 1358,
-    "comments": 394,
-    "id": 49831968,
-    "discussion_url": "https://news.ycombinator.com/item?id=49831968",
-    "description": "F-Droid 2.0",
+    "title": "Factorio that you can touch",
+    "url": "https://factorio.com/blog/post/fff-447",
+    "author": "ibobev",
+    "date": "2026-09-25",
+    "score": 282,
+    "comments": 83,
+    "id": 49845133,
+    "discussion_url": "https://news.ycombinator.com/item?id=49845133",
+    "description": "Factorio that you can touch",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317789"
+    "fetched_at": "2026-09-25T21:59:43.024958"
   },
   {
-    "title": "Fearless SIMD v1.0",
-    "url": "https://linebender.org/blog/fearless-simd-1-0/",
-    "author": "verdagon",
-    "date": "2026-09-22",
-    "score": 288,
-    "comments": 47,
-    "id": 49800085,
-    "discussion_url": "https://news.ycombinator.com/item?id=49800085",
-    "description": "Fearless SIMD v1.0",
+    "title": "First Principles Thinking",
+    "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+    "author": "sunils34",
+    "date": "2026-09-25",
+    "score": 189,
+    "comments": 83,
+    "id": 49844736,
+    "discussion_url": "https://news.ycombinator.com/item?id=49844736",
+    "description": "First Principles Thinking",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317845"
+    "fetched_at": "2026-09-25T21:59:43.024942"
   },
   {
     "title": "Fixing the Portobello Police Station Clock",
     "url": "https://pointinthecloud.com/2026-04-11-211700.html",
     "author": "avidly",
     "date": "2026-09-23",
-    "score": 535,
+    "score": 539,
     "comments": 115,
     "id": 49817469,
     "discussion_url": "https://news.ycombinator.com/item?id=49817469",
@@ -150,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317883"
+    "fetched_at": "2026-09-25T21:59:43.025072"
   },
   {
     "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
     "url": "https://github.com/git-bug/git-bug",
     "author": "alentred",
     "date": "2026-09-25",
-    "score": 141,
-    "comments": 30,
+    "score": 272,
+    "comments": 91,
     "id": 49843174,
     "discussion_url": "https://news.ycombinator.com/item?id=49843174",
     "description": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
@@ -167,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317793"
+    "fetched_at": "2026-09-25T21:59:43.024880"
   },
   {
     "title": "Google’s Project Suncatcher to put ML infrastructure in space",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
     "author": "xnx",
     "date": "2026-09-24",
-    "score": 205,
-    "comments": 442,
+    "score": 225,
+    "comments": 508,
     "id": 49830606,
     "discussion_url": "https://news.ycombinator.com/item?id=49830606",
     "description": "Google’s Project Suncatcher to put ML infrastructure in space",
@@ -184,100 +201,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317853"
+    "fetched_at": "2026-09-25T21:59:43.025021"
   },
   {
-    "title": "Linux support is coming to Snapdragon X2 series",
-    "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-    "author": "aaronday",
-    "date": "2026-09-23",
-    "score": 609,
-    "comments": 263,
-    "id": 49823582,
-    "discussion_url": "https://news.ycombinator.com/item?id=49823582",
-    "description": "Linux support is coming to Snapdragon X2 series",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317903"
-  },
-  {
-    "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-    "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-    "author": "ahmedhossamdev",
-    "date": "2026-09-22",
-    "score": 379,
-    "comments": 165,
-    "id": 49805344,
-    "discussion_url": "https://news.ycombinator.com/item?id=49805344",
-    "description": "My weird new hobby: Wandering around Tokyo on Google Maps",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317842"
-  },
-  {
-    "title": "Nokia Design Archive (2025)",
-    "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-    "author": "pillars",
-    "date": "2026-09-24",
-    "score": 245,
-    "comments": 130,
-    "id": 49828385,
-    "discussion_url": "https://news.ycombinator.com/item?id=49828385",
-    "description": "Nokia Design Archive (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317862"
-  },
-  {
-    "title": "Opus 5.5 is good at explainer videos",
-    "url": "https://launchvideo.io",
-    "author": "iacguy",
-    "date": "2026-09-24",
-    "score": 339,
-    "comments": 185,
-    "id": 49836374,
-    "discussion_url": "https://news.ycombinator.com/item?id=49836374",
-    "description": "Opus 5.5 is good at explainer videos",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317834"
-  },
-  {
-    "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
-    "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
-    "author": "Betelbuddy",
+    "title": "Ink and Switch interactive homepage",
+    "url": "https://www.inkandswitch.com/",
+    "author": "iFreilicht",
     "date": "2026-09-25",
-    "score": 127,
-    "comments": 108,
-    "id": 49842483,
-    "discussion_url": "https://news.ycombinator.com/item?id=49842483",
-    "description": "Oracle on the hook to pay data centre investors even if site has no electricity",
+    "score": 211,
+    "comments": 25,
+    "id": 49842270,
+    "discussion_url": "https://news.ycombinator.com/item?id=49842270",
+    "description": "Ink and Switch interactive homepage",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317836"
+    "fetched_at": "2026-09-25T21:59:43.024895"
+  },
+  {
+    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+    "url": "https://ollaya.dev/",
+    "author": "Ardakilic",
+    "date": "2026-09-25",
+    "score": 214,
+    "comments": 67,
+    "id": 49848269,
+    "discussion_url": "https://news.ycombinator.com/item?id=49848269",
+    "description": "Ollaya – Ollama for open-source, Jev-style decision models",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-25T21:59:43.024853"
   },
   {
     "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
     "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
     "author": "hugh4life",
     "date": "2026-09-25",
-    "score": 171,
-    "comments": 74,
+    "score": 257,
+    "comments": 111,
     "id": 49841285,
     "discussion_url": "https://news.ycombinator.com/item?id=49841285",
     "description": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
@@ -286,32 +252,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317814"
+    "fetched_at": "2026-09-25T21:59:43.024914"
   },
   {
-    "title": "Platform-Independent SIMD in Go",
+    "title": "Platform-independent SIMD in Go",
     "url": "https://go.dev/blog/simd-experiment",
     "author": "yurivish",
     "date": "2026-09-25",
-    "score": 150,
-    "comments": 42,
+    "score": 329,
+    "comments": 124,
     "id": 49843269,
     "discussion_url": "https://news.ycombinator.com/item?id=49843269",
-    "description": "Platform-Independent SIMD in Go",
+    "description": "Platform-independent SIMD in Go",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317775"
+    "fetched_at": "2026-09-25T21:59:43.024890"
   },
   {
     "title": "Rails World 2026 Opening Keynote [video]",
     "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
     "author": "an0malous",
     "date": "2026-09-23",
-    "score": 388,
-    "comments": 419,
+    "score": 423,
+    "comments": 468,
     "id": 49817680,
     "discussion_url": "https://news.ycombinator.com/item?id=49817680",
     "description": "Rails World 2026 Opening Keynote [video]",
@@ -320,32 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317782"
-  },
-  {
-    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-    "url": "https://koi.rest",
-    "author": "hxii",
-    "date": "2026-09-24",
-    "score": 202,
-    "comments": 59,
-    "id": 49837006,
-    "discussion_url": "https://news.ycombinator.com/item?id=49837006",
-    "description": "Show HN: Koi.rest – watch some fish and regain your balance",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317896"
+    "fetched_at": "2026-09-25T21:59:43.025076"
   },
   {
     "title": "Show HN: Make cursed fonts like Times New Bastard",
     "url": "https://bastardica.mitpit.com",
     "author": "MitPitt",
     "date": "2026-09-23",
-    "score": 797,
-    "comments": 105,
+    "score": 840,
+    "comments": 123,
     "id": 49823738,
     "discussion_url": "https://news.ycombinator.com/item?id=49823738",
     "description": "Show HN: Make cursed fonts like Times New Bastard",
@@ -354,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317808"
+    "fetched_at": "2026-09-25T21:59:43.025039"
   },
   {
     "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
     "url": "https://github.com/devdotfast/whiteboard",
     "author": "sidharthkmenon",
     "date": "2026-09-24",
-    "score": 359,
-    "comments": 126,
+    "score": 389,
+    "comments": 128,
     "id": 49833867,
     "discussion_url": "https://news.ycombinator.com/item?id=49833867",
     "description": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
@@ -371,14 +320,14 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317818"
+    "fetched_at": "2026-09-25T21:59:43.024966"
   },
   {
     "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
     "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
     "author": "arusekk",
     "date": "2026-09-24",
-    "score": 140,
+    "score": 146,
     "comments": 28,
     "id": 49835996,
     "discussion_url": "https://news.ycombinator.com/item?id=49835996",
@@ -388,83 +337,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317867"
+    "fetched_at": "2026-09-25T21:59:43.025056"
   },
   {
-    "title": "The Mafia may be keeping fentanyl out of Italy",
-    "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
-    "author": "runeks",
+    "title": "The Board Game of the Alpha Nerds (2014)",
+    "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+    "author": "neonate",
+    "date": "2026-09-24",
+    "score": 113,
+    "comments": 61,
+    "id": 49836590,
+    "discussion_url": "https://news.ycombinator.com/item?id=49836590",
+    "description": "The Board Game of the Alpha Nerds (2014)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-25T21:59:43.025059"
+  },
+  {
+    "title": "The Test",
+    "url": "https://tante.cc/2026/09/24/the-test/",
+    "author": "latexr",
     "date": "2026-09-25",
-    "score": 171,
-    "comments": 213,
-    "id": 49842487,
-    "discussion_url": "https://news.ycombinator.com/item?id=49842487",
-    "description": "The Mafia may be keeping fentanyl out of Italy",
+    "score": 151,
+    "comments": 86,
+    "id": 49843550,
+    "discussion_url": "https://news.ycombinator.com/item?id=49843550",
+    "description": "The Test",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317849"
+    "fetched_at": "2026-09-25T21:59:43.025042"
   },
   {
-    "title": "Toyota is taking the Corolla electric",
-    "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-    "author": "cisc",
-    "date": "2026-09-23",
-    "score": 389,
-    "comments": 697,
-    "id": 49823568,
-    "discussion_url": "https://news.ycombinator.com/item?id=49823568",
-    "description": "Toyota is taking the Corolla electric",
+    "title": "Too AI; Didn't Read",
+    "url": "https://www.tai-dr.com/",
+    "author": "rfonseca",
+    "date": "2026-09-25",
+    "score": 86,
+    "comments": 77,
+    "id": 49849625,
+    "discussion_url": "https://news.ycombinator.com/item?id=49849625",
+    "description": "Too AI; Didn't Read",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317838"
+    "fetched_at": "2026-09-25T21:59:43.024992"
   },
   {
-    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-    "author": "theanonymousone",
-    "date": "2026-09-24",
-    "score": 127,
-    "comments": 200,
-    "id": 49831690,
-    "discussion_url": "https://news.ycombinator.com/item?id=49831690",
-    "description": "Tutoring company tells parents to save their money and 'use AI instead'",
+    "title": "Typst makes big strides",
+    "url": "https://lwn.net/Articles/1092993/",
+    "author": "leephillips",
+    "date": "2026-09-25",
+    "score": 91,
+    "comments": 14,
+    "id": 49846640,
+    "discussion_url": "https://news.ycombinator.com/item?id=49846640",
+    "description": "Typst makes big strides",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317873"
+    "fetched_at": "2026-09-25T21:59:43.024981"
   },
   {
-    "title": "Two-tier encryption in the UK",
-    "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-    "author": "ReturnoftheHack",
-    "date": "2026-09-24",
-    "score": 484,
-    "comments": 436,
-    "id": 49828731,
-    "discussion_url": "https://news.ycombinator.com/item?id=49828731",
-    "description": "Two-tier encryption in the UK",
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "author": "cramer4next",
+    "date": "2026-09-25",
+    "score": 317,
+    "comments": 547,
+    "id": 49845977,
+    "discussion_url": "https://news.ycombinator.com/item?id=49845977",
+    "description": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317843"
+    "fetched_at": "2026-09-25T21:59:43.024870"
   },
   {
     "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
     "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
     "author": "benbreen",
     "date": "2026-09-24",
-    "score": 152,
-    "comments": 34,
+    "score": 164,
+    "comments": 40,
     "id": 49835531,
     "discussion_url": "https://news.ycombinator.com/item?id=49835531",
     "description": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
@@ -473,15 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317847"
+    "fetched_at": "2026-09-25T21:59:43.025017"
+  },
+  {
+    "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+    "url": "https://github.com/christianrowlands/wavedigger",
+    "author": "882542F3884314B",
+    "date": "2026-09-23",
+    "score": 125,
+    "comments": 25,
+    "id": 49815370,
+    "discussion_url": "https://news.ycombinator.com/item?id=49815370",
+    "description": "WaveDigger: Dig into wireless signals to discover their physical locations",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-25T21:59:43.025063"
   },
   {
     "title": "What About Rails?",
     "url": "https://jardo.dev/what-about-rails",
     "author": "jrochkind1",
     "date": "2026-09-25",
-    "score": 185,
-    "comments": 115,
+    "score": 290,
+    "comments": 189,
     "id": 49839664,
     "discussion_url": "https://news.ycombinator.com/item?id=49839664",
     "description": "What About Rails?",
@@ -490,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317855"
+    "fetched_at": "2026-09-25T21:59:43.025028"
   },
   {
     "title": "Why is the liver so weirdly regenerative?",
     "url": "https://dynomight.substack.com/p/liver",
     "author": "jbotz",
     "date": "2026-09-24",
-    "score": 492,
-    "comments": 250,
+    "score": 545,
+    "comments": 279,
     "id": 49832938,
     "discussion_url": "https://news.ycombinator.com/item?id=49832938",
     "description": "Why is the liver so weirdly regenerative?",
@@ -507,6 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-25T15:44:42.317825"
+    "fetched_at": "2026-09-25T21:59:43.025035"
+  },
+  {
+    "title": "Writing Parquet files using Haskell",
+    "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+    "author": "cosmic_quanta",
+    "date": "2026-09-22",
+    "score": 86,
+    "comments": 29,
+    "id": 49802510,
+    "discussion_url": "https://news.ycombinator.com/item?id=49802510",
+    "description": "Writing Parquet files using Haskell",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-25T21:59:43.025079"
   }
 ]

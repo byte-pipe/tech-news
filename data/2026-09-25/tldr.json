@@ -10,16 +10,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Killed the MVP -- Long Live the IUP",
-    "url": "https://steveblank.substack.com/p/ai-killed-the-mvp-long-live-the-iup",
-    "description": "AI Killed the MVP -- Long Live the IUP",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Advancing Private AI Compute with secure, server-side memory",
     "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
     "description": "Advancing Private AI Compute with secure, server-side memory",
@@ -30,9 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agentic Platform: Open-Sourcing the Agentic Identity Broker",
-    "url": "https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html",
-    "description": "Agentic Platform: Open-Sourcing the Agentic Identity Broker",
+    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions",
+    "description": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
     "tags": [
       "tldr"
     ],
@@ -40,9 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Akamai’s $11.6B Deal With Anthropic Is Not a Cloud Contract – It Is an Equity Bet on the Model Layer",
-    "url": "https://forkast.news/akamais-11-6b-deal-with-anthropic-is-not-a-cloud-contract-it-is-an-equity-bet-on-the-model-layer",
-    "description": "Akamai’s $11.6B Deal With Anthropic Is Not a Cloud Contract – It Is an Equity Bet on the Model Layer",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+    "description": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
     "tags": [
       "tldr"
     ],
@@ -50,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too",
-    "url": "https://www.techspot.com/news/113981-amazon-blocked-meta-muse-agentic-ai-shopping-service.html",
-    "description": "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too",
+    "title": "Anthropic’s Misuse Report: Seven Labs, 190 Million Exchanges, and the Collapse of the Offensive Labor Gap",
+    "url": "https://forkast.news/anthropics-misuse-report-seven-labs-190-million-exchanges-and-the-collapse-of-the-offensive-labor-gap",
+    "description": "Anthropic’s Misuse Report: Seven Labs, 190 Million Exchanges, and the Collapse of the Offensive Labor Gap",
     "tags": [
       "tldr"
     ],
@@ -80,16 +70,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
-    "url": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
-    "description": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Can Muse make us forget the metaverse?",
     "url": "https://www.platformer.news/meta-connect-2026-muse-vr-glasses",
     "description": "Can Muse make us forget the metaverse?",
@@ -110,16 +90,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude Code cloud sessions leave research preview and keep work running after a laptop closes",
-    "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-    "description": "Claude Code cloud sessions leave research preview and keep work running after a laptop closes",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats \\ Anthropic",
     "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
     "description": "Claude discovers a novel enzyme system with CRISPR-like repeats \\ Anthropic",
@@ -130,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Coding Agents are Strong Prompt Optimizers | DAIR.AI Academy | DAIR.AI Academy",
-    "url": "https://academy.dair.ai/papers/coding-agents-are-strong-prompt-optimizers-2609.26261",
-    "description": "Coding Agents are Strong Prompt Optimizers | DAIR.AI Academy | DAIR.AI Academy",
+    "title": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic",
+    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "description": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -140,9 +110,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Discovering and exploiting a remote code execution vulnerability in OpenCode (GHSA-632h-h47v-g4x4)",
-    "url": "https://securitylabs.datadoghq.com/articles/opencode-upgrade-remote-code-execution",
-    "description": "Discovering and exploiting a remote code execution vulnerability in OpenCode (GHSA-632h-h47v-g4x4)",
+    "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+    "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+    "description": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+    "description": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Docker's new sandboxes aim to contain AI agents for real",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/24/dockers-new-sandboxes-aim-to-contain-ai-agents-for-real/5298964",
+    "description": "Docker's new sandboxes aim to contain AI agents for real",
     "tags": [
       "tldr"
     ],
@@ -173,6 +163,16 @@
     "title": "Gemini 3.8 TTS: replicate a voice, design a voice, direct every line",
     "url": "https://www.philschmid.de/gemini-3-8-tts",
     "description": "Gemini 3.8 TTS: replicate a voice, design a voice, direct every line",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google Built an AI That Hunts Its Own Security Bugs",
+    "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+    "description": "Google Built an AI That Hunts Its Own Security Bugs",
     "tags": [
       "tldr"
     ],
@@ -220,6 +220,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
+    "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+    "description": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
     "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
     "description": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
@@ -233,16 +243,6 @@
     "title": "How we made claude.ai 3x faster in two weeks / claude.dev",
     "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
     "description": "How we made claude.ai 3x faster in two weeks / claude.dev",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Introducing Claude Opus 5.5 \\ Anthropic",
-    "url": "http://anthropic.com/claude-opus-5-5",
-    "description": "Introducing Claude Opus 5.5 \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -290,16 +290,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Mark Zuckerberg: “I don’t think that we need some kind of industry-wide coordination... I think t...",
-    "url": "https://x.com/davidsacks/status/2103120103785251096",
-    "description": "Mark Zuckerberg: “I don’t think that we need some kind of industry-wide coordination... I think t...",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Meta Unveils the Vision Pro Apple Should Have Shipped",
     "url": "https://spyglass.org/meta-vr-glasses-vision-pro",
     "description": "Meta Unveils the Vision Pro Apple Should Have Shipped",
@@ -330,19 +320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that",
-    "url": "https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html",
-    "description": "Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI's GPT-6 Sol and GPT-6 Luna now available - GitHub Changelog",
-    "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
-    "description": "OpenAI's GPT-6 Sol and GPT-6 Luna now available - GitHub Changelog",
+    "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
+    "url": "https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25",
+    "description": "OpenAI works to understand full scope of agent activity as user data leak emerges",
     "tags": [
       "tldr"
     ],
@@ -400,9 +380,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web",
+    "description": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "Sources: China's SASAC, which oversees state-owned companies, is surveying the number of Broadcom switches in state-backed data centers amid a domestic AI drive",
     "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1",
     "description": "Sources: China's SASAC, which oversees state-owned companies, is surveying the number of Broadcom switches in state-backed data centers amid a domestic AI drive",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Tesla Semi enters volume production after years of delays",
+    "url": "https://www.techspot.com/news/113991-tesla-semi-enters-volume-production-after-years-delays.html",
+    "description": "Tesla Semi enters volume production after years of delays",
     "tags": [
       "tldr"
     ],
@@ -420,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Republic of Slop",
-    "url": "https://www.seuros.com/blog/the-republic-of-slop",
-    "description": "The Republic of Slop",
+    "title": "The Clearing House Just Picked Its Vendor for Tokenized Deposits. That’s the Institutional Layer Stablecoins Haven’t Built.",
+    "url": "https://forkast.news/the-clearing-house-just-picked-its-vendor-for-tokenized-deposits-thats-the-institutional-layer-stablecoins-havent-built",
+    "description": "The Clearing House Just Picked Its Vendor for Tokenized Deposits. That’s the Institutional Layer Stablecoins Haven’t Built.",
     "tags": [
       "tldr"
     ],
@@ -440,6 +440,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The state of SIMD in Rust in 2026",
+    "url": "https://shnatsel.github.io/state-of-simd-rust-2026",
+    "description": "The state of SIMD in Rust in 2026",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "Using shallow-git tarballs for CI",
     "url": "https://people.kernel.org/monsieuricon/using-shallow-git-tarballs-for-ci",
     "description": "Using shallow-git tarballs for CI",
@@ -450,9 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "White House asks OpenAI and Anthropic to hold AI models from UK testers",
-    "url": "https://thenextweb.com/news/white-house-openai-anthropic-uk-ai-security-institute-models",
-    "description": "White House asks OpenAI and Anthropic to hold AI models from UK testers",
+    "title": "Watermarking in vLLM",
+    "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
+    "description": "Watermarking in vLLM",
     "tags": [
       "tldr"
     ],
@@ -460,9 +470,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Who Is Open Source About?",
-    "url": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
-    "description": "Who Is Open Source About?",
+    "title": "White House asks OpenAI and Anthropic to hold AI models from UK testers",
+    "url": "https://thenextweb.com/news/white-house-openai-anthropic-uk-ai-security-institute-models",
+    "description": "White House asks OpenAI and Anthropic to hold AI models from UK testers",
     "tags": [
       "tldr"
     ],
@@ -483,16 +493,6 @@
     "title": "holo4",
     "url": "https://hcompany.ai/newsroom/holo4",
     "description": "holo4",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees",
-    "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees",
-    "description": "‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees",
     "tags": [
       "tldr"
     ],
