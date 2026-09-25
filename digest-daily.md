@@ -1,60 +1,80 @@
 ---
-date: '2026-09-23'
+date: '2026-09-26'
 model: gpt-oss:120b-cloud
-generated_at: '2026-09-23T06:46:56.409855'
+generated_at: '2026-09-26T05:57:53.014392'
 ---
 
 ## Executive Summary
-Apple’s iOS now ships with persistent service‑promotion ads, sparking a fresh wave of user backlash as the company leans harder on subscription revenue. The AI landscape saw two major releases – Anthropic’s Claude Opus 5.5 and OpenAI’s GPT‑6 Sol/Luna – both promising higher performance at substantially lower cost, while OpenAI’s Navier‑Stokes “solution” highlighted the growing gap between formal correctness and human‑readable insight. Climate‑risk experts called for a trans‑national intelligence network after a deadly glacier collapse, and biotech startup TBC demonstrated a “rat‑brain” AI model that could accelerate video generation. Apple is prototyping a screen‑less fitness band and postponing an AI pendant, and AWS launched CloudWatch Omni to unify observability for AI agents.
+- California’s proposed billionaire wealth tax is being challenged as ineffective, with analysts urging a modest land‑value tax that could raise $20 billion annually from the state’s $8 trillion land base.  
+- Anthropic dominates the AI headlines: a federal appeals court upheld the Pentagon’s blacklist, the company rolled out a cheaper Claude Opus 5.5 model, offered limited‑time free Claude Code credits, and sealed a $11.6 billion cloud deal with Akamai.  
+- In software tooling, Go 1.27’s new portable SIMD package and DHH’s pivot away from Rails toward LLM‑generated Rust code both generated strong discussion, while the open‑source git‑bug tracker gains traction for distributed bug management.  
+- Labor market data shows AI has not yet driven up unemployment among recent graduates, contrasting earlier warnings, and TechCrunch is offering discounted Disrupt Expo passes for laid‑off workers.  
+- Meta’s Muse AI assistant and its new lightweight VR glasses spark debate over product‑market fit, while a popular “human‑body‑design” piece highlights evolutionary trade‑offs favoring cancer suppression.
 
 ---
 
 ## AI and Machine Learning
 
-### Join the Sanity Challenge: $2,500 in prizes for FIVE winners! – DEV Community  
-A new developer contest (Sept 18‑Oct 4) invites participants to build AI agents that query structured Sanity content or create front‑end apps backed by Sanity, with five $500 prizes and badges for winners.
+### California Is Chasing Wealth That Has Feet – [hackernews_api]  
+California’s billionaire wealth tax is projected to miss its $20 billion target because half of the targeted fortunes have already left the state; a 0.25 % land‑value tax on the state’s $8.14 trillion land base would generate the same revenue without inducing wealth flight.
 
-### ‘I wish Apple would just stop that crap’: Apple adds persistent ads to iOS – TechRadar  
-Apple has embedded non‑dismissable promotional banners for iCloud+, Apple Music, Apple TV and AppleCare+ inside the Settings app, provoking strong user criticism as the firm pushes service revenue despite its premium‑brand image.
+### Why is the human body so crap except for the liver? – [hackernews_api] **(Trending)**  
+The article argues that most human organs exhibit limited regenerative capacity as an evolutionary compromise to suppress cancer, with the liver as a notable exception due to specialized control mechanisms.
 
-### Introducing Claude Opus 5.5 – Anthropic  
-Anthropic’s latest Claude Opus 5.5 model delivers performance comparable to Claude Fable 5.1 while cutting compute costs by 40 %, offering faster, cheaper, and safer output for coding, agentic tasks, and knowledge work.
+### Friday Facts – Factorio that you can touch – [hnrss]  
+A community‑driven project has released 3‑D‑printable STL files for early‑game Factorio assets, offering both high‑precision and printable‑clearance variants to let fans create tangible game memorabilia.
 
-### Introducing GPT‑6 Sol and Luna – OpenAI  
-OpenAI expands the GPT‑6 family with two lower‑cost variants: Sol (50 % cheaper than GPT‑5.6 Sol) and Luna (50 % cheaper than GPT‑5.6 Luna), both matching or exceeding prior models on professional, factual, coding, and computer‑use benchmarks.
+### U.S. appeals court upholds Pentagon designation of Anthropic as supply‑chain risk – [hnrss]  
+A D.C. Circuit panel affirmed the Department of Defense’s authority to blacklist Anthropic’s Claude models, delaying the decision’s effect while the company explores rehearing or Supreme Court review.
 
-### A global safety net for climate‑risk intelligence is urgently needed – Nature  
-Following a deadly glacier collapse on the Nepal–China border, researchers urge the creation of an international, real‑time climate‑risk intelligence network that integrates satellite, sensor and local data to close warning gaps across borders.
+### Anthropic launches Claude Opus 5.5 with lower API costs – [tldr]  
+Claude Opus 5.5, released 22 Sept 2026, matches Claude Fable 5.1 performance at 40 % lower API pricing and 30 % faster output, delivering notable gains in coding efficiency and benchmark scores.
 
-### AI Models Built From Rat Brains Just Got Closer to Reality – WIRED  
-The Biological Computing Company (TBC) is previewing a “rat‑brain” AI model on AWS that translates neural activity from live rat neurons into software tools for faster, cheaper video‑generation, backed by $50 M in venture funding.
+### Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions – [tldr]  
+Anthropic is granting Pro users $100 and Max users $250 in cloud‑session credits for Claude Code, encouraging adoption of its hosted execution environment before the credits expire in early November.
 
-### Mathematicians learn little from AI completing unsolved problem – NPR  
-OpenAI’s AI system produced a 166‑page formal proof of the Navier‑Stokes Millennium Prize problem, but leading mathematicians say the manuscript is unreadable for humans and offers little substantive insight despite formal verification.
+### Anthropic to pay Akamai $11.6 billion over seven years in cloud deal – [tldr]  
+Anthropic will spend $11.6 billion on Akamai’s cloud infrastructure, the latter’s largest contract to date, with a warrant for non‑voting stock that could rise to $20 billion if spending milestones are met.
 
-### Apple Testing Prototypes of Whoop‑Like Screenless Fitness Band – MacRumors  
-Apple is experimenting with a fabric‑band, screen‑free health tracker that mirrors Whoop’s design, monitored by senior executives; a production launch is not expected before 2028.
+### Can Muse make us forget the metaverse? – [tldr]  
+Meta unveiled Muse, a personal AI assistant positioned as a “personal superintelligence,” alongside lightweight VR glasses; analysts question Muse’s consumer appeal and view the hardware as a genuine but still‑nascent VR effort.
 
 ---
 
 ## Software Engineering and Dev Tools
 
-### I asked Meta’s Muse for its filesystem and it sent me 6.8 GB – Mouse  
-A user prompted Meta’s Muse agent to export its visible filesystem, receiving a 6.8 GB archive that exposed internal container files, skill definitions and potentially sensitive data, underscoring a new vector for data exfiltration.
+### 8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight – [devto]  
+A curated list highlights eight technically deep DEV posts by women, ranging from a Node.js follower‑analysis scraper to a local‑first AI music studio, emphasizing under‑recognized contributions.
 
-### Jim Acosta on Trump’s White House media ban – NPR  
-Acosta discusses the Trump administration’s recent ban on CNN, MS NOW and Politico, the legal challenges it raises under the First and Fifth Amendments, and the broader implications for press freedom and media access.
+### Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners! – [devto]  
+Developers are invited to create custom AI benchmarks on Kaggle, submit analyses on DEV, and compete for cash prizes, fostering community‑driven evaluation of multi‑step reasoning, coding, and vision models.
 
-### Apple has reportedly ‘postponed’ AI pendant product – 9to5Mac  
-Bloomberg reports that Apple has shelved its planned AI‑enabled pendant—a necklace‑style camera/microphone accessory—for now, shifting focus to AI features in the Apple Watch, AirPods, and upcoming smart glasses.
+### Platform‑independent SIMD in Go – [hackernews_api] **(Trending)**  
+Go 1.27 introduces a portable `simd` package that abstracts vector widths, enabling near‑assembly performance with graceful CPU fallback, aiming to simplify high‑performance code generation for both humans and LLMs.
 
-### Apple’s Smart Glasses to Enter a Rapidly Growing Market – MacRumors  
-Rumors suggest Apple’s first smart glasses, slated for late‑2027, will be display‑less audio‑centric devices, entering a market dominated by Meta’s volume‑leadership and experiencing rapid YoY growth in both display‑less and display‑equipped segments.
+### What About Rails? – [hackernews_api] **(Trending)**  
+David Heinemeier Hansson announced his retirement from traditional programming, advocating LLM‑generated Rust over Ruby and urging a shift to CLI‑first services, raising questions about Rails’ future stewardship.
 
-### AWS launches CloudWatch Omni to unify observability for AI agents and applications – InfoWorld  
-AWS introduces CloudWatch Omni, a unified telemetry platform that aggregates logs, metrics and traces from AI agents, applications and infrastructure, offering off‑console UI, VS Code extensions and AI‑driven query capabilities to streamline debugging and operations.
+### git‑bug – Distributed, offline‑first bug tracker integrated in git – [hnrss]  
+The open‑source `git‑bug` tool stores bugs directly in a Git repository, offering CLI, terminal UI, web UI, and GraphQL API, and can bridge to external trackers like GitHub and Jira.
+
+### Ink & Switch – Tenfold celebration – [hnrss]  
+Ink & Switch marks its 10‑year anniversary with the interactive “Tenfold” art piece and showcases research on local‑first, malleable, and programmable‑ink software, plus production tools like Allume and Automerge.
+
+### After seven years, a spacecraft company is releasing its Otters into the wild – [newsfeed]  
+Starfish Space prepares to launch its Otter satellite‑servicing vehicle on a Falcon 9 Transporter mission for a NASA‑funded inspection contract, signaling a new capability for on‑orbit servicing and life‑extension.
+
+---
+
+## Startups and Business
+
+### AI was supposed to hit new grads hard. So far, unemployment data says otherwise. – [newsfeed]  
+CESifo analysis of CPS data shows 2026 unemployment for recent college graduates remains within historical norms (7.3 %), contradicting earlier Stanford findings that predicted AI‑driven job losses.
+
+### Disrupt 2026 Layoff Expo+ Passes available for $75 – [newsfeed]  
+TechCrunch is offering a limited‑quantity $75 Expo+ Pass for laid‑off workers to attend Disrupt 2026’s Expo Hall, breakout sessions, and AI‑driven matchmaking, though full conference access requires a separate ticket.
 
 ---
 
 ## Notable Mentions
-- *(No additional items were listed in the source feed.)*
+- Claude computes a nine‑loop amplitude in N=4 super‑Yang‑Mills \ Anthropic – [tldr]
