@@ -10,36 +10,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-    "description": "Advancing Private AI Compute with secure, server-side memory",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too",
-    "url": "https://www.techspot.com/news/113981-amazon-blocked-meta-muse-agentic-ai-shopping-service.html",
-    "description": "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic launches Claude Opus 5.5 with lower API costs",
-    "url": "https://www.testingcatalog.com/anthropic-launches-claude-opus-5-5-with-lower-api-costs",
-    "description": "Anthropic launches Claude Opus 5.5 with lower API costs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
     "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions",
     "description": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
@@ -50,9 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
-    "description": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "title": "Anthropic’s Misuse Report: Seven Labs, 190 Million Exchanges, and the Collapse of the Offensive Labor Gap",
+    "url": "https://forkast.news/anthropics-misuse-report-seven-labs-190-million-exchanges-and-the-collapse-of-the-offensive-labor-gap",
+    "description": "Anthropic’s Misuse Report: Seven Labs, 190 Million Exchanges, and the Collapse of the Offensive Labor Gap",
     "tags": [
       "tldr"
     ],
@@ -80,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
-    "url": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
-    "description": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
+    "title": "Build plugins for Claude with the directory submission portal | Claude by Anthropic",
+    "url": "https://claude.com/blog/build-plugins-for-claude",
+    "description": "Build plugins for Claude with the directory submission portal | Claude by Anthropic",
     "tags": [
       "tldr"
     ],
@@ -93,16 +63,6 @@
     "title": "Can Muse make us forget the metaverse?",
     "url": "https://www.platformer.news/meta-connect-2026-muse-vr-glasses",
     "description": "Can Muse make us forget the metaverse?",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue",
-    "description": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
     "tags": [
       "tldr"
     ],
@@ -130,9 +90,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Discovering and exploiting a remote code execution vulnerability in OpenCode (GHSA-632h-h47v-g4x4)",
-    "url": "https://securitylabs.datadoghq.com/articles/opencode-upgrade-remote-code-execution",
-    "description": "Discovering and exploiting a remote code execution vulnerability in OpenCode (GHSA-632h-h47v-g4x4)",
+    "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+    "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+    "description": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
+    "description": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "DeepSeek Details DSec Elastic Compute: Agentic-Training Sandboxes at ~3M/Day, 380K+ Concurrent",
+    "url": "https://pandaily.com/deepseek-dsec-elastic-compute-agentic-training-sandbox-3m-day",
+    "description": "DeepSeek Details DSec Elastic Compute: Agentic-Training Sandboxes at ~3M/Day, 380K+ Concurrent",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Docker's new sandboxes aim to contain AI agents for real",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/24/dockers-new-sandboxes-aim-to-contain-ai-agents-for-real/5298964",
+    "description": "Docker's new sandboxes aim to contain AI agents for real",
     "tags": [
       "tldr"
     ],
@@ -150,9 +140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Federal court allows the U.S. government to label Anthropic a supply chain risk",
-    "url": "https://www.fastcompany.com/91613459/anthropic-supply-chain-risk-lawsuit-pentagon",
-    "description": "Federal court allows the U.S. government to label Anthropic a supply chain risk",
+    "title": "Ferguson Says AI Agents Are Tools, Not Actors — and Developers Bear the Liability",
+    "url": "https://forkast.news/ferguson-says-ai-agents-are-tools-not-actors-and-developers-bear-the-liability",
+    "description": "Ferguson Says AI Agents Are Tools, Not Actors — and Developers Bear the Liability",
     "tags": [
       "tldr"
     ],
@@ -180,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body",
-    "url": "https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926",
-    "description": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body",
+    "title": "Go concurrency distilled",
+    "url": "https://antonz.org/go-concurrency-distilled",
+    "description": "Go concurrency distilled",
     "tags": [
       "tldr"
     ],
@@ -190,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google’s Gemini 4 Enters Post-Training — and the Three-Way Frontier Race Just Compressed",
-    "url": "https://forkast.news/googles-gemini-4-enters-post-training-and-the-three-way-frontier-race-just-compressed",
-    "description": "Google’s Gemini 4 Enters Post-Training — and the Three-Way Frontier Race Just Compressed",
+    "title": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body",
+    "url": "https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926",
+    "description": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body",
     "tags": [
       "tldr"
     ],
@@ -210,9 +200,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How DeepSeek trains agents on 380,000 sandboxes at once",
-    "url": "https://www.stacksweep.dev/how-deepseek-trains-agents-380k-sandboxes",
-    "description": "How DeepSeek trains agents on 380,000 sandboxes at once",
+    "title": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
+    "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+    "description": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
     "tags": [
       "tldr"
     ],
@@ -233,6 +223,16 @@
     "title": "How we made claude.ai 3x faster in two weeks / claude.dev",
     "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
     "description": "How we made claude.ai 3x faster in two weeks / claude.dev",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Intel Panther Lake Teardown",
+    "url": "https://newsletter.semianalysis.com/p/intel-panther-lake-teardown",
+    "description": "Intel Panther Lake Teardown",
     "tags": [
       "tldr"
     ],
@@ -300,16 +300,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-    "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc",
-    "description": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
     "title": "NVIDIA/Model-Optimizer: Unified library for deep learning model optimization and inference acceleration",
     "url": "https://github.com/NVIDIA/Model-Optimizer",
     "description": "NVIDIA/Model-Optimizer: Unified library for deep learning model optimization and inference acceleration",
@@ -320,9 +310,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI's GPT-6 Sol and GPT-6 Luna now available - GitHub Changelog",
-    "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
-    "description": "OpenAI's GPT-6 Sol and GPT-6 Luna now available - GitHub Changelog",
+    "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+    "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure",
+    "description": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+    "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+    "description": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
     "tags": [
       "tldr"
     ],
@@ -360,9 +360,39 @@
     "site_name": "tldr"
   },
   {
+    "title": "Paying for AI’s Data Centers Would Take 250 Million Jobs. America Has 159 Million",
+    "url": "https://postquantum.com/leadership/paying-for-ai-data-centers",
+    "description": "Paying for AI’s Data Centers Would Take 250 Million Jobs. America Has 159 Million",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
     "title": "Professor Yoshua Bengio’s speech at UN Security Council",
     "url": "https://yoshuabengio.org/en/blog/professor-yoshua-bengios-speech-un-security-council",
     "description": "Professor Yoshua Bengio’s speech at UN Security Council",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Qwen3.8-Omni: Towards Native Omni-Modal Agents | DAIR.AI Academy | DAIR.AI Academy",
+    "url": "https://academy.dair.ai/papers/qwen3-8-omni-towards-native-omni-modal-agents-2609.25611",
+    "description": "Qwen3.8-Omni: Towards Native Omni-Modal Agents | DAIR.AI Academy | DAIR.AI Academy",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SEC Staff Clear Token Buybacks on Working Networks, With a Warning for Unfinished Ones",
+    "url": "https://unchainedcrypto.com/sec-staff-clear-token-buybacks-on-working-networks-with-a-warning-for-unfinished-ones",
+    "description": "SEC Staff Clear Token Buybacks on Working Networks, With a Warning for Unfinished Ones",
     "tags": [
       "tldr"
     ],
@@ -380,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web",
-    "description": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+    "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge",
+    "description": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
     "tags": [
       "tldr"
     ],
@@ -390,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Sources: China's SASAC, which oversees state-owned companies, is surveying the number of Broadcom switches in state-backed data centers amid a domestic AI drive",
-    "url": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1",
-    "description": "Sources: China's SASAC, which oversees state-owned companies, is surveying the number of Broadcom switches in state-backed data centers amid a domestic AI drive",
+    "title": "The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model",
+    "url": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
+    "description": "The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model",
     "tags": [
       "tldr"
     ],
@@ -400,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tesla Semi enters volume production after years of delays",
-    "url": "https://www.techspot.com/news/113991-tesla-semi-enters-volume-production-after-years-delays.html",
-    "description": "Tesla Semi enters volume production after years of delays",
+    "title": "There's a new way to break RSA that's faster than anything we've seen before",
+    "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before",
+    "description": "There's a new way to break RSA that's faster than anything we've seen before",
     "tags": [
       "tldr"
     ],
@@ -410,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
-    "url": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems",
-    "description": "Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+    "description": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
     "tags": [
       "tldr"
     ],
@@ -420,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Clearing House Just Picked Its Vendor for Tokenized Deposits. That’s the Institutional Layer Stablecoins Haven’t Built.",
-    "url": "https://forkast.news/the-clearing-house-just-picked-its-vendor-for-tokenized-deposits-thats-the-institutional-layer-stablecoins-havent-built",
-    "description": "The Clearing House Just Picked Its Vendor for Tokenized Deposits. That’s the Institutional Layer Stablecoins Haven’t Built.",
+    "title": "What Even Is An OS Now?",
+    "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now",
+    "description": "What Even Is An OS Now?",
     "tags": [
       "tldr"
     ],
@@ -430,9 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The plunging price of thought | Epoch AI",
-    "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
-    "description": "The plunging price of thought | Epoch AI",
+    "title": "antirez/ds4: DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+    "url": "https://github.com/antirez/ds4",
+    "description": "antirez/ds4: DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
     "tags": [
       "tldr"
     ],
@@ -440,49 +470,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The state of SIMD in Rust in 2026",
-    "url": "https://shnatsel.github.io/state-of-simd-rust-2026",
-    "description": "The state of SIMD in Rust in 2026",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Using shallow-git tarballs for CI",
-    "url": "https://people.kernel.org/monsieuricon/using-shallow-git-tarballs-for-ci",
-    "description": "Using shallow-git tarballs for CI",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Watermarking in vLLM",
-    "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
-    "description": "Watermarking in vLLM",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "White House asks OpenAI and Anthropic to hold AI models from UK testers",
-    "url": "https://thenextweb.com/news/white-house-openai-anthropic-uk-ai-security-institute-models",
-    "description": "White House asks OpenAI and Anthropic to hold AI models from UK testers",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
-    "url": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity",
-    "description": "Windows, Linux, Android File Notification Systems Leak User Activity",
+    "title": "browser-use/jev-ultrafast: Fast and cheap web agent with indexed action space",
+    "url": "http://github.com/browser-use/jev-ultrafast",
+    "description": "browser-use/jev-ultrafast: Fast and cheap web agent with indexed action space",
     "tags": [
       "tldr"
     ],
@@ -493,6 +483,16 @@
     "title": "holo4",
     "url": "https://hcompany.ai/newsroom/holo4",
     "description": "holo4",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "openbao/openbao: Open-source secret management and data protection software",
+    "url": "https://github.com/openbao/openbao",
+    "description": "openbao/openbao: Open-source secret management and data protection software",
     "tags": [
       "tldr"
     ],

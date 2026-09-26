@@ -1,0 +1,892 @@
+---
+title: 'GitHub - mobile-next/mobile-mcp: Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) · GitHub'
+url: https://github.com/mobile-next/mobile-mcp
+site_name: github
+content_file: github-github-mobile-nextmobile-mcp-model-context-protoco
+fetched_at: '2026-09-26T14:54:05.801910'
+original_url: https://github.com/mobile-next/mobile-mcp
+author: mobile-next
+description: Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) - mobile-next/mobile-mcp
+---
+
+mobile-next
+
+ 
+
+/
+
+mobile-mcp
+
+Public
+
+* NotificationsYou must be signed in to change notification settings
+* Fork630
+* Star7.1k
+
+ 
+ 
+ 
+main
+Branches
+Tags
+Go to file
+Code
+Open more actions menu
+
+## Latest commit
+
+ 
+
+## History
+
+438 Commits
+438 Commits
+
+## Folders and files
+
+Name
+Name
+Last commit message
+Last commit date
+.github
+.github
+ 
+ 
+.husky
+.husky
+ 
+ 
+scripts
+scripts
+ 
+ 
+skills/
+mobile-automation
+skills/
+mobile-automation
+ 
+ 
+src
+src
+ 
+ 
+test
+test
+ 
+ 
+.c8rc.json
+.c8rc.json
+ 
+ 
+.dockerignore
+.dockerignore
+ 
+ 
+.editorconfig
+.editorconfig
+ 
+ 
+.gitignore
+.gitignore
+ 
+ 
+.mocharc.yml
+.mocharc.yml
+ 
+ 
+.npmignore
+.npmignore
+ 
+ 
+CHANGELOG.md
+CHANGELOG.md
+ 
+ 
+CODE_OF_CONDUCT.md
+CODE_OF_CONDUCT.md
+ 
+ 
+CONTRIBUTING.md
+CONTRIBUTING.md
+ 
+ 
+Dockerfile
+Dockerfile
+ 
+ 
+LICENSE
+LICENSE
+ 
+ 
+README.ja.md
+README.ja.md
+ 
+ 
+README.md
+README.md
+ 
+ 
+README.zh-CN.md
+README.zh-CN.md
+ 
+ 
+ROADMAP.md
+ROADMAP.md
+ 
+ 
+SECURITY.md
+SECURITY.md
+ 
+ 
+eslint.config.mjs
+eslint.config.mjs
+ 
+ 
+glama.json
+glama.json
+ 
+ 
+icon.png
+icon.png
+ 
+ 
+llms-install.md
+llms-install.md
+ 
+ 
+manifest.json
+manifest.json
+ 
+ 
+mcp.json
+mcp.json
+ 
+ 
+mobile-mcp.png
+mobile-mcp.png
+ 
+ 
+package-lock.json
+package-lock.json
+ 
+ 
+package.json
+package.json
+ 
+ 
+playwright.config.ts
+playwright.config.ts
+ 
+ 
+plugin.json
+plugin.json
+ 
+ 
+server.json
+server.json
+ 
+ 
+smithery.yaml
+smithery.yaml
+ 
+ 
+tsconfig.json
+tsconfig.json
+ 
+ 
+View all files
+
+## Repository files navigation
+
+# Mobile Next - MCP server for Mobile Development and Automation | iOS, Android, Simulator, Emulator, and Real Devices
+
+English|日本語|简体中文
+
+This is an MCP Server that enables scalable mobile automation, development through a platform-agnostic interface, eliminating the need for distinct iOS or Android knowledge. You can run it on emulators, simulators, and real devices (iOS and Android).
+
+This server allows Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots.
+
+Works with Claude Code, Codex, Gemini, GitHub Copilot, Antigravity— or any MCP-compatible client.
+
+Run it against devices on your own machine, or against real iOS and Android devices in the cloud withMobile Next Cloud— same tools, no local setup.
+
+mobile-next-mcp-video.mp4
+
+### Main use cases
+
+How we help to scale mobile automation:
+
+* 📲 Native app automation (iOS and Android) for testing or data-entry scenarios.
+* 📝 Scripted flows and form interactions without manually controlling simulators/emulators or real devices (iPhone, Samsung, Google Pixel etc)
+* 🧭 Automating multi-step user journeys driven by an LLM
+* 👆 General-purpose mobile application interaction for agent-based frameworks
+* 🤖 Enables agent-to-agent communication for mobile automation usecases, data extraction
+
+## Main Features
+
+* 🚀Accessibility-first — fast and cheap: drives apps from the native accessibility tree (no vision model, no image tokens), falling back to screenshots + coordinates only when needed.
+* 📱One API, every target: the same tools work across iOS and Android — simulators, emulators, and real devices.
+* 🧠No platform expertise required: no XCUITest, no Espresso, no per-platform glue — describe the goal and the agent does it.
+* 🧰Full device control: taps, swipes, and gestures; app install/launch/terminate; screen recording; hardware buttons; deep links; orientation.
+* 📊Structured, deterministic output: reads real UI elements and extracts structured data, cutting the ambiguity of screenshot-only approaches.
+
+### 🎯 Platform Support
+
+Target
+
+Supported
+
+Setup
+
+iOS Simulator
+
+✅
+
+Xcode + a booted simulator (
+xcrun simctl
+)
+
+iOS Real Device
+
+✅
+
+Device connected over USB and trusted
+
+Android Emulator
+
+✅
+
+Android SDK + running emulator (
+adb
+)
+
+Android Real Device
+
+✅
+
+adb
+ + USB debugging enabled & authorized
+
+## 🔧 Available MCP Tools
+
+### Device Management
+
+* mobile_list_available_devices- List all available devices (simulators, emulators, and real devices)
+* mobile_get_screen_size- Get the screen size of the mobile device in pixels
+* mobile_get_orientation- Get the current screen orientation of the device
+* mobile_set_orientation- Change the screen orientation (portrait/landscape)
+* mobile_set_location- Override the GPS location reported by the device, or clear the override
+* mobile_clipboard- Read or replace the device clipboard
+
+### Remote Devices (Mobile Next Cloud)
+
+* mobile_login_to_cloud_provider- Authenticate this machine with the cloud device provider (browser-based device-code login)
+* mobile_list_remote_devices- List device models available to reserve from the cloud fleet
+* mobile_allocate_remote_device- Reserve a physical cloud device for exclusive use
+* mobile_release_remote_device- Release a reserved cloud device back to the fleet
+
+### App Management
+
+* mobile_list_apps- List all installed apps on the device
+* mobile_get_foreground_app- Get the app currently in the foreground
+* mobile_launch_app- Launch an app using its package name
+* mobile_terminate_app- Stop and terminate a running app
+* mobile_install_app- Install an app from file (.apk, .ipa, .app, .zip)
+* mobile_uninstall_app- Uninstall an app using bundle ID or package name
+
+### Screen Interaction
+
+* mobile_take_screenshot- Take a screenshot to understand what's on screen
+* mobile_save_screenshot- Save a screenshot to a file
+* mobile_list_elements_on_screen- List UI elements with their coordinates and properties
+* mobile_click_on_screen_at_coordinates- Click at specific x,y coordinates
+* mobile_double_tap_on_screen- Double-tap at specific coordinates
+* mobile_long_press_on_screen_at_coordinates- Long press at specific coordinates
+* mobile_swipe_on_screen- Swipe in any direction (up, down, left, right)
+* mobile_start_screen_recording- Start recording the device screen to a video file
+* mobile_stop_screen_recording- Stop the active screen recording and save the video
+
+### Input & Navigation
+
+* mobile_type_keys- Type text into focused elements with optional submit
+* mobile_press_button- Press device buttons (HOME, BACK, VOLUME_UP/DOWN, ENTER, etc.)
+* mobile_open_url- Open URLs in the device browser
+
+### Logs & Crash Reports
+
+* mobile_get_device_logs- Collect live device logs (logcat on Android, unified log on iOS), optionally saved to a file
+* mobile_list_crashes- List crash reports available on the device
+* mobile_get_crash- Get the full content of a crash report by its ID
+* mobile_batch_commands- Run multiple tools in sequence in a single call (e.g. click, type, click), optionally listing screen elements at the end
+
+## 🏗️ Mobile MCP Architecture
+
+## 📚 Wiki page
+
+More details in ourwiki pagefor setup, configuration and debugging related questions.
+
+## Prerequisites
+
+What you will need to connect MCP with your agent and mobile devices:
+
+* Xcode command line tools
+* Android Platform Tools
+* node.jsv20+
+* MCPsupported foundational models or agents, likeClaude MCP,OpenAI Agent SDK,Copilot Studio
+
+## Installation and configuration
+
+Standard configworks in most of the tools:
+
+{
+ 
+"mcpServers"
+: {
+ 
+"mobile-mcp"
+: {
+ 
+"command"
+: 
+"
+npx
+"
+,
+ 
+"args"
+: [
+"
+-y
+"
+, 
+"
+@mobilenext/mobile-mcp@latest
+"
+]
+ }
+ }
+}
+
+Amp
+
+Add via the Amp VS Code extension settings screen or by updating yoursettings.jsonfile:
+
+"amp.mcpServers"
+: {
+ 
+"mobile-mcp"
+: {
+ 
+"command"
+: 
+"
+npx
+"
+,
+ 
+"args"
+: [
+ 
+"
+@mobilenext/mobile-mcp@latest
+"
+
+ ]
+ }
+}
+
+Amp CLI:
+
+Run the following command in your terminal:
+
+amp mcp add mobile-mcp -- npx @mobilenext/mobile-mcp@latest
+
+Antigravity 2
+
+Antigravity doesn't have a CLI command to add MCP servers, so add it manually. Edit~/.gemini/config/mcp_config.jsonand add:
+
+{
+ 
+"mcpServers"
+: {
+ 
+"mobile-mcp"
+: {
+ 
+"command"
+: 
+"
+npx
+"
+,
+ 
+"args"
+: [
+"
+-y
+"
+, 
+"
+@mobilenext/mobile-mcp@latest
+"
+]
+ }
+ }
+}
+
+Cline
+
+To setup Cline, just add the json above to your MCP settings file.
+
+More in our wiki
+
+Claude Code
+
+Use the Claude Code CLI to add the Mobile MCP server:
+
+claude mcp add mobile-mcp -- npx -y @mobilenext/mobile-mcp@latest
+
+Claude Desktop
+
+Follow theMCP install guide, use json configuration above.
+
+Codex
+
+Use the Codex CLI to add the Mobile MCP server:
+
+codex mcp add mobile-mcp npx 
+"
+@mobilenext/mobile-mcp@latest
+"
+
+Alternatively, create or edit the configuration file~/.codex/config.tomland add:
+
+[
+mcp_servers
+.
+mobile-mcp
+]
+
+command
+ = 
+"
+npx
+"
+
+args
+ = [
+"
+@mobilenext/mobile-mcp@latest
+"
+]
+
+For more information, see the Codex MCP documentation.
+
+Copilot
+
+Use the Copilot CLI to interactively add the Mobile MCP server:
+
+/mcp add
+
+You can edit the configuration file~/.copilot/mcp-config.jsonand add:
+
+{
+ 
+"mcpServers"
+: {
+ 
+"mobile-mcp"
+: {
+ 
+"type"
+: 
+"
+local
+"
+,
+ 
+"command"
+: 
+"
+npx
+"
+,
+ 
+"tools"
+: [
+ 
+"
+*
+"
+
+ ],
+ 
+"args"
+: [
+ 
+"
+@mobilenext/mobile-mcp@latest
+"
+
+ ]
+ }
+ }
+}
+
+For more information, see the Copilot CLI documentation.
+
+Cursor
+
+#### Click the button to install:
+
+#### Or install manually:
+
+Go toCursor Settings->MCP->Add new MCP Server. Name to your liking, usecommandtype with the commandnpx -y @mobilenext/mobile-mcp@latest. You can also verify config or add command like arguments via clickingEdit.
+
+Gemini CLI
+
+Use the Gemini CLI to add the Mobile MCP server:
+
+gemini mcp add mobile-mcp npx -y @mobilenext/mobile-mcp@latest
+
+Goose
+
+#### Click the button to install:
+
+#### Or install manually:
+
+Go toAdvanced settings->Extensions->Add custom extension. Name to your liking, use typeSTDIO, and set thecommandtonpx -y @mobilenext/mobile-mcp@latest. Click "Add Extension".
+
+Kiro
+
+Follow the MCP Serversdocumentation. For example in.kiro/settings/mcp.json:
+
+{
+ 
+"mcpServers"
+: {
+ 
+"mobile-mcp"
+: {
+ 
+"command"
+: 
+"
+npx
+"
+,
+ 
+"args"
+: [
+ 
+"
+@mobilenext/mobile-mcp@latest
+"
+
+ ]
+ }
+ }
+}
+
+opencode
+
+Follow the MCP Servers documentation. For example in~/.config/opencode/opencode.json:
+
+{
+ 
+"$schema"
+: 
+"
+https://opencode.ai/config.json
+"
+,
+ 
+"mcp"
+: {
+ 
+"mobile-mcp"
+: {
+ 
+"type"
+: 
+"
+local
+"
+,
+ 
+"command"
+: [
+ 
+"
+npx
+"
+,
+ 
+"
+@mobilenext/mobile-mcp@latest
+"
+
+ ],
+ 
+"enabled"
+: 
+true
+
+ }
+ }
+}
+
+Windsurf
+
+Open Windsurf settings, navigate to MCP servers, and add a new server using thecommandtype with:
+
+npx @mobilenext/mobile-mcp@latest
+
+Or add the standard config undermcpServersin your settings as shown above.
+
+Read more in our wiki! 🚀
+
+### ✅ Verify it works
+
+Once the server is configured, ask your agent to list devices:
+
+list available devices
+
+You should get back your running simulators, emulators, and connected devices. If you do, Mobile MCP is wired up correctly. If the list is empty, make sure a simulator or emulator is running (seePrerequisites) — for more help, check thewiki.
+
+### ☁️ Scale up, use a cloud device
+
+Want to scale to hundreds of devices? Use Mobile MCP in your CI/CD pipeline?
+
+In your Agent, prompt:
+
+log in to mobile next cloud and then show me which remote devices are available to me
+
+### Streamable HTTP Server Mode
+
+By default, Mobile MCP runs over stdio. To start aStreamable HTTPserver instead, use the--listenflag:
+
+npx @mobilenext/mobile-mcp@latest --listen 3000
+
+This binds tolocalhost:3000. To bind to a specific interface:
+
+npx @mobilenext/mobile-mcp@latest --listen 0.0.0.0:3000
+
+Then configure your MCP client to connect tohttp://<host>:3000/mcp(orhttps://…/mcpbehind TLS). The endpoint accepts Streamable HTTP (POSTon/mcp); remote mode isstateless(no session affinity required), which works well with Smithery and other horizontal hosts.
+
+Migration note:--listenpreviously served the deprecated HTTP+SSE transport on/mcp. Clients must use Streamable HTTP againsthttp(s)://host:port/mcp. The old pure-SSE flow on/mcpis no longer available.
+
+When binding to localhost, Host-header DNS rebinding protection is enabled automatically.
+
+#### Authorization
+
+To require Bearer token authorization on the HTTP server, set theMOBILEMCP_AUTHenvironment variable:
+
+MOBILEMCP_AUTH=my-secret-token npx @mobilenext/mobile-mcp@latest --listen 3000
+
+When set, all requests must include the headerAuthorization: Bearer my-secret-token. When unset, the server accepts unauthenticated connections and logs a warning.
+
+### 🛠️ How to Use
+
+After adding the MCP server to your IDE/Client, you can instruct your AI assistant to use the available tools.
+For example, in Cursor's agent mode, you could use the prompts below to quickly validate, test and iterate on UI interactions, read information from screen, go through complex workflows.
+Be descriptive, straight to the point.
+
+### ✨ Example Prompts
+
+#### Workflows
+
+You can specify detailed workflows in a single prompt, verify business logic, setup automations. You can go crazy:
+
+Search for a video, comment, like and share it.
+
+Find the video called " Beginner Recipe for Tonkotsu Ramen" by Way of
+Ramen, click on like video, after liking write a comment " this was
+delicious, will make it next Friday", share the video with the first
+contact in your whatsapp list.
+
+Download a successful step counter app, register, setup workout and 5-star the app
+
+Find and Download a free "Pomodoro" app that has more than 1k stars.
+Launch the app, register with my email, after registration find how to
+start a pomodoro timer. When the pomodoro timer started, go back to the
+app store and rate the app 5 stars, and leave a comment how useful the
+app is.
+
+Search in Substack, read, highlight, comment and save an article
+
+Open Substack website, search for "Latest trends in AI automation 2025",
+open the first article, highlight the section titled "Emerging AI trends",
+and save article to reading list for later review, comment a random
+paragraph summary.
+
+Reserve a workout class, set timer
+
+Open ClassPass, search for yoga classes tomorrow morning within 2 miles,
+book the highest-rated class at 7 AM, confirm reservation,
+setup a timer for the booked slot in the phone
+
+Find a local event, setup calendar event
+
+Open Eventbrite, search for AI startup meetup events happening this
+weekend in "Austin, TX", select the most popular one, register and RSVP
+yes to the event, setup a calendar event as a reminder.
+
+Check weather forecast and send a Whatsapp/Telegram/Slack message
+
+Open Weather app, check tomorrow's weather forecast for "Berlin", and
+send the summary via Whatsapp/Telegram/Slack to contact "Lauren Trown",
+thumbs up their response.
+
+* Schedule a meeting in Zoom and share invite via email
+
+Open Zoom app, schedule a meeting titled "AI Hackathon" for tomorrow at
+10AM with a duration of 1 hour, copy the invitation link, and send it via
+Gmail to contacts "team@example.com".
+
+## Running & configuration
+
+### Environment variables
+
+Variable
+
+Description
+
+Example
+
+MOBILEMCP_AUTH
+
+Require a Bearer token on the Streamable HTTP server (
+--listen
+) — every request must then send 
+Authorization: Bearer <token>
+.
+
+MOBILEMCP_AUTH=my-secret-token
+
+MOBILEMCP_DISABLE_TELEMETRY
+
+Disable anonymous usage telemetry.
+
+MOBILEMCP_DISABLE_TELEMETRY=1
+
+MOBILEMCP_ALLOW_UNSAFE_URLS
+
+Allow 
+mobile_open_url
+ to open non-standard URL schemes (blocked by default).
+
+MOBILEMCP_ALLOW_UNSAFE_URLS=1
+
+MOBILEMCP_LEGACY_ROBOT
+
+Use the legacy platform-specific robots for Android devices and physical iOS devices. iOS simulators continue to use 
+mobilecli
+.
+
+MOBILEMCP_LEGACY_ROBOT=1
+
+### Simulators, Emulators, and Real Devices
+
+When launched, Mobile MCP can connect to:
+
+* iOS Simulators on macOS/Linux
+* Android Emulators on Linux/Windows/macOS
+* iOS or Android real devices (requires proper platform tools and drivers)
+
+Make sure you have your mobile platform SDKs (Xcode, Android SDK) installed and configured properly before running Mobile Next Mobile MCP.
+
+### Telemetry
+
+Mobile MCP collects anonymous usage telemetry via PostHog and Scarf. To disable it, set theMOBILEMCP_DISABLE_TELEMETRYenvironment variable:
+
+MOBILEMCP_DISABLE_TELEMETRY=1 npx @mobilenext/mobile-mcp@latest
+
+For json configurations:
+
+{
+ 
+"mcpServers"
+: {
+ 
+"mobile-mcp"
+: {
+ 
+"command"
+: 
+"
+npx
+"
+,
+ 
+"args"
+: [
+"
+-y
+"
+, 
+"
+@mobilenext/mobile-mcp@latest
+"
+],
+ 
+"env"
+: {
+ 
+"MOBILEMCP_DISABLE_TELEMETRY"
+: 
+"
+1
+"
+
+ }
+ }
+ }
+}
+
+### Running in "headless" mode on Simulators/Emulators
+
+When you do not have a real device connected to your machine, you can run Mobile MCP with an emulator or simulator in the background.
+
+For example, on Android:
+
+1. Start an emulator (avdmanager / emulator command).
+2. Run Mobile MCP with the desired flags
+
+On iOS, you'll need Xcode and to run the Simulator before using Mobile MCP with that simulator instance.
+
+* xcrun simctl list
+* xcrun simctl boot "iPhone 16"
+
+## 🧩 Part of Mobile Next
+
+Mobile MCP is one piece of a toolkit for driving real mobile devices:
+
+* mobilewright— "Playwright for mobile." When you're ready to turn agent-driven exploration intorepeatable, deterministic testsfor iOS and Android, graduate to mobilewright.
+* mobilecli— the universal device CLI that Mobile MCP is built on: control devices, simulators, and emulators from the command line or a JSON-RPC API.
+* Mobile Next Cloud— the same stack, rented: real iOS and Android devices on demand. Just prompt your agent:log in to mobile next cloud and then show me which remote devices are available to meto get started.
+
+## 🚀 Roadmap
+
+We're continuously improving Mobile MCP. See what we're building next inROADMAP.md— priorities are shaped heavily by community feedback, so tell us what you'd like to see.
+
+## 🤝 Contributing
+
+Contributions are welcome — code, docs, bug reports, and ideas.
+
+* ⭐Star the repo— the easiest way to help others discover Mobile MCP.
+* ReadCONTRIBUTING.mdfor how to build, test, and open a pull request.
+* Browseopen issuesto find something to work on.
+* Questions and ideas are also welcome in ourSlack community.
+
+Please also review ourCode of Conduct.
+
+# Thanks to all contributors ❤️
+
+### We appreciate everyone who has helped improve this project.
+
+## Privacy Policy
+
+Mobile MCP runs locally and communicates only with the devices you connect.
+See the Mobile Next privacy policy athttps://mobilenext.ai/privacyfor data
+collection, usage, retention, and contact information.

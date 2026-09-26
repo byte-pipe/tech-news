@@ -5,7 +5,7 @@
     "date": "2026-09-24",
     "description": "Includes stats from 72 applications sentJulien AvezouJulien AvezouJulien AvezouFollowSep 2423 Rejections, Multiple Offers: What I Learned From My 2-Mo...",
     "tags": "#career, #softwaredevelopment, #programming, #learning",
-    "reactions": "44 reactions",
+    "reactions": "50 reactions",
     "comments": "0",
     "url": "https://dev.to/javz/23-rejections-multiple-offers-what-i-learned-from-my-2-month-swe-job-search-5hi4"
   },
@@ -13,9 +13,9 @@
     "title": "8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight",
     "author": "Mika Flowers",
     "date": "2026-09-25",
-    "description": "Real technical deep dives over token spotlightsMika FlowersMika FlowersMika FlowersFollowforSheShipsSep 258 Posts by Women on DEV That Deserve More Th...",
+    "description": "Real technical deep dives over token spotlightsMika FlowersMika FlowersMika FlowersFollowforshe[ships]Sep 258 Posts by Women on DEV That Deserve More ...",
     "tags": "#showdev, #wecoded, #womenintech, #career",
-    "reactions": "19 reactions",
+    "reactions": "37 reactions",
     "comments": "0",
     "url": "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc"
   },
@@ -25,7 +25,7 @@
     "date": "2026-09-21",
     "description": "Includes a helpful regex breakdown in the commentsGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowSep 21Clean Code Is Not the Same as Clear Code: C...",
     "tags": "#discuss, #programming, #documentation, #coding",
-    "reactions": "125 reactions",
+    "reactions": "133 reactions",
     "comments": "0",
     "url": "https://dev.to/georgekobaidze/clean-code-is-not-the-same-as-clear-code-comments-were-never-the-problem-42n"
   },
@@ -35,9 +35,19 @@
     "date": "2026-09-23",
     "description": "Community reactions to an extended tech hiatusMaame Afua A. P. FordjourMaame Afua A. P. FordjourMaame Afua A. P. FordjourFollowSep 23Disappeared Since...",
     "tags": "",
-    "reactions": "66 reactions",
+    "reactions": "74 reactions",
     "comments": "0",
     "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+  },
+  {
+    "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
+    "author": "Ken W Alger",
+    "date": "2026-09-24",
+    "description": "Includes a Python API trick for v1 dataKen W AlgerKen W AlgerKen W AlgerFollowSep 24I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not Wh...",
+    "tags": "#python, #api, #devjournal, #datascience",
+    "reactions": "26 reactions",
+    "comments": "0",
+    "url": "https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac"
   },
   {
     "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
@@ -45,29 +55,29 @@
     "date": "2026-09-23",
     "description": "Shift from AI vibe coding to real debuggingMika FlowersMika FlowersMika FlowersFollowSep 23I Turned DEV.to Into a Walkable 3D Library — Debugging It H...",
     "tags": "#buildinpublic, #webdev, #nextjs, #ai",
-    "reactions": "61 reactions",
+    "reactions": "63 reactions",
     "comments": "0",
     "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
   },
   {
-    "title": "I got rejected for using AI in an interview. Then I watched the interviewer do it.",
-    "author": "Info Inlet",
-    "date": "2026-09-19",
-    "description": "Comments highlight the new era of AI hypocrisyInfo InletInfo InletInfo InletFollowSep 19I got rejected for using AI in an interview. Then I watched th...",
-    "tags": "#discuss, #ai, #webdev, #career",
-    "reactions": "51 reactions",
-    "comments": "Comments 57 comments",
-    "url": "https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0"
+    "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
+    "author": "Jem",
+    "date": "2026-09-18",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxPrompt it into existence and write the story.A rough app with an ho...",
+    "tags": "#sanitychallenge, #devchallenge, #agents, #webdev",
+    "reactions": "8 reactions",
+    "comments": "Comments 1 comment",
+    "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264398"
   },
   {
-    "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
-    "author": "Jem",
-    "date": "2026-09-23",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxThat one weird failure mode? Measure it.Multi-step reasoning, code ...",
-    "tags": "#devchallenge, #kagglechallenge, #machinelearning, #ai",
-    "reactions": "11 reactions",
-    "comments": "Comments Add Comment",
-    "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml?bb=264453"
+    "title": "Pointers Aren't Arrows. How C and C++ Actually Talk to Hardware.",
+    "author": "S M Tahosin",
+    "date": "2026-09-25",
+    "description": "Demystifies memory addresses and segfaultsS M TahosinS M TahosinS M TahosinFollowSep 25Pointers Aren't Arrows. How C and C++ Actually Talk to Hardware...",
+    "tags": "#discuss, #cpp, #c, #programming",
+    "reactions": "14 reactions",
+    "comments": "0",
+    "url": "https://dev.to/smtahosin/pointers-arent-arrows-how-c-and-c-actually-talk-to-hardware-9d6"
   },
   {
     "title": "Polly Introduces an Open Source Maintenance Fee",
@@ -75,7 +85,7 @@
     "date": "2026-09-24",
     "description": "Explores a novel fee model to fund open sourceDaniel BalcarekDaniel BalcarekDaniel BalcarekFollowSep 24Polly Introduces an Open Source Maintenance Fee...",
     "tags": "#discuss, #csharp, #opensource, #dotnet",
-    "reactions": "48 reactions",
+    "reactions": "50 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e"
   },
@@ -90,23 +100,13 @@
     "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
   },
   {
-    "title": "The beauty and terror of negative feedback",
-    "author": "Amanda Mayfield",
-    "date": "2026-09-18",
-    "description": "The sting of anonymous conference reviewsAmanda MayfieldAmanda MayfieldAmanda MayfieldFollowSep 18The beauty and terror of negative feedback#techtalks...",
-    "tags": "#techtalks, #mentalhealth, #learning, #speaking",
-    "reactions": "22 reactions",
-    "comments": "0",
-    "url": "https://dev.to/amandamayfield/the-beauty-and-terror-of-negative-feedback-2g4d"
-  },
-  {
     "title": "Top 7 Featured DEV Posts of the Week",
     "author": "Jem",
     "date": "2026-09-22",
-    "description": "Ranging from hardware builds to work-life balanceJemJemJemFollowforThe DEV TeamSep 22Top 7 Featured DEV Posts of the Week#discuss#top731reactionsComme...",
+    "description": "Ranging from hardware builds to work-life balanceJemJemJemFollowforThe DEV TeamSep 22Top 7 Featured DEV Posts of the Week#discuss#top733reactionsComme...",
     "tags": "#discuss, #top7",
-    "reactions": "31 reactions",
-    "comments": "Comments 23 comments",
+    "reactions": "33 reactions",
+    "comments": "Comments 24 comments",
     "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl"
   },
   {
@@ -115,8 +115,8 @@
     "date": "2026-09-22",
     "description": "Relatable impostor syndrome at an AI startupxulingfengxulingfengxulingfengFollowSep 22Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy#di...",
     "tags": "#discuss, #career, #testing, #ai",
-    "reactions": "98 reactions",
-    "comments": "Comments 76 comments",
+    "reactions": "101 reactions",
+    "comments": "Comments 81 comments",
     "url": "https://dev.to/xulingfeng/two-weeks-in-a-15-year-qa-veteran-back-to-being-the-new-guy-39g3"
   },
   {
@@ -125,7 +125,7 @@
     "date": "2026-09-22",
     "description": "Exposing the hidden costs of AI tool choicesDhruv JaniDhruv JaniDhruv JaniFollowSep 22We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI. When Did...",
     "tags": "#discuss, #ai, #gemini, #antigravity",
-    "reactions": "80 reactions",
+    "reactions": "103 reactions",
     "comments": "0",
     "url": "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2"
   },
@@ -135,8 +135,8 @@
     "date": "2026-09-23",
     "description": "Community shares hidden gems and ongoing projectsHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowSep 23What DEV Series Are You Reading or ...",
     "tags": "#discuss, #community, #writing, #series",
-    "reactions": "70 reactions",
-    "comments": "Comments 16 comments",
+    "reactions": "71 reactions",
+    "comments": "Comments 17 comments",
     "url": "https://dev.to/hemapriya_kanagala/what-dev-series-are-you-reading-or-writing-lets-make-them-easier-to-find-23ej"
   },
   {
@@ -145,7 +145,7 @@
     "date": "2026-09-21",
     "description": "Insights from speaking at AGNTCon EuropeSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowSep 21What If Your AI Agent Never Had to Leave the Brows...",
     "tags": "#ai, #webdev, #mcp, #typescript",
-    "reactions": "166 reactions",
+    "reactions": "170 reactions",
     "comments": "0",
     "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g"
   },
@@ -163,9 +163,9 @@
     "title": "You're not an impostor, you just started from a different line",
     "author": "Daniel Reis",
     "date": "2026-09-21",
-    "description": "Daniel ReisDaniel ReisDaniel ReisFollowSep 21You're not an impostor, you just started from a different line#discuss#career#beginners156reactionsPicked...",
+    "description": "Daniel ReisDaniel ReisDaniel ReisFollowSep 21You're not an impostor, you just started from a different line#discuss#career#beginners157reactionsPicked...",
     "tags": "#discuss, #career, #beginners",
-    "reactions": "156 reactions",
+    "reactions": "157 reactions",
     "comments": "0",
     "url": "https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph"
   },
@@ -185,7 +185,7 @@
     "date": "2026-09-23",
     "description": "Includes the required script fileAnna VillarrealAnna VillarrealAnna VillarrealFollowSep 23🦄 Sharing DEV Followers Count on Github Profile 🦄#github#web...",
     "tags": "#github, #webdev, #tooling, #githubactions",
-    "reactions": "68 reactions",
+    "reactions": "87 reactions",
     "comments": "0",
     "url": "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3"
   }
