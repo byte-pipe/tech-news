@@ -10,9 +10,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "AMD Posts the Full EPYC 9006 SKU List: 31 Venice Parts From $700 to $14,904 Across SP7 and SP8",
+    "url": "https://www.storagereview.com/news/amd-posts-the-full-epyc-9006-sku-list-31-venice-parts-from-700-to-14904-across-sp7-and-sp8",
+    "description": "AMD Posts the Full EPYC 9006 SKU List: 31 Venice Parts From $700 to $14,904 Across SP7 and SP8",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
     "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions",
     "description": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic shares an exciting result in enzyme discovery - and an exercise in public's perception of science and AI",
+    "url": "https://www.lesswrong.com/posts/nLcnuadR6HtFeJwek/anthropic-shares-an-exciting-result-in-enzyme-discovery-and",
+    "description": "Anthropic shares an exciting result in enzyme discovery - and an exercise in public's perception of science and AI",
     "tags": [
       "tldr"
     ],
@@ -70,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats \\ Anthropic",
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "description": "Claude discovers a novel enzyme system with CRISPR-like repeats \\ Anthropic",
+    "title": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic",
+    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "description": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -80,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic",
-    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-    "description": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic",
+    "title": "Claude.ai is about 3x faster after 3,000+ changes",
+    "url": "https://www.helpnetsecurity.com/2026/09/24/anthropic-claude-ai-faster",
+    "description": "Claude.ai is about 3x faster after 3,000+ changes",
     "tags": [
       "tldr"
     ],
@@ -110,9 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "DeepSeek Details DSec Elastic Compute: Agentic-Training Sandboxes at ~3M/Day, 380K+ Concurrent",
-    "url": "https://pandaily.com/deepseek-dsec-elastic-compute-agentic-training-sandbox-3m-day",
-    "description": "DeepSeek Details DSec Elastic Compute: Agentic-Training Sandboxes at ~3M/Day, 380K+ Concurrent",
+    "title": "DeepSeek: R1: Model Details, Context & Pricing | Essa Mamdani",
+    "url": "https://essamamdani.com/ai-models/or-deepseek-deepseek-r1",
+    "description": "DeepSeek: R1: Model Details, Context & Pricing | Essa Mamdani",
     "tags": [
       "tldr"
     ],
@@ -143,16 +163,6 @@
     "title": "Ferguson Says AI Agents Are Tools, Not Actors — and Developers Bear the Liability",
     "url": "https://forkast.news/ferguson-says-ai-agents-are-tools-not-actors-and-developers-bear-the-liability",
     "description": "Ferguson Says AI Agents Are Tools, Not Actors — and Developers Bear the Liability",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "FiloSottile/age: A simple, modern and secure file encryption tool",
-    "url": "https://github.com/FiloSottile/age",
-    "description": "FiloSottile/age: A simple, modern and secure file encryption tool",
     "tags": [
       "tldr"
     ],
@@ -220,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How we made claude.ai 3x faster in two weeks / claude.dev",
-    "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
-    "description": "How we made claude.ai 3x faster in two weeks / claude.dev",
+    "title": "How an AI Lab Works",
+    "url": "https://cthiriet.com/blog/mini-lab",
+    "description": "How an AI Lab Works",
     "tags": [
       "tldr"
     ],
@@ -300,6 +310,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Microsoft is breaking a decades-old Excel rule: one cell can now hold an entire list (multiple values in a single cell)",
+    "url": "https://www.windowslatest.com/2026/09/25/microsoft-is-breaking-a-decades-old-excel-rule-one-cell-can-now-hold-an-entire-list",
+    "description": "Microsoft is breaking a decades-old Excel rule: one cell can now hold an entire list (multiple values in a single cell)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
     "title": "NVIDIA/Model-Optimizer: Unified library for deep learning model optimization and inference acceleration",
     "url": "https://github.com/NVIDIA/Model-Optimizer",
     "description": "NVIDIA/Model-Optimizer: Unified library for deep learning model optimization and inference acceleration",
@@ -310,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
-    "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure",
-    "description": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+    "title": "OpenAI bots meddled with US government agencies, including SEC and Census",
+    "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+    "description": "OpenAI bots meddled with US government agencies, including SEC and Census",
     "tags": [
       "tldr"
     ],
@@ -323,16 +343,6 @@
     "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
     "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
     "description": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI: ChatGPT Voice gets plugins, GPT-6 models, and ChatGPT Work integration",
-    "url": "https://x.com/OpenAI/status/2102808325742322002",
-    "description": "OpenAI: ChatGPT Voice gets plugins, GPT-6 models, and ChatGPT Work integration",
     "tags": [
       "tldr"
     ],
@@ -360,26 +370,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Paying for AI’s Data Centers Would Take 250 Million Jobs. America Has 159 Million",
-    "url": "https://postquantum.com/leadership/paying-for-ai-data-centers",
-    "description": "Paying for AI’s Data Centers Would Take 250 Million Jobs. America Has 159 Million",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Professor Yoshua Bengio’s speech at UN Security Council",
-    "url": "https://yoshuabengio.org/en/blog/professor-yoshua-bengios-speech-un-security-council",
-    "description": "Professor Yoshua Bengio’s speech at UN Security Council",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
     "title": "Qwen3.8-Omni: Towards Native Omni-Modal Agents | DAIR.AI Academy | DAIR.AI Academy",
     "url": "https://academy.dair.ai/papers/qwen3-8-omni-towards-native-omni-modal-agents-2609.25611",
     "description": "Qwen3.8-Omni: Towards Native Omni-Modal Agents | DAIR.AI Academy | DAIR.AI Academy",
@@ -390,9 +380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SEC Staff Clear Token Buybacks on Working Networks, With a Warning for Unfinished Ones",
-    "url": "https://unchainedcrypto.com/sec-staff-clear-token-buybacks-on-working-networks-with-a-warning-for-unfinished-ones",
-    "description": "SEC Staff Clear Token Buybacks on Working Networks, With a Warning for Unfinished Ones",
+    "title": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
+    "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+    "description": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
     "tags": [
       "tldr"
     ],
@@ -403,6 +393,16 @@
     "title": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing",
     "url": "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958",
     "description": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
+    "description": "Tesla workers balk at training Optimus humanoid robots as replacements",
     "tags": [
       "tldr"
     ],
@@ -433,16 +433,6 @@
     "title": "There's a new way to break RSA that's faster than anything we've seen before",
     "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before",
     "description": "There's a new way to break RSA that's faster than anything we've seen before",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-26",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-    "description": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
     "tags": [
       "tldr"
     ],
@@ -483,6 +473,16 @@
     "title": "holo4",
     "url": "https://hcompany.ai/newsroom/holo4",
     "description": "holo4",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-26",
+    "site_name": "tldr"
+  },
+  {
+    "title": "kelseyhightower/kubernetes-the-hard-way: A manual guide to bootstrapping a Kubernetes cluster",
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "description": "kelseyhightower/kubernetes-the-hard-way: A manual guide to bootstrapping a Kubernetes cluster",
     "tags": [
       "tldr"
     ],

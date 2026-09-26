@@ -1,10 +1,10 @@
 ---
 title: 'Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners! - DEV Community'
-url: https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml?bb=264453
+url: https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml?bb=264452
 site_name: devto
 content_file: devto-join-the-kaggle-benchmarking-challenge-2500-in-pri
-fetched_at: '2026-09-26T05:56:14.769103'
-original_url: https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml?bb=264453
+fetched_at: '2026-09-26T21:49:06.598107'
+original_url: https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml?bb=264452
 author: Jem
 date: '2026-09-23'
 description: We're excited to team up with Kaggle for a brand new challenge! Running through October 11, the... Tagged with devchallenge, kagglebenchmarkchallenge, machinelearning, ai.
@@ -189,7 +189,7 @@ Preview
 
 Dismiss
 
- View full discussion (12 comments)
+ View full discussion (18 comments)
  
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.

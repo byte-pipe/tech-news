@@ -15,7 +15,7 @@
     "date": "2026-09-25",
     "description": "Real technical deep dives over token spotlightsMika FlowersMika FlowersMika FlowersFollowforshe[ships]Sep 258 Posts by Women on DEV That Deserve More ...",
     "tags": "#showdev, #wecoded, #womenintech, #career",
-    "reactions": "37 reactions",
+    "reactions": "43 reactions",
     "comments": "0",
     "url": "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc"
   },
@@ -40,6 +40,16 @@
     "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
   },
   {
+    "title": "I Built a Better Codex Pet Than OpenAI Did",
+    "author": "Mika Flowers",
+    "date": "2026-09-26",
+    "description": "Linux desktop pet vs OpenAI's official releaseMika FlowersMika FlowersMika FlowersFollowSep 26I Built a Better Codex Pet Than OpenAI Did#showdev#opens...",
+    "tags": "#showdev, #opensource, #python, #linux",
+    "reactions": "26 reactions",
+    "comments": "Comments 6 comments",
+    "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib"
+  },
+  {
     "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
     "author": "Ken W Alger",
     "date": "2026-09-24",
@@ -60,24 +70,14 @@
     "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
   },
   {
-    "title": "Join the Sanity Challenge: $2,500 in prizes for FIVE winners!",
+    "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
     "author": "Jem",
-    "date": "2026-09-18",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxPrompt it into existence and write the story.A rough app with an ho...",
-    "tags": "#sanitychallenge, #devchallenge, #agents, #webdev",
-    "reactions": "8 reactions",
-    "comments": "Comments 1 comment",
-    "url": "https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m?bb=264398"
-  },
-  {
-    "title": "Pointers Aren't Arrows. How C and C++ Actually Talk to Hardware.",
-    "author": "S M Tahosin",
-    "date": "2026-09-25",
-    "description": "Demystifies memory addresses and segfaultsS M TahosinS M TahosinS M TahosinFollowSep 25Pointers Aren't Arrows. How C and C++ Actually Talk to Hardware...",
-    "tags": "#discuss, #cpp, #c, #programming",
-    "reactions": "14 reactions",
-    "comments": "0",
-    "url": "https://dev.to/smtahosin/pointers-arent-arrows-how-c-and-c-actually-talk-to-hardware-9d6"
+    "date": "2026-09-23",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxWhich model is actually best for your work?Find out yourself. Build...",
+    "tags": "#devchallenge, #kagglechallenge, #machinelearning, #ai",
+    "reactions": "11 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml?bb=264452"
   },
   {
     "title": "Polly Introduces an Open Source Maintenance Fee",
@@ -85,7 +85,7 @@
     "date": "2026-09-24",
     "description": "Explores a novel fee model to fund open sourceDaniel BalcarekDaniel BalcarekDaniel BalcarekFollowSep 24Polly Introduces an Open Source Maintenance Fee...",
     "tags": "#discuss, #csharp, #opensource, #dotnet",
-    "reactions": "50 reactions",
+    "reactions": "52 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e"
   },
@@ -95,7 +95,7 @@
     "date": "2026-09-22",
     "description": "Ryan CarniatoRyan CarniatoRyan CarniatoFollowforPlayful ProgrammingSep 22The Grand Unifying Architecture of Frontend#webdev#javascript#solidjs#archite...",
     "tags": "#webdev, #javascript, #solidjs, #architecture",
-    "reactions": "17 reactions",
+    "reactions": "18 reactions",
     "comments": "0",
     "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk"
   },
@@ -125,7 +125,7 @@
     "date": "2026-09-22",
     "description": "Exposing the hidden costs of AI tool choicesDhruv JaniDhruv JaniDhruv JaniFollowSep 22We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI. When Did...",
     "tags": "#discuss, #ai, #gemini, #antigravity",
-    "reactions": "103 reactions",
+    "reactions": "106 reactions",
     "comments": "0",
     "url": "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2"
   },
@@ -135,8 +135,8 @@
     "date": "2026-09-23",
     "description": "Community shares hidden gems and ongoing projectsHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowSep 23What DEV Series Are You Reading or ...",
     "tags": "#discuss, #community, #writing, #series",
-    "reactions": "71 reactions",
-    "comments": "Comments 17 comments",
+    "reactions": "76 reactions",
+    "comments": "Comments 23 comments",
     "url": "https://dev.to/hemapriya_kanagala/what-dev-series-are-you-reading-or-writing-lets-make-them-easier-to-find-23ej"
   },
   {
@@ -145,7 +145,7 @@
     "date": "2026-09-21",
     "description": "Insights from speaking at AGNTCon EuropeSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowSep 21What If Your AI Agent Never Had to Leave the Brows...",
     "tags": "#ai, #webdev, #mcp, #typescript",
-    "reactions": "170 reactions",
+    "reactions": "171 reactions",
     "comments": "0",
     "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g"
   },
@@ -155,7 +155,7 @@
     "date": "2026-09-22",
     "description": "Readers debate the limits of rigid rulesRemo H. JansenRemo H. JansenRemo H. JansenFollowSep 22Why the Best Software Advice Is the Hardest to Follow#di...",
     "tags": "#discuss, #software, #career, #learning",
-    "reactions": "44 reactions",
+    "reactions": "43 reactions",
     "comments": "0",
     "url": "https://dev.to/remojansen/why-the-best-software-advice-is-the-hardest-to-follow-4kg8"
   },
@@ -185,7 +185,7 @@
     "date": "2026-09-23",
     "description": "Includes the required script fileAnna VillarrealAnna VillarrealAnna VillarrealFollowSep 23🦄 Sharing DEV Followers Count on Github Profile 🦄#github#web...",
     "tags": "#github, #webdev, #tooling, #githubactions",
-    "reactions": "87 reactions",
+    "reactions": "90 reactions",
     "comments": "0",
     "url": "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3"
   }
