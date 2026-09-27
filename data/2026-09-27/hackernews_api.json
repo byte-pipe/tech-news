@@ -1,28 +1,28 @@
 [
   {
-    "title": "16GB iPod Nano 3G Upgrade",
-    "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
-    "author": "Ivoah",
-    "date": "2026-09-24",
-    "score": 157,
-    "comments": 30,
-    "id": 49826087,
-    "discussion_url": "https://news.ycombinator.com/item?id=49826087",
-    "description": "16GB iPod Nano 3G Upgrade",
+    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+    "url": "https://arxiv.org/abs/2609.25021",
+    "author": "yu3zhou4",
+    "date": "2026-09-27",
+    "score": 97,
+    "comments": 100,
+    "id": 49865343,
+    "discussion_url": "https://news.ycombinator.com/item?id=49865343",
+    "description": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087844"
+    "fetched_at": "2026-09-27T21:51:57.004047"
   },
   {
     "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
     "url": "https://www.movingimagearchive.com/",
     "author": "momentmaker",
     "date": "2026-09-24",
-    "score": 195,
-    "comments": 26,
+    "score": 205,
+    "comments": 27,
     "id": 49832768,
     "discussion_url": "https://news.ycombinator.com/item?id=49832768",
     "description": "A searchable library of forgotten public-domain film clips from 1915 onward",
@@ -31,49 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087783"
-  },
-  {
-    "title": "A single function Jev-like wrapper for LLMs, including vision models",
-    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-    "author": "allanrbo",
-    "date": "2026-09-26",
-    "score": 147,
-    "comments": 44,
-    "id": 49853175,
-    "discussion_url": "https://news.ycombinator.com/item?id=49853175",
-    "description": "A single function Jev-like wrapper for LLMs, including vision models",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087848"
-  },
-  {
-    "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-    "author": "MC995",
-    "date": "2026-09-25",
-    "score": 358,
-    "comments": 772,
-    "id": 49844663,
-    "discussion_url": "https://news.ycombinator.com/item?id=49844663",
-    "description": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087659"
+    "fetched_at": "2026-09-27T21:51:57.004031"
   },
   {
     "title": "An agent used DNS to reach an external chatbot",
     "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
     "author": "apsec112",
     "date": "2026-09-26",
-    "score": 136,
-    "comments": 136,
+    "score": 161,
+    "comments": 154,
     "id": 49853137,
     "discussion_url": "https://news.ycombinator.com/item?id=49853137",
     "description": "An agent used DNS to reach an external chatbot",
@@ -82,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087763"
+    "fetched_at": "2026-09-27T21:51:57.003988"
   },
   {
     "title": "Biology might not be quantum, but its math is quantumlike",
     "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
     "author": "pseudolus",
     "date": "2026-09-25",
-    "score": 101,
-    "comments": 38,
+    "score": 117,
+    "comments": 56,
     "id": 49839438,
     "discussion_url": "https://news.ycombinator.com/item?id=49839438",
     "description": "Biology might not be quantum, but its math is quantumlike",
@@ -99,32 +65,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087706"
-  },
-  {
-    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-    "author": "ezst",
-    "date": "2026-09-26",
-    "score": 674,
-    "comments": 285,
-    "id": 49855315,
-    "discussion_url": "https://news.ycombinator.com/item?id=49855315",
-    "description": "Breaking Up with Google Play: Why Conversations Is Now Free",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087858"
+    "fetched_at": "2026-09-27T21:51:57.004034"
   },
   {
     "title": "DeepSeek Elastic Compute (DSec)",
     "url": "https://arxiv.org/abs/2609.22978",
     "author": "shenli3514",
     "date": "2026-09-26",
-    "score": 299,
-    "comments": 94,
+    "score": 313,
+    "comments": 102,
     "id": 49859112,
     "discussion_url": "https://news.ycombinator.com/item?id=49859112",
     "description": "DeepSeek Elastic Compute (DSec)",
@@ -133,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087678"
+    "fetched_at": "2026-09-27T21:51:57.003970"
   },
   {
     "title": "Does Georgism work? Five years later",
     "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
     "author": "silveraxe93",
     "date": "2026-09-25",
-    "score": 450,
-    "comments": 340,
+    "score": 485,
+    "comments": 444,
     "id": 49844657,
     "discussion_url": "https://news.ycombinator.com/item?id=49844657",
     "description": "Does Georgism work? Five years later",
@@ -150,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087739"
+    "fetched_at": "2026-09-27T21:51:57.004056"
   },
   {
     "title": "Drawgent: Coding agent on a live Excalidraw canvas",
     "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
     "author": "parasitid",
     "date": "2026-09-26",
-    "score": 169,
-    "comments": 44,
+    "score": 173,
+    "comments": 45,
     "id": 49857729,
     "discussion_url": "https://news.ycombinator.com/item?id=49857729",
     "description": "Drawgent: Coding agent on a live Excalidraw canvas",
@@ -167,49 +116,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087767"
+    "fetched_at": "2026-09-27T21:51:57.004043"
   },
   {
-    "title": "Evolving programming languages in the AI era",
-    "url": "https://dashbit.co/blog/evolving-ai-era",
-    "author": "pjm331",
-    "date": "2026-09-25",
-    "score": 124,
-    "comments": 86,
-    "id": 49839567,
-    "discussion_url": "https://news.ycombinator.com/item?id=49839567",
-    "description": "Evolving programming languages in the AI era",
+    "title": "Ember-1",
+    "url": "https://fireworks.ai/blog/ember-1",
+    "author": "gmays",
+    "date": "2026-09-27",
+    "score": 247,
+    "comments": 143,
+    "id": 49868830,
+    "discussion_url": "https://news.ycombinator.com/item?id=49868830",
+    "description": "Ember-1",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087794"
+    "fetched_at": "2026-09-27T21:51:57.003785"
   },
   {
-    "title": "Fifteen years later, the Apple Cards origin story",
-    "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-    "author": "ksec",
+    "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+    "url": "https://fakecloud.dev/",
+    "author": "theanonymousone",
     "date": "2026-09-26",
-    "score": 419,
-    "comments": 109,
-    "id": 49854693,
-    "discussion_url": "https://news.ycombinator.com/item?id=49854693",
-    "description": "Fifteen years later, the Apple Cards origin story",
+    "score": 90,
+    "comments": 46,
+    "id": 49856885,
+    "discussion_url": "https://news.ycombinator.com/item?id=49856885",
+    "description": "Fakecloud: Local AWS cloud emulator for integration tests",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087806"
+    "fetched_at": "2026-09-27T21:51:57.003910"
   },
   {
     "title": "Flip Fluid on Flip Dots",
     "url": "https://mitxela.com/projects/flipflip",
     "author": "blutack",
     "date": "2026-09-26",
-    "score": 248,
-    "comments": 16,
+    "score": 336,
+    "comments": 22,
     "id": 49854219,
     "discussion_url": "https://news.ycombinator.com/item?id=49854219",
     "description": "Flip Fluid on Flip Dots",
@@ -218,32 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087664"
-  },
-  {
-    "title": "Floci: Locally emulating any cloud service",
-    "url": "https://floci.io",
-    "author": "theanonymousone",
-    "date": "2026-09-26",
-    "score": 190,
-    "comments": 43,
-    "id": 49854416,
-    "discussion_url": "https://news.ycombinator.com/item?id=49854416",
-    "description": "Floci: Locally emulating any cloud service",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087884"
+    "fetched_at": "2026-09-27T21:51:57.003906"
   },
   {
     "title": "Go Concurrency Distilled",
     "url": "https://antonz.org/go-concurrency-distilled/",
     "author": "chmaynard",
     "date": "2026-09-26",
-    "score": 302,
-    "comments": 133,
+    "score": 365,
+    "comments": 166,
     "id": 49856988,
     "discussion_url": "https://news.ycombinator.com/item?id=49856988",
     "description": "Go Concurrency Distilled",
@@ -252,49 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087735"
+    "fetched_at": "2026-09-27T21:51:57.003945"
   },
   {
-    "title": "How I changed teaching after AI managed to do all my homework assignments",
-    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-    "author": "azhenley",
-    "date": "2026-09-24",
-    "score": 260,
-    "comments": 243,
-    "id": 49836579,
-    "discussion_url": "https://news.ycombinator.com/item?id=49836579",
-    "description": "How I changed teaching after AI managed to do all my homework assignments",
+    "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+    "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+    "author": "danso",
+    "date": "2026-09-27",
+    "score": 179,
+    "comments": 68,
+    "id": 49866951,
+    "discussion_url": "https://news.ycombinator.com/item?id=49866951",
+    "description": "In an $80 motel room, a discovery to shed light on the origins of life",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087755"
-  },
-  {
-    "title": "How to keep enjoying programming in a world of LLMs",
-    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "author": "signa11",
-    "date": "2026-09-26",
-    "score": 292,
-    "comments": 309,
-    "id": 49854875,
-    "discussion_url": "https://news.ycombinator.com/item?id=49854875",
-    "description": "How to keep enjoying programming in a world of LLMs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087829"
+    "fetched_at": "2026-09-27T21:51:57.003871"
   },
   {
     "title": "LA Metro has some of the slowest escalators",
     "url": "https://basin.la/articles/ninety-feet-a-minute.html",
     "author": "big_toast",
     "date": "2026-09-24",
-    "score": 105,
-    "comments": 90,
+    "score": 111,
+    "comments": 93,
     "id": 49833444,
     "discussion_url": "https://news.ycombinator.com/item?id=49833444",
     "description": "LA Metro has some of the slowest escalators",
@@ -303,32 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087855"
-  },
-  {
-    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-    "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-    "author": "rbanffy",
-    "date": "2026-09-27",
-    "score": 352,
-    "comments": 248,
-    "id": 49864642,
-    "discussion_url": "https://news.ycombinator.com/item?id=49864642",
-    "description": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087787"
+    "fetched_at": "2026-09-27T21:51:57.004005"
   },
   {
     "title": "Modern Object Pascal Introduction for Programmers",
     "url": "https://castle-engine.io/modern_pascal",
     "author": "birdculture",
     "date": "2026-09-24",
-    "score": 184,
-    "comments": 80,
+    "score": 192,
+    "comments": 84,
     "id": 49829202,
     "discussion_url": "https://news.ycombinator.com/item?id=49829202",
     "description": "Modern Object Pascal Introduction for Programmers",
@@ -337,15 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087771"
+    "fetched_at": "2026-09-27T21:51:57.004051"
+  },
+  {
+    "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+    "author": "jandeboevrie",
+    "date": "2026-09-27",
+    "score": 324,
+    "comments": 287,
+    "id": 49867067,
+    "discussion_url": "https://news.ycombinator.com/item?id=49867067",
+    "description": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-27T21:51:57.003902"
   },
   {
     "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
     "url": "https://github.com/InfinityLoop1308/PipePipe",
     "author": "Qision",
     "date": "2026-09-25",
-    "score": 462,
-    "comments": 249,
+    "score": 485,
+    "comments": 270,
     "id": 49842764,
     "discussion_url": "https://news.ycombinator.com/item?id=49842764",
     "description": "PipePipe: NewPipe hard fork implementing SponsorBlock",
@@ -354,31 +269,65 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087698"
+    "fetched_at": "2026-09-27T21:51:57.003949"
   },
   {
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "url": "https://swarmtraces.org/",
-    "author": "specked-citrus",
-    "date": "2026-09-25",
-    "score": 729,
-    "comments": 460,
-    "id": 49849985,
-    "discussion_url": "https://news.ycombinator.com/item?id=49849985",
-    "description": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "title": "PostmarketOS is rebranding as Nura",
+    "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+    "author": "HotGarbage",
+    "date": "2026-09-27",
+    "score": 143,
+    "comments": 29,
+    "id": 49867553,
+    "discussion_url": "https://news.ycombinator.com/item?id=49867553",
+    "description": "PostmarketOS is rebranding as Nura",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087841"
+    "fetched_at": "2026-09-27T21:51:57.003941"
+  },
+  {
+    "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+    "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+    "author": "geox",
+    "date": "2026-09-26",
+    "score": 95,
+    "comments": 67,
+    "id": 49852905,
+    "discussion_url": "https://news.ycombinator.com/item?id=49852905",
+    "description": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-27T21:51:57.004064"
+  },
+  {
+    "title": "Replacing the old battery on rechargeable bike lights",
+    "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+    "author": "surprisetalk",
+    "date": "2026-09-27",
+    "score": 117,
+    "comments": 61,
+    "id": 49866515,
+    "discussion_url": "https://news.ycombinator.com/item?id=49866515",
+    "description": "Replacing the old battery on rechargeable bike lights",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-27T21:51:57.003862"
   },
   {
     "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
     "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
     "author": "pwg",
     "date": "2026-09-26",
-    "score": 100,
+    "score": 110,
     "comments": 11,
     "id": 49858676,
     "discussion_url": "https://news.ycombinator.com/item?id=49858676",
@@ -388,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087825"
+    "fetched_at": "2026-09-27T21:51:57.004026"
   },
   {
     "title": "Show HN: Jev Plays Pokémon Red",
     "url": "https://jev-pokemon.vercel.app/",
     "author": "pancomplex",
     "date": "2026-09-25",
-    "score": 264,
-    "comments": 117,
+    "score": 269,
+    "comments": 118,
     "id": 49845172,
     "discussion_url": "https://news.ycombinator.com/item?id=49845172",
     "description": "Show HN: Jev Plays Pokémon Red",
@@ -405,15 +354,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087821"
+    "fetched_at": "2026-09-27T21:51:57.004068"
+  },
+  {
+    "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+    "url": "https://loficities.com/",
+    "author": "safaelmali",
+    "date": "2026-09-27",
+    "score": 103,
+    "comments": 36,
+    "id": 49869574,
+    "discussion_url": "https://news.ycombinator.com/item?id=49869574",
+    "description": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-27T21:51:57.003773"
   },
   {
     "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
     "url": "https://github.com/reladraw/reladraw",
     "author": "jpwalsh234",
     "date": "2026-09-26",
-    "score": 356,
-    "comments": 93,
+    "score": 384,
+    "comments": 113,
     "id": 49858513,
     "discussion_url": "https://news.ycombinator.com/item?id=49858513",
     "description": "Show HN: Reladraw – A diagram language where you decide where to place things",
@@ -422,49 +388,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087711"
+    "fetched_at": "2026-09-27T21:51:57.003979"
   },
   {
-    "title": "The Lost Atomic Update on Loongson CPU",
-    "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-    "author": "jiegec",
-    "date": "2026-09-24",
-    "score": 127,
-    "comments": 7,
-    "id": 49827900,
-    "discussion_url": "https://news.ycombinator.com/item?id=49827900",
-    "description": "The Lost Atomic Update on Loongson CPU",
+    "title": "Ten lines of code that changed my world",
+    "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+    "author": "dimonomid",
+    "date": "2026-09-27",
+    "score": 113,
+    "comments": 36,
+    "id": 49866534,
+    "discussion_url": "https://news.ycombinator.com/item?id=49866534",
+    "description": "Ten lines of code that changed my world",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087836"
+    "fetched_at": "2026-09-27T21:51:57.003962"
   },
   {
-    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-    "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-    "author": "flxflx",
-    "date": "2026-09-26",
-    "score": 120,
-    "comments": 50,
-    "id": 49857656,
-    "discussion_url": "https://news.ycombinator.com/item?id=49857656",
-    "description": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "title": "The Normalization of Inexplicable Failures",
+    "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+    "author": "pxx",
+    "date": "2026-09-27",
+    "score": 223,
+    "comments": 87,
+    "id": 49867486,
+    "discussion_url": "https://news.ycombinator.com/item?id=49867486",
+    "description": "The Normalization of Inexplicable Failures",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087775"
+    "fetched_at": "2026-09-27T21:51:57.003884"
+  },
+  {
+    "title": "The internet discovers TLA+. Now what?",
+    "url": "https://reasonable.io/blog/tla-tutorial/",
+    "author": "matt_d",
+    "date": "2026-09-27",
+    "score": 108,
+    "comments": 60,
+    "id": 49863600,
+    "discussion_url": "https://news.ycombinator.com/item?id=49863600",
+    "description": "The internet discovers TLA+. Now what?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-27T21:51:57.004018"
+  },
+  {
+    "title": "There are no \"rogue\" AI agents",
+    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+    "author": "zzzeek",
+    "date": "2026-09-27",
+    "score": 305,
+    "comments": 232,
+    "id": 49868083,
+    "discussion_url": "https://news.ycombinator.com/item?id=49868083",
+    "description": "There are no \"rogue\" AI agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-27T21:51:57.004009"
   },
   {
     "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
     "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
     "author": "papergirl",
     "date": "2026-09-27",
-    "score": 526,
-    "comments": 451,
+    "score": 590,
+    "comments": 564,
     "id": 49863864,
     "discussion_url": "https://news.ycombinator.com/item?id=49863864",
     "description": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
@@ -473,40 +473,40 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087673"
+    "fetched_at": "2026-09-27T21:51:57.003996"
   },
   {
-    "title": "We're gonna need a lot more mathematicians",
-    "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-    "author": "srcreigh",
-    "date": "2026-09-26",
-    "score": 388,
-    "comments": 482,
-    "id": 49852717,
-    "discussion_url": "https://news.ycombinator.com/item?id=49852717",
-    "description": "We're gonna need a lot more mathematicians",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087891"
-  },
-  {
-    "title": "What is the size of Yemen? (2024)",
-    "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-    "author": "kspacewalk2",
+    "title": "When did Google get so weird?",
+    "url": "https://sancho.bearblog.dev/google-weird/",
+    "author": "sancho-panza",
     "date": "2026-09-27",
-    "score": 221,
-    "comments": 73,
-    "id": 49862809,
-    "discussion_url": "https://news.ycombinator.com/item?id=49862809",
-    "description": "What is the size of Yemen? (2024)",
+    "score": 312,
+    "comments": 161,
+    "id": 49870367,
+    "discussion_url": "https://news.ycombinator.com/item?id=49870367",
+    "description": "When did Google get so weird?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-27T15:32:18.087760"
+    "fetched_at": "2026-09-27T21:51:57.003752"
+  },
+  {
+    "title": "Writing Efficient C++ Code (2013)",
+    "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+    "author": "ibobev",
+    "date": "2026-09-25",
+    "score": 121,
+    "comments": 73,
+    "id": 49849409,
+    "discussion_url": "https://news.ycombinator.com/item?id=49849409",
+    "description": "Writing Efficient C++ Code (2013)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-27T21:51:57.003810"
   }
 ]

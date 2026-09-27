@@ -1,227 +1,152 @@
 [
   {
-    "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-    "url": "https://www.movingimagearchive.com/",
-    "description": "A searchable library of forgotten public-domain film clips from 1915 onward",
-    "date": "2026-09-24",
-    "score": 195,
-    "comments": 26,
-    "discussion_url": "https://news.ycombinator.com/item?id=49832768",
+    "title": "Ember-1",
+    "url": "https://fireworks.ai/blog/ember-1",
+    "description": "Ember-1",
+    "date": "2026-09-27",
+    "score": 248,
+    "comments": 143,
+    "discussion_url": "https://news.ycombinator.com/item?id=49868830",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196191"
-  },
-  {
-    "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-    "description": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-    "date": "2026-09-25",
-    "score": 358,
-    "comments": 772,
-    "discussion_url": "https://news.ycombinator.com/item?id=49844663",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196137"
-  },
-  {
-    "title": "An agent used DNS to reach an external chatbot",
-    "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-    "description": "An agent used DNS to reach an external chatbot",
-    "date": "2026-09-26",
-    "score": 136,
-    "comments": 136,
-    "discussion_url": "https://news.ycombinator.com/item?id=49853137",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196124"
-  },
-  {
-    "title": "Biology might not be quantum, but its math is quantumlike",
-    "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-    "description": "Biology might not be quantum, but its math is quantumlike",
-    "date": "2026-09-25",
-    "score": 101,
-    "comments": 38,
-    "discussion_url": "https://news.ycombinator.com/item?id=49839438",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196170"
-  },
-  {
-    "title": "DeepSeek Elastic Compute (DSec)",
-    "url": "https://arxiv.org/abs/2609.22978",
-    "description": "DeepSeek Elastic Compute (DSec)",
-    "date": "2026-09-26",
-    "score": 298,
-    "comments": 94,
-    "discussion_url": "https://news.ycombinator.com/item?id=49859112",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196028"
-  },
-  {
-    "title": "Does Georgism work? Five years later",
-    "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-    "description": "Does Georgism work? Five years later",
-    "date": "2026-09-25",
-    "score": 449,
-    "comments": 340,
-    "discussion_url": "https://news.ycombinator.com/item?id=49844657",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196148"
-  },
-  {
-    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-    "description": "Drawgent: Coding agent on a live Excalidraw canvas",
-    "date": "2026-09-26",
-    "score": 169,
-    "comments": 44,
-    "discussion_url": "https://news.ycombinator.com/item?id=49857729",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196055"
-  },
-  {
-    "title": "Fifteen years later, the Apple Cards origin story",
-    "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-    "description": "Fifteen years later, the Apple Cards origin story",
-    "date": "2026-09-26",
-    "score": 419,
-    "comments": 109,
-    "discussion_url": "https://news.ycombinator.com/item?id=49854693",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196092"
+    "fetched_at": "2026-09-27T21:52:39.353107"
   },
   {
     "title": "Flip Fluid on Flip Dots",
     "url": "https://mitxela.com/projects/flipflip",
     "description": "Flip Fluid on Flip Dots",
     "date": "2026-09-26",
-    "score": 247,
-    "comments": 16,
+    "score": 336,
+    "comments": 22,
     "discussion_url": "https://news.ycombinator.com/item?id=49854219",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196112"
+    "fetched_at": "2026-09-27T21:52:39.353186"
   },
   {
     "title": "Go Concurrency Distilled",
     "url": "https://antonz.org/go-concurrency-distilled/",
     "description": "Go Concurrency Distilled",
     "date": "2026-09-26",
-    "score": 301,
-    "comments": 132,
+    "score": 365,
+    "comments": 166,
     "discussion_url": "https://news.ycombinator.com/item?id=49856988",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196067"
+    "fetched_at": "2026-09-27T21:52:39.353173"
   },
   {
-    "title": "How I changed teaching after AI managed to do all my homework assignments",
-    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-    "description": "How I changed teaching after AI managed to do all my homework assignments",
-    "date": "2026-09-24",
-    "score": 260,
-    "comments": 243,
-    "discussion_url": "https://news.ycombinator.com/item?id=49836579",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196180"
-  },
-  {
-    "title": "How to keep enjoying programming in a world of LLMs",
-    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "description": "How to keep enjoying programming in a world of LLMs",
-    "date": "2026-09-26",
-    "score": 291,
-    "comments": 307,
-    "discussion_url": "https://news.ycombinator.com/item?id=49854875",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196080"
-  },
-  {
-    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-    "url": "https://github.com/InfinityLoop1308/PipePipe",
-    "description": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-    "date": "2026-09-25",
-    "score": 462,
-    "comments": 249,
-    "discussion_url": "https://news.ycombinator.com/item?id=49842764",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196159"
-  },
-  {
-    "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-    "url": "https://github.com/reladraw/reladraw",
-    "description": "Show HN: Reladraw – A diagram language where you decide where to place things",
-    "date": "2026-09-26",
-    "score": 356,
-    "comments": 93,
-    "discussion_url": "https://news.ycombinator.com/item?id=49858513",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196043"
-  },
-  {
-    "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-    "description": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+    "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+    "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+    "description": "In an $80 motel room, a discovery to shed light on the origins of life",
     "date": "2026-09-27",
-    "score": 525,
-    "comments": 448,
-    "discussion_url": "https://news.ycombinator.com/item?id=49863864",
+    "score": 179,
+    "comments": 68,
+    "discussion_url": "https://news.ycombinator.com/item?id=49866951",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-27T15:32:35.196005"
+    "fetched_at": "2026-09-27T21:52:39.353143"
+  },
+  {
+    "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+    "description": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+    "date": "2026-09-27",
+    "score": 325,
+    "comments": 287,
+    "discussion_url": "https://news.ycombinator.com/item?id=49867067",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-27T21:52:39.353131"
+  },
+  {
+    "title": "Replacing the old battery on rechargeable bike lights",
+    "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+    "description": "Replacing the old battery on rechargeable bike lights",
+    "date": "2026-09-27",
+    "score": 117,
+    "comments": 61,
+    "discussion_url": "https://news.ycombinator.com/item?id=49866515",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-27T21:52:39.353154"
+  },
+  {
+    "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+    "url": "https://loficities.com/",
+    "description": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+    "date": "2026-09-27",
+    "score": 103,
+    "comments": 36,
+    "discussion_url": "https://news.ycombinator.com/item?id=49869574",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-27T21:52:39.353092"
+  },
+  {
+    "title": "The Normalization of Inexplicable Failures",
+    "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+    "description": "The Normalization of Inexplicable Failures",
+    "date": "2026-09-27",
+    "score": 224,
+    "comments": 87,
+    "discussion_url": "https://news.ycombinator.com/item?id=49867486",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-27T21:52:39.353119"
+  },
+  {
+    "title": "When did Google get so weird?",
+    "url": "https://sancho.bearblog.dev/google-weird/",
+    "description": "When did Google get so weird?",
+    "date": "2026-09-27",
+    "score": 314,
+    "comments": 162,
+    "discussion_url": "https://news.ycombinator.com/item?id=49870367",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-27T21:52:39.353068"
+  },
+  {
+    "title": "Writing Efficient C++ Code (2013)",
+    "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+    "description": "Writing Efficient C++ Code (2013)",
+    "date": "2026-09-25",
+    "score": 121,
+    "comments": 73,
+    "discussion_url": "https://news.ycombinator.com/item?id=49849409",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-27T21:52:39.353198"
   }
 ]
