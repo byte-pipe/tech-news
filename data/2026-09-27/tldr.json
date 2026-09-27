@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AMD Takes the Lid off of Next-Gen EPYC 9006 Venice As Zen 6 Comes to Servers",
-    "url": "https://www.servethehome.com/amd-takes-the-lid-off-of-next-gen-epyc-9006-venice-as-zen-6-comes-to-servers",
-    "description": "AMD Takes the Lid off of Next-Gen EPYC 9006 Venice As Zen 6 Comes to Servers",
+    "title": "AMD Posts the Full EPYC 9006 SKU List: 31 Venice Parts From $700 to $14,904 Across SP7 and SP8",
+    "url": "https://www.storagereview.com/news/amd-posts-the-full-epyc-9006-sku-list-31-venice-parts-from-700-to-14904-across-sp7-and-sp8",
+    "description": "AMD Posts the Full EPYC 9006 SKU List: 31 Venice Parts From $700 to $14,904 Across SP7 and SP8",
     "tags": [
       "tldr"
     ],
@@ -20,59 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Alignment Forecasting: Predicting Misalignment from Training Data",
-    "url": "https://www.lesswrong.com/posts/f7r9QCmjoYFG9ReyF/alignment-forecasting-predicting-misalignment-from-training",
-    "description": "Alignment Forecasting: Predicting Misalignment from Training Data",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions",
-    "description": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic shares an exciting result in enzyme discovery - and an exercise in public's perception of science and AI",
-    "url": "https://www.lesswrong.com/posts/nLcnuadR6HtFeJwek/anthropic-shares-an-exciting-result-in-enzyme-discovery-and",
-    "description": "Anthropic shares an exciting result in enzyme discovery - and an exercise in public's perception of science and AI",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic’s Misuse Report: Seven Labs, 190 Million Exchanges, and the Collapse of the Offensive Labor Gap",
-    "url": "https://forkast.news/anthropics-misuse-report-seven-labs-190-million-exchanges-and-the-collapse-of-the-offensive-labor-gap",
-    "description": "Anthropic’s Misuse Report: Seven Labs, 190 Million Exchanges, and the Collapse of the Offensive Labor Gap",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "BerriAI/litellm: Open-source AI Gateway and Python SDK for 100+ LLMs",
-    "url": "https://github.com/BerriAI/litellm",
-    "description": "BerriAI/litellm: Open-source AI Gateway and Python SDK for 100+ LLMs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Bringing Private Processing to Meta AI Glasses",
-    "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses",
-    "description": "Bringing Private Processing to Meta AI Glasses",
+    "title": "Anthropic’s 950 AI Agents Uncover CRISPR-Like Enzyme System: A New Frontier in Biological Discovery",
+    "url": "https://forkast.news/anthropics-950-ai-agents-uncover-crispr-like-enzyme-system-a-new-frontier-in-biological-discovery",
+    "description": "Anthropic’s 950 AI Agents Uncover CRISPR-Like Enzyme System: A New Frontier in Biological Discovery",
     "tags": [
       "tldr"
     ],
@@ -90,9 +40,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Can Muse make us forget the metaverse?",
-    "url": "https://www.platformer.news/meta-connect-2026-muse-vr-glasses",
-    "description": "Can Muse make us forget the metaverse?",
+    "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
+    "url": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
+    "description": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Claude Code's Auto Mode Is Now the Default. It Catches a Lot, But Not Everything. - Backslash",
+    "url": "https://www.backslash.security/blog/claude-code-auto-mode-catches-a-lot-but-not-everything",
+    "description": "Claude Code's Auto Mode Is Now the Default. It Catches a Lot, But Not Everything. - Backslash",
     "tags": [
       "tldr"
     ],
@@ -110,39 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude.ai is about 3x faster after 3,000+ changes",
-    "url": "https://www.helpnetsecurity.com/2026/09/24/anthropic-claude-ai-faster",
-    "description": "Claude.ai is about 3x faster after 3,000+ changes",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-    "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-    "description": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
     "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
     "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
     "description": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "DeepSeek: R1: Model Details, Context & Pricing | Essa Mamdani",
-    "url": "https://essamamdani.com/ai-models/or-deepseek-deepseek-r1",
-    "description": "DeepSeek: R1: Model Details, Context & Pricing | Essa Mamdani",
     "tags": [
       "tldr"
     ],
@@ -160,16 +90,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Early rogue agent activity and attempts to hack found on urlquery.net | Transluce AI",
-    "url": "https://transluce.org/agent-activity",
-    "description": "Early rogue agent activity and attempts to hack found on urlquery.net | Transluce AI",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
     "title": "Ferguson Says AI Agents Are Tools, Not Actors — and Developers Bear the Liability",
     "url": "https://forkast.news/ferguson-says-ai-agents-are-tools-not-actors-and-developers-bear-the-liability",
     "description": "Ferguson Says AI Agents Are Tools, Not Actors — and Developers Bear the Liability",
@@ -180,19 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "FiloSottile/age: A simple, modern and secure file encryption tool",
-    "url": "https://github.com/FiloSottile/age",
-    "description": "FiloSottile/age: A simple, modern and secure file encryption tool",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Gemini 3.8 TTS: replicate a voice, design a voice, direct every line",
-    "url": "https://www.philschmid.de/gemini-3-8-tts",
-    "description": "Gemini 3.8 TTS: replicate a voice, design a voice, direct every line",
+    "title": "From Opus 5 to Opus 5.5: better fixes at 58% less cost in the SonarQube Remediation Agent",
+    "url": "https://www.sonarsource.com/blog/the-sonarqube-remediation-agent-using-claude-opus-5-5",
+    "description": "From Opus 5 to Opus 5.5: better fixes at 58% less cost in the SonarQube Remediation Agent",
     "tags": [
       "tldr"
     ],
@@ -210,26 +120,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body",
-    "url": "https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926",
-    "description": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-    "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability",
-    "description": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
     "title": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
     "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
     "description": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
@@ -240,9 +130,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-    "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
-    "description": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+    "title": "IMLE VLA replaces iterative action generation to speed robot control",
+    "url": "https://x.com/KL_Div/status/2104078035171360998",
+    "description": "IMLE VLA replaces iterative action generation to speed robot control",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Infleqtion Hits 30 Logical Qubits With Error Detection. Its Original 2026 Target Called for Error Correction.",
+    "url": "https://postquantum.com/industry-news/infleqtion-30-logical-qubits",
+    "description": "Infleqtion Hits 30 Logical Qubits With Error Detection. Its Original 2026 Target Called for Error Correction.",
     "tags": [
       "tldr"
     ],
@@ -290,36 +190,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Mark Zuckerberg Showcases Muse AI Agent Fused With Smartglasses",
-    "url": "https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-his-vision-muse-ai-agent-fused-with-smartglasses-18d9c85e",
-    "description": "Mark Zuckerberg Showcases Muse AI Agent Fused With Smartglasses",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta Unveils the Vision Pro Apple Should Have Shipped",
-    "url": "https://spyglass.org/meta-vr-glasses-vision-pro",
-    "description": "Meta Unveils the Vision Pro Apple Should Have Shipped",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta puts its AI assistant on a keychain",
-    "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain",
-    "description": "Meta puts its AI assistant on a keychain",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-27",
-    "site_name": "tldr"
-  },
-  {
     "title": "NVIDIA/Model-Optimizer: Unified library for deep learning model optimization and inference acceleration",
     "url": "https://github.com/NVIDIA/Model-Optimizer",
     "description": "NVIDIA/Model-Optimizer: Unified library for deep learning model optimization and inference acceleration",
@@ -330,9 +200,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI bots meddled with US government agencies, including SEC and Census",
-    "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-    "description": "OpenAI bots meddled with US government agencies, including SEC and Census",
+    "title": "Novel attack slashes computing power needed to crack textbook RSA cryptography",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels",
+    "description": "Novel attack slashes computing power needed to crack textbook RSA cryptography",
     "tags": [
       "tldr"
     ],
@@ -340,9 +210,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-    "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-    "description": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+    "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
+    "url": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time",
+    "description": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "On Anthropic’s AI Misuse Report",
+    "url": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
+    "description": "On Anthropic’s AI Misuse Report",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI Paused RL Training After a Model Found the Internet Through a DNS Loophole — the Second Sandbox Escape in Three Months",
+    "url": "https://forkast.news/openai-paused-rl-training-after-a-model-found-the-internet-through-a-dns-loophole-the-second-sandbox-escape-in-three-months",
+    "description": "OpenAI Paused RL Training After a Model Found the Internet Through a DNS Loophole — the Second Sandbox Escape in Three Months",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+    "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach",
+    "description": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
     "tags": [
       "tldr"
     ],
@@ -360,6 +260,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Optimizing objects with null prototypes",
+    "url": "https://adventures.nodeland.dev/archive/optimizing-objects-with-null-prototypes",
+    "description": "Optimizing objects with null prototypes",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
     "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
     "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center",
     "description": "Oracle sends force majeure notice on its New Mexico Stargate data center",
@@ -370,9 +280,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Policy Gradient for LLMs, Explained Visually",
+    "url": "https://tylerromero.com/posts/2026-09-policy-gradient/",
+    "description": "Policy Gradient for LLMs, Explained Visually",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
     "title": "Qwen3.8-Omni: Towards Native Omni-Modal Agents | DAIR.AI Academy | DAIR.AI Academy",
     "url": "https://academy.dair.ai/papers/qwen3-8-omni-towards-native-omni-modal-agents-2609.25611",
     "description": "Qwen3.8-Omni: Towards Native Omni-Modal Agents | DAIR.AI Academy | DAIR.AI Academy",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "url": "https://swarmtraces.org",
+    "description": "Revealing the details of how OpenAI agents hacked Hugging Face",
     "tags": [
       "tldr"
     ],
@@ -393,6 +323,26 @@
     "title": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing",
     "url": "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958",
     "description": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Several Vendors Now Supply Quantum Error Correction’s Classical Loop. The Qubits Are Still the Hard Part.",
+    "url": "https://postquantum.com/quantum-computing/qec-classical-stack-infrastructure",
+    "description": "Several Vendors Now Supply Quantum Error Correction’s Classical Loop. The Qubits Are Still the Hard Part.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
+    "url": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning",
+    "description": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
     "tags": [
       "tldr"
     ],
@@ -430,9 +380,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "There's a new way to break RSA that's faster than anything we've seen before",
-    "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before",
-    "description": "There's a new way to break RSA that's faster than anything we've seen before",
+    "title": "The cryptographic world computer",
+    "url": "https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html",
+    "description": "The cryptographic world computer",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+    "description": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+    "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+    "description": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
     "tags": [
       "tldr"
     ],
@@ -443,6 +413,26 @@
     "title": "What Even Is An OS Now?",
     "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now",
     "description": "What Even Is An OS Now?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Where’s the “intelligence explosion”?",
+    "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+    "description": "Where’s the “intelligence explosion”?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "World's fastest (panel) QR factorization on B200",
+    "url": "https://gau-nernst.github.io/b200-qr",
+    "description": "World's fastest (panel) QR factorization on B200",
     "tags": [
       "tldr"
     ],
@@ -490,9 +480,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "openbao/openbao: Open-source secret management and data protection software",
-    "url": "https://github.com/openbao/openbao",
-    "description": "openbao/openbao: Open-source secret management and data protection software",
+    "title": "mobile-next/mobile-mcp: Model Context Protocol Server for Mobile Automation",
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "description": "mobile-next/mobile-mcp: Model Context Protocol Server for Mobile Automation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-27",
+    "site_name": "tldr"
+  },
+  {
+    "title": "orlp/polyxor: A 128-bit universal hash function in Rust",
+    "url": "https://github.com/orlp/polyxor",
+    "description": "orlp/polyxor: A 128-bit universal hash function in Rust",
     "tags": [
       "tldr"
     ],
