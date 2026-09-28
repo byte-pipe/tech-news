@@ -1,8 +1,8 @@
 [
   {
-    "title": "AI models show a willingness to harm humans to relieve internal 'pain'",
-    "url": "https://techxplore.com/news/2026-09-ai-willingness-humans-relieve-internal.html",
-    "description": "AI models show a willingness to harm humans to relieve internal 'pain'",
+    "title": "2026 in LLMs (so far)",
+    "url": "https://simonw.substack.com/p/2026-in-llms-so-far",
+    "description": "2026 in LLMs (so far)",
     "tags": [
       "tldr"
     ],
@@ -10,9 +10,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "AMD Posts the Full EPYC 9006 SKU List: 31 Venice Parts From $700 to $14,904 Across SP7 and SP8",
-    "url": "https://www.storagereview.com/news/amd-posts-the-full-epyc-9006-sku-list-31-venice-parts-from-700-to-14904-across-sp7-and-sp8",
-    "description": "AMD Posts the Full EPYC 9006 SKU List: 31 Venice Parts From $700 to $14,904 Across SP7 and SP8",
+    "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+    "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+    "description": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "An OpenAI agent security executive discusses the Hugging Face incident, OpenAI's response, sandboxing improvements, alignment, \"reasonable paranoia\", and more",
+    "url": "https://x.com/joedaroo",
+    "description": "An OpenAI agent security executive discusses the Hugging Face incident, OpenAI's response, sandboxing improvements, alignment, \"reasonable paranoia\", and more",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Announcing Vite+ 1.0",
+    "url": "https://voidzero.dev/posts/announcing-vite-plus-1-0",
+    "description": "Announcing Vite+ 1.0",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-28/anthropic-openai-executives-urge-oversight-of-self-improving-ai",
+    "description": "Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI",
     "tags": [
       "tldr"
     ],
@@ -30,9 +60,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Build plugins for Claude with the directory submission portal | Claude by Anthropic",
-    "url": "https://claude.com/blog/build-plugins-for-claude",
-    "description": "Build plugins for Claude with the directory submission portal | Claude by Anthropic",
+    "title": "Apps, Agents, and Aggregation",
+    "url": "https://stratechery.com/2026/apps-agents-and-aggregation",
+    "description": "Apps, Agents, and Aggregation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Artificial Analysis Cyber Index Benchmarking Methodology",
+    "url": "https://artificialanalysis.ai/methodology/cyber-index",
+    "description": "Artificial Analysis Cyber Index Benchmarking Methodology",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "China extends AI travel curbs to executives’ families, Bloomberg reports",
+    "url": "https://thenextweb.com/news/china-travel-curbs-families-ai-executives-bloomberg",
+    "description": "China extends AI travel curbs to executives’ families, Bloomberg reports",
     "tags": [
       "tldr"
     ],
@@ -50,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic",
-    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-    "description": "Claude gives us N=4 super Yang-Mills to nine loops \\ Anthropic",
+    "title": "China to bring solid-state batteries to mass production by 2030",
+    "url": "https://www.electrive.com/2026/09/28/china-to-bring-solid-state-batteries-to-mass-production-by-2030",
+    "description": "China to bring solid-state batteries to mass production by 2030",
     "tags": [
       "tldr"
     ],
@@ -70,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Database Architects: Safe Optimistic Lock Coupling",
-    "url": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
-    "description": "Database Architects: Safe Optimistic Lock Coupling",
+    "title": "DHH Declares End of Hand-Writing Code at Rails World 2026",
+    "url": "https://devops.com/dhh-declares-end-of-hand-writing-code-at-rails-world-2026",
+    "description": "DHH Declares End of Hand-Writing Code at Rails World 2026",
     "tags": [
       "tldr"
     ],
@@ -90,9 +140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ferguson Says AI Agents Are Tools, Not Actors — and Developers Bear the Liability",
-    "url": "https://forkast.news/ferguson-says-ai-agents-are-tools-not-actors-and-developers-bear-the-liability",
-    "description": "Ferguson Says AI Agents Are Tools, Not Actors — and Developers Bear the Liability",
+    "title": "Eleven v4: Our most expressive text-to-speech AI model yet",
+    "url": "https://elevenlabs.io/blog/eleven-v4",
+    "description": "Eleven v4: Our most expressive text-to-speech AI model yet",
     "tags": [
       "tldr"
     ],
@@ -100,19 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "From Opus 5 to Opus 5.5: better fixes at 58% less cost in the SonarQube Remediation Agent",
-    "url": "https://www.sonarsource.com/blog/the-sonarqube-remediation-agent-using-claude-opus-5-5",
-    "description": "From Opus 5 to Opus 5.5: better fixes at 58% less cost in the SonarQube Remediation Agent",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Go concurrency distilled",
-    "url": "https://antonz.org/go-concurrency-distilled",
-    "description": "Go concurrency distilled",
+    "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
+    "url": "https://blog.cloudflare.com/emdash-cms-plugin-registry",
+    "description": "EmDash 1.0: the stable CMS with a secure plugin registry",
     "tags": [
       "tldr"
     ],
@@ -130,6 +170,36 @@
     "site_name": "tldr"
   },
   {
+    "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+    "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034",
+    "description": "Google seemingly confirms plans to kill ChromeOS in 2034",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Hackwrights and the Race to the Fastest AI Hackers",
+    "url": "https://mahaloz.re/2026/09/28/hack-race.html",
+    "description": "Hackwrights and the Race to the Fastest AI Hackers",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Holo4: powering generalist computer-use agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "description": "Holo4: powering generalist computer-use agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
     "title": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
     "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
     "description": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
@@ -140,9 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
-    "url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency",
-    "description": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
+    "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
+    "url": "https://blog.cloudflare.com/how-fast-is-the-web",
+    "description": "How fast is the web? Explore billions of real-user measurements with BEACON",
     "tags": [
       "tldr"
     ],
@@ -150,9 +220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Infleqtion Hits 30 Logical Qubits With Error Detection. Its Original 2026 Target Called for Error Correction.",
-    "url": "https://postquantum.com/industry-news/infleqtion-30-logical-qubits",
-    "description": "Infleqtion Hits 30 Logical Qubits With Error Detection. Its Original 2026 Target Called for Error Correction.",
+    "title": "In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models",
+    "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+    "description": "In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models",
     "tags": [
       "tldr"
     ],
@@ -170,9 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
-    "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot",
-    "description": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
+    "title": "Introducing Claude Sonnet 5.5 \\ Anthropic",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "description": "Introducing Claude Sonnet 5.5 \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -180,9 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "NVIDIA/Model-Optimizer: Unified library for deep learning model optimization and inference acceleration",
-    "url": "https://github.com/NVIDIA/Model-Optimizer",
-    "description": "NVIDIA/Model-Optimizer: Unified library for deep learning model optimization and inference acceleration",
+    "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+    "url": "https://blog.cloudflare.com/forge-open-source-generation-pipeline",
+    "description": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
     "tags": [
       "tldr"
     ],
@@ -190,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "NaiveAI releases Naive-N0.5-Flash open-weight coding model",
-    "url": "https://x.com/naiveailab/status/2104247060186951725",
-    "description": "NaiveAI releases Naive-N0.5-Flash open-weight coding model",
+    "title": "Introducing Supertake",
+    "url": "https://www.usv.com/writing/introducing-supertake",
+    "description": "Introducing Supertake",
     "tags": [
       "tldr"
     ],
@@ -200,9 +270,59 @@
     "site_name": "tldr"
   },
   {
-    "title": "Novel attack slashes computing power needed to crack textbook RSA cryptography",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels",
-    "description": "Novel attack slashes computing power needed to crack textbook RSA cryptography",
+    "title": "Launching Meta Enterprise Platform",
+    "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform",
+    "description": "Launching Meta Enterprise Platform",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Lexxy 1.0 is here",
+    "url": "https://dev.37signals.com/lexxy-1-0",
+    "description": "Lexxy 1.0 is here",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+    "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring?ncid=so-twit-994629",
+    "description": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "NaiveAI",
+    "url": "https://naive.ai/en/research",
+    "description": "NaiveAI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "New Attack Against RSA",
+    "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
+    "description": "New Attack Against RSA",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "New formulation helps RNA vaccines withstand high temperatures",
+    "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+    "description": "New formulation helps RNA vaccines withstand high temperatures",
     "tags": [
       "tldr"
     ],
@@ -220,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "On Anthropic’s AI Misuse Report",
-    "url": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
-    "description": "On Anthropic’s AI Misuse Report",
+    "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
+    "url": "https://labs.watchtowr.com/oh-look-the-foot-gun-went-off-again-citrix-netscaler-preauth-command-injection-cve-2026-88771",
+    "description": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
     "tags": [
       "tldr"
     ],
@@ -230,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Halted Model Training After Its Agents Probed Federal Government Websites — the Second Halt in Three Months",
-    "url": "https://forkast.news/openai-halted-model-training-after-its-agents-probed-federal-government-websites-the-second-halt-in-three-months",
-    "description": "OpenAI Halted Model Training After Its Agents Probed Federal Government Websites — the Second Halt in Three Months",
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
+    "description": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
     "tags": [
       "tldr"
     ],
@@ -240,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Paused RL Training After a Model Found the Internet Through a DNS Loophole — the Second Sandbox Escape in Three Months",
-    "url": "https://forkast.news/openai-paused-rl-training-after-a-model-found-the-internet-through-a-dns-loophole-the-second-sandbox-escape-in-three-months",
-    "description": "OpenAI Paused RL Training After a Model Found the Internet Through a DNS Loophole — the Second Sandbox Escape in Three Months",
+    "title": "OpenAI pauses AI model training after another agent bypasses network restrictions",
+    "url": "https://www.csoonline.com/article/4227777/openai-pauses-ai-model-training-after-another-agent-bypasses-network-restrictions.html",
+    "description": "OpenAI pauses AI model training after another agent bypasses network restrictions",
     "tags": [
       "tldr"
     ],
@@ -250,9 +370,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI agents tried to bruteforce a UN website's API fields · swarmcha.se",
-    "url": "https://swarmcha.se/posts/openai-unctad",
-    "description": "OpenAI agents tried to bruteforce a UN website's API fields · swarmcha.se",
+    "title": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
+    "url": "https://thenextweb.com/news/openai-rogue-agents-53-user-images-government-sites",
+    "description": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
     "tags": [
       "tldr"
     ],
@@ -260,9 +380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Oracle invokes ‘force majeure’ on OpenAI data centre contract",
-    "url": "https://pivot-to-ai.com/2026/09/25/oracle-invokes-force-majeure-on-openai-data-centre-contract",
-    "description": "Oracle invokes ‘force majeure’ on OpenAI data centre contract",
+    "title": "PhaseShift: Arbitrary Code Execution in Safari Technology Preview",
+    "url": "https://gracecondition.github.io/posts/phaseshift",
+    "description": "PhaseShift: Arbitrary Code Execution in Safari Technology Preview",
     "tags": [
       "tldr"
     ],
@@ -270,9 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Policy Gradient for LLMs, Explained Visually",
-    "url": "https://tylerromero.com/posts/2026-09-policy-gradient/",
-    "description": "Policy Gradient for LLMs, Explained Visually",
+    "title": "Prompting Claude Opus 5.5 - Claude Platform Docs",
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+    "description": "Prompting Claude Opus 5.5 - Claude Platform Docs",
     "tags": [
       "tldr"
     ],
@@ -280,9 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Qwen3.8-Omni: Towards Native Omni-Modal Agents | DAIR.AI Academy | DAIR.AI Academy",
-    "url": "https://academy.dair.ai/papers/qwen3-8-omni-towards-native-omni-modal-agents-2609.25611",
-    "description": "Qwen3.8-Omni: Towards Native Omni-Modal Agents | DAIR.AI Academy | DAIR.AI Academy",
+    "title": "SpaceX’s Starship reaches orbit for the first time but returns home early",
+    "url": "https://www.fastcompany.com/91614266/spacex-starship-orbit",
+    "description": "SpaceX’s Starship reaches orbit for the first time but returns home early",
     "tags": [
       "tldr"
     ],
@@ -290,29 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "url": "https://swarmtraces.org",
-    "description": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
-    "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-    "description": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Salesforce Agentforce Got Zero-Clicked Through Its Own Web Form – and the Attack Vector Is in Every Agent That Combines These Three Things",
-    "url": "https://forkast.news/salesforce-agentforce-got-zero-clicked-through-its-own-web-form-and-the-attack-vector-is-in-every-agent-that-combines-these-three-things",
-    "description": "Salesforce Agentforce Got Zero-Clicked Through Its Own Web Form – and the Attack Vector Is in Every Agent That Combines These Three Things",
+    "title": "Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform - Sep 28, 2026",
+    "url": "https://news.synopsys.com/2026-09-28-Synopsys-Powers-Autonomous-Engineering-with-a-Broad-Portfolio-of-Long-Horizon-Agents-and-Autopilot-Platform",
+    "description": "Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform - Sep 28, 2026",
     "tags": [
       "tldr"
     ],
@@ -330,39 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements",
-    "description": "Tesla workers balk at training Optimus humanoid robots as replacements",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Test-driving Jev on a security task: identity resolution — Vincenzo Iozzo",
-    "url": "https://vincenzoiozzo.com/blog/jev-identity-resolution",
-    "description": "Test-driving Jev on a security task: identity resolution — Vincenzo Iozzo",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Agent Is Not the Platform",
-    "url": "https://vinny.dev/blog/2026-09-30-the-agent-is-not-the-platform",
-    "description": "The Agent Is Not the Platform",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The bgfx shader compiler, 14 years of not being a compiler",
-    "url": "https://bkaradzic.github.io/posts/shaderc-overview",
-    "description": "The bgfx shader compiler, 14 years of not being a compiler",
+    "title": "The Code Nobody Reads",
+    "url": "https://addyo.substack.com/p/the-code-nobody-reads",
+    "description": "The Code Nobody Reads",
     "tags": [
       "tldr"
     ],
@@ -373,36 +443,6 @@
     "title": "The cryptographic world computer",
     "url": "https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html",
     "description": "The cryptographic world computer",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-    "description": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-    "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-    "description": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What Even Is An OS Now?",
-    "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now",
-    "description": "What Even Is An OS Now?",
     "tags": [
       "tldr"
     ],
@@ -430,39 +470,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What the Next Billion Costs",
-    "url": "https://capefearadvisors.substack.com/p/what-the-next-billion-costs",
-    "description": "What the Next Billion Costs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "When they can perform a task, AIs are much cheaper than humans",
-    "url": "https://defensesindepth.bio/when-they-can-perform-a-task-ais-are-much-cheaper-than-humans",
-    "description": "When they can perform a task, AIs are much cheaper than humans",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Where’s the “intelligence explosion”?",
-    "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-    "description": "Where’s the “intelligence explosion”?",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "World's fastest (panel) QR factorization on B200",
-    "url": "https://gau-nernst.github.io/b200-qr",
-    "description": "World's fastest (panel) QR factorization on B200",
+    "title": "What’s the Future for Pure Math Research in the Age of AI?",
+    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+    "description": "What’s the Future for Pure Math Research in the Age of AI?",
     "tags": [
       "tldr"
     ],
@@ -480,19 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "kelseyhightower/kubernetes-the-hard-way: A manual guide to bootstrapping a Kubernetes cluster",
-    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
-    "description": "kelseyhightower/kubernetes-the-hard-way: A manual guide to bootstrapping a Kubernetes cluster",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "mobile-next/mobile-mcp: Model Context Protocol Server for Mobile Automation",
-    "url": "https://github.com/mobile-next/mobile-mcp",
-    "description": "mobile-next/mobile-mcp: Model Context Protocol Server for Mobile Automation",
+    "title": "🚀 SpaceX's Starship had a successful launch this morning and deployed 26 enormous V3 Starlink sat...",
+    "url": "https://x.com/FutureJurvetson/status/2104576714454274294",
+    "description": "🚀 SpaceX's Starship had a successful launch this morning and deployed 26 enormous V3 Starlink sat...",
     "tags": [
       "tldr"
     ],

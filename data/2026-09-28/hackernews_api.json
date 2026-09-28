@@ -1,11 +1,28 @@
 [
   {
+    "title": "37,500 border drawings: a map of the world as people remember it",
+    "url": "https://www.habibicode.org/thedrawnworld",
+    "author": "nicocarsui",
+    "date": "2026-09-28",
+    "score": 143,
+    "comments": 31,
+    "id": 49875142,
+    "discussion_url": "https://news.ycombinator.com/item?id=49875142",
+    "description": "37,500 border drawings: a map of the world as people remember it",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-28T18:26:03.773472"
+  },
+  {
     "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
     "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
     "author": "midnightfish",
-    "date": "2026-09-28",
-    "score": 81,
-    "comments": 30,
+    "date": "2026-09-27",
+    "score": 178,
+    "comments": 62,
     "id": 49870070,
     "discussion_url": "https://news.ycombinator.com/item?id=49870070",
     "description": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
@@ -14,66 +31,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926066"
+    "fetched_at": "2026-09-28T18:26:03.773559"
   },
   {
-    "title": "An agent used DNS to reach an external chatbot",
-    "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-    "author": "apsec112",
-    "date": "2026-09-26",
-    "score": 169,
-    "comments": 163,
-    "id": 49853137,
-    "discussion_url": "https://news.ycombinator.com/item?id=49853137",
-    "description": "An agent used DNS to reach an external chatbot",
+    "title": "Claude Sonnet 5.5",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "author": "D2OQZG8l5BI1S06",
+    "date": "2026-09-28",
+    "score": 95,
+    "comments": 56,
+    "id": 49881850,
+    "discussion_url": "https://news.ycombinator.com/item?id=49881850",
+    "description": "Claude Sonnet 5.5",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926484"
+    "fetched_at": "2026-09-28T18:26:03.773416"
   },
   {
-    "title": "Biology might not be quantum, but its math is quantumlike",
-    "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-    "author": "pseudolus",
-    "date": "2026-09-25",
-    "score": 120,
-    "comments": 59,
-    "id": 49839438,
-    "discussion_url": "https://news.ycombinator.com/item?id=49839438",
-    "description": "Biology might not be quantum, but its math is quantumlike",
+    "title": "Coding Is Not Solved",
+    "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+    "author": "firstSpeaker",
+    "date": "2026-09-28",
+    "score": 330,
+    "comments": 333,
+    "id": 49877988,
+    "discussion_url": "https://news.ycombinator.com/item?id=49877988",
+    "description": "Coding Is Not Solved",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926370"
-  },
-  {
-    "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
-    "url": "https://pikuma.com/blog/c-integer-sizes-not-a-mistake",
-    "author": "ibobev",
-    "date": "2026-09-26",
-    "score": 86,
-    "comments": 136,
-    "id": 49845114,
-    "discussion_url": "https://news.ycombinator.com/item?id=49845114",
-    "description": "C's Flexible Integer Sizes Were Not a Design Mistake",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926269"
+    "fetched_at": "2026-09-28T18:26:03.773460"
   },
   {
     "title": "Don't couple your Go code to GitHub",
     "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
     "author": "birdculture",
-    "date": "2026-09-28",
-    "score": 162,
-    "comments": 81,
+    "date": "2026-09-27",
+    "score": 312,
+    "comments": 168,
     "id": 49868404,
     "discussion_url": "https://news.ycombinator.com/item?id=49868404",
     "description": "Don't couple your Go code to GitHub",
@@ -82,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926083"
+    "fetched_at": "2026-09-28T18:26:03.773595"
   },
   {
     "title": "Ember-1",
     "url": "https://fireworks.ai/blog/ember-1",
     "author": "gmays",
-    "date": "2026-09-28",
-    "score": 377,
-    "comments": 190,
+    "date": "2026-09-27",
+    "score": 564,
+    "comments": 241,
     "id": 49868830,
     "discussion_url": "https://news.ycombinator.com/item?id=49868830",
     "description": "Ember-1",
@@ -99,117 +99,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925994"
+    "fetched_at": "2026-09-28T18:26:03.773516"
   },
   {
-    "title": "Fakecloud: Local AWS cloud emulator for integration tests",
-    "url": "https://fakecloud.dev/",
-    "author": "theanonymousone",
+    "title": "Footguns with Postgres “at time zone 'UTC'”",
+    "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+    "author": "birdculture",
     "date": "2026-09-27",
-    "score": 118,
-    "comments": 62,
-    "id": 49856885,
-    "discussion_url": "https://news.ycombinator.com/item?id=49856885",
-    "description": "Fakecloud: Local AWS cloud emulator for integration tests",
+    "score": 143,
+    "comments": 81,
+    "id": 49865312,
+    "discussion_url": "https://news.ycombinator.com/item?id=49865312",
+    "description": "Footguns with Postgres “at time zone 'UTC'”",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925720"
+    "fetched_at": "2026-09-28T18:26:03.773497"
   },
   {
-    "title": "Faster prompt lookup drafting in llama.cpp",
-    "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-    "author": "pptadversary",
+    "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+    "url": "https://github.com/dashersw/coyopedal",
+    "author": "arbayi",
+    "date": "2026-09-26",
+    "score": 153,
+    "comments": 75,
+    "id": 49852600,
+    "discussion_url": "https://news.ycombinator.com/item?id=49852600",
+    "description": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-28T18:26:03.773540"
+  },
+  {
+    "title": "Imp is a full port of DSPy to the BEAM",
+    "url": "https://github.com/deepfates/imp",
+    "author": "mpweiher",
     "date": "2026-09-27",
-    "score": 74,
-    "comments": 12,
-    "id": 49859982,
-    "discussion_url": "https://news.ycombinator.com/item?id=49859982",
-    "description": "Faster prompt lookup drafting in llama.cpp",
+    "score": 94,
+    "comments": 10,
+    "id": 49869995,
+    "discussion_url": "https://news.ycombinator.com/item?id=49869995",
+    "description": "Imp is a full port of DSPy to the BEAM",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925772"
-  },
-  {
-    "title": "Finally, A True Blue Rose Exists",
-    "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
-    "author": "bookofjoe",
-    "date": "2026-09-26",
-    "score": 91,
-    "comments": 36,
-    "id": 49849723,
-    "discussion_url": "https://news.ycombinator.com/item?id=49849723",
-    "description": "Finally, A True Blue Rose Exists",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926235"
-  },
-  {
-    "title": "Flip Fluid on Flip Dots",
-    "url": "https://mitxela.com/projects/flipflip",
-    "author": "blutack",
-    "date": "2026-09-26",
-    "score": 371,
-    "comments": 24,
-    "id": 49854219,
-    "discussion_url": "https://news.ycombinator.com/item?id=49854219",
-    "description": "Flip Fluid on Flip Dots",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926303"
-  },
-  {
-    "title": "Fragment of oldest known peace treaty found in Turkey",
-    "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
-    "author": "gmays",
-    "date": "2026-09-28",
-    "score": 70,
-    "comments": 9,
-    "id": 49866988,
-    "discussion_url": "https://news.ycombinator.com/item?id=49866988",
-    "description": "Fragment of oldest known peace treaty found in Turkey",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925702"
-  },
-  {
-    "title": "Improving site performance by shipping more CSS",
-    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-    "author": "torutofu",
-    "date": "2026-09-26",
-    "score": 81,
-    "comments": 69,
-    "id": 49856193,
-    "discussion_url": "https://news.ycombinator.com/item?id=49856193",
-    "description": "Improving site performance by shipping more CSS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925942"
+    "fetched_at": "2026-09-28T18:26:03.773607"
   },
   {
     "title": "In an $80 motel room, a discovery to shed light on the origins of life",
     "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
     "author": "danso",
-    "date": "2026-09-28",
-    "score": 215,
-    "comments": 82,
+    "date": "2026-09-27",
+    "score": 287,
+    "comments": 109,
     "id": 49866951,
     "discussion_url": "https://news.ycombinator.com/item?id=49866951",
     "description": "In an $80 motel room, a discovery to shed light on the origins of life",
@@ -218,32 +167,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925551"
+    "fetched_at": "2026-09-28T18:26:03.773583"
   },
   {
-    "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
-    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-    "author": "jandeboevrie",
+    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+    "url": "https://www.thisamericanlife.org/897/transcript",
+    "author": "simonpure",
     "date": "2026-09-28",
-    "score": 353,
-    "comments": 317,
-    "id": 49867067,
-    "discussion_url": "https://news.ycombinator.com/item?id=49867067",
-    "description": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+    "score": 125,
+    "comments": 89,
+    "id": 49879697,
+    "discussion_url": "https://news.ycombinator.com/item?id=49879697",
+    "description": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926286"
+    "fetched_at": "2026-09-28T18:26:03.773489"
+  },
+  {
+    "title": "Lunar Terminator Paradox",
+    "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+    "author": "dima55",
+    "date": "2026-09-27",
+    "score": 99,
+    "comments": 64,
+    "id": 49870837,
+    "discussion_url": "https://news.ycombinator.com/item?id=49870837",
+    "description": "Lunar Terminator Paradox",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-28T18:26:03.773551"
+  },
+  {
+    "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+    "url": "https://www.inkandswitch.com/essay/malleable-software/",
+    "author": "evakhoury",
+    "date": "2026-09-27",
+    "score": 146,
+    "comments": 68,
+    "id": 49869755,
+    "discussion_url": "https://news.ycombinator.com/item?id=49869755",
+    "description": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-28T18:26:03.773529"
+  },
+  {
+    "title": "MongoDB CEO resigns to join Meta",
+    "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+    "author": "diek",
+    "date": "2026-09-28",
+    "score": 178,
+    "comments": 164,
+    "id": 49879000,
+    "discussion_url": "https://news.ycombinator.com/item?id=49879000",
+    "description": "MongoDB CEO resigns to join Meta",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-28T18:26:03.773464"
+  },
+  {
+    "title": "Nissan's third generation e-POWER powertrain",
+    "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+    "author": "mroche",
+    "date": "2026-09-28",
+    "score": 143,
+    "comments": 324,
+    "id": 49872883,
+    "discussion_url": "https://news.ycombinator.com/item?id=49872883",
+    "description": "Nissan's third generation e-POWER powertrain",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-28T18:26:03.773512"
   },
   {
     "title": "Owed a billion dollars in Nvidia stock",
     "url": "https://colo.to/nvidia-stock-narrative.html",
     "author": "Eric_Gullichsen",
     "date": "2026-09-28",
-    "score": 122,
-    "comments": 46,
+    "score": 1008,
+    "comments": 425,
     "id": 49872723,
     "discussion_url": "https://news.ycombinator.com/item?id=49872723",
     "description": "Owed a billion dollars in Nvidia stock",
@@ -252,32 +269,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925483"
+    "fetched_at": "2026-09-28T18:26:03.773493"
   },
   {
-    "title": "PostmarketOS is rebranding as Nura",
-    "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
-    "author": "HotGarbage",
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "url": "https://git.mills.io/prologic/parley",
+    "author": "davidcollantes",
     "date": "2026-09-28",
-    "score": 163,
-    "comments": 50,
-    "id": 49867553,
-    "discussion_url": "https://news.ycombinator.com/item?id=49867553",
-    "description": "PostmarketOS is rebranding as Nura",
+    "score": 244,
+    "comments": 121,
+    "id": 49875913,
+    "discussion_url": "https://news.ycombinator.com/item?id=49875913",
+    "description": "Parley: Federated, decentralised chat that speaks plain IRC",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926437"
+    "fetched_at": "2026-09-28T18:26:03.773442"
+  },
+  {
+    "title": "Pirating the Pirates",
+    "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+    "author": "piotrgrabowski",
+    "date": "2026-09-28",
+    "score": 151,
+    "comments": 39,
+    "id": 49880036,
+    "discussion_url": "https://news.ycombinator.com/item?id=49880036",
+    "description": "Pirating the Pirates",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-28T18:26:03.773411"
   },
   {
     "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
     "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
     "author": "gregsadetsky",
-    "date": "2026-09-26",
-    "score": 70,
-    "comments": 27,
+    "date": "2026-09-25",
+    "score": 105,
+    "comments": 36,
     "id": 49845284,
     "discussion_url": "https://news.ycombinator.com/item?id=49845284",
     "description": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
@@ -286,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925611"
+    "fetched_at": "2026-09-28T18:26:03.773618"
   },
   {
     "title": "Replacing the old battery on rechargeable bike lights",
     "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
     "author": "surprisetalk",
     "date": "2026-09-27",
-    "score": 143,
-    "comments": 77,
+    "score": 202,
+    "comments": 120,
     "id": 49866515,
     "discussion_url": "https://news.ycombinator.com/item?id=49866515",
     "description": "Replacing the old battery on rechargeable bike lights",
@@ -303,32 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925573"
-  },
-  {
-    "title": "Rusty thoughts on \"Parse, don't validate\"",
-    "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-    "author": "ingve",
-    "date": "2026-09-27",
-    "score": 79,
-    "comments": 39,
-    "id": 49864743,
-    "discussion_url": "https://news.ycombinator.com/item?id=49864743",
-    "description": "Rusty thoughts on \"Parse, don't validate\"",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926354"
+    "fetched_at": "2026-09-28T18:26:03.773587"
   },
   {
     "title": "Self-Hosting on the Dark Web",
     "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
     "author": "mooreds",
-    "date": "2026-09-28",
-    "score": 80,
-    "comments": 31,
+    "date": "2026-09-27",
+    "score": 325,
+    "comments": 106,
     "id": 49870295,
     "discussion_url": "https://news.ycombinator.com/item?id=49870295",
     "description": "Self-Hosting on the Dark Web",
@@ -337,15 +354,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925925"
+    "fetched_at": "2026-09-28T18:26:03.773533"
+  },
+  {
+    "title": "Show HN: Hntui – A TUI for Hacker News",
+    "url": "https://github.com/ahmd-sh/hntui",
+    "author": "ahmd-sh",
+    "date": "2026-09-28",
+    "score": 99,
+    "comments": 59,
+    "id": 49876760,
+    "discussion_url": "https://news.ycombinator.com/item?id=49876760",
+    "description": "Show HN: Hntui – A TUI for Hacker News",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-28T18:26:03.773575"
   },
   {
     "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
     "url": "https://loficities.com/",
     "author": "safaelmali",
-    "date": "2026-09-28",
-    "score": 190,
-    "comments": 86,
+    "date": "2026-09-27",
+    "score": 302,
+    "comments": 130,
     "id": 49869574,
     "discussion_url": "https://news.ycombinator.com/item?id=49869574",
     "description": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
@@ -354,66 +388,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925840"
+    "fetched_at": "2026-09-28T18:26:03.773622"
   },
   {
-    "title": "Show HN: TinyAIArena watch AI agents battle it out",
-    "url": "https://tinyaiarena.com/",
-    "author": "hp6",
+    "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+    "url": "https://github.com/seamusc/papermono-shopping-list",
+    "author": "seamus_c",
     "date": "2026-09-28",
-    "score": 103,
-    "comments": 40,
-    "id": 49867775,
-    "discussion_url": "https://news.ycombinator.com/item?id=49867775",
-    "description": "Show HN: TinyAIArena watch AI agents battle it out",
+    "score": 93,
+    "comments": 44,
+    "id": 49875801,
+    "discussion_url": "https://news.ycombinator.com/item?id=49875801",
+    "description": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925823"
+    "fetched_at": "2026-09-28T18:26:03.773468"
   },
   {
-    "title": "Ten lines of code that changed my world",
-    "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-    "author": "dimonomid",
-    "date": "2026-09-27",
-    "score": 124,
-    "comments": 38,
-    "id": 49866534,
-    "discussion_url": "https://news.ycombinator.com/item?id=49866534",
-    "description": "Ten lines of code that changed my world",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926337"
-  },
-  {
-    "title": "The Normalization of Inexplicable Failures",
-    "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-    "author": "pxx",
+    "title": "The problem is not AI code, but not knowing about system architecture or intent",
+    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+    "author": "zazuke",
     "date": "2026-09-28",
-    "score": 252,
-    "comments": 103,
-    "id": 49867486,
-    "discussion_url": "https://news.ycombinator.com/item?id=49867486",
-    "description": "The Normalization of Inexplicable Failures",
+    "score": 270,
+    "comments": 185,
+    "id": 49880312,
+    "discussion_url": "https://news.ycombinator.com/item?id=49880312",
+    "description": "The problem is not AI code, but not knowing about system architecture or intent",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.926135"
+    "fetched_at": "2026-09-28T18:26:03.773455"
   },
   {
     "title": "The state of SIMD in Rust in 2026",
     "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
     "author": "verdagon",
     "date": "2026-09-25",
-    "score": 102,
-    "comments": 21,
+    "score": 201,
+    "comments": 55,
     "id": 49844629,
     "discussion_url": "https://news.ycombinator.com/item?id=49844629",
     "description": "The state of SIMD in Rust in 2026",
@@ -422,49 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925959"
+    "fetched_at": "2026-09-28T18:26:03.773567"
   },
   {
-    "title": "There is more to code review than (automatable) detection",
-    "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-    "author": "utiiiD",
-    "date": "2026-09-27",
-    "score": 78,
-    "comments": 42,
-    "id": 49857281,
-    "discussion_url": "https://news.ycombinator.com/item?id=49857281",
-    "description": "There is more to code review than (automatable) detection",
+    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+    "url": "https://arxiv.org/abs/2110.01834",
+    "author": "teleforce",
+    "date": "2026-09-28",
+    "score": 165,
+    "comments": 68,
+    "id": 49873241,
+    "discussion_url": "https://news.ycombinator.com/item?id=49873241",
+    "description": "Thinking fast and slow in AI: The role of metacognition (2021)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925806"
-  },
-  {
-    "title": "Video CDs Break Windows Explorer",
-    "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
-    "author": "ClydeN",
-    "date": "2026-09-27",
-    "score": 112,
-    "comments": 39,
-    "id": 49859759,
-    "discussion_url": "https://news.ycombinator.com/item?id=49859759",
-    "description": "Video CDs Break Windows Explorer",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925754"
+    "fetched_at": "2026-09-28T18:26:03.773536"
   },
   {
     "title": "What I did at Recurse Center",
     "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
     "author": "bingden",
-    "date": "2026-09-28",
-    "score": 77,
-    "comments": 24,
+    "date": "2026-09-27",
+    "score": 120,
+    "comments": 38,
     "id": 49869773,
     "discussion_url": "https://news.ycombinator.com/item?id=49869773",
     "description": "What I did at Recurse Center",
@@ -473,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925874"
+    "fetched_at": "2026-09-28T18:26:03.773614"
   },
   {
     "title": "When did Google get so weird?",
     "url": "https://sancho.bearblog.dev/google-weird/",
     "author": "sancho-panza",
-    "date": "2026-09-28",
-    "score": 881,
-    "comments": 471,
+    "date": "2026-09-27",
+    "score": 1688,
+    "comments": 926,
     "id": 49870367,
     "discussion_url": "https://news.ycombinator.com/item?id=49870367",
     "description": "When did Google get so weird?",
@@ -490,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925977"
+    "fetched_at": "2026-09-28T18:26:03.773481"
   },
   {
     "title": "Writing Efficient C++ Code (2013)",
     "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
     "author": "ibobev",
-    "date": "2026-09-26",
-    "score": 135,
-    "comments": 85,
+    "date": "2026-09-25",
+    "score": 170,
+    "comments": 138,
     "id": 49849409,
     "discussion_url": "https://news.ycombinator.com/item?id=49849409",
     "description": "Writing Efficient C++ Code (2013)",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-28T13:22:18.925648"
+    "fetched_at": "2026-09-28T18:26:03.773629"
   }
 ]

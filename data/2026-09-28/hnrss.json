@@ -1,152 +1,182 @@
 [
   {
-    "title": "Don't couple your Go code to GitHub",
-    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-    "description": "Don't couple your Go code to GitHub",
-    "date": "2026-09-27",
-    "score": 162,
-    "comments": 81,
-    "discussion_url": "https://news.ycombinator.com/item?id=49868404",
+    "title": "37,500 border drawings: a map of the world as people remember it",
+    "url": "https://www.habibicode.org/thedrawnworld",
+    "description": "37,500 border drawings: a map of the world as people remember it",
+    "date": "2026-09-28",
+    "score": 143,
+    "comments": 31,
+    "discussion_url": "https://news.ycombinator.com/item?id=49875142",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140463"
+    "fetched_at": "2026-09-28T18:26:12.131695"
+  },
+  {
+    "title": "Coding Is Not Solved",
+    "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+    "description": "Coding Is Not Solved",
+    "date": "2026-09-28",
+    "score": 328,
+    "comments": 329,
+    "discussion_url": "https://news.ycombinator.com/item?id=49877988",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-28T18:26:12.131674"
   },
   {
     "title": "Ember-1",
     "url": "https://fireworks.ai/blog/ember-1",
     "description": "Ember-1",
     "date": "2026-09-27",
-    "score": 377,
-    "comments": 190,
+    "score": 564,
+    "comments": 241,
     "discussion_url": "https://news.ycombinator.com/item?id=49868830",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140444"
+    "fetched_at": "2026-09-28T18:26:12.131747"
   },
   {
-    "title": "Fakecloud: Local AWS cloud emulator for integration tests",
-    "url": "https://fakecloud.dev/",
-    "description": "Fakecloud: Local AWS cloud emulator for integration tests",
-    "date": "2026-09-26",
-    "score": 118,
-    "comments": 62,
-    "discussion_url": "https://news.ycombinator.com/item?id=49856885",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140515"
-  },
-  {
-    "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-    "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-    "description": "In an $80 motel room, a discovery to shed light on the origins of life",
+    "title": "Footguns with Postgres “at time zone 'UTC'”",
+    "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+    "description": "Footguns with Postgres “at time zone 'UTC'”",
     "date": "2026-09-27",
-    "score": 215,
-    "comments": 82,
-    "discussion_url": "https://news.ycombinator.com/item?id=49866951",
+    "score": 142,
+    "comments": 79,
+    "discussion_url": "https://news.ycombinator.com/item?id=49865312",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140481"
+    "fetched_at": "2026-09-28T18:26:12.131759"
+  },
+  {
+    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+    "url": "https://www.thisamericanlife.org/897/transcript",
+    "description": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+    "date": "2026-09-28",
+    "score": 123,
+    "comments": 89,
+    "discussion_url": "https://news.ycombinator.com/item?id=49879697",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-28T18:26:12.131652"
+  },
+  {
+    "title": "MongoDB CEO resigns to join Meta",
+    "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+    "description": "MongoDB CEO resigns to join Meta",
+    "date": "2026-09-28",
+    "score": 173,
+    "comments": 160,
+    "discussion_url": "https://news.ycombinator.com/item?id=49879000",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-28T18:26:12.131663"
+  },
+  {
+    "title": "Nissan's third generation e-POWER powertrain",
+    "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+    "description": "Nissan's third generation e-POWER powertrain",
+    "date": "2026-09-28",
+    "score": 143,
+    "comments": 323,
+    "discussion_url": "https://news.ycombinator.com/item?id=49872883",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-28T18:26:12.131716"
   },
   {
     "title": "Owed a billion dollars in Nvidia stock",
     "url": "https://colo.to/nvidia-stock-narrative.html",
     "description": "Owed a billion dollars in Nvidia stock",
     "date": "2026-09-28",
-    "score": 123,
-    "comments": 46,
+    "score": 1008,
+    "comments": 424,
     "discussion_url": "https://news.ycombinator.com/item?id=49872723",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140367"
+    "fetched_at": "2026-09-28T18:26:12.131728"
   },
   {
-    "title": "Replacing the old battery on rechargeable bike lights",
-    "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-    "description": "Replacing the old battery on rechargeable bike lights",
-    "date": "2026-09-27",
-    "score": 143,
-    "comments": 77,
-    "discussion_url": "https://news.ycombinator.com/item?id=49866515",
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "url": "https://git.mills.io/prologic/parley",
+    "description": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "date": "2026-09-28",
+    "score": 244,
+    "comments": 120,
+    "discussion_url": "https://news.ycombinator.com/item?id=49875913",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140499"
+    "fetched_at": "2026-09-28T18:26:12.131684"
   },
   {
-    "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-    "url": "https://loficities.com/",
-    "description": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-    "date": "2026-09-27",
-    "score": 190,
-    "comments": 86,
-    "discussion_url": "https://news.ycombinator.com/item?id=49869574",
+    "title": "Pirating the Pirates",
+    "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+    "description": "Pirating the Pirates",
+    "date": "2026-09-28",
+    "score": 148,
+    "comments": 34,
+    "discussion_url": "https://news.ycombinator.com/item?id=49880036",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140426"
+    "fetched_at": "2026-09-28T18:26:12.131639"
   },
   {
-    "title": "The state of SIMD in Rust in 2026",
-    "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-    "description": "The state of SIMD in Rust in 2026",
-    "date": "2026-09-25",
-    "score": 102,
-    "comments": 21,
-    "discussion_url": "https://news.ycombinator.com/item?id=49844629",
+    "title": "The problem is not AI code, but not knowing about system architecture or intent",
+    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+    "description": "The problem is not AI code, but not knowing about system architecture or intent",
+    "date": "2026-09-28",
+    "score": 270,
+    "comments": 181,
+    "discussion_url": "https://news.ycombinator.com/item?id=49880312",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140550"
+    "fetched_at": "2026-09-28T18:26:12.131608"
   },
   {
     "title": "When did Google get so weird?",
     "url": "https://sancho.bearblog.dev/google-weird/",
     "description": "When did Google get so weird?",
     "date": "2026-09-27",
-    "score": 881,
-    "comments": 471,
+    "score": 1682,
+    "comments": 923,
     "discussion_url": "https://news.ycombinator.com/item?id=49870367",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140403"
-  },
-  {
-    "title": "Writing Efficient C++ Code (2013)",
-    "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-    "description": "Writing Efficient C++ Code (2013)",
-    "date": "2026-09-25",
-    "score": 135,
-    "comments": 85,
-    "discussion_url": "https://news.ycombinator.com/item?id=49849409",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-28T13:22:39.140533"
+    "fetched_at": "2026-09-28T18:26:12.131738"
   }
 ]
