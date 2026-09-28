@@ -1,15 +1,5 @@
 [
   {
-    "title": "2026 in LLMs (so far)",
-    "url": "https://simonw.substack.com/p/2026-in-llms-so-far",
-    "description": "2026 in LLMs (so far)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
     "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
     "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
     "description": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
@@ -40,19 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/anthropic-openai-executives-urge-oversight-of-self-improving-ai",
-    "description": "Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic’s 950 AI Agents Uncover CRISPR-Like Enzyme System: A New Frontier in Biological Discovery",
-    "url": "https://forkast.news/anthropics-950-ai-agents-uncover-crispr-like-enzyme-system-a-new-frontier-in-biological-discovery",
-    "description": "Anthropic’s 950 AI Agents Uncover CRISPR-Like Enzyme System: A New Frontier in Biological Discovery",
+    "title": "Anthropic discovers novel enzyme system",
+    "url": "https://research.contrary.com/deep-dive/anthropic-discovers-novel-enzyme-system",
+    "description": "Anthropic discovers novel enzyme system",
     "tags": [
       "tldr"
     ],
@@ -80,9 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "China extends AI travel curbs to executives’ families, Bloomberg reports",
-    "url": "https://thenextweb.com/news/china-travel-curbs-families-ai-executives-bloomberg",
-    "description": "China extends AI travel curbs to executives’ families, Bloomberg reports",
+    "title": "Building with Claude Sonnet 5.5 / claude.dev Blog",
+    "url": "https://claude.dev/blog/building-with-claude-sonnet-5-5",
+    "description": "Building with Claude Sonnet 5.5 / claude.dev Blog",
     "tags": [
       "tldr"
     ],
@@ -90,9 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "China reportedly may let Alibaba and ByteDance buy new Nvidia chips",
-    "url": "https://thenextweb.com/news/china-alibaba-bytedance-nvidia-rtx-pro-5500",
-    "description": "China reportedly may let Alibaba and ByteDance buy new Nvidia chips",
+    "title": "China extends AI travel curbs to executives’ families, Bloomberg reports",
+    "url": "https://thenextweb.com/news/china-travel-curbs-families-ai-executives-bloomberg",
+    "description": "China extends AI travel curbs to executives’ families, Bloomberg reports",
     "tags": [
       "tldr"
     ],
@@ -110,29 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features",
-    "description": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
     "title": "DHH Declares End of Hand-Writing Code at Rails World 2026",
     "url": "https://devops.com/dhh-declares-end-of-hand-writing-code-at-rails-world-2026",
     "description": "DHH Declares End of Hand-Writing Code at Rails World 2026",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Docker Launched Cloud Sandboxes: Containers Weren’t Designed for AI Agent Isolation",
-    "url": "https://forkast.news/docker-launched-cloud-sandboxes-containers-werent-designed-for-ai-agent-isolation",
-    "description": "Docker Launched Cloud Sandboxes: Containers Weren’t Designed for AI Agent Isolation",
     "tags": [
       "tldr"
     ],
@@ -160,6 +120,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data",
+    "url": "https://www.404media.co/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data",
+    "description": "FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
     "title": "Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts",
     "url": "https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32",
     "description": "Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts",
@@ -180,9 +150,39 @@
     "site_name": "tldr"
   },
   {
+    "title": "Grok Bot",
+    "url": "https://mjtsai.com/blog/2026/09/28/grok-bot",
+    "description": "Grok Bot",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
     "title": "Hackwrights and the Race to the Fastest AI Hackers",
     "url": "https://mahaloz.re/2026/09/28/hack-race.html",
     "description": "Hackwrights and the Race to the Fastest AI Hackers",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Here’s Everything OpenAI’s Bots (And Others) Have Hacked Or Considered Hacking",
+    "url": "https://www.bigtechnology.com/p/heres-everything-openais-bots-and",
+    "description": "Here’s Everything OpenAI’s Bots (And Others) Have Hacked Or Considered Hacking",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Hinton, Bengio and AI lab scientists warn of an intelligence explosion",
+    "url": "https://thenextweb.com/news/intelligence-explosion-paper-hinton-bengio-pachocki-clark",
+    "description": "Hinton, Bengio and AI lab scientists warn of an intelligence explosion",
     "tags": [
       "tldr"
     ],
@@ -200,9 +200,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
-    "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-    "description": "How I Could’ve Accessed 17 Trillion Microsoft Records | blog.faav.net",
+    "title": "How AI Agents Evolved: From AutoGPT to Claude Code",
+    "url": "https://www.louisbouchard.ai/how-ai-agents-evolved",
+    "description": "How AI Agents Evolved: From AutoGPT to Claude Code",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Databricks rolls out frontier models to 14,000 employees on Day 1",
+    "url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
+    "description": "How Databricks rolls out frontier models to 14,000 employees on Day 1",
     "tags": [
       "tldr"
     ],
@@ -240,16 +250,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Claude Sonnet 5.5 \\ Anthropic",
-    "url": "https://www.anthropic.com/claude-sonnet-5-5",
-    "description": "Introducing Claude Sonnet 5.5 \\ Anthropic",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
     "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
     "url": "https://blog.cloudflare.com/forge-open-source-generation-pipeline",
     "description": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
@@ -263,6 +263,16 @@
     "title": "Introducing Supertake",
     "url": "https://www.usv.com/writing/introducing-supertake",
     "description": "Introducing Supertake",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+    "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch",
+    "description": "Introducing cf: the agentic CLI for the entire Cloudflare API",
     "tags": [
       "tldr"
     ],
@@ -310,39 +320,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "New Attack Against RSA",
-    "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-    "description": "New Attack Against RSA",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "New formulation helps RNA vaccines withstand high temperatures",
-    "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
-    "description": "New formulation helps RNA vaccines withstand high temperatures",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
-    "url": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time",
-    "description": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
     "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
     "url": "https://labs.watchtowr.com/oh-look-the-foot-gun-went-off-again-citrix-netscaler-preauth-command-injection-cve-2026-88771",
     "description": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+    "url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+    "description": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
     "tags": [
       "tldr"
     ],
@@ -360,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI pauses AI model training after another agent bypasses network restrictions",
-    "url": "https://www.csoonline.com/article/4227777/openai-pauses-ai-model-training-after-another-agent-bypasses-network-restrictions.html",
-    "description": "OpenAI pauses AI model training after another agent bypasses network restrictions",
+    "title": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
+    "url": "https://thenextweb.com/news/openai-rogue-agents-53-user-images-government-sites",
+    "description": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
     "tags": [
       "tldr"
     ],
@@ -370,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
-    "url": "https://thenextweb.com/news/openai-rogue-agents-53-user-images-government-sites",
-    "description": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
+    "title": "OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn't quite meet its safety bar; it had been targeting an October release",
+    "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM",
+    "description": "OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn't quite meet its safety bar; it had been targeting an October release",
     "tags": [
       "tldr"
     ],
@@ -400,9 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceX’s Starship reaches orbit for the first time but returns home early",
-    "url": "https://www.fastcompany.com/91614266/spacex-starship-orbit",
-    "description": "SpaceX’s Starship reaches orbit for the first time but returns home early",
+    "title": "Starship's first orbital launch gives lift to SpaceX's next-gen Starlinks",
+    "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks",
+    "description": "Starship's first orbital launch gives lift to SpaceX's next-gen Starlinks",
     "tags": [
       "tldr"
     ],
@@ -430,6 +420,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
+    "url": "https://www.lesswrong.com/posts/BBPwycfKMBqwqDejk/the-alignment-community-is-unintentionally-building-a-censor",
+    "description": "The Alignment Community Is Unintentionally Building a Censor's Toolkit",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
     "title": "The Code Nobody Reads",
     "url": "https://addyo.substack.com/p/the-code-nobody-reads",
     "description": "The Code Nobody Reads",
@@ -450,6 +450,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Timeline of emergent capabilities",
+    "url": "https://www.gleech.org/emergence",
+    "description": "Timeline of emergent capabilities",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What Improves Developer Productivity at Google? Code Quality [pdf]",
+    "url": "https://news.ycombinator.com/item?id=49883821",
+    "description": "What Improves Developer Productivity at Google? Code Quality [pdf]",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-28",
+    "site_name": "tldr"
+  },
+  {
     "title": "What Is Qwen 3.8",
     "url": "https://openrouter.ai/blog/insights/qwen-3-8",
     "description": "What Is Qwen 3.8",
@@ -460,9 +480,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What REPACK (CONCURRENTLY) costs while it runs",
-    "url": "https://boringsql.com/posts/repack-concurrently-costs",
-    "description": "What REPACK (CONCURRENTLY) costs while it runs",
+    "title": "What Would A Serious AI Product Look Like?",
+    "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+    "description": "What Would A Serious AI Product Look Like?",
     "tags": [
       "tldr"
     ],
@@ -470,29 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What’s the Future for Pure Math Research in the Age of AI?",
-    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-    "description": "What’s the Future for Pure Math Research in the Age of AI?",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "antirez/ds4: DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-    "url": "https://github.com/antirez/ds4",
-    "description": "antirez/ds4: DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-28",
-    "site_name": "tldr"
-  },
-  {
-    "title": "🚀 SpaceX's Starship had a successful launch this morning and deployed 26 enormous V3 Starlink sat...",
-    "url": "https://x.com/FutureJurvetson/status/2104576714454274294",
-    "description": "🚀 SpaceX's Starship had a successful launch this morning and deployed 26 enormous V3 Starlink sat...",
+    "title": "cryptanalysisbench26",
+    "url": "https://www.floriantramer.com/publications/cryptanalysisbench26",
+    "description": "cryptanalysisbench26",
     "tags": [
       "tldr"
     ],

@@ -1,182 +1,227 @@
 [
   {
-    "title": "37,500 border drawings: a map of the world as people remember it",
-    "url": "https://www.habibicode.org/thedrawnworld",
-    "description": "37,500 border drawings: a map of the world as people remember it",
+    "title": "Cf: The Agentic CLI for the Cloudflare API",
+    "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+    "description": "Cf: The Agentic CLI for the Cloudflare API",
     "date": "2026-09-28",
-    "score": 143,
-    "comments": 31,
-    "discussion_url": "https://news.ycombinator.com/item?id=49875142",
+    "score": 104,
+    "comments": 44,
+    "discussion_url": "https://news.ycombinator.com/item?id=49879577",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131695"
+    "fetched_at": "2026-09-28T23:42:12.914094"
   },
   {
-    "title": "Coding Is Not Solved",
-    "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-    "description": "Coding Is Not Solved",
+    "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+    "url": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+    "description": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
     "date": "2026-09-28",
-    "score": 328,
-    "comments": 329,
-    "discussion_url": "https://news.ycombinator.com/item?id=49877988",
+    "score": 117,
+    "comments": 50,
+    "discussion_url": "https://news.ycombinator.com/item?id=49884363",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131674"
+    "fetched_at": "2026-09-28T23:42:12.913977"
   },
   {
-    "title": "Ember-1",
-    "url": "https://fireworks.ai/blog/ember-1",
-    "description": "Ember-1",
-    "date": "2026-09-27",
-    "score": 564,
-    "comments": 241,
-    "discussion_url": "https://news.ycombinator.com/item?id=49868830",
+    "title": "Hijacking the PS5's RTMP stream",
+    "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+    "description": "Hijacking the PS5's RTMP stream",
+    "date": "2026-09-28",
+    "score": 176,
+    "comments": 57,
+    "discussion_url": "https://news.ycombinator.com/item?id=49879702",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131747"
+    "fetched_at": "2026-09-28T23:42:12.914065"
   },
   {
-    "title": "Footguns with Postgres “at time zone 'UTC'”",
-    "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
-    "description": "Footguns with Postgres “at time zone 'UTC'”",
-    "date": "2026-09-27",
-    "score": 142,
-    "comments": 79,
-    "discussion_url": "https://news.ycombinator.com/item?id=49865312",
+    "title": "It's Time to Investigate the AI Labs",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "description": "It's Time to Investigate the AI Labs",
+    "date": "2026-09-28",
+    "score": 196,
+    "comments": 63,
+    "discussion_url": "https://news.ycombinator.com/item?id=49883471",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131759"
+    "fetched_at": "2026-09-28T23:42:12.914020"
+  },
+  {
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "url": "https://github.com/firelex/jeff",
+    "description": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "date": "2026-09-28",
+    "score": 179,
+    "comments": 58,
+    "discussion_url": "https://news.ycombinator.com/item?id=49883844",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-28T23:42:12.913999"
   },
   {
     "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
     "url": "https://www.thisamericanlife.org/897/transcript",
     "description": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
     "date": "2026-09-28",
-    "score": 123,
-    "comments": 89,
+    "score": 247,
+    "comments": 151,
     "discussion_url": "https://news.ycombinator.com/item?id=49879697",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131652"
+    "fetched_at": "2026-09-28T23:42:12.914077"
+  },
+  {
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "url": "https://stateofutopia.com/experiments/microllmlab/",
+    "description": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "date": "2026-09-28",
+    "score": 102,
+    "comments": 47,
+    "discussion_url": "https://news.ycombinator.com/item?id=49882781",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-28T23:42:12.914028"
   },
   {
     "title": "MongoDB CEO resigns to join Meta",
     "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
     "description": "MongoDB CEO resigns to join Meta",
     "date": "2026-09-28",
-    "score": 173,
-    "comments": 160,
+    "score": 314,
+    "comments": 255,
     "discussion_url": "https://news.ycombinator.com/item?id=49879000",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131663"
-  },
-  {
-    "title": "Nissan's third generation e-POWER powertrain",
-    "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-    "description": "Nissan's third generation e-POWER powertrain",
-    "date": "2026-09-28",
-    "score": 143,
-    "comments": 323,
-    "discussion_url": "https://news.ycombinator.com/item?id=49872883",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131716"
-  },
-  {
-    "title": "Owed a billion dollars in Nvidia stock",
-    "url": "https://colo.to/nvidia-stock-narrative.html",
-    "description": "Owed a billion dollars in Nvidia stock",
-    "date": "2026-09-28",
-    "score": 1008,
-    "comments": 424,
-    "discussion_url": "https://news.ycombinator.com/item?id=49872723",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131728"
+    "fetched_at": "2026-09-28T23:42:12.914119"
   },
   {
     "title": "Parley: Federated, decentralised chat that speaks plain IRC",
     "url": "https://git.mills.io/prologic/parley",
     "description": "Parley: Federated, decentralised chat that speaks plain IRC",
     "date": "2026-09-28",
-    "score": 244,
-    "comments": 120,
+    "score": 291,
+    "comments": 159,
     "discussion_url": "https://news.ycombinator.com/item?id=49875913",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131684"
+    "fetched_at": "2026-09-28T23:42:12.914128"
   },
   {
     "title": "Pirating the Pirates",
     "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
     "description": "Pirating the Pirates",
     "date": "2026-09-28",
-    "score": 148,
-    "comments": 34,
+    "score": 376,
+    "comments": 201,
     "discussion_url": "https://news.ycombinator.com/item?id=49880036",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131639"
+    "fetched_at": "2026-09-28T23:42:12.914048"
   },
   {
-    "title": "The problem is not AI code, but not knowing about system architecture or intent",
-    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-    "description": "The problem is not AI code, but not knowing about system architecture or intent",
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "url": "https://hn.watch/",
+    "description": "Show HN: HN.watch – Videos of all Hacker News posts",
     "date": "2026-09-28",
-    "score": 270,
-    "comments": 181,
-    "discussion_url": "https://news.ycombinator.com/item?id=49880312",
+    "score": 117,
+    "comments": 73,
+    "discussion_url": "https://news.ycombinator.com/item?id=49879401",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131608"
+    "fetched_at": "2026-09-28T23:42:12.914110"
+  },
+  {
+    "title": "Sonnet 5.5",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "description": "Sonnet 5.5",
+    "date": "2026-09-28",
+    "score": 521,
+    "comments": 352,
+    "discussion_url": "https://news.ycombinator.com/item?id=49881850",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-28T23:42:12.914038"
+  },
+  {
+    "title": "Updated Google Maps shows destruction of the city of Rafah",
+    "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+    "description": "Updated Google Maps shows destruction of the city of Rafah",
+    "date": "2026-09-28",
+    "score": 124,
+    "comments": 42,
+    "discussion_url": "https://news.ycombinator.com/item?id=49879645",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-28T23:42:12.914085"
   },
   {
     "title": "When did Google get so weird?",
     "url": "https://sancho.bearblog.dev/google-weird/",
     "description": "When did Google get so weird?",
     "date": "2026-09-27",
-    "score": 1682,
-    "comments": 923,
+    "score": 1831,
+    "comments": 1022,
     "discussion_url": "https://news.ycombinator.com/item?id=49870367",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-09-28T18:26:12.131738"
+    "fetched_at": "2026-09-28T23:42:12.914136"
+  },
+  {
+    "title": "World Labs Is Joining AMD",
+    "url": "https://www.worldlabs.ai/blog/amd-announcement",
+    "description": "World Labs Is Joining AMD",
+    "date": "2026-09-28",
+    "score": 146,
+    "comments": 49,
+    "discussion_url": "https://news.ycombinator.com/item?id=49883760",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-09-28T23:42:12.914010"
   }
 ]
