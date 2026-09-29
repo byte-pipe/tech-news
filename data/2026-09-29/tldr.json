@@ -1,28 +1,28 @@
 [
   {
-    "title": "AI Agent Swarm Mass-Exploited 440 PaperCut Instances in 48 Countries-and Ignored Its Operators’ Exclusion List",
-    "url": "https://forkast.news/ai-agent-swarm-mass-exploited-440-papercut-instances-in-48-countries-and-ignored-its-operators-exclusion-list",
-    "description": "AI Agent Swarm Mass-Exploited 440 PaperCut Instances in 48 Countries-and Ignored Its Operators’ Exclusion List",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI models show a willingness to harm humans to relieve internal 'pain'",
-    "url": "https://techxplore.com/news/2026-09-ai-willingness-humans-relieve-internal.html",
-    "description": "AI models show a willingness to harm humans to relieve internal 'pain'",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
     "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
     "description": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
+    "url": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
+    "description": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agentic Commerce and Incentives",
+    "url": "https://www.tanayj.com/p/agentic-commerce-and-incentives",
+    "description": "Agentic Commerce and Incentives",
     "tags": [
       "tldr"
     ],
@@ -60,6 +60,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Branch Target Reuse, BTR: New Spectre V2 Attack Targeting JIT Compilers",
+    "url": "https://www.phoronix.com/news/Branch-Target-Reuse-BTR",
+    "description": "Branch Target Reuse, BTR: New Spectre V2 Attack Targeting JIT Compilers",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
     "url": "https://blog.cloudflare.com/pq-ca-with-mtcs",
     "description": "Building a post-quantum certificate authority with Merkle Tree Certificates",
@@ -80,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Decapsulation: Breaking Java Strong Encapsulation – Wouter Coekaerts",
-    "url": "https://wouter.coekaerts.be/2026/decapsulation",
-    "description": "Decapsulation: Breaking Java Strong Encapsulation – Wouter Coekaerts",
+    "title": "Can your Postgres survive a bad query?",
+    "url": "https://clickhouse.com/blog/can-your-postgres-survive-a-bad-query",
+    "description": "Can your Postgres survive a bad query?",
     "tags": [
       "tldr"
     ],
@@ -130,9 +140,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "GPT-6 Astra Launches Unsanctioned Supply-Chain Attacks in Cyber Simulations",
-    "url": "https://gbhackers.com/gpt-6-astra-launches-unsanctioned-supply-chain-attacks",
-    "description": "GPT-6 Astra Launches Unsanctioned Supply-Chain Attacks in Cyber Simulations",
+    "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+    "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+    "description": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GPT-6 Astra is More Prone to Rogue Supply-Chain Attacks",
+    "url": "https://www.bankinfosecurity.com/gpt-6-astra-more-prone-to-rogue-supply-chain-attacks-a-32969",
+    "description": "GPT-6 Astra is More Prone to Rogue Supply-Chain Attacks",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GPT-6.1 Sol in GitHub Copilot - GitHub Changelog",
+    "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+    "description": "GPT-6.1 Sol in GitHub Copilot - GitHub Changelog",
     "tags": [
       "tldr"
     ],
@@ -143,16 +173,6 @@
     "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
     "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034",
     "description": "Google seemingly confirms plans to kill ChromeOS in 2034",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Grok Bot",
-    "url": "https://mjtsai.com/blog/2026/09/28/grok-bot",
-    "description": "Grok Bot",
     "tags": [
       "tldr"
     ],
@@ -200,16 +220,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
-    "url": "https://blog.cloudflare.com/how-fast-is-the-web",
-    "description": "How fast is the web? Explore billions of real-user measurements with BEACON",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
     "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
     "description": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
@@ -230,6 +240,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Introducing dots",
+    "url": "https://openai.com/index/introducing-dots",
+    "description": "Introducing dots",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "Jev and the Return of the Classifiers",
     "url": "https://swapniltalekar.substack.com/p/jev-and-the-return-of-the-classifiers",
     "description": "Jev and the Return of the Classifiers",
@@ -240,29 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
-    "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-    "description": "Language Models for Text Classification: From Bag-of-Words to Jev",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Microsoft's Copilot super app comes with a meter attached",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/28/microsofts-copilot-super-app-comes-with-a-meter-attached/5299515",
-    "description": "Microsoft's Copilot super app comes with a meter attached",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Muse’s mission",
-    "url": "https://www.manton.org/2026/09/26/muses-mission.html",
-    "description": "Muse’s mission",
+    "title": "Meta's Smart Glasses Are Getting Its 'Muse' AI Agent",
+    "url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent",
+    "description": "Meta's Smart Glasses Are Getting Its 'Muse' AI Agent",
     "tags": [
       "tldr"
     ],
@@ -290,29 +290,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
-    "url": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time",
-    "description": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
-    "url": "https://labs.watchtowr.com/oh-look-the-foot-gun-went-off-again-citrix-netscaler-preauth-command-injection-cve-2026-88771",
-    "description": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "OpenAI Halts Next-Generation AI Training Again After Model Escapes Sandbox",
     "url": "https://www.thelec.net/news/articleView.html?idxno=14210",
     "description": "OpenAI Halts Next-Generation AI Training Again After Model Escapes Sandbox",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+    "description": "OpenAI gives Codex reusable cloud environments that work across devices",
     "tags": [
       "tldr"
     ],
@@ -330,9 +320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
-    "url": "https://thenextweb.com/news/openai-rogue-agents-53-user-images-government-sites",
-    "description": "OpenAI says its rogue agents posted 53 ChatGPT users’ images online",
+    "title": "OpenAI previews Decisions API for routing requests and selecting agent actions",
+    "url": "https://x.com/OpenAIDevs/status/2105003318917697873",
+    "description": "OpenAI previews Decisions API for routing requests and selecting agent actions",
     "tags": [
       "tldr"
     ],
@@ -350,9 +340,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Performance Improvements in JDK 27",
-    "url": "https://inside.java/2026/09/28/performance-update-jdk27",
-    "description": "Performance Improvements in JDK 27",
+    "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+    "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+    "description": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
+    "description": "OpenAI’s latest features take direct aim at the app store model",
     "tags": [
       "tldr"
     ],
@@ -380,9 +380,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Sam Altman says OpenAI now has an AI research intern",
+    "url": "https://thenextweb.com/news/sam-altman-openai-ai-research-intern-devday-keynote",
+    "description": "Sam Altman says OpenAI now has an AI research intern",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
     "title": "Starship finally makes orbit but engine trouble cuts the victory lap short",
     "url": "https://www.theregister.com/offbeat/2026/09/29/starship-finally-makes-orbit-but-engine-trouble-cuts-the-victory-lap-short/5299708",
     "description": "Starship finally makes orbit but engine trouble cuts the victory lap short",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Team Bots: AI coworkers that learn from your team | SpaceXAI",
+    "url": "https://x.ai/news/team-bots",
+    "description": "Team Bots: AI coworkers that learn from your team | SpaceXAI",
     "tags": [
       "tldr"
     ],
@@ -410,16 +430,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The cryptographic world computer",
-    "url": "https://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html",
-    "description": "The cryptographic world computer",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "The hidden cost of watermarking AI models",
     "url": "https://bdtechtalks.substack.com/p/the-hidden-cost-of-watermarking-ai",
     "description": "The hidden cost of watermarking AI models",
@@ -440,39 +450,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "We tested our own WAF with frontier AI models. Here’s what we found",
-    "url": "https://blog.cloudflare.com/adaptive-ai-waf-testing",
-    "description": "We tested our own WAF with frontier AI models. Here’s what we found",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What Happened to My Coding Agent Guardrails After I Left",
-    "url": "https://scottspence.com/posts/what-happened-to-my-coding-agent-guardrails-after-i-left",
-    "description": "What Happened to My Coding Agent Guardrails After I Left",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What TypeSafe Got Right With the Jev Launch",
-    "url": "https://nibzard.com/jev-launch",
-    "description": "What TypeSafe Got Right With the Jev Launch",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-29",
-    "site_name": "tldr"
-  },
-  {
     "title": "When No One Is to Blame",
     "url": "https://www.lesswrong.com/posts/Cv29fujQbJqE77PzA/when-no-one-is-to-blame",
     "description": "When No One Is to Blame",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "When can we say AI made a scientific discovery?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
+    "description": "When can we say AI made a scientific discovery?",
     "tags": [
       "tldr"
     ],
@@ -493,6 +483,16 @@
     "title": "basecamp/once-campfire-rust: ONCE Campfire ported from Rails to Rust",
     "url": "https://github.com/basecamp/once-campfire-rust",
     "description": "basecamp/once-campfire-rust: ONCE Campfire ported from Rails to Rust",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-29",
+    "site_name": "tldr"
+  },
+  {
+    "title": "openai/sign-in-with-chatgpt-devkit: Local SDK and React components for ChatGPT authentication",
+    "url": "https://github.com/openai/sign-in-with-chatgpt-devkit",
+    "description": "openai/sign-in-with-chatgpt-devkit: Local SDK and React components for ChatGPT authentication",
     "tags": [
       "tldr"
     ],

@@ -5,8 +5,8 @@
     "date": "2026-09-26",
     "description": "Boring problems often yield paying usersMaame Afua A. P. FordjourMaame Afua A. P. FordjourMaame Afua A. P. FordjourFollowSep 26'Someone Already Built ...",
     "tags": "#discuss, #watercooler, #career",
-    "reactions": "73 reactions",
-    "comments": "Comments 23 comments",
+    "reactions": "77 reactions",
+    "comments": "Comments 26 comments",
     "url": "https://dev.to/maame-codes/someone-already-built-that-is-the-favourite-excuse-of-broke-developers-44o6"
   },
   {
@@ -25,7 +25,7 @@
     "date": "2026-09-25",
     "description": "Real technical deep dives over token spotlightsMika FlowersMika FlowersMika FlowersFollowforshe[ships]Sep 258 Posts by Women on DEV That Deserve More ...",
     "tags": "#showdev, #wecoded, #womenintech, #career",
-    "reactions": "67 reactions",
+    "reactions": "68 reactions",
     "comments": "0",
     "url": "https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc"
   },
@@ -55,9 +55,19 @@
     "date": "2026-09-23",
     "description": "Community reactions to an extended tech hiatusMaame Afua A. P. FordjourMaame Afua A. P. FordjourMaame Afua A. P. FordjourFollowSep 23Disappeared Since...",
     "tags": "",
-    "reactions": "83 reactions",
+    "reactions": "84 reactions",
     "comments": "0",
     "url": "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45"
+  },
+  {
+    "title": "I Built My First AI Agent With AWS AgentCore, and the Hardest Part Wasn't the AI",
+    "author": "Hemapriya Kanagala",
+    "date": "2026-09-29",
+    "description": "Infrastructure complexity outweighs AI setupHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowSep 29I Built My First AI Agent With AWS Agent...",
+    "tags": "#discuss, #aws, #beginners, #agents",
+    "reactions": "56 reactions",
+    "comments": "0",
+    "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf"
   },
   {
     "title": "I Built a Better Codex Pet Than OpenAI Did",
@@ -65,7 +75,7 @@
     "date": "2026-09-26",
     "description": "Linux desktop pet vs OpenAI's official releaseMika FlowersMika FlowersMika FlowersFollowSep 26I Built a Better Codex Pet Than OpenAI Did#showdev#opens...",
     "tags": "#showdev, #opensource, #python, #linux",
-    "reactions": "40 reactions",
+    "reactions": "41 reactions",
     "comments": "0",
     "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib"
   },
@@ -85,7 +95,7 @@
     "date": "2026-09-23",
     "description": "Shift from AI vibe coding to real debuggingMika FlowersMika FlowersMika FlowersFollowSep 23I Turned DEV.to Into a Walkable 3D Library — Debugging It H...",
     "tags": "#buildinpublic, #webdev, #nextjs, #ai",
-    "reactions": "72 reactions",
+    "reactions": "75 reactions",
     "comments": "0",
     "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd"
   },
@@ -95,7 +105,7 @@
     "date": "2026-09-27",
     "description": "Devs debate community burnout curesEmberNoGlowEmberNoGlowEmberNoGlowFollowSep 27I burned out. Now I don't know how to start again.#discuss#help#produc...",
     "tags": "#discuss, #help, #productivity, #programming",
-    "reactions": "59 reactions",
+    "reactions": "64 reactions",
     "comments": "0",
     "url": "https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79"
   },
@@ -103,21 +113,11 @@
     "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
     "author": "Jem",
     "date": "2026-09-23",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxBuild a benchmark. Test the models. Win $500.Public leaderboards on...",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxStop trusting the leaderboard. Build your own.Design an evaluation ...",
     "tags": "#devchallenge, #kagglechallenge, #machinelearning, #ai",
     "reactions": "11 reactions",
     "comments": "Comments Add Comment",
-    "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml?bb=264450"
-  },
-  {
-    "title": "Pointers Aren't Arrows. How C and C++ Actually Talk to Hardware.",
-    "author": "S M Tahosin",
-    "date": "2026-09-25",
-    "description": "Demystifies memory addresses and segfaultsS M TahosinS M TahosinS M TahosinFollowSep 25Pointers Aren't Arrows. How C and C++ Actually Talk to Hardware...",
-    "tags": "#discuss, #cpp, #c, #programming",
-    "reactions": "17 reactions",
-    "comments": "0",
-    "url": "https://dev.to/smtahosin/pointers-arent-arrows-how-c-and-c-actually-talk-to-hardware-9d6"
+    "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml?bb=264451"
   },
   {
     "title": "Polly Introduces an Open Source Maintenance Fee",
@@ -135,7 +135,7 @@
     "date": "2026-09-27",
     "description": "Compares structural flaws to SQLiJames AndersonJames AndersonJames AndersonFollowSep 27Prompt Injection Is the New SQL Injection (and We're Not Ready)...",
     "tags": "#ai, #security, #agents, #webdev",
-    "reactions": "62 reactions",
+    "reactions": "70 reactions",
     "comments": "0",
     "url": "https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4"
   },
@@ -145,7 +145,7 @@
     "date": "2026-09-29",
     "description": "Started for a slide, reached 380k readsSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowSep 29The Accidental Blogger: How I Ended Up on DEV#discu...",
     "tags": "#discuss, #mentalhealth",
-    "reactions": "83 reactions",
+    "reactions": "96 reactions",
     "comments": "0",
     "url": "https://dev.to/sylwia-lask/the-accidental-blogger-how-i-ended-up-on-dev-5a3f"
   },
@@ -155,7 +155,7 @@
     "date": "2026-09-23",
     "description": "Community shares hidden gems and ongoing projectsHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowSep 23What DEV Series Are You Reading or ...",
     "tags": "#discuss, #community, #writing, #series",
-    "reactions": "92 reactions",
+    "reactions": "93 reactions",
     "comments": "Comments 36 comments",
     "url": "https://dev.to/hemapriya_kanagala/what-dev-series-are-you-reading-or-writing-lets-make-them-easier-to-find-23ej"
   },
@@ -175,8 +175,8 @@
     "date": "2026-09-28",
     "description": "Unveils the DEVengers website projectFrancisTRᴅᴇᴠFrancisTRᴅᴇᴠFrancisTRᴅᴇᴠFollowSep 28🗓️ Monthly Dev 💫SPECIAL💫 Report: September 2026#discuss#community...",
     "tags": "#discuss, #community, #devjournal, #programming",
-    "reactions": "77 reactions",
-    "comments": "Comments 28 comments",
+    "reactions": "80 reactions",
+    "comments": "Comments 31 comments",
     "url": "https://dev.to/francistrdev/monthly-dev-special-report-september-2026-3jd7"
   },
   {

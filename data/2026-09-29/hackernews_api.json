@@ -1,11 +1,28 @@
 [
   {
+    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+    "url": "https://www.cbc.ca/lite/story/9.7361622",
+    "author": "colinprince",
+    "date": "2026-09-29",
+    "score": 224,
+    "comments": 126,
+    "id": 49892120,
+    "discussion_url": "https://news.ycombinator.com/item?id=49892120",
+    "description": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121608"
+  },
+  {
     "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
     "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
     "author": "yusufaytas",
     "date": "2026-09-26",
-    "score": 162,
-    "comments": 46,
+    "score": 165,
+    "comments": 50,
     "id": 49855059,
     "discussion_url": "https://news.ycombinator.com/item?id=49855059",
     "description": "12,000-year-old Göbeklitepe burials explain scattered bones",
@@ -14,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010578"
+    "fetched_at": "2026-09-29T22:52:17.121647"
   },
   {
     "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
     "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
     "author": "ilamont",
     "date": "2026-09-29",
-    "score": 357,
-    "comments": 227,
+    "score": 461,
+    "comments": 279,
     "id": 49891480,
     "discussion_url": "https://news.ycombinator.com/item?id=49891480",
     "description": "500k facial scans at UK stations yield no arrests, 1 false positive",
@@ -31,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010503"
+    "fetched_at": "2026-09-29T22:52:17.121655"
   },
   {
     "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
     "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
     "author": "damaru2",
     "date": "2026-09-29",
-    "score": 362,
-    "comments": 116,
+    "score": 400,
+    "comments": 126,
     "id": 49890226,
     "discussion_url": "https://news.ycombinator.com/item?id=49890226",
     "description": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
@@ -48,15 +65,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010390"
+    "fetched_at": "2026-09-29T22:52:17.121535"
+  },
+  {
+    "title": "A Staff Engineer's Guide to Inventing Work",
+    "url": "https://sujithjay.com/inventing-work",
+    "author": "amortize",
+    "date": "2026-09-28",
+    "score": 156,
+    "comments": 33,
+    "id": 49878857,
+    "discussion_url": "https://news.ycombinator.com/item?id=49878857",
+    "description": "A Staff Engineer's Guide to Inventing Work",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121572"
+  },
+  {
+    "title": "America.gov",
+    "url": "https://america.gov/",
+    "author": "plesiv",
+    "date": "2026-09-29",
+    "score": 226,
+    "comments": 188,
+    "id": 49893509,
+    "discussion_url": "https://news.ycombinator.com/item?id=49893509",
+    "description": "America.gov",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121518"
   },
   {
     "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
     "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
     "author": "doener",
     "date": "2026-09-27",
-    "score": 151,
-    "comments": 75,
+    "score": 178,
+    "comments": 97,
     "id": 49870376,
     "discussion_url": "https://news.ycombinator.com/item?id=49870376",
     "description": "Booted up in 1993, this server still runs – but not for much longer (2017)",
@@ -65,83 +116,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010402"
+    "fetched_at": "2026-09-29T22:52:17.121623"
   },
   {
-    "title": "California farmers are struggling to sell grapes as demand for wine drops",
-    "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-    "author": "randycupertino",
-    "date": "2026-09-28",
-    "score": 333,
-    "comments": 797,
-    "id": 49883539,
-    "discussion_url": "https://news.ycombinator.com/item?id=49883539",
-    "description": "California farmers are struggling to sell grapes as demand for wine drops",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010508"
-  },
-  {
-    "title": "Cf: The Agentic CLI for the Cloudflare API",
-    "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-    "author": "macleos",
-    "date": "2026-09-28",
-    "score": 160,
-    "comments": 82,
-    "id": 49879577,
-    "discussion_url": "https://news.ycombinator.com/item?id=49879577",
-    "description": "Cf: The Agentic CLI for the Cloudflare API",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010674"
-  },
-  {
-    "title": "Claude partial outage",
-    "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
-    "author": "sidcool",
+    "title": "ChatGPT Pro 500",
+    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+    "author": "prodigycorp",
     "date": "2026-09-29",
-    "score": 162,
-    "comments": 135,
-    "id": 49893876,
-    "discussion_url": "https://news.ycombinator.com/item?id=49893876",
-    "description": "Claude partial outage",
+    "score": 178,
+    "comments": 195,
+    "id": 49896975,
+    "discussion_url": "https://news.ycombinator.com/item?id=49896975",
+    "description": "ChatGPT Pro 500",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010587"
-  },
-  {
-    "title": "Coding is not solved",
-    "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-    "author": "firstSpeaker",
-    "date": "2026-09-28",
-    "score": 530,
-    "comments": 522,
-    "id": 49877988,
-    "discussion_url": "https://news.ycombinator.com/item?id=49877988",
-    "description": "Coding is not solved",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010683"
+    "fetched_at": "2026-09-29T22:52:17.121587"
   },
   {
     "title": "Does Reddit have an astroturfing problem? What the data suggests",
     "url": "https://www.petervijeh.com/projects/reddit-astroturf",
     "author": "p-s-v",
     "date": "2026-09-28",
-    "score": 274,
-    "comments": 352,
+    "score": 286,
+    "comments": 377,
     "id": 49877678,
     "discussion_url": "https://news.ycombinator.com/item?id=49877678",
     "description": "Does Reddit have an astroturfing problem? What the data suggests",
@@ -150,15 +150,117 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010601"
+    "fetched_at": "2026-09-29T22:52:17.121682"
+  },
+  {
+    "title": "Dots: Always-on agents",
+    "url": "https://openai.com/index/introducing-dots/",
+    "author": "alvis",
+    "date": "2026-09-29",
+    "score": 425,
+    "comments": 327,
+    "id": 49896604,
+    "discussion_url": "https://news.ycombinator.com/item?id=49896604",
+    "description": "Dots: Always-on agents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121562"
+  },
+  {
+    "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+    "author": "paimapi",
+    "date": "2026-09-29",
+    "score": 515,
+    "comments": 361,
+    "id": 49896050,
+    "discussion_url": "https://news.ycombinator.com/item?id=49896050",
+    "description": "DraftKings is using AI to behaviorally target chronic gamblers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121632"
+  },
+  {
+    "title": "Everybody’s home. No one’s coming over",
+    "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+    "author": "barry-cotter",
+    "date": "2026-09-29",
+    "score": 697,
+    "comments": 641,
+    "id": 49891295,
+    "discussion_url": "https://news.ycombinator.com/item?id=49891295",
+    "description": "Everybody’s home. No one’s coming over",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121566"
+  },
+  {
+    "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+    "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+    "author": "Philpax",
+    "date": "2026-09-29",
+    "score": 170,
+    "comments": 154,
+    "id": 49897075,
+    "discussion_url": "https://news.ycombinator.com/item?id=49897075",
+    "description": "GLM-5.3 and the spread of advanced cyber capabilities",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121614"
+  },
+  {
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "author": "crorella",
+    "date": "2026-09-29",
+    "score": 716,
+    "comments": 643,
+    "id": 49896586,
+    "discussion_url": "https://news.ycombinator.com/item?id=49896586",
+    "description": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121491"
+  },
+  {
+    "title": "Google ending ChromeOS support two years early",
+    "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+    "author": "rbanffy",
+    "date": "2026-09-29",
+    "score": 176,
+    "comments": 124,
+    "id": 49893653,
+    "discussion_url": "https://news.ycombinator.com/item?id=49893653",
+    "description": "Google ending ChromeOS support two years early",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121621"
   },
   {
     "title": "Hijacking the PS5's RTMP stream",
     "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
     "author": "ibobev",
     "date": "2026-09-28",
-    "score": 281,
-    "comments": 89,
+    "score": 287,
+    "comments": 91,
     "id": 49879702,
     "discussion_url": "https://news.ycombinator.com/item?id=49879702",
     "description": "Hijacking the PS5's RTMP stream",
@@ -167,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010559"
+    "fetched_at": "2026-09-29T22:52:17.121672"
   },
   {
     "title": "How Delhi cut electricity loss from 50 to 5 percent",
     "url": "https://spectrum.ieee.org/delhi-electricity-loss",
     "author": "rbanffy",
     "date": "2026-09-29",
-    "score": 277,
-    "comments": 160,
+    "score": 405,
+    "comments": 238,
     "id": 49892245,
     "discussion_url": "https://news.ycombinator.com/item?id=49892245",
     "description": "How Delhi cut electricity loss from 50 to 5 percent",
@@ -184,32 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010419"
-  },
-  {
-    "title": "It's Time to Investigate the AI Labs",
-    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-    "author": "ibobev",
-    "date": "2026-09-28",
-    "score": 572,
-    "comments": 241,
-    "id": 49883471,
-    "discussion_url": "https://news.ycombinator.com/item?id=49883471",
-    "description": "It's Time to Investigate the AI Labs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010628"
+    "fetched_at": "2026-09-29T22:52:17.121508"
   },
   {
     "title": "Jeeves. Reasoning improves Jev-like decision models",
     "url": "https://github.com/PostHog/jeeves",
     "author": "nicowaltz",
     "date": "2026-09-29",
-    "score": 171,
-    "comments": 70,
+    "score": 217,
+    "comments": 85,
     "id": 49891290,
     "discussion_url": "https://news.ycombinator.com/item?id=49891290",
     "description": "Jeeves. Reasoning improves Jev-like decision models",
@@ -218,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010414"
+    "fetched_at": "2026-09-29T22:52:17.121503"
   },
   {
     "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
     "url": "https://github.com/firelex/jeff",
     "author": "firelex",
     "date": "2026-09-28",
-    "score": 554,
-    "comments": 214,
+    "score": 564,
+    "comments": 218,
     "id": 49883844,
     "discussion_url": "https://news.ycombinator.com/item?id=49883844",
     "description": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
@@ -235,15 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010573"
+    "fetched_at": "2026-09-29T22:52:17.121666"
   },
   {
     "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
     "url": "https://www.thisamericanlife.org/897/transcript",
     "author": "simonpure",
     "date": "2026-09-28",
-    "score": 458,
-    "comments": 249,
+    "score": 470,
+    "comments": 253,
     "id": 49879697,
     "discussion_url": "https://news.ycombinator.com/item?id=49879697",
     "description": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
@@ -252,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010615"
+    "fetched_at": "2026-09-29T22:52:17.121680"
   },
   {
     "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
     "url": "https://stateofutopia.com/experiments/microllmlab/",
     "author": "logicallee",
     "date": "2026-09-28",
-    "score": 271,
-    "comments": 99,
+    "score": 274,
+    "comments": 113,
     "id": 49882781,
     "discussion_url": "https://news.ycombinator.com/item?id=49882781",
     "description": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
@@ -269,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010546"
+    "fetched_at": "2026-09-29T22:52:17.121635"
   },
   {
     "title": "Nvidia wants to put a watchdog chip next to every AI agent",
     "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
     "author": "jonbaer",
     "date": "2026-09-28",
-    "score": 216,
-    "comments": 280,
+    "score": 222,
+    "comments": 292,
     "id": 49879883,
     "discussion_url": "https://news.ycombinator.com/item?id=49879883",
     "description": "Nvidia wants to put a watchdog chip next to every AI agent",
@@ -286,15 +371,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010569"
+    "fetched_at": "2026-09-29T22:52:17.121664"
+  },
+  {
+    "title": "PS5 Relapse Exploit",
+    "url": "https://github.com/ntfargo/Relapse-Exploit",
+    "author": "therepanic",
+    "date": "2026-09-29",
+    "score": 197,
+    "comments": 101,
+    "id": 49895304,
+    "discussion_url": "https://news.ycombinator.com/item?id=49895304",
+    "description": "PS5 Relapse Exploit",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-29T22:52:17.121539"
   },
   {
     "title": "Phyllotaxis: An audio-reactive LED display",
     "url": "https://jagi.studio/posts/phyllotaxis/",
     "author": "evakhoury",
     "date": "2026-09-28",
-    "score": 214,
-    "comments": 32,
+    "score": 251,
+    "comments": 41,
     "id": 49880411,
     "discussion_url": "https://news.ycombinator.com/item?id=49880411",
     "description": "Phyllotaxis: An audio-reactive LED display",
@@ -303,66 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010441"
-  },
-  {
-    "title": "Pirating the Pirates",
-    "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-    "author": "piotrgrabowski",
-    "date": "2026-09-28",
-    "score": 667,
-    "comments": 339,
-    "id": 49880036,
-    "discussion_url": "https://news.ycombinator.com/item?id=49880036",
-    "description": "Pirating the Pirates",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010517"
-  },
-  {
-    "title": "Show HN: Destroy Any Website with Stickman",
-    "url": "https://destroy.spritefusion.com/",
-    "author": "HugoDz",
-    "date": "2026-09-28",
-    "score": 156,
-    "comments": 37,
-    "id": 49880601,
-    "discussion_url": "https://news.ycombinator.com/item?id=49880601",
-    "description": "Show HN: Destroy Any Website with Stickman",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010665"
-  },
-  {
-    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-    "url": "https://hn.watch/",
-    "author": "mrborgen",
-    "date": "2026-09-28",
-    "score": 204,
-    "comments": 96,
-    "id": 49879401,
-    "discussion_url": "https://news.ycombinator.com/item?id=49879401",
-    "description": "Show HN: HN.watch – Videos of all Hacker News posts",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010638"
+    "fetched_at": "2026-09-29T22:52:17.121553"
   },
   {
     "title": "Sonnet 5.5",
     "url": "https://www.anthropic.com/claude-sonnet-5-5",
     "author": "D2OQZG8l5BI1S06",
     "date": "2026-09-28",
-    "score": 853,
-    "comments": 585,
+    "score": 867,
+    "comments": 601,
     "id": 49881850,
     "discussion_url": "https://news.ycombinator.com/item?id=49881850",
     "description": "Sonnet 5.5",
@@ -371,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010592"
+    "fetched_at": "2026-09-29T22:52:17.121685"
   },
   {
     "title": "Tank Body Problem",
     "url": "http://www.jimsitu.com",
     "author": "jimbooonooo",
     "date": "2026-09-29",
-    "score": 168,
-    "comments": 38,
+    "score": 177,
+    "comments": 50,
     "id": 49886482,
     "discussion_url": "https://news.ycombinator.com/item?id=49886482",
     "description": "Tank Body Problem",
@@ -388,66 +439,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010541"
+    "fetched_at": "2026-09-29T22:52:17.121658"
   },
   {
-    "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
-    "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-    "author": "mywacaday",
+    "title": "Tcl/Tk 9.1",
+    "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+    "author": "dmux",
     "date": "2026-09-29",
-    "score": 330,
-    "comments": 309,
-    "id": 49891550,
-    "discussion_url": "https://news.ycombinator.com/item?id=49891550",
-    "description": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+    "score": 225,
+    "comments": 74,
+    "id": 49896712,
+    "discussion_url": "https://news.ycombinator.com/item?id=49896712",
+    "description": "Tcl/Tk 9.1",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010661"
+    "fetched_at": "2026-09-29T22:52:17.121546"
   },
   {
-    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-    "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-    "author": "dkobia",
+    "title": "Using any C++ library in Godot",
+    "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+    "author": "czoido",
     "date": "2026-09-29",
-    "score": 140,
-    "comments": 30,
-    "id": 49893709,
-    "discussion_url": "https://news.ycombinator.com/item?id=49893709",
-    "description": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+    "score": 154,
+    "comments": 54,
+    "id": 49890051,
+    "discussion_url": "https://news.ycombinator.com/item?id=49890051",
+    "description": "Using any C++ library in Godot",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010656"
-  },
-  {
-    "title": "Updated Google Maps shows destruction of the city of Rafah",
-    "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-    "author": "slowin",
-    "date": "2026-09-28",
-    "score": 840,
-    "comments": 750,
-    "id": 49879645,
-    "discussion_url": "https://news.ycombinator.com/item?id=49879645",
-    "description": "Updated Google Maps shows destruction of the city of Rafah",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010564"
+    "fetched_at": "2026-09-29T22:52:17.121593"
   },
   {
     "title": "When did Google get so weird?",
     "url": "https://sancho.bearblog.dev/google-weird/",
     "author": "sancho-panza",
     "date": "2026-09-27",
-    "score": 1930,
-    "comments": 1078,
+    "score": 1957,
+    "comments": 1089,
     "id": 49870367,
     "discussion_url": "https://news.ycombinator.com/item?id=49870367",
     "description": "When did Google get so weird?",
@@ -456,49 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010610"
-  },
-  {
-    "title": "World Labs is Joining AMD",
-    "url": "https://www.worldlabs.ai/blog/amd-announcement",
-    "author": "mfiguiere",
-    "date": "2026-09-28",
-    "score": 296,
-    "comments": 111,
-    "id": 49883760,
-    "discussion_url": "https://news.ycombinator.com/item?id=49883760",
-    "description": "World Labs is Joining AMD",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010633"
-  },
-  {
-    "title": "You are no longer invited to dinner",
-    "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-    "author": "barry-cotter",
-    "date": "2026-09-29",
-    "score": 507,
-    "comments": 452,
-    "id": 49891295,
-    "discussion_url": "https://news.ycombinator.com/item?id=49891295",
-    "description": "You are no longer invited to dinner",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010430"
+    "fetched_at": "2026-09-29T22:52:17.121688"
   },
   {
     "title": "macOS Golden Gate Is a Buggy Mess",
     "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
     "author": "SquareOrbits",
     "date": "2026-09-29",
-    "score": 272,
-    "comments": 184,
+    "score": 426,
+    "comments": 303,
     "id": 49894005,
     "discussion_url": "https://news.ycombinator.com/item?id=49894005",
     "description": "macOS Golden Gate Is a Buggy Mess",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-29T16:48:37.010446"
+    "fetched_at": "2026-09-29T22:52:17.121649"
   }
 ]
