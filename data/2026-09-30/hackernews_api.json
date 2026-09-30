@@ -1,62 +1,11 @@
 [
   {
-    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-    "url": "https://www.cbc.ca/lite/story/9.7361622",
-    "author": "colinprince",
-    "date": "2026-09-29",
-    "score": 195,
-    "comments": 112,
-    "id": 49892120,
-    "discussion_url": "https://news.ycombinator.com/item?id=49892120",
-    "description": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777008"
-  },
-  {
-    "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-    "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-    "author": "yusufaytas",
-    "date": "2026-09-26",
-    "score": 163,
-    "comments": 49,
-    "id": 49855059,
-    "discussion_url": "https://news.ycombinator.com/item?id=49855059",
-    "description": "12,000-year-old Göbeklitepe burials explain scattered bones",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777614"
-  },
-  {
-    "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
-    "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-    "author": "ilamont",
-    "date": "2026-09-29",
-    "score": 448,
-    "comments": 264,
-    "id": 49891480,
-    "discussion_url": "https://news.ycombinator.com/item?id=49891480",
-    "description": "500k facial scans at UK stations yield no arrests, 1 false positive",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777649"
-  },
-  {
     "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
     "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
     "author": "damaru2",
     "date": "2026-09-29",
-    "score": 388,
-    "comments": 124,
+    "score": 420,
+    "comments": 136,
     "id": 49890226,
     "discussion_url": "https://news.ycombinator.com/item?id=49890226",
     "description": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
@@ -65,83 +14,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777342"
+    "fetched_at": "2026-09-30T16:40:35.476523"
   },
   {
-    "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
-    "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
-    "author": "doener",
+    "title": "A Staff Engineer's Guide to Inventing Work",
+    "url": "https://sujithjay.com/inventing-work",
+    "author": "amortize",
     "date": "2026-09-28",
-    "score": 173,
-    "comments": 92,
-    "id": 49870376,
-    "discussion_url": "https://news.ycombinator.com/item?id=49870376",
-    "description": "Booted up in 1993, this server still runs – but not for much longer (2017)",
+    "score": 348,
+    "comments": 75,
+    "id": 49878857,
+    "discussion_url": "https://news.ycombinator.com/item?id=49878857",
+    "description": "A Staff Engineer's Guide to Inventing Work",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777129"
+    "fetched_at": "2026-09-30T16:40:35.476390"
   },
   {
-    "title": "California farmers are struggling to sell grapes as demand for wine drops",
-    "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-    "author": "randycupertino",
+    "title": "America.gov",
+    "url": "https://america.gov/",
+    "author": "plesiv",
     "date": "2026-09-29",
-    "score": 362,
-    "comments": 878,
-    "id": 49883539,
-    "discussion_url": "https://news.ycombinator.com/item?id=49883539",
-    "description": "California farmers are struggling to sell grapes as demand for wine drops",
+    "score": 717,
+    "comments": 637,
+    "id": 49893509,
+    "discussion_url": "https://news.ycombinator.com/item?id=49893509",
+    "description": "America.gov",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777045"
+    "fetched_at": "2026-09-30T16:40:35.476342"
   },
   {
-    "title": "ChatGPT Pro 500",
-    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-    "author": "prodigycorp",
-    "date": "2026-09-30",
-    "score": 143,
-    "comments": 147,
-    "id": 49896975,
-    "discussion_url": "https://news.ycombinator.com/item?id=49896975",
-    "description": "ChatGPT Pro 500",
+    "title": "Backblaze drive stats for Q2 2026",
+    "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+    "author": "HieronymusBosch",
+    "date": "2026-09-29",
+    "score": 273,
+    "comments": 87,
+    "id": 49893002,
+    "discussion_url": "https://news.ycombinator.com/item?id=49893002",
+    "description": "Backblaze drive stats for Q2 2026",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777089"
-  },
-  {
-    "title": "Does Reddit have an astroturfing problem? What the data suggests",
-    "url": "https://www.petervijeh.com/projects/reddit-astroturf",
-    "author": "p-s-v",
-    "date": "2026-09-28",
-    "score": 277,
-    "comments": 368,
-    "id": 49877678,
-    "discussion_url": "https://news.ycombinator.com/item?id=49877678",
-    "description": "Does Reddit have an astroturfing problem? What the data suggests",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777870"
+    "fetched_at": "2026-09-30T16:40:35.476373"
   },
   {
     "title": "Dots: Always-on agents",
     "url": "https://openai.com/index/introducing-dots/",
     "author": "alvis",
-    "date": "2026-09-30",
-    "score": 351,
-    "comments": 256,
+    "date": "2026-09-29",
+    "score": 711,
+    "comments": 588,
     "id": 49896604,
     "discussion_url": "https://news.ycombinator.com/item?id=49896604",
     "description": "Dots: Always-on agents",
@@ -150,49 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777401"
-  },
-  {
-    "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-    "author": "paimapi",
-    "date": "2026-09-30",
-    "score": 375,
-    "comments": 248,
-    "id": 49896050,
-    "discussion_url": "https://news.ycombinator.com/item?id=49896050",
-    "description": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777509"
-  },
-  {
-    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-    "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-    "author": "nkko",
-    "date": "2026-09-29",
-    "score": 144,
-    "comments": 31,
-    "id": 49884625,
-    "discussion_url": "https://news.ycombinator.com/item?id=49884625",
-    "description": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777633"
+    "fetched_at": "2026-09-30T16:40:35.476360"
   },
   {
     "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
     "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
     "author": "crorella",
-    "date": "2026-09-30",
-    "score": 548,
-    "comments": 459,
+    "date": "2026-09-29",
+    "score": 1031,
+    "comments": 907,
     "id": 49896586,
     "discussion_url": "https://news.ycombinator.com/item?id=49896586",
     "description": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
@@ -201,49 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.776862"
-  },
-  {
-    "title": "Google ending ChromeOS support two years early",
-    "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
-    "author": "rbanffy",
-    "date": "2026-09-30",
-    "score": 149,
-    "comments": 116,
-    "id": 49893653,
-    "discussion_url": "https://news.ycombinator.com/item?id=49893653",
-    "description": "Google ending ChromeOS support two years early",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777068"
-  },
-  {
-    "title": "Hijacking the PS5's RTMP stream",
-    "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-    "author": "ibobev",
-    "date": "2026-09-29",
-    "score": 287,
-    "comments": 91,
-    "id": 49879702,
-    "discussion_url": "https://news.ycombinator.com/item?id=49879702",
-    "description": "Hijacking the PS5's RTMP stream",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777890"
+    "fetched_at": "2026-09-30T16:40:35.476394"
   },
   {
     "title": "How Delhi cut electricity loss from 50 to 5 percent",
     "url": "https://spectrum.ieee.org/delhi-electricity-loss",
     "author": "rbanffy",
     "date": "2026-09-29",
-    "score": 365,
-    "comments": 207,
+    "score": 558,
+    "comments": 307,
     "id": 49892245,
     "discussion_url": "https://news.ycombinator.com/item?id=49892245",
     "description": "How Delhi cut electricity loss from 50 to 5 percent",
@@ -252,100 +116,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777324"
+    "fetched_at": "2026-09-30T16:40:35.476315"
   },
   {
-    "title": "Jeeves. Reasoning improves Jev-like decision models",
-    "url": "https://github.com/PostHog/jeeves",
-    "author": "nicowaltz",
+    "title": "Language models for text classification: From bag-of-words to Jev",
+    "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "author": "Anon84",
     "date": "2026-09-29",
-    "score": 205,
-    "comments": 84,
-    "id": 49891290,
-    "discussion_url": "https://news.ycombinator.com/item?id=49891290",
-    "description": "Jeeves. Reasoning improves Jev-like decision models",
+    "score": 181,
+    "comments": 9,
+    "id": 49891203,
+    "discussion_url": "https://news.ycombinator.com/item?id=49891203",
+    "description": "Language models for text classification: From bag-of-words to Jev",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777436"
+    "fetched_at": "2026-09-30T16:40:35.476381"
   },
   {
-    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-    "url": "https://github.com/firelex/jeff",
-    "author": "firelex",
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+    "url": "https://github.com/ninjahawk/livenerf",
+    "author": "bryan0",
     "date": "2026-09-29",
-    "score": 559,
-    "comments": 216,
-    "id": 49883844,
-    "discussion_url": "https://news.ycombinator.com/item?id=49883844",
-    "description": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "score": 803,
+    "comments": 340,
+    "id": 49901736,
+    "discussion_url": "https://news.ycombinator.com/item?id=49901736",
+    "description": "Livenerf: Has Opus 5.5 been nerfed yet?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777732"
+    "fetched_at": "2026-09-30T16:40:35.476310"
   },
   {
-    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-    "url": "https://www.thisamericanlife.org/897/transcript",
-    "author": "simonpure",
-    "date": "2026-09-29",
-    "score": 464,
-    "comments": 253,
-    "id": 49879697,
-    "discussion_url": "https://news.ycombinator.com/item?id=49879697",
-    "description": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+    "title": "Most data centers refusing to say how much water, electricity they use",
+    "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+    "author": "Thom2503",
+    "date": "2026-09-30",
+    "score": 174,
+    "comments": 169,
+    "id": 49907057,
+    "discussion_url": "https://news.ycombinator.com/item?id=49907057",
+    "description": "Most data centers refusing to say how much water, electricity they use",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777784"
+    "fetched_at": "2026-09-30T16:40:35.476462"
   },
   {
-    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-    "url": "https://stateofutopia.com/experiments/microllmlab/",
-    "author": "logicallee",
-    "date": "2026-09-29",
-    "score": 272,
-    "comments": 113,
-    "id": 49882781,
-    "discussion_url": "https://news.ycombinator.com/item?id=49882781",
-    "description": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "title": "NAND-16: a computer built from 277,248 NAND gates",
+    "url": "https://somethingbig.ai/computer",
+    "author": "rossant",
+    "date": "2026-09-27",
+    "score": 162,
+    "comments": 95,
+    "id": 49871018,
+    "discussion_url": "https://news.ycombinator.com/item?id=49871018",
+    "description": "NAND-16: a computer built from 277,248 NAND gates",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777562"
+    "fetched_at": "2026-09-30T16:40:35.476458"
   },
   {
-    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-    "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-    "author": "jonbaer",
+    "title": "NASA asked several former SR-71A staffers to help secret restart",
+    "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+    "author": "ilamont",
     "date": "2026-09-29",
-    "score": 219,
-    "comments": 287,
-    "id": 49879883,
-    "discussion_url": "https://news.ycombinator.com/item?id=49879883",
-    "description": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "score": 269,
+    "comments": 295,
+    "id": 49890733,
+    "discussion_url": "https://news.ycombinator.com/item?id=49890733",
+    "description": "NASA asked several former SR-71A staffers to help secret restart",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777749"
+    "fetched_at": "2026-09-30T16:40:35.476351"
+  },
+  {
+    "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+    "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+    "author": "papa-whisky",
+    "date": "2026-09-29",
+    "score": 110,
+    "comments": 74,
+    "id": 49902019,
+    "discussion_url": "https://news.ycombinator.com/item?id=49902019",
+    "description": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476364"
+  },
+  {
+    "title": "Needed 1+1, built a functional programming language",
+    "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+    "author": "birdculture",
+    "date": "2026-09-29",
+    "score": 140,
+    "comments": 57,
+    "id": 49895864,
+    "discussion_url": "https://news.ycombinator.com/item?id=49895864",
+    "description": "Needed 1+1, built a functional programming language",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476438"
+  },
+  {
+    "title": "PS5 Relapse Exploit",
+    "url": "https://github.com/ntfargo/Relapse-Exploit",
+    "author": "therepanic",
+    "date": "2026-09-29",
+    "score": 335,
+    "comments": 222,
+    "id": 49895304,
+    "discussion_url": "https://news.ycombinator.com/item?id=49895304",
+    "description": "PS5 Relapse Exploit",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476486"
   },
   {
     "title": "Phyllotaxis: An audio-reactive LED display",
     "url": "https://jagi.studio/posts/phyllotaxis/",
     "author": "evakhoury",
-    "date": "2026-09-29",
-    "score": 234,
-    "comments": 41,
+    "date": "2026-09-28",
+    "score": 323,
+    "comments": 48,
     "id": 49880411,
     "discussion_url": "https://news.ycombinator.com/item?id=49880411",
     "description": "Phyllotaxis: An audio-reactive LED display",
@@ -354,159 +269,244 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777473"
+    "fetched_at": "2026-09-30T16:40:35.476426"
   },
   {
-    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-    "url": "https://hn.watch/",
-    "author": "mrborgen",
-    "date": "2026-09-29",
-    "score": 206,
-    "comments": 97,
-    "id": 49879401,
-    "discussion_url": "https://news.ycombinator.com/item?id=49879401",
-    "description": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "title": "Pi.dev: You Said No MCP",
+    "url": "https://earendil.com/posts/you-said-no-mcp/",
+    "author": "yarapavan",
+    "date": "2026-09-30",
+    "score": 429,
+    "comments": 235,
+    "id": 49906637,
+    "discussion_url": "https://news.ycombinator.com/item?id=49906637",
+    "description": "Pi.dev: You Said No MCP",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777941"
+    "fetched_at": "2026-09-30T16:40:35.476250"
   },
   {
-    "title": "Sonnet 5.5",
-    "url": "https://www.anthropic.com/claude-sonnet-5-5",
-    "author": "D2OQZG8l5BI1S06",
-    "date": "2026-09-29",
-    "score": 864,
-    "comments": 595,
-    "id": 49881850,
-    "discussion_url": "https://news.ycombinator.com/item?id=49881850",
-    "description": "Sonnet 5.5",
+    "title": "RSS Feeds for Last.fm",
+    "url": "https://lfm.xiffy.nl/",
+    "author": "Baljhin",
+    "date": "2026-09-30",
+    "score": 109,
+    "comments": 35,
+    "id": 49903862,
+    "discussion_url": "https://news.ycombinator.com/item?id=49903862",
+    "description": "RSS Feeds for Last.fm",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777837"
+    "fetched_at": "2026-09-30T16:40:35.476386"
   },
   {
-    "title": "Tank Body Problem",
-    "url": "http://www.jimsitu.com",
-    "author": "jimbooonooo",
-    "date": "2026-09-29",
-    "score": 174,
-    "comments": 43,
-    "id": 49886482,
-    "discussion_url": "https://news.ycombinator.com/item?id=49886482",
-    "description": "Tank Body Problem",
+    "title": "September 2026: The world today, as seen by one Polish guy",
+    "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+    "author": "marjancek",
+    "date": "2026-09-30",
+    "score": 445,
+    "comments": 326,
+    "id": 49905487,
+    "discussion_url": "https://news.ycombinator.com/item?id=49905487",
+    "description": "September 2026: The world today, as seen by one Polish guy",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777682"
+    "fetched_at": "2026-09-30T16:40:35.476445"
   },
   {
-    "title": "Tcl/Tk 9.1 Released",
+    "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+    "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+    "author": "gvuksic",
+    "date": "2026-09-29",
+    "score": 97,
+    "comments": 19,
+    "id": 49890707,
+    "discussion_url": "https://news.ycombinator.com/item?id=49890707",
+    "description": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476324"
+  },
+  {
+    "title": "Show HN: NSL – WSL for Linux",
+    "url": "https://frostyard.github.io/nsl/",
+    "author": "bketelsen",
+    "date": "2026-09-29",
+    "score": 147,
+    "comments": 96,
+    "id": 49894351,
+    "discussion_url": "https://news.ycombinator.com/item?id=49894351",
+    "description": "Show HN: NSL – WSL for Linux",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476470"
+  },
+  {
+    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+    "url": "https://space.bl2.net/",
+    "author": "wanick",
+    "date": "2026-09-29",
+    "score": 341,
+    "comments": 92,
+    "id": 49898778,
+    "discussion_url": "https://news.ycombinator.com/item?id=49898778",
+    "description": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476329"
+  },
+  {
+    "title": "Solving Factorio Quality",
+    "url": "https://exyr.org/2026/solving-factorio-quality/",
+    "author": "laurenth",
+    "date": "2026-09-29",
+    "score": 207,
+    "comments": 73,
+    "id": 49887343,
+    "discussion_url": "https://news.ycombinator.com/item?id=49887343",
+    "description": "Solving Factorio Quality",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476287"
+  },
+  {
+    "title": "Sustainable energy without the hot air (2008)",
+    "url": "https://www.withouthotair.com/",
+    "author": "0sake_rs",
+    "date": "2026-09-29",
+    "score": 147,
+    "comments": 87,
+    "id": 49892175,
+    "discussion_url": "https://news.ycombinator.com/item?id=49892175",
+    "description": "Sustainable energy without the hot air (2008)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476535"
+  },
+  {
+    "title": "Tcl/Tk 9.1",
     "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
     "author": "dmux",
-    "date": "2026-09-30",
-    "score": 140,
-    "comments": 32,
+    "date": "2026-09-29",
+    "score": 290,
+    "comments": 133,
     "id": 49896712,
     "discussion_url": "https://news.ycombinator.com/item?id=49896712",
-    "description": "Tcl/Tk 9.1 Released",
+    "description": "Tcl/Tk 9.1",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777381"
+    "fetched_at": "2026-09-30T16:40:35.476494"
   },
   {
-    "title": "The systems that no one will test",
-    "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
-    "author": "perone",
-    "date": "2026-09-28",
-    "score": 140,
-    "comments": 74,
-    "id": 49876052,
-    "discussion_url": "https://news.ycombinator.com/item?id=49876052",
-    "description": "The systems that no one will test",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777765"
-  },
-  {
-    "title": "Using any C++ library in Godot",
-    "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-    "author": "czoido",
-    "date": "2026-09-29",
-    "score": 142,
-    "comments": 51,
-    "id": 49890051,
-    "discussion_url": "https://news.ycombinator.com/item?id=49890051",
-    "description": "Using any C++ library in Godot",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777209"
-  },
-  {
-    "title": "When did Google get so weird?",
-    "url": "https://sancho.bearblog.dev/google-weird/",
-    "author": "sancho-panza",
-    "date": "2026-09-28",
-    "score": 1946,
-    "comments": 1082,
-    "id": 49870367,
-    "discussion_url": "https://news.ycombinator.com/item?id=49870367",
-    "description": "When did Google get so weird?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777817"
-  },
-  {
-    "title": "You are no longer invited to dinner",
-    "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-    "author": "barry-cotter",
-    "date": "2026-09-29",
-    "score": 631,
-    "comments": 578,
-    "id": 49891295,
-    "discussion_url": "https://news.ycombinator.com/item?id=49891295",
-    "description": "You are no longer invited to dinner",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777303"
-  },
-  {
-    "title": "macOS Golden Gate Is a Buggy Mess",
-    "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
-    "author": "SquareOrbits",
+    "title": "The AI Race Just Got Awkward",
+    "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+    "author": "allisdust",
     "date": "2026-09-30",
-    "score": 397,
-    "comments": 284,
-    "id": 49894005,
-    "discussion_url": "https://news.ycombinator.com/item?id=49894005",
-    "description": "macOS Golden Gate Is a Buggy Mess",
+    "score": 196,
+    "comments": 131,
+    "id": 49910553,
+    "discussion_url": "https://news.ycombinator.com/item?id=49910553",
+    "description": "The AI Race Just Got Awkward",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-09-30T06:00:17.777245"
+    "fetched_at": "2026-09-30T16:40:35.476303"
+  },
+  {
+    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+    "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+    "author": "ilamont",
+    "date": "2026-09-29",
+    "score": 261,
+    "comments": 154,
+    "id": 49899090,
+    "discussion_url": "https://news.ycombinator.com/item?id=49899090",
+    "description": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476368"
+  },
+  {
+    "title": "Vermont replacing power plants with home batteries",
+    "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+    "author": "devonnull",
+    "date": "2026-09-29",
+    "score": 319,
+    "comments": 244,
+    "id": 49897993,
+    "discussion_url": "https://news.ycombinator.com/item?id=49897993",
+    "description": "Vermont replacing power plants with home batteries",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476333"
+  },
+  {
+    "title": "We’re forgetting what darkness feels like",
+    "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+    "author": "pseudolus",
+    "date": "2026-09-29",
+    "score": 190,
+    "comments": 103,
+    "id": 49898050,
+    "discussion_url": "https://news.ycombinator.com/item?id=49898050",
+    "description": "We’re forgetting what darkness feels like",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476527"
+  },
+  {
+    "title": "When oil prices spike, where does the money go?",
+    "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+    "author": "thelastgallon",
+    "date": "2026-09-29",
+    "score": 140,
+    "comments": 135,
+    "id": 49888182,
+    "discussion_url": "https://news.ycombinator.com/item?id=49888182",
+    "description": "When oil prices spike, where does the money go?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-09-30T16:40:35.476453"
   }
 ]

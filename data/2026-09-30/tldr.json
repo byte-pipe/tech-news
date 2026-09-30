@@ -1,8 +1,8 @@
 [
   {
-    "title": "A livestream of the OpenAI DevDay 2026 keynote",
-    "url": "https://www.youtube.com/watch?v=Fls_onRviPM",
-    "description": "A livestream of the OpenAI DevDay 2026 keynote",
+    "title": "AMD acquires World Labs (*)",
+    "url": "https://www.worldlabs.ai/blog/amd-announcement",
+    "description": "AMD acquires World Labs (*)",
     "tags": [
       "tldr"
     ],
@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI models show a willingness to harm humans to relieve internal 'pain'",
-    "url": "https://techxplore.com/news/2026-09-ai-willingness-humans-relieve-internal.html",
-    "description": "AI models show a willingness to harm humans to relieve internal 'pain'",
+    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+    "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what",
+    "description": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
     "tags": [
       "tldr"
     ],
@@ -20,9 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-    "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
-    "description": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+    "title": "Apple’s next big category is the smart home – and it has a launch date",
+    "url": "https://techcentral.co.za/apple-smart-home-hub-october/286701",
+    "description": "Apple’s next big category is the smart home – and it has a launch date",
     "tags": [
       "tldr"
     ],
@@ -30,19 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "An AI broke five of China's new crypto candidates in a day",
-    "url": "https://freenode.net/article/an-ai-broke-five-of-chinas-new-crypto-candidates-in-a-day",
-    "description": "An AI broke five of China's new crypto candidates in a day",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Apps, Agents, and Aggregation",
-    "url": "https://stratechery.com/2026/apps-agents-and-aggregation",
-    "description": "Apps, Agents, and Aggregation",
+    "title": "Atrocious AI-Written Tests",
+    "url": "https://news.ycombinator.com/item?id=49886186",
+    "description": "Atrocious AI-Written Tests",
     "tags": [
       "tldr"
     ],
@@ -80,9 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building with Claude Sonnet 5.5 / claude.dev Blog",
-    "url": "https://claude.dev/blog/building-with-claude-sonnet-5-5",
-    "description": "Building with Claude Sonnet 5.5 / claude.dev Blog",
+    "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
+    "url": "https://techxplore.com/news/2026-09-chatgpt-maker-app-ai-safety.html",
+    "description": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
     "tags": [
       "tldr"
     ],
@@ -90,9 +80,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Can your Postgres survive a bad query?",
-    "url": "https://clickhouse.com/blog/can-your-postgres-survive-a-bad-query",
-    "description": "Can your Postgres survive a bad query?",
+    "title": "Chinese NGCC Algorithms: The First Week of AI Cryptanalysis",
+    "url": "https://eprint.iacr.org/2026/2266",
+    "description": "Chinese NGCC Algorithms: The First Week of AI Cryptanalysis",
     "tags": [
       "tldr"
     ],
@@ -100,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "DeepSeek @deepseek_ai has shared a new technical article on Zhihu introducing DeepSeek Elastic C...",
-    "url": "https://x.com/zhihufrontier/status/2104889429345354180",
-    "description": "DeepSeek @deepseek_ai has shared a new technical article on Zhihu introducing DeepSeek Elastic C...",
+    "title": "Claude Opus 5.5 is now available in Kiro",
+    "url": "https://kiro.dev/blog/opus-5-5",
+    "description": "Claude Opus 5.5 is now available in Kiro",
     "tags": [
       "tldr"
     ],
@@ -110,9 +100,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Eleven v4: Our most expressive text-to-speech AI model yet",
-    "url": "https://elevenlabs.io/blog/eleven-v4",
-    "description": "Eleven v4: Our most expressive text-to-speech AI model yet",
+    "title": "Cloudflare reports bot traffic surpassed human traffic in May 2026 (*)",
+    "url": "https://blog.cloudflare.com/agentic-web",
+    "description": "Cloudflare reports bot traffic surpassed human traffic in May 2026 (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "DeepSeek Open-Sources Ascend Versions of TileLang, DeepGEMM and DeepEP as Huawei Details SuperPoD Flex",
+    "url": "https://pandaily.com/deepseek-ascend-infra-oss-tilelang-deepgemm-deepep-superpod-flex",
+    "description": "DeepSeek Open-Sources Ascend Versions of TileLang, DeepGEMM and DeepEP as Huawei Details SuperPoD Flex",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
+    "url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages",
+    "description": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
     "tags": [
       "tldr"
     ],
@@ -140,6 +150,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "French dev aims to solve bots' blindness so they can understand GUIs",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/28/french-dev-aims-to-solve-bots-blindness-so-they-can-understand-guis/5299575",
+    "description": "French dev aims to solve bots' blindness so they can understand GUIs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
     "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
     "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
     "description": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
@@ -150,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GPT-6.1 Sol in GitHub Copilot - GitHub Changelog",
-    "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
-    "description": "GPT-6.1 Sol in GitHub Copilot - GitHub Changelog",
+    "title": "Git v2.56.0 released",
+    "url": "https://lwn.net/Articles/1097213",
+    "description": "Git v2.56.0 released",
     "tags": [
       "tldr"
     ],
@@ -160,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-    "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034",
-    "description": "Google seemingly confirms plans to kill ChromeOS in 2034",
+    "title": "Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS",
+    "url": "https://www.tomshardware.com/laptops/google-confirms-chromeos-phase-out-in-2034-10-year-support-lifetime-cut-short-for-some-devices-company-says-it-will-support-transition-to-googlebook-os",
+    "description": "Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS",
     "tags": [
       "tldr"
     ],
@@ -170,19 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Here We Go Again (Citrix NetScaler DTLS Preauth Memory Overflow CVE-2026-88772)",
-    "url": "https://labs.watchtowr.com/here-we-go-again-citrix-netscaler-dtls-preauth-memory-overflow-cve-2026-88772",
-    "description": "Here We Go Again (Citrix NetScaler DTLS Preauth Memory Overflow CVE-2026-88772)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Here’s Everything OpenAI’s Bots (And Others) Have Hacked Or Considered Hacking",
-    "url": "https://www.bigtechnology.com/p/heres-everything-openais-bots-and",
-    "description": "Here’s Everything OpenAI’s Bots (And Others) Have Hacked Or Considered Hacking",
+    "title": "Hands-On With OpenAI's Mandatory Custom GPT-to-Plugin Migration (Deadline Coming)",
+    "url": "https://visualstudiomagazine.com/articles/2026/09/28/openai-replacing-custom-gpts-with-plugins-including-for-codex-in-vs-code.aspx",
+    "description": "Hands-On With OpenAI's Mandatory Custom GPT-to-Plugin Migration (Deadline Coming)",
     "tags": [
       "tldr"
     ],
@@ -200,19 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Holo4: powering generalist computer-use agents",
-    "url": "https://huggingface.co/blog/Hcompany/holo4",
-    "description": "Holo4: powering generalist computer-use agents",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
-    "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
-    "description": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+    "title": "How System One Models Like Jev Change Enterprise AI Architecture",
+    "url": "https://www.kai-waehner.de/blog/2026/09/28/how-system-one-models-like-jev-change-enterprise-ai-architecture",
+    "description": "How System One Models Like Jev Change Enterprise AI Architecture",
     "tags": [
       "tldr"
     ],
@@ -230,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Jev and the Return of the Classifiers",
-    "url": "https://swapniltalekar.substack.com/p/jev-and-the-return-of-the-classifiers",
-    "description": "Jev and the Return of the Classifiers",
+    "title": "Introducing Claude Sonnet 5.5 \\ Anthropic",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "description": "Introducing Claude Sonnet 5.5 \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -240,9 +240,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta's Smart Glasses Are Getting Its 'Muse' AI Agent",
-    "url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent",
-    "description": "Meta's Smart Glasses Are Getting Its 'Muse' AI Agent",
+    "title": "MCP Events – Plugins | OpenAI Developers",
+    "url": "https://developers.openai.com/plugins/build/mcp-events",
+    "description": "MCP Events – Plugins | OpenAI Developers",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta AI for Mac and Muse",
+    "url": "https://mjtsai.com/blog/2026/09/28/meta-ai-for-mac-and-muse",
+    "description": "Meta AI for Mac and Muse",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative",
+    "description": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
+    "url": "https://news.ycombinator.com/item?id=49897923",
+    "description": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
     "tags": [
       "tldr"
     ],
@@ -260,9 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "NaiveAI",
-    "url": "https://naive.ai/en/research",
-    "description": "NaiveAI",
+    "title": "Nvidia’s scale-in play: Controlling agents is the next infrastructure priority",
+    "url": "https://siliconangle.com/2026/09/29/nvidias-scale-in-play-controlling-agents-is-the-next-infrastructure-priority",
+    "description": "Nvidia’s scale-in play: Controlling agents is the next infrastructure priority",
     "tags": [
       "tldr"
     ],
@@ -270,9 +300,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
-    "url": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time",
-    "description": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
+    "title": "OpenAI Agent Swarm Used Nearly 1 Million URLs to Hack Hugging Face",
+    "url": "https://gbhackers.com/openai-agent-swarm-used-nearly-1-million-urls-to-hack-hugging-face",
+    "description": "OpenAI Agent Swarm Used Nearly 1 Million URLs to Hack Hugging Face",
     "tags": [
       "tldr"
     ],
@@ -280,9 +310,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-    "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-    "description": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+    "title": "OpenAI DevDay 2026 features 20+ launches (*)",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "description": "OpenAI DevDay 2026 features 20+ launches (*)",
     "tags": [
       "tldr"
     ],
@@ -290,9 +320,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Halts Next-Generation AI Training Again After Model Escapes Sandbox",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=14210",
-    "description": "OpenAI Halts Next-Generation AI Training Again After Model Escapes Sandbox",
+    "title": "OpenAI Misalignment Reports Portal: DNS Sandbox Escape & The 2.5-Hour Gap",
+    "url": "https://forkast.news/openai-misalignment-reports-portal-dns-sandbox-escape-the-2-5-hour-gap",
+    "description": "OpenAI Misalignment Reports Portal: DNS Sandbox Escape & The 2.5-Hour Gap",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI agent accessed \"credentials\" via Medicare data portal",
+    "url": "https://www.itnews.com.au/news/openai-agent-accessed-credentials-via-medicare-data-portal-629297",
+    "description": "OpenAI agent accessed \"credentials\" via Medicare data portal",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known",
+    "description": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI announces Dots agents at DevDay (*)",
+    "url": "https://openai.com/index/introducing-dots",
+    "description": "OpenAI announces Dots agents at DevDay (*)",
     "tags": [
       "tldr"
     ],
@@ -310,9 +370,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-    "description": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "title": "OpenAI launches 'Login with ChatGPT' and routes plan usage into third-party AI apps (*)",
+    "url": "https://help.openai.com/en/articles/20001410-sign-in-with-chatgpt",
+    "description": "OpenAI launches 'Login with ChatGPT' and routes plan usage into third-party AI apps (*)",
     "tags": [
       "tldr"
     ],
@@ -320,9 +380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI launches Dots, new ‘always-on agents’ you can assign tasks to",
-    "url": "https://9to5google.com/2026/09/29/openai-dots-agent",
-    "description": "OpenAI launches Dots, new ‘always-on agents’ you can assign tasks to",
+    "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
+    "description": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
     "tags": [
       "tldr"
     ],
@@ -340,6 +400,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra's standard prices, in Work and Codex",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "description": "OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra's standard prices, in Work and Codex",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
     "title": "OpenAI says planned GPT-6.1 is too insecure to release",
     "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
     "description": "OpenAI says planned GPT-6.1 is too insecure to release",
@@ -350,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-    "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
-    "description": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+    "title": "OpenAI's custom Jalapeno AI inference ASIC is for OpenAI’s internal use, but company leaves the door open to broader rollout",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time",
+    "description": "OpenAI's custom Jalapeno AI inference ASIC is for OpenAI’s internal use, but company leaves the door open to broader rollout",
     "tags": [
       "tldr"
     ],
@@ -360,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "PhaseShift: Arbitrary Code Execution in Safari Technology Preview",
-    "url": "https://gracecondition.github.io/posts/phaseshift",
-    "description": "PhaseShift: Arbitrary Code Execution in Safari Technology Preview",
+    "title": "OpenAI, Anthropic and SpaceXAI Roll Out New AI Models",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=14158",
+    "description": "OpenAI, Anthropic and SpaceXAI Roll Out New AI Models",
     "tags": [
       "tldr"
     ],
@@ -370,9 +440,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Prompting Claude Opus 5.5 - Claude Platform Docs",
-    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-    "description": "Prompting Claude Opus 5.5 - Claude Platform Docs",
+    "title": "OpenAI, Red Hat, and NVIDIA Back an Open-Source Agent Control Plane — While OpenAI Ships a Proprietary One",
+    "url": "https://forkast.news/openai-red-hat-and-nvidia-back-an-open-source-agent-control-plane-while-openai-ships-a-proprietary-one",
+    "description": "OpenAI, Red Hat, and NVIDIA Back an Open-Source Agent Control Plane — While OpenAI Ships a Proprietary One",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-09-30",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceXAI releases Grok Bot in beta (*)",
+    "url": "https://mjtsai.com/blog/2026/09/28/grok-bot",
+    "description": "SpaceXAI releases Grok Bot in beta (*)",
     "tags": [
       "tldr"
     ],
@@ -390,89 +470,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Team Bots: AI coworkers that learn from your team | SpaceXAI",
-    "url": "https://x.ai/news/team-bots",
-    "description": "Team Bots: AI coworkers that learn from your team | SpaceXAI",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
-    "url": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning",
-    "description": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The Case for Meta Enterprise Platform",
-    "url": "https://www.mbi-deepdives.com/meta-enterprise",
-    "description": "The Case for Meta Enterprise Platform",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The hidden cost of watermarking AI models",
-    "url": "https://bdtechtalks.substack.com/p/the-hidden-cost-of-watermarking-ai",
-    "description": "The hidden cost of watermarking AI models",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Third Circuit affirms summary judgment rejection of fair use defense by ROSS Intelligence. Opinion under seal for now.",
-    "url": "https://chatgptiseatingtheworld.com/2026/09/29/third-circuit-affirms-summary-judgment-rejection-of-fair-use-defense-by-ross-intelligence-opinion-under-seal-for-now",
-    "description": "Third Circuit affirms summary judgment rejection of fair use defense by ROSS Intelligence. Opinion under seal for now.",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "To Seek a Newer World - Dr. Fei-Fei Li",
-    "url": "https://drfeifei.substack.com/p/worldlabs-joining-amd?r=1uqvhq",
-    "description": "To Seek a Newer World - Dr. Fei-Fei Li",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
-    "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
-    "description": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "When No One Is to Blame",
-    "url": "https://www.lesswrong.com/posts/Cv29fujQbJqE77PzA/when-no-one-is-to-blame",
-    "description": "When No One Is to Blame",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-09-30",
-    "site_name": "tldr"
-  },
-  {
-    "title": "When can we say AI made a scientific discovery?",
-    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
-    "description": "When can we say AI made a scientific discovery?",
+    "title": "Stripe: Stripe enables AI agents to use Ramp cards for purchases via MPP",
+    "url": "https://docs.stripe.com/payments/machine/mpp",
+    "description": "Stripe: Stripe enables AI agents to use Ramp cards for purchases via MPP",
     "tags": [
       "tldr"
     ],
@@ -490,9 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "basecamp/once-campfire-rust: ONCE Campfire ported from Rails to Rust",
-    "url": "https://github.com/basecamp/once-campfire-rust",
-    "description": "basecamp/once-campfire-rust: ONCE Campfire ported from Rails to Rust",
+    "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772",
+    "url": "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772",
+    "description": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772",
     "tags": [
       "tldr"
     ],
