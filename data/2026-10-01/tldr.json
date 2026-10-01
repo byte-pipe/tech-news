@@ -1,8 +1,8 @@
 [
   {
-    "title": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying",
-    "url": "https://www.bbc.com/future/article/20260930-metas-new-ai-is-about-to-break-the-internet",
-    "description": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying",
+    "title": "'A Human Should Check It' is Not an Agentic Security Control",
+    "url": "https://cirriustech.co.uk/blog/a-human-should-check-it",
+    "description": "'A Human Should Check It' is Not an Agentic Security Control",
     "tags": [
       "tldr"
     ],
@@ -20,9 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AMD acquires World Labs (*)",
-    "url": "https://www.worldlabs.ai/blog/amd-announcement",
-    "description": "AMD acquires World Labs (*)",
+    "title": "A court just ruled that training an AI on someone else's editorial work isn't fair use",
+    "url": "https://www.techspot.com/news/114058-court-ruled-training-ai-someone-else-editorial-work.html",
+    "description": "A court just ruled that training an AI on someone else's editorial work isn't fair use",
     "tags": [
       "tldr"
     ],
@@ -30,9 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-    "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what",
-    "description": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+    "title": "AI coding agents leaked 13,000 internal company screenshots to public GitHub repos",
+    "url": "https://www.helpnetsecurity.com/2026/09/30/ai-coding-agents-github-screenshot-leak",
+    "description": "AI coding agents leaked 13,000 internal company screenshots to public GitHub repos",
     "tags": [
       "tldr"
     ],
@@ -40,19 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Automating eval design and hillclimbing with Claude / claude.dev Blog",
-    "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing",
-    "description": "Automating eval design and hillclimbing with Claude / claude.dev Blog",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-01",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Autonomous AI agents attempt hacking public data providers (*)",
-    "url": "https://transluce.org/us-canada-gov",
-    "description": "Autonomous AI agents attempt hacking public data providers (*)",
+    "title": "Anthropic launches Claude Sonnet 5.5 with faster output",
+    "url": "https://www.testingcatalog.com/anthropic-launches-claude-sonnet-5-5-with-faster-output",
+    "description": "Anthropic launches Claude Sonnet 5.5 with faster output",
     "tags": [
       "tldr"
     ],
@@ -93,6 +83,26 @@
     "title": "Cloudflare reports bot traffic surpassed human traffic in May 2026 (*)",
     "url": "https://blog.cloudflare.com/agentic-web",
     "description": "Cloudflare reports bot traffic surpassed human traffic in May 2026 (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims",
+    "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
+    "description": "Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)",
+    "url": "https://www.rapid7.com/blog/post/etr-critical-cisco-catalyst-sd-wan-manager-api-authentication-bypass-exploited-in-the-wild-cve-2026-76504",
+    "description": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)",
     "tags": [
       "tldr"
     ],
@@ -170,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Git v2.56.0 released",
-    "url": "https://lwn.net/Articles/1097213",
-    "description": "Git v2.56.0 released",
+    "title": "Google figures out how to watermark AI-designed proteins",
+    "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins",
+    "description": "Google figures out how to watermark AI-designed proteins",
     "tags": [
       "tldr"
     ],
@@ -180,9 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google figures out how to watermark AI-designed proteins",
-    "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins",
-    "description": "Google figures out how to watermark AI-designed proteins",
+    "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
+    "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+    "description": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
     "tags": [
       "tldr"
     ],
@@ -200,19 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Claude Sonnet 5.5 \\ Anthropic",
-    "url": "https://www.anthropic.com/claude-sonnet-5-5",
-    "description": "Introducing Claude Sonnet 5.5 \\ Anthropic",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-01",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Is AI Training Fair Use? The First Appeals Court to Answer Just Said Nah.",
-    "url": "https://www.musicologize.com/is-ai-training-fair-use-third-circuit-ross",
-    "description": "Is AI Training Fair Use? The First Appeals Court to Answer Just Said Nah.",
+    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models",
+    "description": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
     "tags": [
       "tldr"
     ],
@@ -250,19 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft Announces General Availability Of WSLC: Linux Containers On Windows",
-    "url": "https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers",
-    "description": "Microsoft Announces General Availability Of WSLC: Linux Containers On Windows",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-01",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
-    "url": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
-    "description": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
+    "title": "NVIDIA Open Agent Safety Platform Launched",
+    "url": "https://www.servethehome.com/nvidia-open-agent-safety-platform-launched",
+    "description": "NVIDIA Open Agent Safety Platform Launched",
     "tags": [
       "tldr"
     ],
@@ -303,16 +293,6 @@
     "title": "OpenAI announces Dots agents at DevDay (*)",
     "url": "https://openai.com/index/introducing-dots",
     "description": "OpenAI announces Dots agents at DevDay (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-01",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
-    "description": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
     "tags": [
       "tldr"
     ],
@@ -450,16 +430,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceXAI releases Grok Bot in beta (*)",
-    "url": "https://mjtsai.com/blog/2026/09/28/grok-bot",
-    "description": "SpaceXAI releases Grok Bot in beta (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-01",
-    "site_name": "tldr"
-  },
-  {
     "title": "Starship finally makes orbit but engine trouble cuts the victory lap short",
     "url": "https://www.theregister.com/offbeat/2026/09/29/starship-finally-makes-orbit-but-engine-trouble-cuts-the-victory-lap-short/5299708",
     "description": "Starship finally makes orbit but engine trouble cuts the victory lap short",
@@ -480,6 +450,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "The cost of AI performance is falling so fast it could reshape the entire software market",
+    "url": "https://www.techspot.com/news/114055-cost-ai-performance-falling-fast-could-reshape-entire.html",
+    "description": "The cost of AI performance is falling so fast it could reshape the entire software market",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "WSL containers is now generally available",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available",
+    "description": "WSL containers is now generally available",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-01",
+    "site_name": "tldr"
+  },
+  {
     "title": "Why has Shopify dropped React Native?",
     "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
     "description": "Why has Shopify dropped React Native?",
@@ -493,6 +483,16 @@
     "title": "maanHimself/OpenDLSS-NR: Vulkan reimplementation of NVIDIA DLSS 5 Neural Rendering",
     "url": "https://github.com/maanHimself/OpenDLSS-NR",
     "description": "maanHimself/OpenDLSS-NR: Vulkan reimplementation of NVIDIA DLSS 5 Neural Rendering",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-01",
+    "site_name": "tldr"
+  },
+  {
+    "title": "sveltejs/kit: Release 3.0.0",
+    "url": "https://github.com/sveltejs/kit/releases/tag/%40sveltejs%2Fkit%403.0.0",
+    "description": "sveltejs/kit: Release 3.0.0",
     "tags": [
       "tldr"
     ],

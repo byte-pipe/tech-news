@@ -1,45 +1,11 @@
 [
   {
-    "title": "56k.rip – the 1996 dial-up internet experience",
-    "url": "https://56k.rip/",
-    "author": "adunk",
-    "date": "2026-09-30",
-    "score": 247,
-    "comments": 100,
-    "id": 49915126,
-    "discussion_url": "https://news.ycombinator.com/item?id=49915126",
-    "description": "56k.rip – the 1996 dial-up internet experience",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459683"
-  },
-  {
-    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-    "author": "jbott",
-    "date": "2026-09-30",
-    "score": 216,
-    "comments": 94,
-    "id": 49912444,
-    "discussion_url": "https://news.ycombinator.com/item?id=49912444",
-    "description": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459643"
-  },
-  {
     "title": "A brief history of the Bloomberg terminal",
     "url": "https://spectrum.ieee.org/bloomberg-terminal",
     "author": "rbanffy",
     "date": "2026-09-30",
-    "score": 365,
-    "comments": 154,
+    "score": 374,
+    "comments": 166,
     "id": 49909583,
     "discussion_url": "https://news.ycombinator.com/item?id=49909583",
     "description": "A brief history of the Bloomberg terminal",
@@ -48,15 +14,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459619"
+    "fetched_at": "2026-10-01T23:02:13.562680"
+  },
+  {
+    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "author": "rafaelc",
+    "date": "2026-10-01",
+    "score": 122,
+    "comments": 110,
+    "id": 49926628,
+    "discussion_url": "https://news.ycombinator.com/item?id=49926628",
+    "description": "Automatic Transmission – a data-privacy study of connected vehicles",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-01T23:02:13.562499"
   },
   {
     "title": "Before pixels: Modular industrial dashboards",
     "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
     "author": "leephillips",
     "date": "2026-09-30",
-    "score": 260,
-    "comments": 47,
+    "score": 279,
+    "comments": 51,
     "id": 49912792,
     "discussion_url": "https://news.ycombinator.com/item?id=49912792",
     "description": "Before pixels: Modular industrial dashboards",
@@ -65,15 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459615"
+    "fetched_at": "2026-10-01T23:02:13.562659"
+  },
+  {
+    "title": "Bez: Generating a browser engine from specs and tests",
+    "url": "https://tangled.org/burrito.space/bez",
+    "author": "nerdypepper",
+    "date": "2026-10-01",
+    "score": 82,
+    "comments": 25,
+    "id": 49925036,
+    "discussion_url": "https://news.ycombinator.com/item?id=49925036",
+    "description": "Bez: Generating a browser engine from specs and tests",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-01T23:02:13.562554"
   },
   {
     "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
     "url": "https://bookofshapes.com/",
     "author": "eustoria",
     "date": "2026-09-29",
-    "score": 200,
-    "comments": 14,
+    "score": 250,
+    "comments": 23,
     "id": 49894430,
     "discussion_url": "https://news.ycombinator.com/item?id=49894430",
     "description": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
@@ -82,66 +82,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459587"
+    "fetched_at": "2026-10-01T23:02:13.562599"
   },
   {
-    "title": "Burning Man death rates – A short lesson in statistics",
-    "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
-    "author": "viraj_shah",
-    "date": "2026-09-28",
-    "score": 164,
-    "comments": 223,
-    "id": 49882754,
-    "discussion_url": "https://news.ycombinator.com/item?id=49882754",
-    "description": "Burning Man death rates – A short lesson in statistics",
+    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "author": "jasondavies",
+    "date": "2026-10-01",
+    "score": 374,
+    "comments": 151,
+    "id": 49923692,
+    "discussion_url": "https://news.ycombinator.com/item?id=49923692",
+    "description": "Clef: Open-source decision models, and new RL fine-tuning platform",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459703"
+    "fetched_at": "2026-10-01T23:02:13.562487"
   },
   {
-    "title": "Doing a Machine Learning PhD While Working in Japan",
-    "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-    "author": "pwim",
-    "date": "2026-09-30",
-    "score": 130,
-    "comments": 42,
-    "id": 49905644,
-    "discussion_url": "https://news.ycombinator.com/item?id=49905644",
-    "description": "Doing a Machine Learning PhD While Working in Japan",
+    "title": "Cloudflare K2: serverless event streams",
+    "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+    "author": "elffjs",
+    "date": "2026-10-01",
+    "score": 178,
+    "comments": 75,
+    "id": 49921923,
+    "discussion_url": "https://news.ycombinator.com/item?id=49921923",
+    "description": "Cloudflare K2: serverless event streams",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459670"
+    "fetched_at": "2026-10-01T23:02:13.562548"
   },
   {
-    "title": "EDG C++ front-end goes public",
-    "url": "https://edgcpp.org/#transition",
-    "author": "iandinwoodie",
-    "date": "2026-09-30",
-    "score": 235,
-    "comments": 123,
-    "id": 49913192,
-    "discussion_url": "https://news.ycombinator.com/item?id=49913192",
-    "description": "EDG C++ front-end goes public",
+    "title": "Context Language Models",
+    "url": "https://arxiv.org/abs/2609.37725",
+    "author": "emersonmacro",
+    "date": "2026-10-01",
+    "score": 95,
+    "comments": 21,
+    "id": 49922437,
+    "discussion_url": "https://news.ycombinator.com/item?id=49922437",
+    "description": "Context Language Models",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459707"
+    "fetched_at": "2026-10-01T23:02:13.562586"
+  },
+  {
+    "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+    "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+    "author": "speckx",
+    "date": "2026-10-01",
+    "score": 238,
+    "comments": 189,
+    "id": 49922278,
+    "discussion_url": "https://news.ycombinator.com/item?id=49922278",
+    "description": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-01T23:02:13.562625"
   },
   {
     "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
     "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
     "author": "dgellow",
     "date": "2026-10-01",
-    "score": 142,
-    "comments": 88,
+    "score": 197,
+    "comments": 141,
     "id": 49921050,
     "discussion_url": "https://news.ycombinator.com/item?id=49921050",
     "description": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
@@ -150,15 +167,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459537"
+    "fetched_at": "2026-10-01T23:02:13.562667"
+  },
+  {
+    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+    "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+    "author": "thdr",
+    "date": "2026-10-01",
+    "score": 169,
+    "comments": 96,
+    "id": 49922729,
+    "discussion_url": "https://news.ycombinator.com/item?id=49922729",
+    "description": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-01T23:02:13.562637"
   },
   {
     "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
     "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
     "author": "giuliomagnifico",
     "date": "2026-10-01",
-    "score": 131,
-    "comments": 70,
+    "score": 160,
+    "comments": 94,
     "id": 49919910,
     "discussion_url": "https://news.ycombinator.com/item?id=49919910",
     "description": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
@@ -167,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459542"
+    "fetched_at": "2026-10-01T23:02:13.562574"
   },
   {
     "title": "Gemini 4 Argon",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
     "author": "bradleyg223",
     "date": "2026-09-30",
-    "score": 1582,
-    "comments": 1055,
+    "score": 1637,
+    "comments": 1120,
     "id": 49913571,
     "discussion_url": "https://news.ycombinator.com/item?id=49913571",
     "description": "Gemini 4 Argon",
@@ -184,32 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459595"
-  },
-  {
-    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-    "url": "https://www.mattkeeter.com/projects/halfspace/",
-    "author": "luu",
-    "date": "2026-09-30",
-    "score": 177,
-    "comments": 10,
-    "id": 49913350,
-    "discussion_url": "https://news.ycombinator.com/item?id=49913350",
-    "description": "Halfspace experimental IDE for solid modeling with distance fields",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459647"
+    "fetched_at": "2026-10-01T23:02:13.562608"
   },
   {
     "title": "How to speed up the Rust compiler in September 2026",
     "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
     "author": "trickypr",
     "date": "2026-10-01",
-    "score": 167,
-    "comments": 81,
+    "score": 221,
+    "comments": 109,
     "id": 49920896,
     "discussion_url": "https://news.ycombinator.com/item?id=49920896",
     "description": "How to speed up the Rust compiler in September 2026",
@@ -218,15 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459508"
+    "fetched_at": "2026-10-01T23:02:13.562580"
+  },
+  {
+    "title": "Identity Management for Agentic AI [pdf] (2025)",
+    "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+    "author": "cgeier",
+    "date": "2026-10-01",
+    "score": 67,
+    "comments": 22,
+    "id": 49922736,
+    "discussion_url": "https://news.ycombinator.com/item?id=49922736",
+    "description": "Identity Management for Agentic AI [pdf] (2025)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-01T23:02:13.562583"
   },
   {
     "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
     "url": "https://github.com/magnitudedev/magnitude",
     "author": "anerli",
     "date": "2026-09-30",
-    "score": 187,
-    "comments": 88,
+    "score": 191,
+    "comments": 96,
     "id": 49911995,
     "discussion_url": "https://news.ycombinator.com/item?id=49911995",
     "description": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
@@ -235,32 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459639"
-  },
-  {
-    "title": "LinkedIn Larpmaxxing",
-    "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-    "author": "BurnerBurner",
-    "date": "2026-09-30",
-    "score": 282,
-    "comments": 227,
-    "id": 49904314,
-    "discussion_url": "https://news.ycombinator.com/item?id=49904314",
-    "description": "LinkedIn Larpmaxxing",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459680"
+    "fetched_at": "2026-10-01T23:02:13.562670"
   },
   {
     "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
     "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
     "author": "speckx",
     "date": "2026-10-01",
-    "score": 205,
-    "comments": 245,
+    "score": 319,
+    "comments": 374,
     "id": 49920932,
     "discussion_url": "https://news.ycombinator.com/item?id=49920932",
     "description": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
@@ -269,32 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459599"
-  },
-  {
-    "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-    "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-    "author": "papa-whisky",
-    "date": "2026-09-29",
-    "score": 139,
-    "comments": 164,
-    "id": 49902019,
-    "discussion_url": "https://news.ycombinator.com/item?id=49902019",
-    "description": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459734"
+    "fetched_at": "2026-10-01T23:02:13.562592"
   },
   {
     "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
     "url": "https://github.com/maanHimself/OpenDLSS-NR",
     "author": "sagacity",
     "date": "2026-09-30",
-    "score": 210,
-    "comments": 100,
+    "score": 243,
+    "comments": 114,
     "id": 49906100,
     "discussion_url": "https://news.ycombinator.com/item?id=49906100",
     "description": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
@@ -303,32 +303,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459575"
+    "fetched_at": "2026-10-01T23:02:13.562613"
   },
   {
-    "title": "Phyllotaxis: An audio-reactive LED display",
-    "url": "https://jagi.studio/posts/phyllotaxis/",
-    "author": "evakhoury",
-    "date": "2026-09-28",
-    "score": 346,
-    "comments": 50,
-    "id": 49880411,
-    "discussion_url": "https://news.ycombinator.com/item?id=49880411",
-    "description": "Phyllotaxis: An audio-reactive LED display",
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "author": "sergiotapia",
+    "date": "2026-10-01",
+    "score": 554,
+    "comments": 190,
+    "id": 49926069,
+    "discussion_url": "https://news.ycombinator.com/item?id=49926069",
+    "description": "Pi 1.0",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459711"
+    "fetched_at": "2026-10-01T23:02:13.562514"
+  },
+  {
+    "title": "Pi Durable",
+    "url": "https://earendil.com/posts/pi-durable/",
+    "author": "paulsmith",
+    "date": "2026-10-01",
+    "score": 160,
+    "comments": 16,
+    "id": 49925969,
+    "discussion_url": "https://news.ycombinator.com/item?id=49925969",
+    "description": "Pi Durable",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-01T23:02:13.562526"
+  },
+  {
+    "title": "RIP, vector database",
+    "url": "https://turbopuffer.com/blog/rip-vector-database",
+    "author": "razin",
+    "date": "2026-10-01",
+    "score": 254,
+    "comments": 72,
+    "id": 49923466,
+    "discussion_url": "https://news.ycombinator.com/item?id=49923466",
+    "description": "RIP, vector database",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-01T23:02:13.562534"
+  },
+  {
+    "title": "RacketCon Is Saturday",
+    "url": "https://con.racket-lang.org/",
+    "author": "spdegabrielle",
+    "date": "2026-10-01",
+    "score": 120,
+    "comments": 33,
+    "id": 49922515,
+    "discussion_url": "https://news.ycombinator.com/item?id=49922515",
+    "description": "RacketCon Is Saturday",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-01T23:02:13.562538"
+  },
+  {
+    "title": "Red Hat being phased out of existence?",
+    "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
+    "author": "amcclure",
+    "date": "2026-10-01",
+    "score": 171,
+    "comments": 91,
+    "id": 49923056,
+    "discussion_url": "https://news.ycombinator.com/item?id=49923056",
+    "description": "Red Hat being phased out of existence?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-01T23:02:13.562619"
   },
   {
     "title": "Returning from vacation? The government can search your phone without a warrant",
     "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
     "author": "rbanffy",
     "date": "2026-10-01",
-    "score": 264,
-    "comments": 256,
+    "score": 347,
+    "comments": 321,
     "id": 49920234,
     "discussion_url": "https://news.ycombinator.com/item?id=49920234",
     "description": "Returning from vacation? The government can search your phone without a warrant",
@@ -337,66 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459503"
-  },
-  {
-    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-    "author": "ibobev",
-    "date": "2026-09-30",
-    "score": 169,
-    "comments": 68,
-    "id": 49908962,
-    "discussion_url": "https://news.ycombinator.com/item?id=49908962",
-    "description": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459723"
-  },
-  {
-    "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
-    "url": "https://ledge.sh",
-    "author": "dancablam",
-    "date": "2026-09-29",
-    "score": 187,
-    "comments": 83,
-    "id": 49902382,
-    "discussion_url": "https://news.ycombinator.com/item?id=49902382",
-    "description": "Show HN: Ledge.sh – Runnable Markdown Notes",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459652"
-  },
-  {
-    "title": "Solving Factorio Quality",
-    "url": "https://exyr.org/2026/solving-factorio-quality/",
-    "author": "laurenth",
-    "date": "2026-09-29",
-    "score": 271,
-    "comments": 104,
-    "id": 49887343,
-    "discussion_url": "https://news.ycombinator.com/item?id=49887343",
-    "description": "Solving Factorio Quality",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459731"
+    "fetched_at": "2026-10-01T23:02:13.562643"
   },
   {
     "title": "StreetComplete on iOS is now in public beta",
     "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
     "author": "Snowly",
     "date": "2026-10-01",
-    "score": 392,
-    "comments": 83,
+    "score": 497,
+    "comments": 113,
     "id": 49920160,
     "discussion_url": "https://news.ycombinator.com/item?id=49920160",
     "description": "StreetComplete on iOS is now in public beta",
@@ -405,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459513"
+    "fetched_at": "2026-10-01T23:02:13.562551"
   },
   {
     "title": "Surprisingly complex waves reveal the brain's inner workings",
     "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
     "author": "ibobev",
     "date": "2026-09-30",
-    "score": 239,
-    "comments": 92,
+    "score": 248,
+    "comments": 95,
     "id": 49912955,
     "discussion_url": "https://news.ycombinator.com/item?id=49912955",
     "description": "Surprisingly complex waves reveal the brain's inner workings",
@@ -422,32 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459626"
+    "fetched_at": "2026-10-01T23:02:13.562675"
   },
   {
-    "title": "The last time my family was replaced by technology",
-    "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-    "author": "megalomanu",
-    "date": "2026-09-30",
-    "score": 306,
-    "comments": 597,
-    "id": 49908394,
-    "discussion_url": "https://news.ycombinator.com/item?id=49908394",
-    "description": "The last time my family was replaced by technology",
+    "title": "The death of web development education",
+    "url": "https://molily.de/web-dev-education/",
+    "author": "ibobev",
+    "date": "2026-10-01",
+    "score": 110,
+    "comments": 88,
+    "id": 49927100,
+    "discussion_url": "https://news.ycombinator.com/item?id=49927100",
+    "description": "The death of web development education",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459659"
+    "fetched_at": "2026-10-01T23:02:13.562557"
   },
   {
     "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
     "url": "https://www.thespacereview.com/article/4951/1",
     "author": "Bluestein",
     "date": "2026-09-30",
-    "score": 286,
-    "comments": 147,
+    "score": 298,
+    "comments": 155,
     "id": 49915082,
     "discussion_url": "https://news.ycombinator.com/item?id=49915082",
     "description": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
@@ -456,32 +473,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459608"
+    "fetched_at": "2026-10-01T23:02:13.562649"
   },
   {
-    "title": "What TLA+ can and can't check",
-    "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-    "author": "b-man",
-    "date": "2026-09-30",
-    "score": 224,
-    "comments": 47,
-    "id": 49909056,
-    "discussion_url": "https://news.ycombinator.com/item?id=49909056",
-    "description": "What TLA+ can and can't check",
+    "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+    "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+    "author": "nkw",
+    "date": "2026-10-01",
+    "score": 145,
+    "comments": 23,
+    "id": 49922674,
+    "discussion_url": "https://news.ycombinator.com/item?id=49922674",
+    "description": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459663"
+    "fetched_at": "2026-10-01T23:02:13.562570"
   },
   {
     "title": "Why the Bronze Age Collapsed",
     "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
     "author": "AnodicElegy",
     "date": "2026-09-29",
-    "score": 360,
-    "comments": 237,
+    "score": 388,
+    "comments": 288,
     "id": 49890732,
     "discussion_url": "https://news.ycombinator.com/item?id=49890732",
     "description": "Why the Bronze Age Collapsed",
@@ -490,23 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459603"
-  },
-  {
-    "title": "You said no MCP",
-    "url": "https://earendil.com/posts/you-said-no-mcp/",
-    "author": "yarapavan",
-    "date": "2026-09-30",
-    "score": 655,
-    "comments": 358,
-    "id": 49906637,
-    "discussion_url": "https://news.ycombinator.com/item?id=49906637",
-    "description": "You said no MCP",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-01T17:18:10.459738"
+    "fetched_at": "2026-10-01T23:02:13.562628"
   }
 ]
