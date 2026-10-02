@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI finally beat the best Stratego player in history—and did it on a budget",
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-    "description": "AI finally beat the best Stratego player in history—and did it on a budget",
+    "title": "Actively Exploited NetScaler Vulnerabilities",
+    "url": "https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities",
+    "description": "Actively Exploited NetScaler Vulnerabilities",
     "tags": [
       "tldr"
     ],
@@ -30,9 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Automakers routinely share personally identifiable connected-car data with third parties, report says",
-    "url": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
-    "description": "Automakers routinely share personally identifiable connected-car data with third parties, report says",
+    "title": "Apple tightens macOS Full Disk Access controls for AI agents (*)",
+    "url": "https://developer.apple.com/news?id=p6zjojqw",
+    "description": "Apple tightens macOS Full Disk Access controls for AI agents (*)",
     "tags": [
       "tldr"
     ],
@@ -40,39 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Autonomous AI agents attempt hacking public data providers (*)",
-    "url": "https://transluce.org/us-canada-gov",
-    "description": "Autonomous AI agents attempt hacking public data providers (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Azure’s Weakest Link - Five Full Cross-Tenant Compromises",
-    "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-    "description": "Azure’s Weakest Link - Five Full Cross-Tenant Compromises",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Cloudflare reports bot traffic surpassed human traffic in May 2026 (*)",
-    "url": "https://blog.cloudflare.com/agentic-web",
-    "description": "Cloudflare reports bot traffic surpassed human traffic in May 2026 (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Context Language Models",
-    "url": "https://arxiv.org/abs/2609.37725",
-    "description": "Context Language Models",
+    "title": "Building a High-Performance and Portable vLLM Linear Backend with Helion",
+    "url": "https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion",
+    "description": "Building a High-Performance and Portable vLLM Linear Backend with Helion",
     "tags": [
       "tldr"
     ],
@@ -83,6 +53,16 @@
     "title": "Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims",
     "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
     "description": "Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)",
+    "url": "https://www.rapid7.com/blog/post/etr-critical-cisco-catalyst-sd-wan-manager-api-authentication-bypass-exploited-in-the-wild-cve-2026-76504",
+    "description": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)",
     "tags": [
       "tldr"
     ],
@@ -120,6 +100,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "description": "Disrupting a coordinated model-distillation campaign",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
     "title": "FLUX 3 Image: Maximum control over every pixel | Black Forest Labs",
     "url": "https://bfl.ai/models/flux-3-image",
     "description": "FLUX 3 Image: Maximum control over every pixel | Black Forest Labs",
@@ -140,29 +130,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Fair Moderation, Equitable Access, and AI: arXiv’s Updated Rate Limit Policy",
-    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy",
-    "description": "Fair Moderation, Equitable Access, and AI: arXiv’s Updated Rate Limit Policy",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
-    "url": "https://arxiv.org/abs/2610.01939",
-    "description": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
     "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
     "description": "Gemini 4 Argon: our next era of frontier intelligence",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "url": "https://blog.gitbutler.com/git-3-sha-256",
+    "description": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
     "tags": [
       "tldr"
     ],
@@ -180,19 +160,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How recurring network maintenance exposed 6 bugs",
-    "url": "https://blog.janestreet.com/how-recurring-network-maintenance-exposed-6-bugs",
-    "description": "How recurring network maintenance exposed 6 bugs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Input Reads, Output Builds",
-    "url": "https://khessin.de/input-reads-output-builds",
-    "description": "Input Reads, Output Builds",
+    "title": "How to Hack Time, With C2PA",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+    "description": "How to Hack Time, With C2PA",
     "tags": [
       "tldr"
     ],
@@ -203,16 +173,6 @@
     "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
     "url": "https://blog.cloudflare.com/clef-decision-models",
     "description": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Introducing Kev",
-    "url": "https://jaredpalmer.com/blog/introducing-kev",
-    "description": "Introducing Kev",
     "tags": [
       "tldr"
     ],
@@ -250,9 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Leaked Anthropic IPO filing reveals $8B operating loss, rapid revenue growth",
-    "url": "https://siliconangle.com/2026/09/29/leaked-anthropic-ipo-filing-reveals-8b-operating-loss-rapid-revenue-growth",
-    "description": "Leaked Anthropic IPO filing reveals $8B operating loss, rapid revenue growth",
+    "title": "Meta tests whether its AI models can contribute to genuinely open research problems",
+    "url": "https://x.com/AIatMeta/status/2106099776035152231",
+    "description": "Meta tests whether its AI models can contribute to genuinely open research problems",
     "tags": [
       "tldr"
     ],
@@ -270,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
-    "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call",
-    "description": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
+    "title": "Neuralink pretrains a brain-computer interface foundation model on 50,000 hours of implant data",
+    "url": "https://x.com/neuralink/status/2106066173917856070",
+    "description": "Neuralink pretrains a brain-computer interface foundation model on 50,000 hours of implant data",
     "tags": [
       "tldr"
     ],
@@ -290,9 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-    "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-    "description": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "description": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
     "tags": [
       "tldr"
     ],
@@ -300,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Scraps GPT-6.1 Astra Release Over Safety Concerns",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=14251",
-    "description": "OpenAI Scraps GPT-6.1 Astra Release Over Safety Concerns",
+    "title": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse",
+    "url": "https://www.macrumors.com/2026/09/29/openai-launches-dots",
+    "description": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse",
     "tags": [
       "tldr"
     ],
@@ -310,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
-    "url": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
-    "description": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
+    "title": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design - Sep 30, 2026",
+    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+    "description": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design - Sep 30, 2026",
     "tags": [
       "tldr"
     ],
@@ -320,9 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI announces Dots agents at DevDay (*)",
-    "url": "https://openai.com/index/introducing-dots",
-    "description": "OpenAI announces Dots agents at DevDay (*)",
+    "title": "OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents",
+    "url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01",
+    "description": "OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents",
     "tags": [
       "tldr"
     ],
@@ -330,49 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI publishes Jalapeño inference chip benchmarks (*)",
-    "url": "https://morethanmoore.substack.com/p/interview-with-richard-ho-openai",
-    "description": "OpenAI publishes Jalapeño inference chip benchmarks (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra's standard prices, in Work and Codex",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "description": "OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra's standard prices, in Work and Codex",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI says its rogue AI agents bypassed restrictions and triggered warnings at more than 100 organizations",
-    "url": "https://www.techspot.com/news/114073-openai-rogue-ai-agents-triggered-alerts-more-than.html",
-    "description": "OpenAI says its rogue AI agents bypassed restrictions and triggered warnings at more than 100 organizations",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI, Red Hat, and NVIDIA Back an Open-Source Agent Control Plane — While OpenAI Ships a Proprietary One",
-    "url": "https://forkast.news/openai-red-hat-and-nvidia-back-an-open-source-agent-control-plane-while-openai-ships-a-proprietary-one",
-    "description": "OpenAI, Red Hat, and NVIDIA Back an Open-Source Agent Control Plane — While OpenAI Ships a Proprietary One",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI’s ChatGPT Space Is Now a Workplace for Autonomous Agents",
-    "url": "https://forkast.news/openais-chatgpt-space-is-now-a-workplace-for-autonomous-agents",
-    "description": "OpenAI’s ChatGPT Space Is Now a Workplace for Autonomous Agents",
+    "title": "OpenAI’s One-Fifth Pricing Move: GPT-6.1 Sol and the Commoditization of Frontier Intelligence",
+    "url": "https://forkast.news/openais-one-fifth-pricing-move-gpt-6-1-sol-and-the-commoditization-of-frontier-intelligence",
+    "description": "OpenAI’s One-Fifth Pricing Move: GPT-6.1 Sol and the Commoditization of Frontier Intelligence",
     "tags": [
       "tldr"
     ],
@@ -400,9 +320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Researchers open-source 301,000 real coding-agent sessions with 9.3 million LLM calls",
-    "url": "https://x.com/haoran_qiu98/status/2105705601586352267",
-    "description": "Researchers open-source 301,000 real coding-agent sessions with 9.3 million LLM calls",
+    "title": "Pi coding agent pulls a 180 and adds MCP support",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678",
+    "description": "Pi coding agent pulls a 180 and adds MCP support",
     "tags": [
       "tldr"
     ],
@@ -410,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The cost of AI performance is falling so fast it could reshape the entire software market",
-    "url": "https://www.techspot.com/news/114055-cost-ai-performance-falling-fast-could-reshape-entire.html",
-    "description": "The cost of AI performance is falling so fast it could reshape the entire software market",
+    "title": "Reports from the 2026 Python Language Summit",
+    "url": "https://lwn.net/Articles/1097761",
+    "description": "Reports from the 2026 Python Language Summit",
     "tags": [
       "tldr"
     ],
@@ -420,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Tips and tricks for understanding language model outputs",
-    "url": "https://twitter.com/karpathy/status/2105819303471976479",
-    "description": "Tips and tricks for understanding language model outputs",
+    "title": "Researchers introduce SWE-sweep benchmark (*)",
+    "url": "https://swesweep.com",
+    "description": "Researchers introduce SWE-sweep benchmark (*)",
     "tags": [
       "tldr"
     ],
@@ -430,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Toward provably private learning from federated data",
-    "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-    "description": "Toward provably private learning from federated data",
+    "title": "Runway Research | Introducing Praxis-1",
+    "url": "https://runway.com/praxis-1",
+    "description": "Runway Research | Introducing Praxis-1",
     "tags": [
       "tldr"
     ],
@@ -440,9 +360,59 @@
     "site_name": "tldr"
   },
   {
-    "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
-    "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
-    "description": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+    "title": "Scale without limits: Multigres, OrioleDB, and dbarena",
+    "url": "https://supabase.com/blog/select-2026-scale-without-limits",
+    "description": "Scale without limits: Multigres, OrioleDB, and dbarena",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sign in with ChatGPT | OpenAI Help Center",
+    "url": "https://help.openai.com/en/articles/20001410-sign-in-with-chatgpt",
+    "description": "Sign in with ChatGPT | OpenAI Help Center",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
+    "url": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
+    "description": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The substitution myth & the tough spot it puts us in",
+    "url": "https://www.adaptivecapacitylabs.com/2026/10/02/the-substitution-myth-the-tough-spot-it-puts-us-in",
+    "description": "The substitution myth & the tough spot it puts us in",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "This AI Is Already Fooling People on Video Calls Into Thinking Its Human, Company Says",
+    "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
+    "description": "This AI Is Already Fooling People on Video Calls Into Thinking Its Human, Company Says",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
+    "description": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
     "tags": [
       "tldr"
     ],
@@ -460,29 +430,59 @@
     "site_name": "tldr"
   },
   {
+    "title": "Working on Claude-shaped problems with BootLoops, a toolkit for exact calculations in quantitative science. \\ Anthropic",
+    "url": "https://www.anthropic.com/research/claude-shaped-science",
+    "description": "Working on Claude-shaped problems with BootLoops, a toolkit for exact calculations in quantitative science. \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Working the roofline for DeepSeek-V3 on Hopper",
+    "url": "https://deepseek-v3.ezyang.com/studies/03-roofline.html",
+    "description": "Working the roofline for DeepSeek-V3 on Hopper",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Zig 0.17.0 Release Notes",
+    "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+    "description": "Zig 0.17.0 Release Notes",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "a few open source contributions from perplexity recently: •pplx-decider-v1-27b: SoTA multimodal ...",
+    "url": "https://x.com/aravsrinivas/status/2106119404433908149",
+    "description": "a few open source contributions from perplexity recently: •pplx-decider-v1-27b: SoTA multimodal ...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
+    "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-02",
+    "site_name": "tldr"
+  },
+  {
     "title": "allenai/Olmo-core: PyTorch building blocks and training infrastructure for OLMo",
     "url": "https://github.com/allenai/olmo-core",
     "description": "allenai/Olmo-core: PyTorch building blocks and training infrastructure for OLMo",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "modelcontextprotocol/servers: Reference implementations and resources for Model Context Protocol",
-    "url": "https://github.com/modelcontextprotocol/servers",
-    "description": "modelcontextprotocol/servers: Reference implementations and resources for Model Context Protocol",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-02",
-    "site_name": "tldr"
-  },
-  {
-    "title": "samwhosung/benilla: A complete World of Warcraft 1.12.1 client written in Rust and Bevy",
-    "url": "https://github.com/samwhosung/benilla",
-    "description": "samwhosung/benilla: A complete World of Warcraft 1.12.1 client written in Rust and Bevy",
     "tags": [
       "tldr"
     ],
