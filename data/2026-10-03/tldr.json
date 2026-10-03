@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Actively Exploited NetScaler Vulnerabilities",
-    "url": "https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities",
-    "description": "Actively Exploited NetScaler Vulnerabilities",
+    "title": "Aleph Alpha releases open-weight Kolibri with 1M context",
+    "url": "https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context",
+    "description": "Aleph Alpha releases open-weight Kolibri with 1M context",
     "tags": [
       "tldr"
     ],
@@ -40,9 +40,39 @@
     "site_name": "tldr"
   },
   {
+    "title": "Assume compromise: Hackers are mass-exploiting Citrix NetScaler systems in ongoing cyberattacks",
+    "url": "https://this.weekinsecurity.com/assume-compromise-hackers-are-mass-exploiting-citrix-netscaler-systems-in-ongoing-cyberattacks",
+    "description": "Assume compromise: Hackers are mass-exploiting Citrix NetScaler systems in ongoing cyberattacks",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-03",
+    "site_name": "tldr"
+  },
+  {
     "title": "CAPCOM-TD-OSS/REDox: High-performance structured data engine for .NET",
     "url": "https://github.com/CAPCOM-TD-OSS/REDox",
     "description": "CAPCOM-TD-OSS/REDox: High-performance structured data engine for .NET",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-03",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Cisco SD-WAN’s URL Encoding Bypass Grants Unauthenticated Admin Access. Federal Agencies Have 24 Hours.",
+    "url": "https://forkast.news/cisco-sd-wans-url-encoding-bypass-grants-unauthenticated-admin-access-federal-agencies-have-24-hours",
+    "description": "Cisco SD-WAN’s URL Encoding Bypass Grants Unauthenticated Admin Access. Federal Agencies Have 24 Hours.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-03",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Context Language Models | DAIR.AI Academy | DAIR.AI Academy",
+    "url": "https://academy.dair.ai/papers/context-language-models-2609.37725",
+    "description": "Context Language Models | DAIR.AI Academy | DAIR.AI Academy",
     "tags": [
       "tldr"
     ],
@@ -60,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)",
-    "url": "https://www.rapid7.com/blog/post/etr-critical-cisco-catalyst-sd-wan-manager-api-authentication-bypass-exploited-in-the-wild-cve-2026-76504",
-    "description": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)",
+    "title": "Customize Claude Code with mods in TypeScript | Claude by Anthropic",
+    "url": "https://claude.com/blog/claude-code-mods",
+    "description": "Customize Claude Code with mods in TypeScript | Claude by Anthropic",
     "tags": [
       "tldr"
     ],
@@ -70,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Customize Claude Code with mods in TypeScript | Claude by Anthropic",
-    "url": "https://claude.com/blog/claude-code-mods",
-    "description": "Customize Claude Code with mods in TypeScript | Claude by Anthropic",
+    "title": "Everything you need to know about open a is dots",
+    "url": "https://www.mindtheproduct.com/everything-you-need-to-know-about-open-a-is-dots",
+    "description": "Everything you need to know about open a is dots",
     "tags": [
       "tldr"
     ],
@@ -90,29 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "FTC Investigates OpenAI and Anthropic Over Consumer Risks From Advanced AI Models",
-    "url": "https://gbhackers.com/ftc-investigates-openai-and-anthropic",
-    "description": "FTC Investigates OpenAI and Anthropic Over Consumer Risks From Advanced AI Models",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "GPT-6.1 Sol on Codex: Astra-level security, a third faster, zero cheating | Blog | Endor Labs",
     "url": "https://www.endorlabs.com/learn/gpt-6-1-sol-on-codex-astra-level-security-a-third-faster-zero-cheating",
     "description": "GPT-6.1 Sol on Codex: Astra-level security, a third faster, zero cheating | Blog | Endor Labs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-    "description": "Gemini 4 Argon: our next era of frontier intelligence",
     "tags": [
       "tldr"
     ],
@@ -130,9 +140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How OpenAI Disrupted a Model-Distillation Campaign",
-    "url": "https://links.tldrnewsletter.com/VFHse4",
-    "description": "How OpenAI Disrupted a Model-Distillation Campaign",
+    "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
+    "url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead",
+    "description": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
     "tags": [
       "tldr"
     ],
@@ -140,9 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Humans Out of the Loop",
-    "url": "https://matthewboston.com/blog/humans-out-of-the-loop.html",
-    "description": "Humans Out of the Loop",
+    "title": "How OpenAI Disrupted a Model-Distillation Campaign",
+    "url": "https://links.tldrnewsletter.com/VFHse4",
+    "description": "How OpenAI Disrupted a Model-Distillation Campaign",
     "tags": [
       "tldr"
     ],
@@ -180,29 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing SynthID Bio",
-    "url": "https://deepmind.google/blog/introducing-synthid-bio",
-    "description": "Introducing SynthID Bio",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Is sandboxing sufficient to contain rogue agents?",
-    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents",
-    "description": "Is sandboxing sufficient to contain rogue agents?",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
-    "url": "https://news.ycombinator.com/item?id=49942706",
-    "description": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+    "title": "Introducing ftl a new operating system for clouds",
+    "url": "https://hraness.com/reading/introducing-ftl-a-new-operating-system-for-clouds",
+    "description": "Introducing ftl a new operating system for clouds",
     "tags": [
       "tldr"
     ],
@@ -213,6 +203,16 @@
     "title": "Meta tests whether its AI models can contribute to genuinely open research problems",
     "url": "https://x.com/AIatMeta/status/2106099776035152231",
     "description": "Meta tests whether its AI models can contribute to genuinely open research problems",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-03",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Modifier Order Is Matrix Order",
+    "url": "https://aleahim.com/blog/swiftui-modifier-order",
+    "description": "Modifier Order Is Matrix Order",
     "tags": [
       "tldr"
     ],
@@ -243,16 +243,6 @@
     "title": "New in llama.cpp: Decision Models",
     "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
     "description": "New in llama.cpp: Decision Models",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "url": "https://huggingface.co/blog/allenai/astabrief",
-    "description": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
     "tags": [
       "tldr"
     ],
@@ -310,26 +300,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Reasoning from scratch: Implementing RLVR and GRPO",
-    "url": "https://x.com/rasbt/status/2106369670680871031",
-    "description": "Reasoning from scratch: Implementing RLVR and GRPO",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-03",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
-    "description": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-03",
-    "site_name": "tldr"
-  },
-  {
     "title": "Researchers introduce SWE-sweep benchmark (*)",
     "url": "https://swesweep.com",
     "description": "Researchers introduce SWE-sweep benchmark (*)",
@@ -370,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Sony brings AI graphics upscaling to the regular PS5",
-    "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-    "description": "Sony brings AI graphics upscaling to the regular PS5",
+    "title": "State of the Coding Agent Market, October 2026 | Amplifying",
+    "url": "https://amplifying.ai/research/state-of-coding-agents",
+    "description": "State of the Coding Agent Market, October 2026 | Amplifying",
     "tags": [
       "tldr"
     ],
@@ -390,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The substitution myth & the tough spot it puts us in",
-    "url": "https://www.adaptivecapacitylabs.com/2026/10/02/the-substitution-myth-the-tough-spot-it-puts-us-in",
-    "description": "The substitution myth & the tough spot it puts us in",
+    "title": "The KV Cache Is the New Memory Wall | Jaehun's Blog",
+    "url": "https://jaehun.me/en/posts/paper-2609-30854v1",
+    "description": "The KV Cache Is the New Memory Wall | Jaehun's Blog",
     "tags": [
       "tldr"
     ],
@@ -420,9 +390,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "White House releases AI 'accord' agreed upon by tech executives and Trump",
-    "url": "https://x.com/robinhanson/status/2105328285030760705",
-    "description": "White House releases AI 'accord' agreed upon by tech executives and Trump",
+    "title": "Vx — One Language, Every Chip",
+    "url": "https://vxlang.org",
+    "description": "Vx — One Language, Every Chip",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-03",
+    "site_name": "tldr"
+  },
+  {
+    "title": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s go...",
+    "url": "https://x.com/rauchg/status/2106402024804020657",
+    "description": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s go...",
     "tags": [
       "tldr"
     ],
@@ -480,6 +460,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "eunomia-bpf/agentsight: System-level observability for AI agents using eBPF",
+    "url": "https://github.com/eunomia-bpf/agentsight",
+    "description": "eunomia-bpf/agentsight: System-level observability for AI agents using eBPF",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-03",
+    "site_name": "tldr"
+  },
+  {
     "title": "microsoft/nvx: Cross-Platform Micro-VM Sandbox for Agentic Workloads",
     "url": "https://github.com/microsoft/nvx",
     "description": "microsoft/nvx: Cross-Platform Micro-VM Sandbox for Agentic Workloads",
@@ -493,6 +483,16 @@
     "title": "sveltejs/kit: Release 3.0.0",
     "url": "https://github.com/sveltejs/kit/releases/tag/%40sveltejs%2Fkit%403.0.0",
     "description": "sveltejs/kit: Release 3.0.0",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-03",
+    "site_name": "tldr"
+  },
+  {
+    "title": "telepath-computer/television: The missing GUI for personal agents",
+    "url": "https://github.com/telepath-computer/television",
+    "description": "telepath-computer/television: The missing GUI for personal agents",
     "tags": [
       "tldr"
     ],

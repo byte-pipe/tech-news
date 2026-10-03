@@ -1,10 +1,10 @@
 ---
 title: 'Join the Hacktoberfest Weekend Challenge: Build for a Friend! $2,450 in Prizes Across 17 Winners. Submissions Due October 5 at 6:59 AM UTC. - DEV Community'
-url: https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5?bb=264596
+url: https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5?bb=264594
 site_name: devto
 content_file: devto-join-the-hacktoberfest-weekend-challenge-build-for
-fetched_at: '2026-10-03T03:06:55.487025'
-original_url: https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5?bb=264596
+fetched_at: '2026-10-03T21:59:27.066518'
+original_url: https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5?bb=264594
 author: Jem
 date: '2026-10-02'
 description: 'Hacktoberfest is here, and so is the first of our five Hacktoberfest DEV Challenges: a Weekend... Tagged with devchallenge, weekendchallenge, hf26challenge, hacktoberfest.'
@@ -172,7 +172,7 @@ Preview
 
 Dismiss
 
- View full discussion (28 comments)
+ View full discussion (54 comments)
  
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
