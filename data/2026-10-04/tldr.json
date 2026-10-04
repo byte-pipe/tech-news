@@ -1,8 +1,8 @@
 [
   {
-    "title": "8 Emerging Standards for AI Agents https://t.co/w751xdRWiP",
-    "url": "https://x.com/bibryam/status/2106755260530213144",
-    "description": "8 Emerging Standards for AI Agents https://t.co/w751xdRWiP",
+    "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
+    "url": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites",
+    "description": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
     "tags": [
       "tldr"
     ],
@@ -10,19 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI finally beat the best Stratego player in history—and did it on a budget",
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-    "description": "AI finally beat the best Stratego player in history—and did it on a budget",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Agents365-ai/drawio-skill: Agent skill for generating editable architecture diagrams from text, code, and IaC",
-    "url": "https://github.com/Agents365-ai/drawio-skill",
-    "description": "Agents365-ai/drawio-skill: Agent skill for generating editable architecture diagrams from text, code, and IaC",
+    "title": "AI is giving attackers a head start, Microsoft warns",
+    "url": "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report",
+    "description": "AI is giving attackers a head start, Microsoft warns",
     "tags": [
       "tldr"
     ],
@@ -40,9 +30,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Android Security Bulletins have been twisted into a way to mislead the public about security. Pat...",
+    "url": "https://x.com/grapheneos/status/2106799999963034071",
+    "description": "Android Security Bulletins have been twisted into a way to mislead the public about security. Pat...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "Apple tightens macOS Full Disk Access controls for AI agents (*)",
     "url": "https://developer.apple.com/news?id=p6zjojqw",
     "description": "Apple tightens macOS Full Disk Access controls for AI agents (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Black Forest Labs launches FLUX 3 Image with pixel-precise multi-turn editing and native 4K output",
+    "url": "https://x.com/bfl_ai/status/2105734605621825738",
+    "description": "Black Forest Labs launches FLUX 3 Image with pixel-precise multi-turn editing and native 4K output",
     "tags": [
       "tldr"
     ],
@@ -60,9 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "California subpoenas OpenAI as investigators trace its agents to the CDC",
-    "url": "https://thenextweb.com/news/openai-rogue-agents-asymmetric-security-cdc-bonta-subpoena",
-    "description": "California subpoenas OpenAI as investigators trace its agents to the CDC",
+    "title": "Building a RAG Pipeline for Semantic Code Search",
+    "url": "https://news.ycombinator.com/item?id=49956148",
+    "description": "Building a RAG Pipeline for Semantic Code Search",
     "tags": [
       "tldr"
     ],
@@ -70,9 +80,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude Opus 5.5 Draws Praise—and Criticism—for High-Effort Reasoning",
-    "url": "https://verityadaily.com/claude-opus-5-5-draws-praise-and-criticism-for-high-effort-r-2026",
-    "description": "Claude Opus 5.5 Draws Praise—and Criticism—for High-Effort Reasoning",
+    "title": "CAPCOM-TD-OSS/REDox: High-performance structured data engine for .NET",
+    "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+    "description": "CAPCOM-TD-OSS/REDox: High-performance structured data engine for .NET",
     "tags": [
       "tldr"
     ],
@@ -80,9 +90,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Customize Claude Code with mods in TypeScript | Claude by Anthropic",
-    "url": "https://claude.com/blog/claude-code-mods",
-    "description": "Customize Claude Code with mods in TypeScript | Claude by Anthropic",
+    "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+    "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside",
+    "description": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Claude's Constitution",
+    "url": "https://news.ycombinator.com/item?id=49956284",
+    "description": "Claude's Constitution",
     "tags": [
       "tldr"
     ],
@@ -93,16 +113,6 @@
     "title": "Data loss in ttrpc-rust",
     "url": "https://shvbsle.in/data-loss-in-ttrpc-rust",
     "description": "Data loss in ttrpc-rust",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "DreamerV3: Mastering Diverse Domains through World Models",
-    "url": "https://intuitivepapers.ai/mastering-diverse-domains-through-world-models",
-    "description": "DreamerV3: Mastering Diverse Domains through World Models",
     "tags": [
       "tldr"
     ],
@@ -130,9 +140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "FLUX 3 Image: Maximum control over every pixel | Black Forest Labs",
-    "url": "https://bfl.ai/models/flux-3-image",
-    "description": "FLUX 3 Image: Maximum control over every pixel | Black Forest Labs",
+    "title": "Fences the Flock Can't Talk Around",
+    "url": "https://ro14nd.de/fences-the-flock-cant-talk-around",
+    "description": "Fences the Flock Can't Talk Around",
     "tags": [
       "tldr"
     ],
@@ -140,9 +150,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google Enters Cyber AI Race With Gemini 4 Argon",
-    "url": "https://www.bankinfosecurity.com/google-enters-cyber-ai-race-gemini-4-argon-a-33003",
-    "description": "Google Enters Cyber AI Race With Gemini 4 Argon",
+    "title": "Google Finally Unveils Gemini 4 Argon With 1 Million Output Tokens",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=14342",
+    "description": "Google Finally Unveils Gemini 4 Argon With 1 Million Output Tokens",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
+    "url": "https://lobste.rs/s/ul9krj",
+    "description": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
     "tags": [
       "tldr"
     ],
@@ -160,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-    "url": "https://blog.cloudflare.com/clef-decision-models",
-    "description": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+    "title": "How OpenAI Disrupted a Model-Distillation Campaign",
+    "url": "https://links.tldrnewsletter.com/VFHse4",
+    "description": "How OpenAI Disrupted a Model-Distillation Campaign",
     "tags": [
       "tldr"
     ],
@@ -170,9 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Strands Decider 2B: a small, open source, decision model",
-    "url": "https://strandsagents.com/blog/introducing-strands-decider",
-    "description": "Introducing Strands Decider 2B: a small, open source, decision model",
+    "title": "How many AI agents could we run? | Epoch AI",
+    "url": "https://epoch.ai/publications/estimating-the-agent-population",
+    "description": "How many AI agents could we run? | Epoch AI",
     "tags": [
       "tldr"
     ],
@@ -190,49 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "MCP stateless spec changes: what the 2026-07-28 revision means for servers",
-    "url": "https://importstatic.com/ai/mcp-stateless-spec-migration",
-    "description": "MCP stateless spec changes: what the 2026-07-28 revision means for servers",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Making React Context Cheap with React Compiler",
-    "url": "https://jjenzz.com/making-react-context-cheap",
-    "description": "Making React Context Cheap with React Compiler",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
     "title": "Meta tests whether its AI models can contribute to genuinely open research problems",
     "url": "https://x.com/AIatMeta/status/2106099776035152231",
     "description": "Meta tests whether its AI models can contribute to genuinely open research problems",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Microsoft and Hugging Face release ThinkingBox benchmark (*)",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "description": "Microsoft and Hugging Face release ThinkingBox benchmark (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Modifier Order Is Matrix Order",
-    "url": "https://aleahim.com/blog/swiftui-modifier-order",
-    "description": "Modifier Order Is Matrix Order",
     "tags": [
       "tldr"
     ],
@@ -270,6 +250,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "description": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
     "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
     "description": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
@@ -280,19 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI disrupts AI model distillation attack linked to China's Moonshot AI",
-    "url": "https://www.scworld.com/brief/openai-disrupts-ai-model-distillation-attack-linked-to-chinas-moonshot-ai",
-    "description": "OpenAI disrupts AI model distillation attack linked to China's Moonshot AI",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Our first streaming transcription model debuts at no. 1 on Artificial Analysis | Microsoft AI",
-    "url": "https://microsoft.ai/news/our-first-streaming-transcription-model",
-    "description": "Our first streaming transcription model debuts at no. 1 on Artificial Analysis | Microsoft AI",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+    "description": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
     "tags": [
       "tldr"
     ],
@@ -303,26 +283,6 @@
     "title": "Perplexity open-sources pplx-decider-27b and prices its Decisions API at 4 cents per million input tokens",
     "url": "https://x.com/AravSrinivas/status/2105774153903268288",
     "description": "Perplexity open-sources pplx-decider-27b and prices its Decisions API at 4 cents per million input tokens",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Pi coding agent pulls a 180 and adds MCP support",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678",
-    "description": "Pi coding agent pulls a 180 and adds MCP support",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Researchers introduce SWE-sweep benchmark (*)",
-    "url": "https://swesweep.com",
-    "description": "Researchers introduce SWE-sweep benchmark (*)",
     "tags": [
       "tldr"
     ],
@@ -350,9 +310,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Scale without limits: Multigres, OrioleDB, and dbarena",
-    "url": "https://supabase.com/blog/select-2026-scale-without-limits",
-    "description": "Scale without limits: Multigres, OrioleDB, and dbarena",
+    "title": "Rust for CPython (Python Language Summit 2026)",
+    "url": "https://lobste.rs/s/cpf8w6",
+    "description": "Rust for CPython (Python Language Summit 2026)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "ScalingIntelligence/KernelBench: A benchmark for evaluating LLM-generated GPU kernels",
+    "url": "https://github.com/ScalingIntelligence/KernelBench",
+    "description": "ScalingIntelligence/KernelBench: A benchmark for evaluating LLM-generated GPU kernels",
     "tags": [
       "tldr"
     ],
@@ -380,6 +350,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Supabase announces new development tools at Supabase Select (*)",
+    "url": "https://supabase.com/blog/supabase-select-2026-recap",
+    "description": "Supabase announces new development tools at Supabase Select (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The substitution myth & the tough spot it puts us in",
+    "url": "https://www.adaptivecapacitylabs.com/2026/10/02/the-substitution-myth-the-tough-spot-it-puts-us-in",
+    "description": "The substitution myth & the tough spot it puts us in",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "This AI Is Already Fooling People on Video Calls Into Thinking Its Human, Company Says",
     "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
     "description": "This AI Is Already Fooling People on Video Calls Into Thinking Its Human, Company Says",
@@ -393,16 +383,6 @@
     "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
     "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
     "description": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "We Measured Our Own Prompt-Injection Rules. They Flagged 69% of Top Websites and Missed 61% of Attacks.",
-    "url": "https://fetchgate.dev/blog/prompt-injection-rules-measured",
-    "description": "We Measured Our Own Prompt-Injection Rules. They Flagged 69% of Top Websites and Missed 61% of Attacks.",
     "tags": [
       "tldr"
     ],
@@ -460,6 +440,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "basecamp/once-campfire: Super simple group chat application",
+    "url": "https://github.com/basecamp/once-campfire",
+    "description": "basecamp/once-campfire: Super simple group chat application",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "cua-speedrun: Standardized Benchmarking for Computer-Use Agents",
+    "url": "https://cuaspeedrun.com",
+    "description": "cua-speedrun: Standardized Benchmarking for Computer-Use Agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "eunomia-bpf/agentsight: System-level observability for AI agents using eBPF",
     "url": "https://github.com/eunomia-bpf/agentsight",
     "description": "eunomia-bpf/agentsight: System-level observability for AI agents using eBPF",
@@ -490,9 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "sveltejs/kit: Release 3.0.0",
-    "url": "https://github.com/sveltejs/kit/releases/tag/%40sveltejs%2Fkit%403.0.0",
-    "description": "sveltejs/kit: Release 3.0.0",
+    "title": "telepath-computer/television: The missing GUI for personal agents",
+    "url": "https://github.com/telepath-computer/television",
+    "description": "telepath-computer/television: The missing GUI for personal agents",
     "tags": [
       "tldr"
     ],
