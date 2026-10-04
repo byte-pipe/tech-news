@@ -1,5 +1,15 @@
 [
   {
+    "title": "8 Emerging Standards for AI Agents https://t.co/w751xdRWiP",
+    "url": "https://x.com/bibryam/status/2106755260530213144",
+    "description": "8 Emerging Standards for AI Agents https://t.co/w751xdRWiP",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
     "title": "AI finally beat the best Stratego player in history—and did it on a budget",
     "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
     "description": "AI finally beat the best Stratego player in history—and did it on a budget",
@@ -10,9 +20,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Announcing Rust 1.99.0",
-    "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0",
-    "description": "Announcing Rust 1.99.0",
+    "title": "Agents365-ai/drawio-skill: Agent skill for generating editable architecture diagrams from text, code, and IaC",
+    "url": "https://github.com/Agents365-ai/drawio-skill",
+    "description": "Agents365-ai/drawio-skill: Agent skill for generating editable architecture diagrams from text, code, and IaC",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Aleph Alpha releases open-weight Kolibri with 1M context",
+    "url": "https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context",
+    "description": "Aleph Alpha releases open-weight Kolibri with 1M context",
     "tags": [
       "tldr"
     ],
@@ -30,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Assume compromise: Hackers are mass-exploiting Citrix NetScaler systems in ongoing cyberattacks",
-    "url": "https://this.weekinsecurity.com/assume-compromise-hackers-are-mass-exploiting-citrix-netscaler-systems-in-ongoing-cyberattacks",
-    "description": "Assume compromise: Hackers are mass-exploiting Citrix NetScaler systems in ongoing cyberattacks",
+    "title": "Building a High-Performance and Portable vLLM Linear Backend with Helion",
+    "url": "https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion",
+    "description": "Building a High-Performance and Portable vLLM Linear Backend with Helion",
     "tags": [
       "tldr"
     ],
@@ -40,9 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "CAPCOM-TD-OSS/REDox: High-performance structured data engine for .NET",
-    "url": "https://github.com/CAPCOM-TD-OSS/REDox",
-    "description": "CAPCOM-TD-OSS/REDox: High-performance structured data engine for .NET",
+    "title": "California subpoenas OpenAI as investigators trace its agents to the CDC",
+    "url": "https://thenextweb.com/news/openai-rogue-agents-asymmetric-security-cdc-bonta-subpoena",
+    "description": "California subpoenas OpenAI as investigators trace its agents to the CDC",
     "tags": [
       "tldr"
     ],
@@ -50,29 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Cisco SD-WAN’s URL Encoding Bypass Grants Unauthenticated Admin Access. Federal Agencies Have 24 Hours.",
-    "url": "https://forkast.news/cisco-sd-wans-url-encoding-bypass-grants-unauthenticated-admin-access-federal-agencies-have-24-hours",
-    "description": "Cisco SD-WAN’s URL Encoding Bypass Grants Unauthenticated Admin Access. Federal Agencies Have 24 Hours.",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Context Language Models | DAIR.AI Academy | DAIR.AI Academy",
-    "url": "https://academy.dair.ai/papers/context-language-models-2609.37725",
-    "description": "Context Language Models | DAIR.AI Academy | DAIR.AI Academy",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims",
-    "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey",
-    "description": "Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims",
+    "title": "Claude Opus 5.5 Draws Praise—and Criticism—for High-Effort Reasoning",
+    "url": "https://verityadaily.com/claude-opus-5-5-draws-praise-and-criticism-for-high-effort-r-2026",
+    "description": "Claude Opus 5.5 Draws Praise—and Criticism—for High-Effort Reasoning",
     "tags": [
       "tldr"
     ],
@@ -83,6 +83,36 @@
     "title": "Customize Claude Code with mods in TypeScript | Claude by Anthropic",
     "url": "https://claude.com/blog/claude-code-mods",
     "description": "Customize Claude Code with mods in TypeScript | Claude by Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Data loss in ttrpc-rust",
+    "url": "https://shvbsle.in/data-loss-in-ttrpc-rust",
+    "description": "Data loss in ttrpc-rust",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "DreamerV3: Mastering Diverse Domains through World Models",
+    "url": "https://intuitivepapers.ai/mastering-diverse-domains-through-world-models",
+    "description": "DreamerV3: Mastering Diverse Domains through World Models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+    "url": "https://news.ycombinator.com/item?id=49951218",
+    "description": "Emitting metadata early makes building/checking Rust up to twice as fast",
     "tags": [
       "tldr"
     ],
@@ -110,9 +140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GPT-6.1 Sol on Codex: Astra-level security, a third faster, zero cheating | Blog | Endor Labs",
-    "url": "https://www.endorlabs.com/learn/gpt-6-1-sol-on-codex-astra-level-security-a-third-faster-zero-cheating",
-    "description": "GPT-6.1 Sol on Codex: Astra-level security, a third faster, zero cheating | Blog | Endor Labs",
+    "title": "Google Enters Cyber AI Race With Gemini 4 Argon",
+    "url": "https://www.bankinfosecurity.com/google-enters-cyber-ai-race-gemini-4-argon-a-33003",
+    "description": "Google Enters Cyber AI Race With Gemini 4 Argon",
     "tags": [
       "tldr"
     ],
@@ -120,29 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-    "description": "Gemini 4 Argon: our next era of frontier intelligence",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-    "url": "https://blog.gitbutler.com/git-3-sha-256",
-    "description": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How OpenAI Disrupted a Model-Distillation Campaign",
-    "url": "https://links.tldrnewsletter.com/VFHse4",
-    "description": "How OpenAI Disrupted a Model-Distillation Campaign",
+    "title": "How AI21 manages its GPU fleet with Kueue",
+    "url": "https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue",
+    "description": "How AI21 manages its GPU fleet with Kueue",
     "tags": [
       "tldr"
     ],
@@ -153,16 +163,6 @@
     "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
     "url": "https://blog.cloudflare.com/clef-decision-models",
     "description": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "url": "https://allenai.org/blog/olmocore3",
-    "description": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
     "tags": [
       "tldr"
     ],
@@ -190,9 +190,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
-    "url": "https://news.ycombinator.com/item?id=49942706",
-    "description": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+    "title": "MCP stateless spec changes: what the 2026-07-28 revision means for servers",
+    "url": "https://importstatic.com/ai/mcp-stateless-spec-migration",
+    "description": "MCP stateless spec changes: what the 2026-07-28 revision means for servers",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Making React Context Cheap with React Compiler",
+    "url": "https://jjenzz.com/making-react-context-cheap",
+    "description": "Making React Context Cheap with React Compiler",
     "tags": [
       "tldr"
     ],
@@ -203,6 +213,16 @@
     "title": "Meta tests whether its AI models can contribute to genuinely open research problems",
     "url": "https://x.com/AIatMeta/status/2106099776035152231",
     "description": "Meta tests whether its AI models can contribute to genuinely open research problems",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft and Hugging Face release ThinkingBox benchmark (*)",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "description": "Microsoft and Hugging Face release ThinkingBox benchmark (*)",
     "tags": [
       "tldr"
     ],
@@ -250,16 +270,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "url": "https://huggingface.co/blog/allenai/astabrief",
-    "description": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
     "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
     "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
     "description": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
@@ -270,9 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI bets enterprises are ready to delegate real work to autonomous agents",
-    "url": "https://www.infoworld.com/article/4229252/openai-bets-enterprises-are-ready-to-delegate-real-work-to-autonomous-agents.html",
-    "description": "OpenAI bets enterprises are ready to delegate real work to autonomous agents",
+    "title": "OpenAI disrupts AI model distillation attack linked to China's Moonshot AI",
+    "url": "https://www.scworld.com/brief/openai-disrupts-ai-model-distillation-attack-linked-to-chinas-moonshot-ai",
+    "description": "OpenAI disrupts AI model distillation attack linked to China's Moonshot AI",
     "tags": [
       "tldr"
     ],
@@ -310,16 +320,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Reasoning from scratch: Implementing RLVR and GRPO",
-    "url": "https://x.com/rasbt/status/2106369670680871031",
-    "description": "Reasoning from scratch: Implementing RLVR and GRPO",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
     "title": "Researchers introduce SWE-sweep benchmark (*)",
     "url": "https://swesweep.com",
     "description": "Researchers introduce SWE-sweep benchmark (*)",
@@ -330,9 +330,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Runway Research | Introducing Praxis-1",
-    "url": "https://runway.com/praxis-1",
-    "description": "Runway Research | Introducing Praxis-1",
+    "title": "Run Qwen 3.8-Flash-Next (125B) on consumer hardware with Strata",
+    "url": "https://news.ycombinator.com/item?id=49953495",
+    "description": "Run Qwen 3.8-Flash-Next (125B) on consumer hardware with Strata",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Rust 1.99: variadic functions, Vec::into_parts and what else changed",
+    "url": "https://importstatic.com/rust/rust-1-99-variadic-functions",
+    "description": "Rust 1.99: variadic functions, Vec::into_parts and what else changed",
     "tags": [
       "tldr"
     ],
@@ -350,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Sign in with ChatGPT: Feature Overview and Setup Guide",
-    "url": "https://x.com/marckohlbrugge/status/2105599317050626357",
-    "description": "Sign in with ChatGPT: Feature Overview and Setup Guide",
+    "title": "Shibhansh Dohare’s thesis develops neural networks that keep learning without losing plasticity",
+    "url": "https://x.com/RichardSSutton/status/2106471496126505132",
+    "description": "Shibhansh Dohare’s thesis develops neural networks that keep learning without losing plasticity",
     "tags": [
       "tldr"
     ],
@@ -363,36 +373,6 @@
     "title": "State of the Coding Agent Market, October 2026 | Amplifying",
     "url": "https://amplifying.ai/research/state-of-coding-agents",
     "description": "State of the Coding Agent Market, October 2026 | Amplifying",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
-    "url": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
-    "description": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The KV Cache Is the New Memory Wall | Jaehun's Blog",
-    "url": "https://jaehun.me/en/posts/paper-2609-30854v1",
-    "description": "The KV Cache Is the New Memory Wall | Jaehun's Blog",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-04",
-    "site_name": "tldr"
-  },
-  {
-    "title": "The substitution myth & the tough spot it puts us in",
-    "url": "https://www.adaptivecapacitylabs.com/2026/10/02/the-substitution-myth-the-tough-spot-it-puts-us-in",
-    "description": "The substitution myth & the tough spot it puts us in",
     "tags": [
       "tldr"
     ],
@@ -420,9 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s go...",
-    "url": "https://x.com/rauchg/status/2106402024804020657",
-    "description": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s go...",
+    "title": "We Measured Our Own Prompt-Injection Rules. They Flagged 69% of Top Websites and Missed 61% of Attacks.",
+    "url": "https://fetchgate.dev/blog/prompt-injection-rules-measured",
+    "description": "We Measured Our Own Prompt-Injection Rules. They Flagged 69% of Top Websites and Missed 61% of Attacks.",
     "tags": [
       "tldr"
     ],
@@ -430,9 +410,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Working on Claude-shaped problems with BootLoops, a toolkit for exact calculations in quantitative science. \\ Anthropic",
-    "url": "https://www.anthropic.com/research/claude-shaped-science",
-    "description": "Working on Claude-shaped problems with BootLoops, a toolkit for exact calculations in quantitative science. \\ Anthropic",
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps",
+    "description": "We're going to need default hard budget caps on pretty much everything",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s go...",
+    "url": "https://x.com/rauchg/status/2106402024804020657",
+    "description": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s go...",
     "tags": [
       "tldr"
     ],
@@ -470,9 +460,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "allenai/Olmo-core: PyTorch building blocks and training infrastructure for OLMo",
-    "url": "https://github.com/allenai/olmo-core",
-    "description": "allenai/Olmo-core: PyTorch building blocks and training infrastructure for OLMo",
+    "title": "eunomia-bpf/agentsight: System-level observability for AI agents using eBPF",
+    "url": "https://github.com/eunomia-bpf/agentsight",
+    "description": "eunomia-bpf/agentsight: System-level observability for AI agents using eBPF",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-04",
+    "site_name": "tldr"
+  },
+  {
+    "title": "meituan-longcat/LongCat-Video: Foundational Video Generation Model and Avatar Framework",
+    "url": "https://github.com/meituan-longcat/LongCat-Video",
+    "description": "meituan-longcat/LongCat-Video: Foundational Video Generation Model and Avatar Framework",
     "tags": [
       "tldr"
     ],

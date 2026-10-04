@@ -1,79 +1,28 @@
 [
   {
-    "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-    "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-    "author": "mariuz",
-    "date": "2026-10-02",
-    "score": 377,
-    "comments": 77,
-    "id": 49932147,
-    "discussion_url": "https://news.ycombinator.com/item?id=49932147",
-    "description": "A 12-year sequence of telescope images of a star and four planets orbiting",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339417"
-  },
-  {
-    "title": "ADHD, autism or complex trauma? [pdf]",
-    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
-    "author": "skeptical1884",
-    "date": "2026-10-04",
-    "score": 145,
-    "comments": 97,
-    "id": 49946403,
-    "discussion_url": "https://news.ycombinator.com/item?id=49946403",
-    "description": "ADHD, autism or complex trauma? [pdf]",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339522"
-  },
-  {
-    "title": "An Update on Orion for Linux and Windows",
-    "url": "https://blog.kagi.com/update-orion-linux-windows",
-    "author": "pentagrama",
+    "title": "Agents don't need memory, they need documentation",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "author": "kmeh",
     "date": "2026-10-03",
-    "score": 162,
-    "comments": 92,
-    "id": 49941447,
-    "discussion_url": "https://news.ycombinator.com/item?id=49941447",
-    "description": "An Update on Orion for Linux and Windows",
+    "score": 277,
+    "comments": 156,
+    "id": 49945933,
+    "discussion_url": "https://news.ycombinator.com/item?id=49945933",
+    "description": "Agents don't need memory, they need documentation",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339482"
-  },
-  {
-    "title": "Apple Pass Designer",
-    "url": "https://developer.apple.com/pass-designer/",
-    "author": "soheilpro",
-    "date": "2026-10-03",
-    "score": 534,
-    "comments": 320,
-    "id": 49937276,
-    "discussion_url": "https://news.ycombinator.com/item?id=49937276",
-    "description": "Apple Pass Designer",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339397"
+    "fetched_at": "2026-10-04T15:40:33.652368"
   },
   {
     "title": "C++ Insights – See your source code with the eyes of a Compiler",
     "url": "https://github.com/andreasfertig/cppinsights",
     "author": "rramadass",
-    "date": "2026-10-02",
-    "score": 114,
-    "comments": 22,
+    "date": "2026-10-01",
+    "score": 163,
+    "comments": 34,
     "id": 49928361,
     "discussion_url": "https://news.ycombinator.com/item?id=49928361",
     "description": "C++ Insights – See your source code with the eyes of a Compiler",
@@ -82,15 +31,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339529"
+    "fetched_at": "2026-10-04T15:40:33.652427"
+  },
+  {
+    "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+    "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+    "author": "gscott",
+    "date": "2026-10-01",
+    "score": 229,
+    "comments": 58,
+    "id": 49923873,
+    "discussion_url": "https://news.ycombinator.com/item?id=49923873",
+    "description": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652287"
+  },
+  {
+    "title": "City building games have a Soul Problem pt.2",
+    "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+    "author": "lexx",
+    "date": "2026-10-03",
+    "score": 154,
+    "comments": 146,
+    "id": 49945323,
+    "discussion_url": "https://news.ycombinator.com/item?id=49945323",
+    "description": "City building games have a Soul Problem pt.2",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652389"
   },
   {
     "title": "Cloudflare OHTTP gateway",
     "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
     "author": "est",
     "date": "2026-10-03",
-    "score": 171,
-    "comments": 80,
+    "score": 197,
+    "comments": 94,
     "id": 49941091,
     "discussion_url": "https://news.ycombinator.com/item?id=49941091",
     "description": "Cloudflare OHTTP gateway",
@@ -99,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339408"
+    "fetched_at": "2026-10-04T15:40:33.652460"
   },
   {
     "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
     "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
     "author": "hn_acker",
-    "date": "2026-10-02",
-    "score": 762,
-    "comments": 369,
+    "date": "2026-10-01",
+    "score": 794,
+    "comments": 392,
     "id": 49927754,
     "discussion_url": "https://news.ycombinator.com/item?id=49927754",
     "description": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
@@ -116,49 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339468"
-  },
-  {
-    "title": "Extra Big Ass Intelligence",
-    "url": "https://www.extrabigassintelligence.com/",
-    "author": "34679",
-    "date": "2026-10-03",
-    "score": 468,
-    "comments": 110,
-    "id": 49941114,
-    "discussion_url": "https://news.ycombinator.com/item?id=49941114",
-    "description": "Extra Big Ass Intelligence",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339663"
-  },
-  {
-    "title": "FLUX 3 Image",
-    "url": "https://bfl.ai/models/flux-3-image",
-    "author": "minimaxir",
-    "date": "2026-10-02",
-    "score": 419,
-    "comments": 92,
-    "id": 49925974,
-    "discussion_url": "https://news.ycombinator.com/item?id=49925974",
-    "description": "FLUX 3 Image",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339542"
+    "fetched_at": "2026-10-04T15:40:33.652481"
   },
   {
     "title": "FTL: A new operating system for clouds",
     "url": "https://ftl-os.org/",
     "author": "romac",
-    "date": "2026-10-04",
-    "score": 114,
-    "comments": 48,
+    "date": "2026-10-03",
+    "score": 190,
+    "comments": 74,
     "id": 49944912,
     "discussion_url": "https://news.ycombinator.com/item?id=49944912",
     "description": "FTL: A new operating system for clouds",
@@ -167,49 +116,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339536"
+    "fetched_at": "2026-10-04T15:40:33.652403"
   },
   {
-    "title": "From the creator of Redis; run LLM locally with ds4",
-    "url": "https://dwarfstar.sh/",
-    "author": "fibo",
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "author": "sbulaev",
     "date": "2026-10-03",
-    "score": 332,
-    "comments": 95,
-    "id": 49936575,
-    "discussion_url": "https://news.ycombinator.com/item?id=49936575",
-    "description": "From the creator of Redis; run LLM locally with ds4",
+    "score": 450,
+    "comments": 248,
+    "id": 49948254,
+    "discussion_url": "https://news.ycombinator.com/item?id=49948254",
+    "description": "Federal judge calls Flock 'indiscriminate mass surveillance'",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339562"
+    "fetched_at": "2026-10-04T15:40:33.652488"
   },
   {
-    "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-    "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-    "author": "usernomdeguerre",
-    "date": "2026-10-02",
-    "score": 315,
-    "comments": 115,
-    "id": 49929391,
-    "discussion_url": "https://news.ycombinator.com/item?id=49929391",
-    "description": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+    "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
+    "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
+    "author": "rkagerer",
+    "date": "2026-10-03",
+    "score": 84,
+    "comments": 49,
+    "id": 49942130,
+    "discussion_url": "https://news.ycombinator.com/item?id=49942130",
+    "description": "Former SR-71 engineer talks NASA's Blackbird revival program",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339590"
+    "fetched_at": "2026-10-04T15:40:33.652392"
+  },
+  {
+    "title": "Hole Punch: Sling your spaceship around gravitational fields",
+    "url": "https://notoriousbfg.com/hole-punch/",
+    "author": "trwhite",
+    "date": "2026-10-03",
+    "score": 326,
+    "comments": 80,
+    "id": 49946393,
+    "discussion_url": "https://news.ycombinator.com/item?id=49946393",
+    "description": "Hole Punch: Sling your spaceship around gravitational fields",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652364"
+  },
+  {
+    "title": "I quit OpenAI because its culture is broken",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+    "author": "Brajeshwar",
+    "date": "2026-10-03",
+    "score": 349,
+    "comments": 585,
+    "id": 49944227,
+    "discussion_url": "https://news.ycombinator.com/item?id=49944227",
+    "description": "I quit OpenAI because its culture is broken",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652326"
+  },
+  {
+    "title": "In Ukraine, distributed renewables foil Russia's assaults",
+    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+    "author": "JumpCrisscross",
+    "date": "2026-10-04",
+    "score": 148,
+    "comments": 148,
+    "id": 49951881,
+    "discussion_url": "https://news.ycombinator.com/item?id=49951881",
+    "description": "In Ukraine, distributed renewables foil Russia's assaults",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652444"
   },
   {
     "title": "Kolibri: A Sovereign Open-Weight Model",
     "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
     "author": "bastitx",
     "date": "2026-10-03",
-    "score": 360,
-    "comments": 247,
+    "score": 631,
+    "comments": 320,
     "id": 49942706,
     "discussion_url": "https://news.ycombinator.com/item?id=49942706",
     "description": "Kolibri: A Sovereign Open-Weight Model",
@@ -218,236 +218,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339461"
+    "fetched_at": "2026-10-04T15:40:33.652406"
   },
   {
-    "title": "Loss of cell identity drives human aging: Two new papers",
-    "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "author": "Anon84",
+    "date": "2026-10-03",
+    "score": 252,
+    "comments": 382,
+    "id": 49946228,
+    "discussion_url": "https://news.ycombinator.com/item?id=49946228",
+    "description": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652291"
+  },
+  {
+    "title": "Reasons I didn't become an EMT, ranked",
+    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+    "author": "citelao",
+    "date": "2026-10-03",
+    "score": 193,
+    "comments": 84,
+    "id": 49947631,
+    "discussion_url": "https://news.ycombinator.com/item?id=49947631",
+    "description": "Reasons I didn't become an EMT, ranked",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652267"
+  },
+  {
+    "title": "Religious scholars met with Anthropic",
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
     "author": "bookofjoe",
-    "date": "2026-10-02",
-    "score": 347,
-    "comments": 166,
-    "id": 49926411,
-    "discussion_url": "https://news.ycombinator.com/item?id=49926411",
-    "description": "Loss of cell identity drives human aging: Two new papers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339440"
-  },
-  {
-    "title": "Make Tmux the OS",
-    "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-    "author": "weaksauce",
-    "date": "2026-10-03",
-    "score": 167,
-    "comments": 107,
-    "id": 49937540,
-    "discussion_url": "https://news.ycombinator.com/item?id=49937540",
-    "description": "Make Tmux the OS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339643"
-  },
-  {
-    "title": "Mike Tomlin spent 12 years building a Minecraft city",
-    "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-    "author": "CoryOndrejka",
-    "date": "2026-10-02",
-    "score": 629,
-    "comments": 149,
-    "id": 49925184,
-    "discussion_url": "https://news.ycombinator.com/item?id=49925184",
-    "description": "Mike Tomlin spent 12 years building a Minecraft city",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339570"
-  },
-  {
-    "title": "Muse Gadgets",
-    "url": "https://gadgets.muse.ai",
-    "author": "anant",
-    "date": "2026-10-03",
-    "score": 235,
-    "comments": 106,
-    "id": 49937504,
-    "discussion_url": "https://news.ycombinator.com/item?id=49937504",
-    "description": "Muse Gadgets",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339657"
-  },
-  {
-    "title": "Newgrounds.com – A community of games, music, and art",
-    "url": "https://www.newgrounds.com/",
-    "author": "azhenley",
-    "date": "2026-10-03",
-    "score": 410,
-    "comments": 120,
-    "id": 49940394,
-    "discussion_url": "https://news.ycombinator.com/item?id=49940394",
-    "description": "Newgrounds.com – A community of games, music, and art",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339576"
-  },
-  {
-    "title": "One month coding with GLM 5.3 Flash",
-    "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-    "author": "ThibWeb",
-    "date": "2026-10-03",
-    "score": 216,
-    "comments": 171,
-    "id": 49934620,
-    "discussion_url": "https://news.ycombinator.com/item?id=49934620",
-    "description": "One month coding with GLM 5.3 Flash",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339670"
-  },
-  {
-    "title": "Shimano Bicycle Museum Review",
-    "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-    "author": "pietroppeter",
-    "date": "2026-10-02",
-    "score": 302,
-    "comments": 80,
-    "id": 49930047,
-    "discussion_url": "https://news.ycombinator.com/item?id=49930047",
-    "description": "Shimano Bicycle Museum Review",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339716"
-  },
-  {
-    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "url": "https://stillwet.art/",
-    "author": "alstonite",
-    "date": "2026-10-02",
-    "score": 360,
-    "comments": 108,
-    "id": 49928566,
-    "discussion_url": "https://news.ycombinator.com/item?id=49928566",
-    "description": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339624"
-  },
-  {
-    "title": "Show HN: Made an open-source Lego AI generator",
-    "url": "https://github.com/anteloc/ldraw-nova",
-    "author": "antelocnova",
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "score": 135,
-    "comments": 49,
-    "id": 49937916,
-    "discussion_url": "https://news.ycombinator.com/item?id=49937916",
-    "description": "Show HN: Made an open-source Lego AI generator",
+    "comments": 302,
+    "id": 49950052,
+    "discussion_url": "https://news.ycombinator.com/item?id=49950052",
+    "description": "Religious scholars met with Anthropic",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339786"
+    "fetched_at": "2026-10-04T15:40:33.652371"
   },
   {
-    "title": "Sites in ChatGPT",
-    "url": "https://chatgpt.com/features/sites/",
-    "author": "polvi",
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "author": "snehesht",
+    "date": "2026-10-04",
+    "score": 206,
+    "comments": 98,
+    "id": 49953495,
+    "discussion_url": "https://news.ycombinator.com/item?id=49953495",
+    "description": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652257"
+  },
+  {
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "url": "https://pipod.dev/",
+    "author": "edverma2",
     "date": "2026-10-02",
-    "score": 336,
-    "comments": 324,
-    "id": 49927747,
-    "discussion_url": "https://news.ycombinator.com/item?id=49927747",
-    "description": "Sites in ChatGPT",
+    "score": 108,
+    "comments": 41,
+    "id": 49937304,
+    "discussion_url": "https://news.ycombinator.com/item?id=49937304",
+    "description": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339637"
+    "fetched_at": "2026-10-04T15:40:33.652399"
   },
   {
-    "title": "The Forgetful CPU (Linux on M4)",
-    "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-    "author": "signa11",
+    "title": "So you think you could be an electrician?",
+    "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+    "author": "zdw",
+    "date": "2026-09-30",
+    "score": 370,
+    "comments": 299,
+    "id": 49910462,
+    "discussion_url": "https://news.ycombinator.com/item?id=49910462",
+    "description": "So you think you could be an electrician?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652322"
+  },
+  {
+    "title": "Surely you have ultra-wideband radios on your bins too?",
+    "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+    "author": "simonjgreen",
     "date": "2026-10-03",
-    "score": 256,
-    "comments": 187,
-    "id": 49933869,
-    "discussion_url": "https://news.ycombinator.com/item?id=49933869",
-    "description": "The Forgetful CPU (Linux on M4)",
+    "score": 101,
+    "comments": 56,
+    "id": 49947472,
+    "discussion_url": "https://news.ycombinator.com/item?id=49947472",
+    "description": "Surely you have ultra-wideband radios on your bins too?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339696"
+    "fetched_at": "2026-10-04T15:40:33.652409"
   },
   {
-    "title": "The Legend of von Neumann (1973) [pdf]",
-    "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-    "author": "suopspaces",
-    "date": "2026-10-02",
-    "score": 300,
-    "comments": 178,
-    "id": 49933235,
-    "discussion_url": "https://news.ycombinator.com/item?id=49933235",
-    "description": "The Legend of von Neumann (1973) [pdf]",
+    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "author": "speckx",
+    "date": "2026-10-03",
+    "score": 377,
+    "comments": 66,
+    "id": 49946895,
+    "discussion_url": "https://news.ycombinator.com/item?id=49946895",
+    "description": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339689"
-  },
-  {
-    "title": "Tiny Brutalism",
-    "url": "https://placeholders.itch.io/tiny-brutalism",
-    "author": "abetusk",
-    "date": "2026-10-02",
-    "score": 181,
-    "comments": 32,
-    "id": 49928192,
-    "discussion_url": "https://news.ycombinator.com/item?id=49928192",
-    "description": "Tiny Brutalism",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339709"
+    "fetched_at": "2026-10-04T15:40:33.652361"
   },
   {
     "title": "To grieve, or not to grieve?",
     "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
     "author": "stabbles",
     "date": "2026-10-01",
-    "score": 155,
-    "comments": 142,
+    "score": 163,
+    "comments": 153,
     "id": 49919676,
     "discussion_url": "https://news.ycombinator.com/item?id=49919676",
     "description": "To grieve, or not to grieve?",
@@ -456,57 +371,142 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339610"
+    "fetched_at": "2026-10-04T15:40:33.652467"
   },
   {
-    "title": "Updates to Full Disk Access in macOS",
-    "url": "https://developer.apple.com/news/?id=p6zjojqw",
-    "author": "notfirstpost",
+    "title": "Treachery in the Rodin Museum 3D scan verdict",
+    "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+    "author": "CosmoWenman",
     "date": "2026-10-03",
-    "score": 280,
-    "comments": 200,
-    "id": 49937631,
-    "discussion_url": "https://news.ycombinator.com/item?id=49937631",
-    "description": "Updates to Full Disk Access in macOS",
+    "score": 257,
+    "comments": 130,
+    "id": 49946355,
+    "discussion_url": "https://news.ycombinator.com/item?id=49946355",
+    "description": "Treachery in the Rodin Museum 3D scan verdict",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339617"
+    "fetched_at": "2026-10-04T15:40:33.652343"
   },
   {
-    "title": "Venice’s failed war against Constantinople led to the first bond market",
-    "url": "https://bigthink.com/books/a-fabulous-debt/",
-    "author": "RickJWagner",
+    "title": "We want you to build the next Git platform on Cloudflare",
+    "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+    "author": "geoffbp",
+    "date": "2026-10-03",
+    "score": 175,
+    "comments": 151,
+    "id": 49947051,
+    "discussion_url": "https://news.ycombinator.com/item?id=49947051",
+    "description": "We want you to build the next Git platform on Cloudflare",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652314"
+  },
+  {
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "author": "elffjs",
+    "date": "2026-10-04",
+    "score": 527,
+    "comments": 272,
+    "id": 49949235,
+    "discussion_url": "https://news.ycombinator.com/item?id=49949235",
+    "description": "We're going to need default hard budget caps on pretty much everything",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652295"
+  },
+  {
+    "title": "We're working on a new RuneScape MMO",
+    "url": "https://play.runescape.com/4",
+    "author": "droidjj",
+    "date": "2026-10-04",
+    "score": 131,
+    "comments": 65,
+    "id": 49949588,
+    "discussion_url": "https://news.ycombinator.com/item?id=49949588",
+    "description": "We're working on a new RuneScape MMO",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652350"
+  },
+  {
+    "title": "What Meta got right with Muse",
+    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+    "author": "young_mete",
+    "date": "2026-10-03",
+    "score": 88,
+    "comments": 116,
+    "id": 49946526,
+    "discussion_url": "https://news.ycombinator.com/item?id=49946526",
+    "description": "What Meta got right with Muse",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652357"
+  },
+  {
+    "title": "Why don't more developers “use the platform”?",
+    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+    "author": "vinhnx",
+    "date": "2026-10-04",
+    "score": 217,
+    "comments": 213,
+    "id": 49950554,
+    "discussion_url": "https://news.ycombinator.com/item?id=49950554",
+    "description": "Why don't more developers “use the platform”?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-04T15:40:33.652375"
+  },
+  {
+    "title": "Woking Electrical Control Room (2016)",
+    "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+    "author": "NaOH",
     "date": "2026-10-02",
-    "score": 163,
-    "comments": 53,
-    "id": 49933230,
-    "discussion_url": "https://news.ycombinator.com/item?id=49933230",
-    "description": "Venice’s failed war against Constantinople led to the first bond market",
+    "score": 143,
+    "comments": 30,
+    "id": 49938399,
+    "discussion_url": "https://news.ycombinator.com/item?id=49938399",
+    "description": "Woking Electrical Control Room (2016)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339631"
+    "fetched_at": "2026-10-04T15:40:33.652416"
   },
   {
-    "title": "With most information hidden, the game Stratego had stumped AI until now",
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "author": "PaulHoule",
-    "date": "2026-10-03",
-    "score": 274,
-    "comments": 138,
-    "id": 49933740,
-    "discussion_url": "https://news.ycombinator.com/item?id=49933740",
-    "description": "With most information hidden, the game Stratego had stumped AI until now",
+    "title": "Your body of work thinks back at you",
+    "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+    "author": "surprisetalk",
+    "date": "2026-09-30",
+    "score": 87,
+    "comments": 14,
+    "id": 49908570,
+    "discussion_url": "https://news.ycombinator.com/item?id=49908570",
+    "description": "Your body of work thinks back at you",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-04T07:00:19.339597"
+    "fetched_at": "2026-10-04T15:40:33.652379"
   }
 ]
