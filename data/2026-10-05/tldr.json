@@ -1,0 +1,502 @@
+[
+  {
+    "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
+    "url": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites",
+    "description": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI is giving attackers a head start, Microsoft warns",
+    "url": "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report",
+    "description": "AI is giving attackers a head start, Microsoft warns",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Aleph Alpha releases open-weight Kolibri with 1M context",
+    "url": "https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context",
+    "description": "Aleph Alpha releases open-weight Kolibri with 1M context",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Android Security Bulletins have been twisted into a way to mislead the public about security. Pat...",
+    "url": "https://x.com/grapheneos/status/2106799999963034071",
+    "description": "Android Security Bulletins have been twisted into a way to mislead the public about security. Pat...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple tightens macOS Full Disk Access controls for AI agents (*)",
+    "url": "https://developer.apple.com/news?id=p6zjojqw",
+    "description": "Apple tightens macOS Full Disk Access controls for AI agents (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Building a High-Performance and Portable vLLM Linear Backend with Helion",
+    "url": "https://pytorch.org/blog/building-a-high-performance-and-portable-vllm-linear-backend-with-helion",
+    "description": "Building a High-Performance and Portable vLLM Linear Backend with Helion",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Building a RAG Pipeline for Semantic Code Search",
+    "url": "https://news.ycombinator.com/item?id=49956148",
+    "description": "Building a RAG Pipeline for Semantic Code Search",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "CAPCOM-TD-OSS/REDox: High-performance structured data engine for .NET",
+    "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+    "description": "CAPCOM-TD-OSS/REDox: High-performance structured data engine for .NET",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Claude's Constitution",
+    "url": "https://news.ycombinator.com/item?id=49956284",
+    "description": "Claude's Constitution",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Crafting Apps: open-source creative tools — ArtCraft",
+    "url": "https://getartcraft.com/apps",
+    "description": "Crafting Apps: open-source creative tools — ArtCraft",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Data loss in ttrpc-rust",
+    "url": "https://shvbsle.in/data-loss-in-ttrpc-rust",
+    "description": "Data loss in ttrpc-rust",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+    "url": "https://news.ycombinator.com/item?id=49951218",
+    "description": "Emitting metadata early makes building/checking Rust up to twice as fast",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google Finally Unveils Gemini 4 Argon With 1 Million Output Tokens",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=14342",
+    "description": "Google Finally Unveils Gemini 4 Argon With 1 Million Output Tokens",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
+    "url": "https://lobste.rs/s/ul9krj",
+    "description": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How AI21 manages its GPU fleet with Kueue",
+    "url": "https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue",
+    "description": "How AI21 manages its GPU fleet with Kueue",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How OpenAI Disrupted a Model-Distillation Campaign",
+    "url": "https://links.tldrnewsletter.com/VFHse4",
+    "description": "How OpenAI Disrupted a Model-Distillation Campaign",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Python Will Test Adding Rust Into CPython",
+    "url": "https://developers.slashdot.org/story/26/10/04/2034229/how-python-will-test-adding-rust-into-cpython",
+    "description": "How Python Will Test Adding Rust Into CPython",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to Hack Time, With C2PA",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+    "description": "How to Hack Time, With C2PA",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Hundreds of millions of AI agents are coming. Is there work for them?",
+    "url": "https://epochai.substack.com/p/hundreds-of-millions-of-ai-agents",
+    "description": "Hundreds of millions of AI agents are coming. Is there work for them?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing ftl a new operating system for clouds",
+    "url": "https://hraness.com/reading/introducing-ftl-a-new-operating-system-for-clouds",
+    "description": "Introducing ftl a new operating system for clouds",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta tests whether its AI models can contribute to genuinely open research problems",
+    "url": "https://x.com/AIatMeta/status/2106099776035152231",
+    "description": "Meta tests whether its AI models can contribute to genuinely open research problems",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta wants you to build your own Muse gadget",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
+    "description": "Meta wants you to build your own Muse gadget",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+    "description": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Neuralink pretrains a brain-computer interface foundation model on 50,000 hours of implant data",
+    "url": "https://x.com/neuralink/status/2106066173917856070",
+    "description": "Neuralink pretrains a brain-computer interface foundation model on 50,000 hours of implant data",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "New in llama.cpp: Decision Models",
+    "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
+    "description": "New in llama.cpp: Decision Models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "description": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
+    "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
+    "description": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+    "description": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "description": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Run Qwen 3.8-Flash-Next (125B) on consumer hardware with Strata",
+    "url": "https://news.ycombinator.com/item?id=49953495",
+    "description": "Run Qwen 3.8-Flash-Next (125B) on consumer hardware with Strata",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Rust 1.99: variadic functions, Vec::into_parts and what else changed",
+    "url": "https://importstatic.com/rust/rust-1-99-variadic-functions",
+    "description": "Rust 1.99: variadic functions, Vec::into_parts and what else changed",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Rust for CPython (Python Language Summit 2026)",
+    "url": "https://lobste.rs/s/cpf8w6",
+    "description": "Rust for CPython (Python Language Summit 2026)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "ScalingIntelligence/KernelBench: A benchmark for evaluating LLM-generated GPU kernels",
+    "url": "https://github.com/ScalingIntelligence/KernelBench",
+    "description": "ScalingIntelligence/KernelBench: A benchmark for evaluating LLM-generated GPU kernels",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Shibhansh Dohare’s thesis develops neural networks that keep learning without losing plasticity",
+    "url": "https://x.com/RichardSSutton/status/2106471496126505132",
+    "description": "Shibhansh Dohare’s thesis develops neural networks that keep learning without losing plasticity",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX's Starship reaches orbit, but engine issues raise stakes for NASA's Moon plan",
+    "url": "https://www.digitimes.com/news/a20261002PD248/spacex-starlink-commercial-launch.html",
+    "description": "SpaceX's Starship reaches orbit, but engine issues raise stakes for NASA's Moon plan",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "State of the Coding Agent Market, October 2026 | Amplifying",
+    "url": "https://amplifying.ai/research/state-of-coding-agents",
+    "description": "State of the Coding Agent Market, October 2026 | Amplifying",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Supabase announces new development tools at Supabase Select (*)",
+    "url": "https://supabase.com/blog/supabase-select-2026-recap",
+    "description": "Supabase announces new development tools at Supabase Select (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The ESP32, An SDR In Itself",
+    "url": "https://hackaday.com/2026/10/03/the-esp32-an-sdr-in-itself",
+    "description": "The ESP32, An SDR In Itself",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The substitution myth & the tough spot it puts us in",
+    "url": "https://www.adaptivecapacitylabs.com/2026/10/02/the-substitution-myth-the-tough-spot-it-puts-us-in",
+    "description": "The substitution myth & the tough spot it puts us in",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
+    "description": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps",
+    "description": "We're going to need default hard budget caps on pretty much everything",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s go...",
+    "url": "https://x.com/rauchg/status/2106402024804020657",
+    "description": "We’ve confirmed a KVM 0day through our Vercel Sandbox bounty program. Affecting the industry’s go...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Zig 0.17.0 Release Notes",
+    "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+    "description": "Zig 0.17.0 Release Notes",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "a few open source contributions from perplexity recently: •pplx-decider-v1-27b: SoTA multimodal ...",
+    "url": "https://x.com/aravsrinivas/status/2106119404433908149",
+    "description": "a few open source contributions from perplexity recently: •pplx-decider-v1-27b: SoTA multimodal ...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "cua-speedrun: Standardized Benchmarking for Computer-Use Agents",
+    "url": "https://cuaspeedrun.com",
+    "description": "cua-speedrun: Standardized Benchmarking for Computer-Use Agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "eunomia-bpf/agentsight: System-level observability for AI agents using eBPF",
+    "url": "https://github.com/eunomia-bpf/agentsight",
+    "description": "eunomia-bpf/agentsight: System-level observability for AI agents using eBPF",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "meituan-longcat/LongCat-Video: Foundational Video Generation Model and Avatar Framework",
+    "url": "https://github.com/meituan-longcat/LongCat-Video",
+    "description": "meituan-longcat/LongCat-Video: Foundational Video Generation Model and Avatar Framework",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "microsoft/nvx: Cross-Platform Micro-VM Sandbox for Agentic Workloads",
+    "url": "https://github.com/microsoft/nvx",
+    "description": "microsoft/nvx: Cross-Platform Micro-VM Sandbox for Agentic Workloads",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "telepath-computer/television: The missing GUI for personal agents",
+    "url": "https://github.com/telepath-computer/television",
+    "description": "telepath-computer/television: The missing GUI for personal agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-05",
+    "site_name": "tldr"
+  }
+]

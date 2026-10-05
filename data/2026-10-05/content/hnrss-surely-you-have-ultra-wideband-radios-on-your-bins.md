@@ -1,0 +1,176 @@
+---
+title: Surely you have ultra-wideband radios on your bins too? | Simon Green
+url: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/
+site_name: hnrss
+content_file: hnrss-surely-you-have-ultra-wideband-radios-on-your-bins
+fetched_at: '2026-10-05T12:20:23.445576'
+original_url: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/
+date: '2026-10-03'
+published_date: '2026-10-03T00:00:00.000Z'
+description: How I massively over-engineered a trivial problem again because I just can't help myself
+tags:
+- hackernews
+- hnrss
+---
+
+On this page
+8 sections
+* Six bins, several schedules
+* Two boards and a walk outside
+* Something small enough to put on a bin
+* Updating six bins without taking them apart
+* The box took several goes
+* Reminders and Notifications
+* First test in prod
+* Waiting for more bin days
+
+Home Assistant already knows which bins (trash cans, for the international readers) are due for collection. It can tell me it’s bin night, put the right colours on a dashboard, and send me a reminder. What it can’t tell me is whether I’ve actually done anything about it.
+
+I’m pretty sure most folk would just set a recurring reminder on their phone. As my wife will no doubt tell you, I am not most people. Some would just remember to put the bins out, like a normal person. I’m well aware that I’ve ridiculously over-engineered this. I’m also so far from normal that six radio-equipped bins seemed like an enjoyable way to spend my evenings ;)
+
+I had an idea a number of years ago to stick cheap Bluetooth tags on my wheelie bins and use an outdoor Bluetooth proxy to work out whether they were nearby. It was frustrating. The batteries drained quickly, the proximity readings wandered about, and the proxy was unreliable in that particular installation. I wanted to know whether a bin had moved. I mostly acquired another thing to fiddle with.
+
+AirTags were what first got me intrigued by ultra-wideband radio, or UWB. Reading more about how it worked brought the bin idea back. Over the last few weeks it’s becomeBinRange: a fixed radio anchor, six little battery tags, and a Home Assistant setup that combines where the bins have been seen with when they’re due. There’s a printed enclosure, custom firmware, and wireless updates as well. All of which is a fairly substantial answer to “have you put the bins out?” :D
+
+I leaned heavily on Codex throughout the build. Astra became available part-way through, and I was really curious to see how it would do. What I love about working with AI is how quickly I can take an idea, react to the result, give it some feedback, and have something else to try. There’s plenty to write about that in other articles. For now, back to the bins.
+
+There you go, some bins. Beautiful, right?
+
+## Six bins, several schedules
+
+We have one general waste bin, one food compost bin, one garden waste bin, two recycling bins, and a glass bin. Six bins. At one house. They’re not even all on the same collection schedule. I’m grateful that theWaste Collection Schedule integrationfor Home Assistant scrapes the council’s schedules and keeps track of what’s due, because keeping that straight is a job in itself.
+
+With the cheap Bluetooth tags, the way to estimate distance was RSSI - received signal strength indication. You measure how strong the received signal is and use that to guess how far away the tag might be. The trouble is thatsignal strengthdepends on far more than distance. Walls, parked cars, reflections, antenna orientation, and differences between the radios and their antennas all affect it. Even battery voltage can affect thetransmit power on some hardware, depending on how the device is designed. A weaker signal could mean the bin has moved further away, or it could mean something got in the way. It’s a very imprecise way to estimate distance, which explained why my original setup was so frustrating.
+
+UWB was interesting because it measures thetime taken by radio signals to travel between devices. That gives a distance measurement without having to guess it from signal strength. It still has to get a signal through the surroundings, of course. Choosing a different radio doesn’t make parked cars disappear.
+
+I also spent a while detoured into an academic question about how many anchors I’d need to add more dimensions to that awareness. What if I wanted to know the direction as well as the distance from a point? Or the bin’s precise location - how many fixed reference points would I need to triangulate it on a 2D plane? Totally not worth it for this job, but tangential thoughts be tangential thoughts.
+
+For the bins, I only needed to know whether each one had moved far enough from its usual storage area to count as Out. One anchor was enough to start testing that. I used a ten-metre boundary: inside is Home, beyond it is Out, when there’s a fresh reading. It’s specific to my installation, but it meant I could start with one powered board rather than turn the garden into a positioning test range.
+
+## Two boards and a walk outside
+
+The first experiment used twoMakerfabs ESP32-WROVER/DW3000 boards, both powered over USB. Before doing anything clever with Home Assistant, I wanted to see them measure a distance. A local web view let me separate them and watch what happened without needing a USB cable stretched between the two.
+
+One of the development boards. This is the DW3000 model used in the experiment.Hardware reference.
+
+The antenna orientation made a surprisingly large difference. At about ten metres, changing the boards from flat to upright took the observed success rate from 37% to 100% in that test. A slower radio setting with a longer preamble also worked where the initial fast setting struggled. These were useful discoveries to make before designing anything around the first result.
+
+The first time I calibrated it with a tape measure and watched the reported distance differ from my measurement by less than two centimetres, my mind was utterly blown. Two little boards were exchanging radio signals and agreeing with a tape measure to that degree.
+
+In the later recorded test, a measured gap of 10.1 metres produced an average reading of about 10.09 metres, with a standard deviation of three centimetres. That was encouraging for a project which only needed to recognise a bin leaving a storage area. The under-two-centimetre result was what I saw in that first calibration, rather than a promise of that accuracy for every tag, orientation, or outdoor position.
+
+The outdoor walk was more revealing. Readings were reliable to roughly thirty metres, then intermittent further out. The furthest recorded reading was 37.28 metres, with gaps. A car could block the path completely. Holding a board upright in the open and mounting a little tag beneath a bin rim were clearly going to be different tests.
+
+The two-board walk test. It established a useful starting point; it doesn’t establish coverage for the installed bins.Recorded findings.
+
+The anchor publishes its readings over MQTT, and Home Assistant discovers a separate device for each tag. I considered an ESPHome component, but it wasn’t adding much to the arrangement I wanted. There’s no extra BinRange server or cloud service, and the radios can keep ranging while Home Assistant or the MQTT connection is unavailable.
+
+## Something small enough to put on a bin
+
+The development boards were useful for proving the link. I didn’t want one hanging off every bin, with a battery and an improvised box attached. The bin-side hardware needed to be a small, self-contained puck.
+
+I explored custom tags and commercial ones, with the important question being whether I could run my own firmware and use them with my own anchor. A small UWB tag isn’t automatically compatible with another UWB product. The packaged tags I eventually bought were KKM K4Ws, with an nRF52833 processor, a DW3110 radio and a LIS3DH accelerometer. They take removable CR2477 coin cells (which, btw, are some chonky boy coin cells! I’ve not seen them before, thems fat).
+
+The two Makerfabs boards came to US$123.64 including shipping. Ten sample tags at US$25 each, a programming jig and shipping came to another US$330. Those are what the experiment cost at the time, rather than a current shopping list or the cost of a finished six-bin kit. I suspect I should avoid calculating a payback period.
+
+The supplier said the tags could run my firmware and offered a jig to reach the programming connections. I was far more interested in the hardware they were supplying and knowing that programming access wasn’t locked out in some way. None of their existing software features mattered to me. Claims about battery life were meaningless for my use once I was going to be the one deciding when the CPU slept and what woke it up.
+
+I’m pretty familiar with nRF52 devices. I’ve used them for years, going back to my time at rlab. They make brilliant littlelow-power microprocessors, happy to spend most of their lives asleep. If you’re clever with your scheduling and interrupts, you can drag these things out for years on a small battery in the right application. That was much more interesting to me than whatever the supplied firmware happened to do.
+
+I used a spare Nesso device as a programming probe for the pogo-pin jig. I started with a development tag, then commissioned the packaged ones one at a time: programme it, establish its identity, pair it, label it, assign it to a bin, and put it back together. There are several identities involved, including the printed label, the chip identity, and the addresses used by the radios.
+
+Side note: the cases the tags were supplied in had seemingly unique serial numbers printed on them, with QR codes containing those serials. Presumably they serve some purpose in the supplier’s stock firmware and software. I couldn’t find any association with the embedded devices’ MAC addresses or similar identifiers, so they were essentially useless to me. Which is a shame really - if they’d been the radio MAC addresses, for example, that would have been useful!
+
+Close-up of the bin tags stuck to the bins. You can see how chonky they are, those batteries are big! They fit nicely under the rim though, which will keep rain mostly off.
+
+The manufacturer had connected the accelerometer’s interrupt output to a GPIO pin on the nRF, which is incredibly useful. It means I can let the nRF sleep for very long periods, send no radio traffic during that sleep, and wake it up when a physical event happens. Once things settle down, it returns to occasional check-ins, with the UWB radio sleeping between attempts. The firmware default is ten minutes when stationary; I’ve since changed the installed fleet to thirty minutes using controls in Home Assistant, while keeping the five-second moving reports.
+
+That should avoid spending the battery repeatedly reporting that a bin is still sitting where it was. How much life it actually buys is something I still need to measure. I’m collecting voltage and activity information, but a short, fairly flat voltage trace doesn’t give me a defensible estimate in months or years. I’m definitely not interested in using the majority of the battery’s life reporting its own voltage. That seems low value ;)
+
+## Updating six bins without taking them apart
+
+Once a tag is mounted, opening it up and putting it back on the programming jig every time I change the software becomes rather unappealing. The anchor can now deliver signed firmware updates to paired tags over Bluetooth. The previous application is retained so a bad update can roll back, and the system only reports success once the tag is running the exact expected image and has confirmed its own health.
+
+Testing and iterating on this sort of thing is another fantastic use of AI. Codex helped me generate and simulate a whole range of test conditions and failure modes, then work through them to make deploying firmware to one of these things over the air as safe as possible. I tested corrupt images, interrupted transfers, selected power-loss points, and watchdog recovery. I also tested what happened when the anchor wasn’t there: the tag needs to confirm that it’s healthy without a radio reply, rather than abandon working firmware because it can’t reach the anchor.
+
+Going from one tag to several found a different sort of problem. A record in the Bluetooth library had been sized for the number of simultaneous connections rather than the number of paired devices. Adding a further tag could fail even though its keys had been stored. Fixing that meant a new physical tag could pair without clearing the existing ones. Six bins gave the software a better interrogation than one agreeable demo tag.
+
+I’ve since updated the installed anchor and all six tags wirelessly without re-pairing them or reaching for the jig. I’m pleased about that. Some earlier connection attempts needed retries, though, so I still want more evidence before calling the whole process reliably unattended. The programming probe remains the rescue route.
+
+## The box took several goes
+
+The anchor needed a case, which became its own little project. It started as an OpenSCAD design with screws. The first fit check was promising, but small nuts and bolts, PLA tolerances, and a board that could still rattle made the assembly more annoying than I wanted.
+
+I wanted a case made entirely from printed PLA, with no screws: tapered locating pins for the board, printed springs to hold it down, and a lid that stayed on. The pins and springs worked. The lid could move around all over the place.
+
+An internal lip improved the fit. Deeper catches improved the retention, but I could still pull the lid off too easily. Making those catches as deep as the wall seemed like the obvious next attempt, until both roots broke during insertion. That version was excellent at becoming two pieces of broken plastic.
+
+The better change was to overlap the base and lid walls and use several shallow catches. A couple of tweaks to the locating pins and vents later, I had a case that held the board properly and stayed shut. I was very pleased with it, which probably says something about how many lids I’d pulled off by then.
+
+The screwless case, rendered from its print meshes. The colours and finish are illustrative. You canprint it from MakerWorld; thedesign files and history of the less successful attemptsare on GitHub.
+
+That quick loop with Codex was particularly enjoyable for the case: I could refine the design, inspect it, and print it. I still had to pick up the result and find out whether the lid fell off. A geometry check can establish that two shapes should fit together; it doesn’t tell me whether a catch will survive being pushed into place.
+
+The anchor is now wall mounted, with the printed case inside a larger outdoor electrical box alongside its power components. That involved another Amazon order. The relevant bits were:
+
+* A clear-cover outdoor electrical box, listed as IP67 and 8.7 × 6.7 × 4.3 inches (£27.99).
+* A DIN-mounted 12V DC power supply (£11.09).
+* ADC-to-USB-C PD moduleto turn the 12V supply into USB-C power.
+* A Type A RCBO, listed as 10A with 30mA residual-current protection (£14.00).
+* Three metres of 2.5mm² twin-and-earth cable (£11.99).
+* A right-angle USB-C power pigtail with a 25cm lead. I only needed one, but they came in a six-pack (£5.99).
+
+That little USB-C PD module is a pretty cool, unusual device. It takes the 12V feed and provides USB-C Power Delivery. I can see myself ordering another.
+
+Those are the prices on my order, rather than current quotes. A weatherproof box, power supply, USB-C power module, protection, cable, and USB leads for a reminder to put the bins out. I know.
+
+All six bins have their tags fitted. At that point I was feeling fairly optimistic that it was all working.
+
+The anchor installed on the wall. The printed board case is inside the larger enclosure.Installation photograph.
+
+## Reminders and Notifications
+
+The Waste Collection Schedule integration deserves a lot of credit here. Scraping the council’s schedule saves me maintaining several recurring dates and remembering which combination of bins is due. BinRange adds physical information about the bins, and Home Assistant puts the two together.
+
+The ordinary dashboard shows the next collection, compact bin states, and anything needing attention. The ranges and radio diagnostics have their own view. I like looking at the technical details, but checking tomorrow’s bins shouldn’t require interpreting a radio trace.
+
+The reminders are grouped into one message for the relevant bins: at 6pm and 9pm the evening before collection, then a final reminder at 6am if they’re still confidently Home. At 6pm the following day there’s a reminder to bring back bins still Out. The automation remembers its attempts so a rerun doesn’t keep sending the same message.
+
+An unavailable reading shouldn’t result in an accusation that somebody forgot a bin. Likewise, the ordinary bring-in reminder only knows the collection was scheduled and the bin is still out. It doesn’t know whether the crew emptied it.
+
+Home Assistant notification to put some bins out.
+
+I also wanted a message when the bins had just been emptied. There was an obvious temptation to look at movement, time of day, and the collection schedule and call that enough. Looking back at one collection showed how little those clues could establish when tags stopped reporting for much of the day. A wake counter could tell me there had been activity, but it couldn’t tell me who handled the bin or why.
+
+The tags already had accelerometers, so I added a more specific clue. Relative to a calibrated upright position, a sustained tilt beyond ninety degrees records a tip event. The tag keeps that event through a reception gap and reports its age when it next reaches the anchor. Home Assistant can treat a recent tip on a due bin known to be Out as an assumption that it has been emptied.
+
+The first automation checked for pending tips every five seconds. That felt excessive for something that happens a few times a week, so I changed it to an MQTT event flow with a timer that only runs while there’s a deadline pending. Qualifying bins are grouped for sixty seconds, with saved state to suppress repeats and support recovery after a Home Assistant restart. Scheduled reminders remain the fallback.
+
+Home Assistant notification that the bins have been emptied and can be brought back in.
+
+## First test in prod
+
+On 28 September I had a Garden collection I could examine properly. The bin started moving at about 7:05am and crossed the ten-metre boundary shortly afterwards. Reports then stopped arriving while it was away. When it reappeared at about 10:25am, it carried a stored tip from approximately 9:27am, and then crossed back into the Home zone and settled down.
+
+The tag had detected and retained the tip. Departure and return were visible. But the tip was about fifty-eight minutes old by the time Home Assistant received it, beyond the automation’s thirty-minute acceptance limit. The “just emptied” message didn’t send. Other bins had continued reporting, and there wasn’t an MQTT failure at the anchor during the gap. I still don’t have an established explanation for that tag’s lack of reception at the collection position.
+
+That was a useful correction to my optimism. The radio could produce convincing measurements, the tag could detect a tip, and the dashboard could look right, while the phone still missed the emptying notification. Checking a real collection gave me a much better list of what needed attention.
+
+It also changed how I wanted to show a bin that had gone quiet. Originally, an Out reading became Unknown once it was stale. That was cautious, but after watching the bin leave and then lose contact at the kerb, replacing Out with Unknown stopped being very helpful.
+
+The live setup now remembers an observed departure aspresumed Out, even through lost contact or a Home Assistant restart. Reception health is shown separately. A fresh reading inside the boundary is needed to return the bin Home. If it was last seen Home and then goes silent, it becomes Unknown, because I never saw it leave. Return reminders can use presumed Out; put-out reminders still need fresh evidence that the bin is Home.
+
+That makes the display closer to what I actually know.
+
+## Waiting for more bin days
+
+BinRange is installed and in use. (As I type that, I realise I’ve seriously pigeonholed this otherwise general-purpose tool 🤔)
+
+There’s still some fairly ordinary observation to do: coverage at each storage and collection position, several complete cycles with the right notifications delivered, battery behaviour over weeks, and how the mounting and enclosures cope outside. I also want updates to connect dependably without me retrying. I am not really building this for general consumption by other people, but if others are inspired and want to try something similar, or repurpose any of this, they (or their robot friends) are welcome to.
+
+Therepositoryhas the firmware, case files, measured findings, and Home Assistant examples if you’d like a look. This is my hobby project, and I’m still finding out how well it behaves outside.
+
+Of course, now I’ve seen what UWB can do, I’m wondering whether I could put tags on the cats’ collars and use four anchors around the house to map where they are. Could I get centimetre-level cat tracking? I haven’t tested that, and the bins have already demonstrated how much surroundings and radio coverage matter. But I’m very tempted.
+
+Most people would probably just look for the cat.
