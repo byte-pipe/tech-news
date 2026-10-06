@@ -1,10 +1,10 @@
 ---
 title: 'Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners. - DEV Community'
-url: https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom?bb=264617
+url: https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom?bb=264618
 site_name: devto
 content_file: devto-join-the-hacktoberfest-open-source-ai-challenge-to
-fetched_at: '2026-10-06T17:04:39.899556'
-original_url: https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom?bb=264617
+fetched_at: '2026-10-06T22:54:12.545316'
+original_url: https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom?bb=264618
 author: Jem
 date: '2026-10-05'
 description: Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the... Tagged with devchallenge, hf26challenge, hacktoberfest, softwaredevelopment.
@@ -132,7 +132,7 @@ Preview
 
 Dismiss
 
- View full discussion (30 comments)
+ View full discussion (32 comments)
  
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.

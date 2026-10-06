@@ -1,5 +1,15 @@
 [
   {
+    "title": "A Terminal Protocol for Program Status (OSC 7501)",
+    "url": "https://mitchellh.com/writing/program-status-osc7501",
+    "description": "A Terminal Protocol for Program Status (OSC 7501)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
     "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration",
     "description": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
@@ -10,39 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic IPO filing shows CEO Dario Amodei earned $18M last year",
-    "url": "https://thenextweb.com/news/anthropic-dario-amodei-pay-18m-ipo-filing",
-    "description": "Anthropic IPO filing shows CEO Dario Amodei earned $18M last year",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Apple’s New macOS Controls Are the First OS-Level Move Specifically Targeting AI Agent Risks",
-    "url": "https://forkast.news/apples-new-macos-controls-are-the-first-os-level-move-specifically-targeting-ai-agent-risks",
-    "description": "Apple’s New macOS Controls Are the First OS-Level Move Specifically Targeting AI Agent Risks",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-    "url": "https://securitylabs.datadoghq.com/articles/beyond-valid-credentials-how-exposed-aws-keys-are-tested-for-amazon-bedrock-access",
-    "description": "Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "China AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo",
-    "description": "China AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
+    "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+    "url": "https://airbnb.tech/infrastructure/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb",
+    "description": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
     "tags": [
       "tldr"
     ],
@@ -70,19 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Consolidating databases with Postgres logical replication",
-    "url": "https://tapoueh.org/blog/2026/10/consolidating-databases-with-postgres-logical-replication",
-    "description": "Consolidating databases with Postgres logical replication",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Control How Your GPU Shares Work with Green Contexts",
-    "url": "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts",
-    "description": "Control How Your GPU Shares Work with Green Contexts",
+    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+    "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+    "description": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
     "tags": [
       "tldr"
     ],
@@ -101,7 +71,7 @@
   },
   {
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
     "description": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "tags": [
       "tldr"
@@ -110,9 +80,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Figma releases Figma agent generally available (*)",
-    "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent",
-    "description": "Figma releases Figma agent generally available (*)",
+    "title": "Expanding the Cyber Verification Program",
+    "url": "https://www.anthropic.com/news/cyber-verification-program",
+    "description": "Expanding the Cyber Verification Program",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "FastH3 on Consumer Hardware: RTX GPUs, DGX Spark and Macs, Plus FastH3 Trim",
+    "url": "https://haoailab.com/blogs/fasth3-rtx",
+    "description": "FastH3 on Consumer Hardware: RTX GPUs, DGX Spark and Macs, Plus FastH3 Trim",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
+    "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money",
+    "description": "Google's new image model Nano Banana 2.1 generates better images for less money",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services",
+    "description": "Hackers obtain counterfeit TLS certificates for Google and other large services",
     "tags": [
       "tldr"
     ],
@@ -123,6 +123,26 @@
     "title": "How to build an AI-native software factory",
     "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software",
     "description": "How to build an AI-native software factory",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to fix a bug in a fix",
+    "url": "https://projectzero.google/2026/10/emergency-patching.html",
+    "description": "How to fix a bug in a fix",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "I Measured an Agent Gate Without a Model in the Loop. Here Is What It Catches, and What It Costs.",
+    "url": "https://cagritemel.com/blog/agent-gate-measured-without-a-model.html",
+    "description": "I Measured an Agent Gate Without a Model in the Loop. Here Is What It Catches, and What It Costs.",
     "tags": [
       "tldr"
     ],
@@ -170,9 +190,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Living Models pairs Gemma 4 with BOTANIC-1 to help decode plant DNA",
-    "url": "https://deepmind.google/models/gemma/gemmaverse/living-models",
-    "description": "Living Models pairs Gemma 4 with BOTANIC-1 to help decode plant DNA",
+    "title": "Introducing Personal Agent Protocol",
+    "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+    "description": "Introducing Personal Agent Protocol",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+    "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+    "description": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules",
+    "url": "https://arxiv.org/abs/2610.03682",
+    "description": "Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules",
     "tags": [
       "tldr"
     ],
@@ -190,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "NVIDIA Vera HPC Performance Benchmarks Take On AMD EPYC, Intel Xeon",
-    "url": "https://www.phoronix.com/review/nvidia-vera-hpc",
-    "description": "NVIDIA Vera HPC Performance Benchmarks Take On AMD EPYC, Intel Xeon",
+    "title": "Multikernel Loves Supervisor Domains: Hardware Memory Protection Without Virtualization",
+    "url": "https://multikernel.io/2026/10/06/multikernel-loves-supervisor-domains",
+    "description": "Multikernel Loves Supervisor Domains: Hardware Memory Protection Without Virtualization",
     "tags": [
       "tldr"
     ],
@@ -200,29 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "No Traces, No Problem",
-    "url": "https://www.decodingai.com/p/rag-evals-change-prompts",
-    "description": "No Traces, No Problem",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-    "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-    "description": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Open Source as We Know It Is Dead",
-    "url": "https://jross.me/open-source-as-we-know-it-is-dead",
-    "description": "Open Source as We Know It Is Dead",
+    "title": "OpenAI introduces text watermarking and provenance for EU AI Act compliance (*)",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "description": "OpenAI introduces text watermarking and provenance for EU AI Act compliance (*)",
     "tags": [
       "tldr"
     ],
@@ -240,6 +260,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "description": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
     "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
     "description": "OpenAI “rogue” agent activities found on Wikimedia projects",
@@ -250,19 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenSSH 10.6 Released: Post-Quantum Signatures and Compression Side-Channel Fix",
-    "url": "https://www.linuxcompatible.org/story/openssh-106-released-postquantum-signatures-and-compression-sidechannel-fix",
-    "description": "OpenSSH 10.6 Released: Post-Quantum Signatures and Compression Side-Channel Fix",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Our approach to EU text provenance rules",
-    "url": "https://openai.com/index/eu-text-provenance",
-    "description": "Our approach to EU text provenance rules",
+    "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+    "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth",
+    "description": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
     "tags": [
       "tldr"
     ],
@@ -280,9 +300,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
-    "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.1-blog/README.html",
-    "description": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
+    "title": "Pyramid-JiT: Low-Res Drafts, High-Res Images",
+    "url": "https://linum.ai/field-notes/pyramid-jit",
+    "description": "Pyramid-JiT: Low-Res Drafts, High-Res Images",
     "tags": [
       "tldr"
     ],
@@ -290,9 +310,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ReviewBench: An open benchmark for AI code review",
-    "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-    "description": "ReviewBench: An open benchmark for AI code review",
+    "title": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
+    "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.1-blog/README.html",
+    "description": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
     "tags": [
       "tldr"
     ],
@@ -320,16 +340,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "ScopeBench: An Evaluation Framework and Community Benchmark for Reliable Offsec Agents | Dreadnode",
-    "url": "https://dreadnode.io/research/scopebench-evaluation-framework-community-benchmark-for-offsec-agents",
-    "description": "ScopeBench: An Evaluation Framework and Community Benchmark for Reliable Offsec Agents | Dreadnode",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "Security researcher claims they found KVM guest-host escape flaw",
     "url": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
     "description": "Security researcher claims they found KVM guest-host escape flaw",
@@ -350,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions",
-    "url": "https://solana.com/news/solana-foundation-launches-solana-dv-p-an-atomic-settlement-program-built-for-financial-institutions",
-    "description": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions",
+    "title": "Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO",
+    "url": "https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9?st=4khCZp",
+    "description": "Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO",
     "tags": [
       "tldr"
     ],
@@ -380,9 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Stripe stopped taking Bitcoin in 2018. Now it has a new head of crypto - 2014: first big payment...",
-    "url": "https://x.com/0xvishnya/status/2107162739647123838",
-    "description": "Stripe stopped taking Bitcoin in 2018. Now it has a new head of crypto - 2014: first big payment...",
+    "title": "The Decision Model Gold Rush",
+    "url": "https://swapniltalekar.substack.com/p/the-decision-model-gold-rush",
+    "description": "The Decision Model Gold Rush",
     "tags": [
       "tldr"
     ],
@@ -390,9 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Decision Model Gold Rush",
-    "url": "https://swapniltalekar.substack.com/p/the-decision-model-gold-rush",
-    "description": "The Decision Model Gold Rush",
+    "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+    "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift",
+    "description": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
     "tags": [
       "tldr"
     ],
@@ -420,6 +430,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Trainium2 Puts AWS on Track for AI Model Training",
+    "url": "https://www.microprocessorreport.com/p/trainium2-puts-aws-on-track-for-ai",
+    "description": "Trainium2 Puts AWS on Track for AI Model Training",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Turbopuffer: turbopuffer v3 storage layout enables batched execution and 40% faster ORDER BY",
+    "url": "https://turbopuffer.com/v3",
+    "description": "Turbopuffer: turbopuffer v3 storage layout enables batched execution and 40% faster ORDER BY",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-06",
+    "site_name": "tldr"
+  },
+  {
     "title": "Uber to buy ezCater for $2.3bn to bring workplace catering to Uber Eats",
     "url": "https://thenextweb.com/news/uber-ezcater-2-3bn-catering-uber-eats",
     "description": "Uber to buy ezCater for $2.3bn to bring workplace catering to Uber Eats",
@@ -440,39 +470,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What is Codemode",
-    "url": "https://lucumr.pocoo.org/2026/10/6/codemode",
-    "description": "What is Codemode",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
     "title": "Why we're backing America's existing nuclear plants",
     "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants",
     "description": "Why we're backing America's existing nuclear plants",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Zeroization, part 1: Wiping can make things worse",
-    "url": "https://00f.net/2026/10/06/zeroization-1",
-    "description": "Zeroization, part 1: Wiping can make things worse",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-06",
-    "site_name": "tldr"
-  },
-  {
-    "title": "pbakaus/impeccable: Design guidance and skills for AI coding agents",
-    "url": "https://github.com/pbakaus/impeccable",
-    "description": "pbakaus/impeccable: Design guidance and skills for AI coding agents",
     "tags": [
       "tldr"
     ],
