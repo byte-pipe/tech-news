@@ -1,0 +1,502 @@
+[
+  {
+    "title": "AI Neocloud Lambda Is Raising $4 Billion in Final Round Before Planned IPO",
+    "url": "https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9",
+    "description": "AI Neocloud Lambda Is Raising $4 Billion in Final Round Before Planned IPO",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+    "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration",
+    "description": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic IPO filing shows CEO Dario Amodei earned $18M last year",
+    "url": "https://thenextweb.com/news/anthropic-dario-amodei-pay-18m-ipo-filing",
+    "description": "Anthropic IPO filing shows CEO Dario Amodei earned $18M last year",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple’s New macOS Controls Are the First OS-Level Move Specifically Targeting AI Agent Risks",
+    "url": "https://forkast.news/apples-new-macos-controls-are-the-first-os-level-move-specifically-targeting-ai-agent-risks",
+    "description": "Apple’s New macOS Controls Are the First OS-Level Move Specifically Targeting AI Agent Risks",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+    "url": "https://airbnb.tech/infrastructure/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb",
+    "description": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Building and testing a config management orchestrator for Windows",
+    "url": "https://blog.janestreet.com/config-management-orchestrator-for-windows",
+    "description": "Building and testing a config management orchestrator for Windows",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "China AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo",
+    "description": "China AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Cohere launches North 2, an update to its enterprise agent platform with cross-session memory and a redesigned harness, available across cloud and on-premises",
+    "url": "https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory",
+    "description": "Cohere launches North 2, an update to its enterprise agent platform with cross-session memory and a redesigned harness, available across cloud and on-premises",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Consolidating databases with Postgres logical replication",
+    "url": "https://tapoueh.org/blog/2026/10/consolidating-databases-with-postgres-logical-replication",
+    "description": "Consolidating databases with Postgres logical replication",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+    "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+    "description": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
+    "description": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+    "description": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "FastH3 on Consumer Hardware: RTX GPUs, DGX Spark and Macs, Plus FastH3 Trim",
+    "url": "https://haoailab.com/blogs/fasth3-rtx",
+    "description": "FastH3 on Consumer Hardware: RTX GPUs, DGX Spark and Macs, Plus FastH3 Trim",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Figma releases Figma agent generally available (*)",
+    "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent",
+    "description": "Figma releases Figma agent generally available (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to build an AI-native software factory",
+    "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software",
+    "description": "How to build an AI-native software factory",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "IBM and Red Hat Remediate More Than 400 Previously Unknown Open Source Vulnerabilities",
+    "url": "https://newsroom.ibm.com/2026-10-06-ibm-and-red-hat-remediate-more-than-400-previously-unknown-open-source-vulnerabilities",
+    "description": "IBM and Red Hat Remediate More Than 400 Previously Unknown Open Source Vulnerabilities",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/nolla-health-ai-can-now-prescribe-acne-drugs-in-utah-without-doctors?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTIxNjEzOSwiZXhwIjoxNzkxODIwOTM5LCJhcnRpY2xlSWQiOiJUTUZMODVLSVAzS00wMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.crHEdlDbj7Dx78MJpxZ7nHnh7NmskJmIYVmdbeyomfE",
+    "description": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Beam: Reflection's 501B open-weight model — Reflection",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "description": "Introducing Beam: Reflection's 501B open-weight model — Reflection",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4",
+    "description": "Introducing Mistral Large 4",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Personal Agent Protocol",
+    "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+    "description": "Introducing Personal Agent Protocol",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+    "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+    "description": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Memory and dreaming: how Devin learns from working with you",
+    "url": "https://devin.ai/blog/memory-and-dreaming",
+    "description": "Memory and dreaming: how Devin learns from working with you",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "No Traces, No Problem",
+    "url": "https://www.decodingai.com/p/rag-evals-change-prompts",
+    "description": "No Traces, No Problem",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+    "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+    "description": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Open Source as We Know It Is Dead",
+    "url": "https://jross.me/open-source-as-we-know-it-is-dead",
+    "description": "Open Source as We Know It Is Dead",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI introduces visual ad formats and measurement tools for ChatGPT (*)",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "description": "OpenAI introduces visual ad formats and measurement tools for ChatGPT (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+    "description": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenSSH 10.6 Released: Post-Quantum Signatures and Compression Side-Channel Fix",
+    "url": "https://www.linuxcompatible.org/story/openssh-106-released-postquantum-signatures-and-compression-sidechannel-fix",
+    "description": "OpenSSH 10.6 Released: Post-Quantum Signatures and Compression Side-Channel Fix",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "description": "Our approach to EU text provenance rules",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+    "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth",
+    "description": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Prepare and submit your apps for iPhone Duo - Latest News - Apple Developer",
+    "url": "https://developer.apple.com/news?id=kkphp5qo",
+    "description": "Prepare and submit your apps for iPhone Duo - Latest News - Apple Developer",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
+    "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.1-blog/README.html",
+    "description": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Running Claude Code tasks in isolated cloud sessions on fresh VMs",
+    "url": "https://x.com/claudedevs/status/2107542087243907506",
+    "description": "Running Claude Code tasks in isolated cloud sessions on fresh VMs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SEP-2127: MCP Server Cards - HTTP Server Discovery - Model Context Protocol",
+    "url": "https://modelcontextprotocol.io/seps/2127-mcp-server-cards",
+    "description": "SEP-2127: MCP Server Cards - HTTP Server Discovery - Model Context Protocol",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
+    "url": "https://www.theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
+    "description": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Security researcher claims they found KVM guest-host escape flaw",
+    "url": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
+    "description": "Security researcher claims they found KVM guest-host escape flaw",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Software Supply Chain Attack on @subql/common: Overview and Response Guidance",
+    "url": "https://flatt.tech/research/posts/subql-common-npm-supply-chain-attack",
+    "description": "Software Supply Chain Attack on @subql/common: Overview and Response Guidance",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "South Korean officials believe AI agents were used to hack several banks",
+    "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
+    "description": "South Korean officials believe AI agents were used to hack several banks",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Decision Model Gold Rush",
+    "url": "https://swapniltalekar.substack.com/p/the-decision-model-gold-rush",
+    "description": "The Decision Model Gold Rush",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Top 100 Gen AI Consumer Apps — 7th Edition | Andreessen Horowitz",
+    "url": "https://a16z.com/100-gen-ai-apps-7",
+    "description": "The Top 100 Gen AI Consumer Apps — 7th Edition | Andreessen Horowitz",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The results of the 2026 Developer Survey are here!",
+    "url": "https://stackoverflow.blog/2026/10/06/the-results-of-the-2026-developer-survey-are-here",
+    "description": "The results of the 2026 Developer Survey are here!",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The state of the tech industry in 2026",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+    "description": "The state of the tech industry in 2026",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Uber to buy ezCater for $2.3bn to bring workplace catering to Uber Eats",
+    "url": "https://thenextweb.com/news/uber-ezcater-2-3bn-catering-uber-eats",
+    "description": "Uber to buy ezCater for $2.3bn to bring workplace catering to Uber Eats",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Vulnerability in agents from Google and others exposes structural flaw in MCP",
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
+    "description": "Vulnerability in agents from Google and others exposes structural flaw in MCP",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What is Codemode",
+    "url": "https://lucumr.pocoo.org/2026/10/6/codemode",
+    "description": "What is Codemode",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why we're backing America's existing nuclear plants",
+    "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants",
+    "description": "Why we're backing America's existing nuclear plants",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Zeroization, part 1: Wiping can make things worse",
+    "url": "https://00f.net/2026/10/06/zeroization-1",
+    "description": "Zeroization, part 1: Wiping can make things worse",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "pola-rs/polars: Release Python Polars 2.0.0",
+    "url": "https://github.com/pola-rs/polars/releases/tag/py-2.0.0",
+    "description": "pola-rs/polars: Release Python Polars 2.0.0",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "rui314/mold: Release mold 3.0.0",
+    "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+    "description": "rui314/mold: Release mold 3.0.0",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "storytold/photocraft: An open-source Rust reimplementation of Photoshop",
+    "url": "https://github.com/storytold/photocraft",
+    "description": "storytold/photocraft: An open-source Rust reimplementation of Photoshop",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  }
+]
