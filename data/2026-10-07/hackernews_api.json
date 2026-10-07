@@ -4,8 +4,8 @@
     "url": "https://github.com/szabadkai/c64-keyboard-font/",
     "author": "sohkamyung",
     "date": "2026-10-07",
-    "score": 305,
-    "comments": 53,
+    "score": 370,
+    "comments": 62,
     "id": 49990224,
     "discussion_url": "https://news.ycombinator.com/item?id=49990224",
     "description": "A font recreated from photographs of classic Commodore 64 keycaps",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639953"
+    "fetched_at": "2026-10-07T23:28:39.673952"
   },
   {
     "title": "AI-assisted proof of optimal packing for 11 squares",
     "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
     "author": "bluepeter",
     "date": "2026-10-07",
-    "score": 65,
-    "comments": 33,
+    "score": 104,
+    "comments": 48,
     "id": 49993121,
     "discussion_url": "https://news.ycombinator.com/item?id=49993121",
     "description": "AI-assisted proof of optimal packing for 11 squares",
@@ -31,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639991"
+    "fetched_at": "2026-10-07T23:28:39.673931"
   },
   {
     "title": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy",
     "url": "https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/",
     "author": "karakoram",
     "date": "2026-10-07",
-    "score": 84,
-    "comments": 61,
+    "score": 135,
+    "comments": 104,
     "id": 49994122,
     "discussion_url": "https://news.ycombinator.com/item?id=49994122",
     "description": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy",
@@ -48,15 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639862"
+    "fetched_at": "2026-10-07T23:28:39.674128"
   },
   {
     "title": "Animated ASCII Art for Web Pages",
     "url": "https://ascii.rest/",
     "author": "turrini",
     "date": "2026-10-07",
-    "score": 110,
-    "comments": 23,
+    "score": 264,
+    "comments": 56,
     "id": 49993857,
     "discussion_url": "https://news.ycombinator.com/item?id=49993857",
     "description": "Animated ASCII Art for Web Pages",
@@ -65,32 +65,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639943"
+    "fetched_at": "2026-10-07T23:28:39.673890"
   },
   {
-    "title": "Anti-Patterns in Software Blogging",
+    "title": "Anti-patterns in software blogging",
     "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
     "author": "ilreb",
     "date": "2026-10-07",
-    "score": 97,
-    "comments": 34,
+    "score": 192,
+    "comments": 109,
     "id": 49992257,
     "discussion_url": "https://news.ycombinator.com/item?id=49992257",
-    "description": "Anti-Patterns in Software Blogging",
+    "description": "Anti-patterns in software blogging",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639948"
+    "fetched_at": "2026-10-07T23:28:39.673914"
+  },
+  {
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "author": "sfkgtbor",
+    "date": "2026-10-07",
+    "score": 612,
+    "comments": 293,
+    "id": 49996437,
+    "discussion_url": "https://news.ycombinator.com/item?id=49996437",
+    "description": "Claude Haiku 5.5",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-07T23:28:39.673852"
+  },
+  {
+    "title": "Docker Agent",
+    "url": "https://github.com/docker/docker-agent",
+    "author": "saikatsg",
+    "date": "2026-10-07",
+    "score": 157,
+    "comments": 68,
+    "id": 49996259,
+    "discussion_url": "https://news.ycombinator.com/item?id=49996259",
+    "description": "Docker Agent",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-07T23:28:39.673858"
   },
   {
     "title": "ESP32-C3 Adblock",
     "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
     "author": "jayhoon",
     "date": "2026-10-07",
-    "score": 168,
-    "comments": 68,
+    "score": 177,
+    "comments": 73,
     "id": 49986862,
     "discussion_url": "https://news.ycombinator.com/item?id=49986862",
     "description": "ESP32-C3 Adblock",
@@ -99,32 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640039"
+    "fetched_at": "2026-10-07T23:28:39.674138"
   },
   {
-    "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
-    "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
-    "author": "gagan2020",
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "author": "joshuawright11",
     "date": "2026-10-07",
-    "score": 192,
-    "comments": 153,
-    "id": 49994027,
-    "discussion_url": "https://news.ycombinator.com/item?id=49994027",
-    "description": "GitHub Incident with Git Operations, Pull Requests and Actions",
+    "score": 448,
+    "comments": 230,
+    "id": 49996425,
+    "discussion_url": "https://news.ycombinator.com/item?id=49996425",
+    "description": "GPT‑6 and Intelligent UI for everyone",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639986"
+    "fetched_at": "2026-10-07T23:28:39.673846"
   },
   {
     "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
     "url": "https://github.com/snuri00/psp-web-recomp",
     "author": "sn001",
     "date": "2026-10-07",
-    "score": 70,
-    "comments": 39,
+    "score": 143,
+    "comments": 76,
     "id": 49991243,
     "discussion_url": "https://news.ycombinator.com/item?id=49991243",
     "description": "God of War on PSP, recompiled to WebAssembly and running in the browser",
@@ -133,32 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640025"
-  },
-  {
-    "title": "Google Playground",
-    "url": "https://labs.google/playground",
-    "author": "trollied",
-    "date": "2026-10-07",
-    "score": 106,
-    "comments": 87,
-    "id": 49992774,
-    "discussion_url": "https://news.ycombinator.com/item?id=49992774",
-    "description": "Google Playground",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640034"
+    "fetched_at": "2026-10-07T23:28:39.673964"
   },
   {
     "title": "Google Playground: Create and play custom games",
     "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
     "author": "acossta",
     "date": "2026-10-07",
-    "score": 82,
-    "comments": 78,
+    "score": 105,
+    "comments": 190,
     "id": 49991823,
     "discussion_url": "https://news.ycombinator.com/item?id=49991823",
     "description": "Google Playground: Create and play custom games",
@@ -167,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640149"
+    "fetched_at": "2026-10-07T23:28:39.673996"
   },
   {
     "title": "House with 15m underground tunnels for sale for 300k",
     "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
     "author": "librasteve",
     "date": "2026-10-07",
-    "score": 110,
-    "comments": 116,
+    "score": 146,
+    "comments": 153,
     "id": 49992125,
     "discussion_url": "https://news.ycombinator.com/item?id=49992125",
     "description": "House with 15m underground tunnels for sale for 300k",
@@ -184,32 +201,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640074"
+    "fetched_at": "2026-10-07T23:28:39.673990"
   },
   {
-    "title": "Mallet Head Angle",
-    "url": "http://www.timberframe-tools.com/tools/mallet-head-angle/",
-    "author": "frogulis",
+    "title": "How machines learned precision",
+    "url": "https://glinscott.github.io/how-machines-learned-precision/",
+    "author": "glinscott",
     "date": "2026-10-06",
-    "score": 53,
-    "comments": 20,
-    "id": 49973822,
-    "discussion_url": "https://news.ycombinator.com/item?id=49973822",
-    "description": "Mallet Head Angle",
+    "score": 85,
+    "comments": 40,
+    "id": 49980626,
+    "discussion_url": "https://news.ycombinator.com/item?id=49980626",
+    "description": "How machines learned precision",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639915"
+    "fetched_at": "2026-10-07T23:28:39.673908"
+  },
+  {
+    "title": "Margaret Hamilton, who led software development for the Apollo program, has died",
+    "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+    "author": "muglug",
+    "date": "2026-10-07",
+    "score": 306,
+    "comments": 30,
+    "id": 49998895,
+    "discussion_url": "https://news.ycombinator.com/item?id=49998895",
+    "description": "Margaret Hamilton, who led software development for the Apollo program, has died",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-07T23:28:39.673817"
+  },
+  {
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+    "author": "speckx",
+    "date": "2026-10-07",
+    "score": 241,
+    "comments": 230,
+    "id": 49997161,
+    "discussion_url": "https://news.ycombinator.com/item?id=49997161",
+    "description": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-07T23:28:39.673831"
   },
   {
     "title": "Mistral Large 4",
     "url": "https://mistral.ai/news/mistral-large-4/\\",
     "author": "Philpax",
     "date": "2026-10-06",
-    "score": 1969,
-    "comments": 1173,
+    "score": 1992,
+    "comments": 1189,
     "id": 49977979,
     "discussion_url": "https://news.ycombinator.com/item?id=49977979",
     "description": "Mistral Large 4",
@@ -218,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640053"
+    "fetched_at": "2026-10-07T23:28:39.674081"
   },
   {
     "title": "Navier–Stokes Lost in Translation",
     "url": "https://arxiv.org/abs/2610.08144",
     "author": "nill0",
     "date": "2026-10-07",
-    "score": 124,
-    "comments": 93,
+    "score": 223,
+    "comments": 147,
     "id": 49994145,
     "discussion_url": "https://news.ycombinator.com/item?id=49994145",
     "description": "Navier–Stokes Lost in Translation",
@@ -235,15 +286,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639929"
+    "fetched_at": "2026-10-07T23:28:39.673897"
   },
   {
     "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
     "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
     "author": "sasvari",
     "date": "2026-10-07",
-    "score": 234,
-    "comments": 38,
+    "score": 286,
+    "comments": 53,
     "id": 49990470,
     "discussion_url": "https://news.ycombinator.com/item?id=49990470",
     "description": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
@@ -252,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639867"
+    "fetched_at": "2026-10-07T23:28:39.673985"
   },
   {
     "title": "Rust's derive often implies inline",
     "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
     "author": "woodruffw",
     "date": "2026-10-04",
-    "score": 91,
-    "comments": 19,
+    "score": 109,
+    "comments": 29,
     "id": 49949680,
     "discussion_url": "https://news.ycombinator.com/item?id=49949680",
     "description": "Rust's derive often implies inline",
@@ -269,32 +320,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639994"
-  },
-  {
-    "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-    "url": "https://github.com/shader-effects-inc/shaders",
-    "author": "jinqueeny",
-    "date": "2026-10-07",
-    "score": 60,
-    "comments": 28,
-    "id": 49988709,
-    "discussion_url": "https://news.ycombinator.com/item?id=49988709",
-    "description": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640115"
+    "fetched_at": "2026-10-07T23:28:39.674033"
   },
   {
     "title": "Sharing AI progress in mathematics",
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
     "author": "OfficialTurkey",
     "date": "2026-10-06",
-    "score": 1156,
-    "comments": 1289,
+    "score": 1215,
+    "comments": 1388,
     "id": 49984923,
     "discussion_url": "https://news.ycombinator.com/item?id=49984923",
     "description": "Sharing AI progress in mathematics",
@@ -303,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640021"
+    "fetched_at": "2026-10-07T23:28:39.673969"
   },
   {
     "title": "Shipping JPEG XL in Chrome",
     "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
     "author": "AshleysBrain",
     "date": "2026-10-07",
-    "score": 362,
-    "comments": 219,
+    "score": 466,
+    "comments": 300,
     "id": 49991227,
     "discussion_url": "https://news.ycombinator.com/item?id=49991227",
     "description": "Shipping JPEG XL in Chrome",
@@ -320,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639882"
+    "fetched_at": "2026-10-07T23:28:39.673864"
   },
   {
     "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
     "url": "https://artmuseum.artfrompixels.com/",
     "author": "jasontr",
     "date": "2026-10-07",
-    "score": 98,
-    "comments": 47,
+    "score": 139,
+    "comments": 60,
     "id": 49992057,
     "discussion_url": "https://news.ycombinator.com/item?id=49992057",
     "description": "Show HN: A walkable 3D art history museum built from Wikipedia",
@@ -337,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639934"
+    "fetched_at": "2026-10-07T23:28:39.674054"
   },
   {
     "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
     "url": "https://astrohelm.app/",
     "author": "HeavenFox",
     "date": "2026-10-04",
-    "score": 80,
-    "comments": 27,
+    "score": 88,
+    "comments": 30,
     "id": 49954015,
     "discussion_url": "https://news.ycombinator.com/item?id=49954015",
     "description": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
@@ -354,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640016"
+    "fetched_at": "2026-10-07T23:28:39.674107"
   },
   {
     "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
     "url": "https://bigwords.page/",
     "author": "SpeakingOfBrad",
     "date": "2026-10-07",
-    "score": 52,
-    "comments": 16,
+    "score": 306,
+    "comments": 101,
     "id": 49994443,
     "discussion_url": "https://news.ycombinator.com/item?id=49994443",
     "description": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
@@ -371,49 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639962"
-  },
-  {
-    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "url": "https://github.com/nano-muse/nanoMuse",
-    "author": "ilreb",
-    "date": "2026-10-07",
-    "score": 54,
-    "comments": 18,
-    "id": 49987765,
-    "discussion_url": "https://news.ycombinator.com/item?id=49987765",
-    "description": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640083"
-  },
-  {
-    "title": "Strands Decider 2B: a small, open-source, decision model",
-    "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-    "author": "gmays",
-    "date": "2026-10-07",
-    "score": 264,
-    "comments": 74,
-    "id": 49987076,
-    "discussion_url": "https://news.ycombinator.com/item?id=49987076",
-    "description": "Strands Decider 2B: a small, open-source, decision model",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639967"
+    "fetched_at": "2026-10-07T23:28:39.673903"
   },
   {
     "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
     "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
     "author": "sbulaev",
     "date": "2026-10-07",
-    "score": 52,
-    "comments": 14,
+    "score": 87,
+    "comments": 31,
     "id": 49994746,
     "discussion_url": "https://news.ycombinator.com/item?id=49994746",
     "description": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
@@ -422,66 +422,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639904"
+    "fetched_at": "2026-10-07T23:28:39.674148"
   },
   {
-    "title": "SynthID Detector",
-    "url": "https://synthid.com/",
-    "author": "ilreb",
+    "title": "The Mathocalypse",
+    "url": "https://scottaaronson.blog/?p=10169",
+    "author": "6bitquant",
     "date": "2026-10-07",
-    "score": 64,
-    "comments": 59,
-    "id": 49993188,
-    "discussion_url": "https://news.ycombinator.com/item?id=49993188",
-    "description": "SynthID Detector",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640048"
-  },
-  {
-    "title": "The cost of lies: A Mineserver story",
-    "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-    "author": "luu",
-    "date": "2026-10-04",
     "score": 169,
-    "comments": 74,
-    "id": 49950865,
-    "discussion_url": "https://news.ycombinator.com/item?id=49950865",
-    "description": "The cost of lies: A Mineserver story",
+    "comments": 202,
+    "id": 49997718,
+    "discussion_url": "https://news.ycombinator.com/item?id=49997718",
+    "description": "The Mathocalypse",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640102"
+    "fetched_at": "2026-10-07T23:28:39.674038"
   },
   {
-    "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+    "title": "The art of defusing a second world war bomb",
+    "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+    "author": "sandebert",
+    "date": "2026-10-07",
+    "score": 108,
+    "comments": 86,
+    "id": 49987858,
+    "discussion_url": "https://news.ycombinator.com/item?id=49987858",
+    "description": "The art of defusing a second world war bomb",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-07T23:28:39.674011"
+  },
+  {
+    "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
     "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
     "author": "DeepLogin",
     "date": "2026-10-07",
-    "score": 173,
-    "comments": 76,
+    "score": 455,
+    "comments": 316,
     "id": 49993914,
     "discussion_url": "https://news.ycombinator.com/item?id=49993914",
-    "description": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+    "description": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639846"
+    "fetched_at": "2026-10-07T23:28:39.673936"
   },
   {
     "title": "What is Codemode",
     "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
     "author": "Tomte",
     "date": "2026-10-06",
-    "score": 139,
-    "comments": 66,
+    "score": 145,
+    "comments": 75,
     "id": 49978333,
     "discussion_url": "https://news.ycombinator.com/item?id=49978333",
     "description": "What is Codemode",
@@ -490,23 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.640058"
+    "fetched_at": "2026-10-07T23:28:39.674133"
   },
   {
-    "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-    "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
-    "author": "Theory42",
-    "date": "2026-10-07",
-    "score": 64,
-    "comments": 43,
-    "id": 49991580,
-    "discussion_url": "https://news.ycombinator.com/item?id=49991580",
-    "description": "Write Like It's 1866: LLMs Relearn Telegraphese",
+    "title": "Wood Tape (2004)",
+    "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+    "author": "NaOH",
+    "date": "2026-10-06",
+    "score": 142,
+    "comments": 17,
+    "id": 49974173,
+    "discussion_url": "https://news.ycombinator.com/item?id=49974173",
+    "description": "Wood Tape (2004)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-07T17:42:30.639958"
+    "fetched_at": "2026-10-07T23:28:39.673974"
   }
 ]

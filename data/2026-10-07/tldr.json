@@ -1,8 +1,8 @@
 [
   {
-    "title": "86,644 Firewalls in 194 Countries Breached With Stolen Passwords",
-    "url": "https://thecyberexpress.com/fortibleed-campaign-hits-fortinet-devices",
-    "description": "86,644 Firewalls in 194 Countries Breached With Stolen Passwords",
+    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+    "description": "64-Day Certificate Lifetimes Coming Feb 2027",
     "tags": [
       "tldr"
     ],
@@ -30,9 +30,49 @@
     "site_name": "tldr"
   },
   {
+    "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687",
+    "description": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
     "title": "Announcing the Centre for Cryptographic Trust Infrastructure (CCTI)",
     "url": "http://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html",
     "description": "Announcing the Centre for Cryptographic Trust Infrastructure (CCTI)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Arista takes Ethernet into the rack, and the network becomes the backplane",
+    "url": "https://siliconangle.com/2026/10/07/arista-takes-ethernet-rack-network-becomes-backplane",
+    "description": "Arista takes Ethernet into the rack, and the network becomes the backplane",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
+    "url": "https://commandline.microsoft.com/local-models-sandboxed-tools-github-windows",
+    "description": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Broadcom Plans $50 Billion Financing for OpenAI Chips, WSJ Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-07/broadcom-plans-50-billion-financing-for-openai-chips-wsj-says",
+    "description": "Broadcom Plans $50 Billion Financing for OpenAI Chips, WSJ Says",
     "tags": [
       "tldr"
     ],
@@ -60,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "DarkSword/Coruna Open Directory Finding Report: Analysis of iOS Exploit Infrastructure",
-    "url": "https://censys.com/blog/darksword-coruna-open-directory-finding-report",
-    "description": "DarkSword/Coruna Open Directory Finding Report: Analysis of iOS Exploit Infrastructure",
+    "title": "DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0",
+    "url": "https://vllm.ai/blog/2026-10-07-deepseek-v41-flash",
+    "description": "DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0",
     "tags": [
       "tldr"
     ],
@@ -100,6 +140,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "description": "GPT‑6 and Intelligent UI for everyone",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
     "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
     "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
     "description": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
@@ -130,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google launches Playground to turn prompts into games, with Unity on board",
-    "url": "https://thenextweb.com/news/google-playground-unity-spark-ai-game-creation",
-    "description": "Google launches Playground to turn prompts into games, with Unity on board",
+    "title": "Google researchers publish generative AI patent attorney study (*)",
+    "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
+    "description": "Google researchers publish generative AI patent attorney study (*)",
     "tags": [
       "tldr"
     ],
@@ -150,26 +200,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look",
-    "description": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-05/nolla-health-ai-can-now-prescribe-acne-drugs-in-utah-without-doctors?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTIxNjEzOSwiZXhwIjoxNzkxODIwOTM5LCJhcnRpY2xlSWQiOiJUTUZMODVLSVAzS00wMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.crHEdlDbj7Dx78MJpxZ7nHnh7NmskJmIYVmdbeyomfE",
-    "description": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
     "title": "Introducing Beam: Reflection's 501B open-weight model — Reflection",
     "url": "https://reflection.ai/blog/introducing-beam",
     "description": "Introducing Beam: Reflection's 501B open-weight model — Reflection",
@@ -180,9 +210,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Introducing Claude Haiku 5.5 \\ Anthropic",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "Introducing Claude Haiku 5.5 \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
     "title": "Introducing Mistral Large 4",
     "url": "https://mistral.ai/news/mistral-large-4",
     "description": "Introducing Mistral Large 4",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing OpenDocRouter: every document model under one API",
+    "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
+    "description": "Introducing OpenDocRouter: every document model under one API",
     "tags": [
       "tldr"
     ],
@@ -210,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules",
-    "url": "https://arxiv.org/abs/2610.03682",
-    "description": "Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules",
+    "title": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark",
+    "url": "https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai",
+    "description": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark",
     "tags": [
       "tldr"
     ],
@@ -220,19 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Memory and dreaming: how Devin learns from working with you",
-    "url": "https://devin.ai/blog/memory-and-dreaming",
-    "description": "Memory and dreaming: how Devin learns from working with you",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
-    "url": "https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07",
-    "description": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
+    "title": "Microsoft brings hybrid AI and agent controls to Windows",
+    "url": "https://www.testingcatalog.com/microsoft-brings-hybrid-ai-and-agent-controls-to-windows",
+    "description": "Microsoft brings hybrid AI and agent controls to Windows",
     "tags": [
       "tldr"
     ],
@@ -260,6 +300,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic",
+    "description": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI hits 40M Codex and ChatGPT Work users (*)",
+    "url": "https://x.com/thsottiaux/status/2107913674593644711",
+    "description": "OpenAI hits 40M Codex and ChatGPT Work users (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
     "title": "OpenAI introduces visual ad formats and measurement tools for ChatGPT (*)",
     "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
     "description": "OpenAI introduces visual ad formats and measurement tools for ChatGPT (*)",
@@ -273,16 +333,6 @@
     "title": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
     "description": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-    "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-    "description": "OpenAI “rogue” agent activities found on Wikimedia projects",
     "tags": [
       "tldr"
     ],
@@ -320,9 +370,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Retrofitting language models to operate over bytes",
-    "url": "https://www.nature.com/articles/s41586-026-11111-4",
-    "description": "Retrofitting language models to operate over bytes",
+    "title": "Putting a Transformer Inside Every Card Authorization",
+    "url": "https://builders.ramp.com/post/sequence-aware-card-fraud",
+    "description": "Putting a Transformer Inside Every Card Authorization",
     "tags": [
       "tldr"
     ],
@@ -380,19 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo",
-    "url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51",
-    "description": "Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-    "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains",
-    "description": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+    "title": "SpaceX to borrow $40-billion to buy Nvidia chips",
+    "url": "https://techcentral.co.za/spacex-40-billion-apollo-nvidia-chips/286971",
+    "description": "SpaceX to borrow $40-billion to buy Nvidia chips",
     "tags": [
       "tldr"
     ],
@@ -410,16 +450,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Top 100 Gen AI Consumer Apps — 7th Edition | Andreessen Horowitz",
-    "url": "https://a16z.com/100-gen-ai-apps-7",
-    "description": "The Top 100 Gen AI Consumer Apps — 7th Edition | Andreessen Horowitz",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
     "title": "The state of the tech industry in 2026",
     "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
     "description": "The state of the tech industry in 2026",
@@ -430,39 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What is Codemode",
-    "url": "https://lucumr.pocoo.org/2026/10/6/codemode",
-    "description": "What is Codemode",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "What stateless MCP changes for gateways",
-    "url": "https://bengreenberg.dev/blog/what-stateless-mcp-changes-for-gateways",
-    "description": "What stateless MCP changes for gateways",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "White House, Anduril announce plans for new ‘software-defined’ shipyard to help build attack submarines",
-    "url": "https://defensescoop.com/2026/10/06/white-house-anduril-announce-new-shipyard-baltimore-county",
-    "description": "White House, Anduril announce plans for new ‘software-defined’ shipyard to help build attack submarines",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Zuckerberg’s Biohub Partners With DOE, NIH to Invest $1.8 Billion in Biological Data for AI Models",
-    "url": "https://www.wsj.com/tech/ai/zuckerbergs-biohub-partners-with-doe-nih-to-invest-1-8-billion-in-biological-data-for-ai-models-f8d5f799",
-    "description": "Zuckerberg’s Biohub Partners With DOE, NIH to Invest $1.8 Billion in Biological Data for AI Models",
+    "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+    "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior",
+    "description": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
     "tags": [
       "tldr"
     ],
