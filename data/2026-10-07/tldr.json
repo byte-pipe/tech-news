@@ -1,8 +1,8 @@
 [
   {
-    "title": "AI Neocloud Lambda Is Raising $4 Billion in Final Round Before Planned IPO",
-    "url": "https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9",
-    "description": "AI Neocloud Lambda Is Raising $4 Billion in Final Round Before Planned IPO",
+    "title": "86,644 Firewalls in 194 Countries Breached With Stolen Passwords",
+    "url": "https://thecyberexpress.com/fortibleed-campaign-hits-fortinet-devices",
+    "description": "86,644 Firewalls in 194 Countries Breached With Stolen Passwords",
     "tags": [
       "tldr"
     ],
@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
-    "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration",
-    "description": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+    "title": "A Note on Our Fundraise | Nous Research",
+    "url": "https://nousresearch.com/a-note-on-our-fundraise",
+    "description": "A Note on Our Fundraise | Nous Research",
     "tags": [
       "tldr"
     ],
@@ -20,9 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic IPO filing shows CEO Dario Amodei earned $18M last year",
-    "url": "https://thenextweb.com/news/anthropic-dario-amodei-pay-18m-ipo-filing",
-    "description": "Anthropic IPO filing shows CEO Dario Amodei earned $18M last year",
+    "title": "A Terminal Protocol for Program Status (OSC 7501)",
+    "url": "https://mitchellh.com/writing/program-status-osc7501",
+    "description": "A Terminal Protocol for Program Status (OSC 7501)",
     "tags": [
       "tldr"
     ],
@@ -30,9 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple’s New macOS Controls Are the First OS-Level Move Specifically Targeting AI Agent Risks",
-    "url": "https://forkast.news/apples-new-macos-controls-are-the-first-os-level-move-specifically-targeting-ai-agent-risks",
-    "description": "Apple’s New macOS Controls Are the First OS-Level Move Specifically Targeting AI Agent Risks",
+    "title": "Announcing the Centre for Cryptographic Trust Infrastructure (CCTI)",
+    "url": "http://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html",
+    "description": "Announcing the Centre for Cryptographic Trust Infrastructure (CCTI)",
     "tags": [
       "tldr"
     ],
@@ -40,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
-    "url": "https://airbnb.tech/infrastructure/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb",
-    "description": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+    "title": "Building resilient systems with Sam Newman",
+    "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+    "description": "Building resilient systems with Sam Newman",
     "tags": [
       "tldr"
     ],
@@ -50,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building and testing a config management orchestrator for Windows",
-    "url": "https://blog.janestreet.com/config-management-orchestrator-for-windows",
-    "description": "Building and testing a config management orchestrator for Windows",
+    "title": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products",
+    "url": "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products",
+    "description": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products",
     "tags": [
       "tldr"
     ],
@@ -60,49 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "China AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo",
-    "description": "China AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Cohere launches North 2, an update to its enterprise agent platform with cross-session memory and a redesigned harness, available across cloud and on-premises",
-    "url": "https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory",
-    "description": "Cohere launches North 2, an update to its enterprise agent platform with cross-session memory and a redesigned harness, available across cloud and on-premises",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Consolidating databases with Postgres logical replication",
-    "url": "https://tapoueh.org/blog/2026/10/consolidating-databases-with-postgres-logical-replication",
-    "description": "Consolidating databases with Postgres logical replication",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-    "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-    "description": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
-    "description": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
+    "title": "DarkSword/Coruna Open Directory Finding Report: Analysis of iOS Exploit Infrastructure",
+    "url": "https://censys.com/blog/darksword-coruna-open-directory-finding-report",
+    "description": "DarkSword/Coruna Open Directory Finding Report: Analysis of iOS Exploit Infrastructure",
     "tags": [
       "tldr"
     ],
@@ -111,8 +71,18 @@
   },
   {
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
     "description": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Expanding the Cyber Verification Program",
+    "url": "https://www.anthropic.com/news/cyber-verification-program",
+    "description": "Expanding the Cyber Verification Program",
     "tags": [
       "tldr"
     ],
@@ -130,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Figma releases Figma agent generally available (*)",
-    "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent",
-    "description": "Figma releases Figma agent generally available (*)",
+    "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+    "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+    "description": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
     "tags": [
       "tldr"
     ],
@@ -140,9 +110,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How to build an AI-native software factory",
-    "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software",
-    "description": "How to build an AI-native software factory",
+    "title": "Google expands global access to SynthID Detector in partnership with OpenAI, NVIDIA, and Apple",
+    "url": "https://x.com/newsfromgoogle/status/2107837483983483360",
+    "description": "Google expands global access to SynthID Detector in partnership with OpenAI, NVIDIA, and Apple",
     "tags": [
       "tldr"
     ],
@@ -150,9 +120,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "IBM and Red Hat Remediate More Than 400 Previously Unknown Open Source Vulnerabilities",
-    "url": "https://newsroom.ibm.com/2026-10-06-ibm-and-red-hat-remediate-more-than-400-previously-unknown-open-source-vulnerabilities",
-    "description": "IBM and Red Hat Remediate More Than 400 Previously Unknown Open Source Vulnerabilities",
+    "title": "Google goes nuclear to power its AI data centers, committing to purchase 890 megawatts of energy from Constellation",
+    "url": "https://siliconangle.com/2026/10/06/google-goes-nuclear-to-power-its-ai-data-centers-committing-to-purchase-890-megawatts-of-energy-from-constellation",
+    "description": "Google goes nuclear to power its AI data centers, committing to purchase 890 megawatts of energy from Constellation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google launches Playground to turn prompts into games, with Unity on board",
+    "url": "https://thenextweb.com/news/google-playground-unity-spark-ai-game-creation",
+    "description": "Google launches Playground to turn prompts into games, with Unity on board",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Hackers hijack three country-code domain registries, obtain HTTPS certificates for Google domains",
+    "url": "https://www.helpnetsecurity.com/2026/10/07/google-unauthorized-https-certificates-cctld-hijacks",
+    "description": "Hackers hijack three country-code domain registries, obtain HTTPS certificates for Google domains",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look",
+    "description": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
     "tags": [
       "tldr"
     ],
@@ -200,9 +200,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-    "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-    "description": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+    "title": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript",
+    "url": "https://x.com/rauchg/status/2107119811444748555",
+    "description": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules",
+    "url": "https://arxiv.org/abs/2610.03682",
+    "description": "Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules",
     "tags": [
       "tldr"
     ],
@@ -220,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "No Traces, No Problem",
-    "url": "https://www.decodingai.com/p/rag-evals-change-prompts",
-    "description": "No Traces, No Problem",
+    "title": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
+    "url": "https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07",
+    "description": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
     "tags": [
       "tldr"
     ],
@@ -230,9 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-    "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-    "description": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+    "title": "Musk’s Grok Bot will use Anthropic’s Claude, Midjourney and Suno models",
+    "url": "https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk",
+    "description": "Musk’s Grok Bot will use Anthropic’s Claude, Midjourney and Suno models",
     "tags": [
       "tldr"
     ],
@@ -240,9 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Open Source as We Know It Is Dead",
-    "url": "https://jross.me/open-source-as-we-know-it-is-dead",
-    "description": "Open Source as We Know It Is Dead",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "description": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
     "tags": [
       "tldr"
     ],
@@ -260,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-    "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-    "description": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "title": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "description": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
     "tags": [
       "tldr"
     ],
@@ -270,9 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenSSH 10.6 Released: Post-Quantum Signatures and Compression Side-Channel Fix",
-    "url": "https://www.linuxcompatible.org/story/openssh-106-released-postquantum-signatures-and-compression-sidechannel-fix",
-    "description": "OpenSSH 10.6 Released: Post-Quantum Signatures and Compression Side-Channel Fix",
+    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+    "description": "OpenAI “rogue” agent activities found on Wikimedia projects",
     "tags": [
       "tldr"
     ],
@@ -310,9 +320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
-    "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-10.1-blog/README.html",
-    "description": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
+    "title": "Retrofitting language models to operate over bytes",
+    "url": "https://www.nature.com/articles/s41586-026-11111-4",
+    "description": "Retrofitting language models to operate over bytes",
     "tags": [
       "tldr"
     ],
@@ -320,19 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Running Claude Code tasks in isolated cloud sessions on fresh VMs",
-    "url": "https://x.com/claudedevs/status/2107542087243907506",
-    "description": "Running Claude Code tasks in isolated cloud sessions on fresh VMs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "SEP-2127: MCP Server Cards - HTTP Server Discovery - Model Context Protocol",
-    "url": "https://modelcontextprotocol.io/seps/2127-mcp-server-cards",
-    "description": "SEP-2127: MCP Server Cards - HTTP Server Discovery - Model Context Protocol",
+    "title": "SAP Just Added Stablecoin Settlement to the Software That Runs 84% of Global Commerce",
+    "url": "https://forkast.news/sap-just-added-stablecoin-settlement-to-the-software-that-runs-84-of-global-commerce",
+    "description": "SAP Just Added Stablecoin Settlement to the Software That Runs 84% of Global Commerce",
     "tags": [
       "tldr"
     ],
@@ -370,9 +370,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "South Korean officials believe AI agents were used to hack several banks",
-    "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
-    "description": "South Korean officials believe AI agents were used to hack several banks",
+    "title": "Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO",
+    "url": "https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9?st=4khCZp",
+    "description": "Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO",
     "tags": [
       "tldr"
     ],
@@ -380,9 +380,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Decision Model Gold Rush",
-    "url": "https://swapniltalekar.substack.com/p/the-decision-model-gold-rush",
-    "description": "The Decision Model Gold Rush",
+    "title": "Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo",
+    "url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51",
+    "description": "Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+    "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains",
+    "description": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Stack Overflow Developer Survey 2026",
+    "url": "https://survey.stackoverflow.co/2026",
+    "description": "Stack Overflow Developer Survey 2026",
     "tags": [
       "tldr"
     ],
@@ -400,39 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The results of the 2026 Developer Survey are here!",
-    "url": "https://stackoverflow.blog/2026/10/06/the-results-of-the-2026-developer-survey-are-here",
-    "description": "The results of the 2026 Developer Survey are here!",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
     "title": "The state of the tech industry in 2026",
     "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
     "description": "The state of the tech industry in 2026",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Uber to buy ezCater for $2.3bn to bring workplace catering to Uber Eats",
-    "url": "https://thenextweb.com/news/uber-ezcater-2-3bn-catering-uber-eats",
-    "description": "Uber to buy ezCater for $2.3bn to bring workplace catering to Uber Eats",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Vulnerability in agents from Google and others exposes structural flaw in MCP",
-    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
-    "description": "Vulnerability in agents from Google and others exposes structural flaw in MCP",
     "tags": [
       "tldr"
     ],
@@ -450,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why we're backing America's existing nuclear plants",
-    "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants",
-    "description": "Why we're backing America's existing nuclear plants",
+    "title": "What stateless MCP changes for gateways",
+    "url": "https://bengreenberg.dev/blog/what-stateless-mcp-changes-for-gateways",
+    "description": "What stateless MCP changes for gateways",
     "tags": [
       "tldr"
     ],
@@ -460,9 +450,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Zeroization, part 1: Wiping can make things worse",
-    "url": "https://00f.net/2026/10/06/zeroization-1",
-    "description": "Zeroization, part 1: Wiping can make things worse",
+    "title": "White House, Anduril announce plans for new ‘software-defined’ shipyard to help build attack submarines",
+    "url": "https://defensescoop.com/2026/10/06/white-house-anduril-announce-new-shipyard-baltimore-county",
+    "description": "White House, Anduril announce plans for new ‘software-defined’ shipyard to help build attack submarines",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Zuckerberg’s Biohub Partners With DOE, NIH to Invest $1.8 Billion in Biological Data for AI Models",
+    "url": "https://www.wsj.com/tech/ai/zuckerbergs-biohub-partners-with-doe-nih-to-invest-1-8-billion-in-biological-data-for-ai-models-f8d5f799",
+    "description": "Zuckerberg’s Biohub Partners With DOE, NIH to Invest $1.8 Billion in Biological Data for AI Models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-07",
+    "site_name": "tldr"
+  },
+  {
+    "title": "pbakaus/impeccable: Design guidance and skills for AI coding agents",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "pbakaus/impeccable: Design guidance and skills for AI coding agents",
     "tags": [
       "tldr"
     ],
@@ -483,16 +493,6 @@
     "title": "rui314/mold: Release mold 3.0.0",
     "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
     "description": "rui314/mold: Release mold 3.0.0",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-07",
-    "site_name": "tldr"
-  },
-  {
-    "title": "storytold/photocraft: An open-source Rust reimplementation of Photoshop",
-    "url": "https://github.com/storytold/photocraft",
-    "description": "storytold/photocraft: An open-source Rust reimplementation of Photoshop",
     "tags": [
       "tldr"
     ],

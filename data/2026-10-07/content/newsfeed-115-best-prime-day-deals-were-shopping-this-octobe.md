@@ -1,0 +1,3666 @@
+---
+title: 115 Best Prime Day Deals We’re Shopping This October (2026) | WIRED
+url: https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/
+site_name: newsfeed
+content_file: newsfeed-115-best-prime-day-deals-were-shopping-this-octobe
+fetched_at: '2026-10-07T17:42:48.523242'
+original_url: https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/
+author: Louryn Strampe
+date: '2026-10-07'
+published_date: '2026-10-07T17:35:00.000Z'
+description: Don’t waste your money on subpar sales. Amazon Prime Big Deal Days are here, and we’ve tracked down the best Prime Day deals on all the gear our team recommends.
+tags:
+- wired
+- gear
+- gear / deals
+- amazon prime day
+---
+
+Save Story
+Save this story
+Save Story
+Save this story
+
+Amazon’s fall PrimeDay sale—also known as Big Deal Days 2026—is live. The sale started yesterday, October 6, and runs through midnight tonight. As with all Prime Day sales, you'll need to be an Amazon Prime member to take advantage of the discounts.
+
+Featured Prime Day Deal
+Eufy Permanent Outdoor Lights S4
+ 
+$
+ 
+500
+ 
+$
+ 
+285
+This is the lowest price you'll find on these lights—don't wait any longer if you're looking to set up your home for the holiday season.
+
+It may only be October, but it's never too early to jump on that holiday gift shopping. We've combed through all the deals and found the best ones, based on our years of testing and reviewing. WIRED's picks for the best Prime Day deals only include products someone from our team has personally tested and reviewed. We track prices using several tools to avoid falling for fake discounts. There are no shoddy knockoffs or overpriced products among our recommendations, just good deals on great gear.
+
+## WIRED Featured Deals
+
+* The best MacBook deal:MacBook Air M5 for $1,099 ($200 off)
+* The AirPods Pro 3 deal you’ve been waiting for:AirPods Pro 3 for $179 ($70 off)
+* The best deal for your morning routine:Philips Norelco OneBlade 360 for $35 ($15 off)
+* A colorful Kindle for less:Kindle Colorsoft for $190 ($100 off)
+* The best impulse buy:Anker Nano Power Bank for $20 ($7 off)
+* The best Bluetooth speaker:JBL Flip 7 Bluetooth Speaker for $110 ($40 off)
+* Our favorite digital wall calendar:Skylight Smart Calendar Max for $560 ($70 off)
+* An automatic espresso machine at an all-time low:De'Longhi Rivelia for $1,000 ($300 off)
+
+Updated 1:15 pm ET October 7: We've added a fresh batch of new deals, removed some dead deals, and confirmed accurate pricing.
+
+Contributors:Louryn Strampe,Simon Hill,Nena Farrell,Kat Merck,Molly Higgins,Boutayna Chokrane,Luke Larsen,Harry Rabinowitz,Les Shu
+
+## Best Apple Deals
+
+This MacBook Sale Is the Best Prime Day Deal
+* Photograph: Luke Larsen
+* Photograph: Luke Larsen
+* Photograph: Luke Larsen
+* Photograph: Luke Larsen
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Apple
+
+### MacBook Air (M5, 2026)
+
+$1,299
+ 
+$1,099
+ 
+(15% off)
+ 
+
+Amazon
+
+$1,254
+ 
+
+Walmart
+
+$1,299
+ 
+
+Apple
+
+As someone who’s tested dozens of laptops this year already, I still find myself recommending theMacBook Air M5more than any other. It’s the most well-rounded laptop you can buy, sporting great performance, long battery life, and a razor-thin chassis. The price has gone up considerably over the past year, but that’s true of many of thebest laptops. And now, it's at its lowest price since June, making it an absolute must-buy and the top of my list forPrime Day laptop deals.—Luke Larsen
+
+The Best AirPods At the Best Price
+* Photograph: Harry Rabinowitz
+* Photograph: Parker Hall
+* Photograph: Parker Hall
+* Photograph: Parker Hall
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Apple
+
+### AirPods Pro 3
+
+$249
+ 
+$179
+ 
+(28% off)
+ 
+
+Amazon
+
+$250
+ 
+$179
+ 
+(28% off)
+ 
+
+Best Buy
+
+$249
+ 
+
+Apple
+
+Apple AirPods Pro 3are thebest wireless earbudsfor anyone with an iPhone. They’ve got best-in-class noise-canceling, an excellent transparency mode, clear and detailed audio quality, and a plethora of advanced features like built-in heart rate sensors and live translation. The heart rate sensors are particularly impressive—you can go on a run with just your phone and these earbuds and get accurate GPS, heart rate zone, and calorie data. —Harry Rabinowitz
+
+A Rare Mac Mini Discount
+* Photograph: Luke Larsen
+* Photograph: Luke Larsen
+* Photograph: Luke Larsen
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Apple
+
+### Mac Mini (M6)
+
+$899
+ 
+$780
+ 
+(13% off)
+ 
+
+Amazon
+
+$899
+ 
+
+Apple
+
+TheMac Minihas been sold out for the majority of this year due to the rapid escalation of interest in using them as local, agentic AI machines. The brand-new M6 model is faster (and more expensive) than ever. But the fact that you can buy them at all right now feels significant, and Amazon has the best deal on the latest model you’ll find.—Luke Larsen
+
+* Photograph: Brenda Stolyar
+* Photograph: Brenda Stolyar
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Apple
+
+### iPad (2025, A16)
+
+$449
+ 
+$399
+ 
+(11% off)
+ 
+
+Amazon
+
+$449
+ 
+$399
+ 
+(11% off)
+ 
+
+Best Buy
+
+$449
+ 
+
+Walmart
+
+$449
+ 
+
+Apple
+
+Despite all of Apple’s attempts to expandthe iPad line, the most compelling reason to buy an iPad continues to be its original use case: casually leaning back on the couch with a book, game, or movie. It’s the device you bring with you on vacation to keep yourself from working. It’s the tablet every family with kids has. And even better: The 11-inch iPad on Amazon is one of the only iPad deals that survived Apple’s price hikes earlier this year.—Luke Larsen
+
+* Photograph: Alamy
+* Photograph: James D. Morgan/Getty Images
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Apple
+
+### AirTag (2nd Generation)
+
+$29
+ 
+$24
+ 
+(17% off)
+ 
+
+Amazon
+
+$99
+ 
+$89
+ 
+(10% off)
+ 
+
+Amazon
+
+I started testing AirTags this year for an upcoming buying guide and I don't know how I ever lived without them. They can add basically anything to Apple's Find My app, and I now have one on my keys, in my car, and in my luggage. This deal is standard, but not bad.—Louryn Strampe
+
+* Photograph: Adrienne So
+* Photograph: Adrienne So
+* Photograph: Adrienne So
+* Photograph: Adrienne So
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Apple
+
+### AirPods Max 2
+
+$549
+ 
+$429
+ 
+(22% off)
+ 
+
+Amazon
+
+$550
+ 
+$429
+ 
+(22% off)
+ 
+
+Walmart
+
+$549
+ 
+$429
+ 
+(22% off)
+ 
+
+Best Buy
+
+Apple AirPods Max 2are the best over-ear headphones for anyone with an iPhone, MacBook, and other Apple staples. They have some of the best sound quality, noise-canceling, and transparency modes of any headphone out there. They are pricey, but $120 off sticker price makes them more in-line with options from Sony and Bose.—Harry Rabinowitz
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Best Kindle Deals
+
+A Colorful Kindle
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Kindle Colorsoft
+
+$290
+ 
+$190
+ 
+(34% off)
+ 
+
+Amazon (Colorsoft)
+
+While almost all ofAmazon's Kindlesare on sale, the Colorsoft is one of the best. While it was also hit with a price hike at the end of August, with the base model rising to $290 from $250, you can get it for $100 off during Amazon's sale. It has everything we like about the Paperwhite, but with a color screen (and now with Dark Mode, which it originally lacked!). For only $20 more during Amazon Big Deal Days, I'd get the Colorsoft over the Paperwhite. —Nena Farrell
+
+The Best Kindle Deal
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Kindle Scribe Colorsoft
+
+$630
+ 
+$480
+ 
+(24% off)
+ 
+
+Amazon (32 GB)
+
+$630
+ 
+$480
+ 
+(24% off)
+ 
+
+Amazon (32 GB)
+
+$630
+ 
+$480
+ 
+(24% off)
+ 
+
+Best Buy (32 GB)
+
+If you're looking to get the biggest discount on anew Kindle,the best sale is on the Kindle Scribe Colorsoft. It's got an 11-inch color screen and comes with a stylus to let it double as a digital notebook. It's the most expensive Kindle, but it also has the best discount during Amazon's sale event. —Nena Farrell
+
+Photograph: Nena Farrell
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Kindle Scribe (3rd Generation)
+
+$500
+ 
+$380
+ 
+(24% off)
+ 
+
+Amazon (32 GB)
+
+$550
+ 
+$420
+ 
+(24% off)
+ 
+
+Amazon (64 GB)
+
+If you want a powerful newdigital notebookthat doubles as an e-reader, Kindle Scribe is one of my favorites. The newest version is good, and my main complaint is usually that you can get the second-gen model with almost all the same features for a better price. However, the third-gen Scribe is now on sale for under the cost of the older model, so it's a great time to buy. And the Scribes didn't rise in price, so no sale games with this model.—Nena Farrell
+
+Photograph: Adrienne So
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Kindle Paperwhite Kids (2024, 12th Generation)
+
+$230
+ 
+$170
+ 
+(26% off)
+ 
+
+Amazon
+
+These sale events are a great time to stock up on gifts for the family, and if you have a young reader in yours, the Kindle Paperwhite Kids is a great choice. It has everything we already like about the Paperwhite (our top Kindle pick!), a fun cover to protect it from drops, and six months of free Kids+ content. Kids+ will offer your young reader free, age-appropriate content to read on their brand-new Kindle—it's like Kindle Unlimited, but for kids. —Nena Farrell
+
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Kindle Colorsoft Kids
+
+$300
+ 
+$210
+ 
+(30% off)
+ 
+
+Amazon
+
+$300
+ 
+$210
+ 
+(30% off)
+ 
+
+Best Buy
+
+Once again, thebest Kindledeals are on the color models. Kids are naturally the best candidates to enjoy the color screen since they're more likely to select books with illustrations. The Colorsoft Kids is almost $100 off and comes with both a case and a full year of Kids+ content. This makes it a worthy upgrade from the Kids Paperwhite while it's on sale. —Nena Farrell
+
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Kindle Paperwhite and Paperwhite Signature Edition (2024, 12th Generation)
+
+$250
+ 
+$170
+ 
+(32% off)
+ 
+
+Amazon (Signature)
+
+$200
+ 
+$150
+ 
+(25% off)
+ 
+
+Amazon
+
+If you're getting anew Kindle, the Paperwhite is an excellent all-around choice with its adjustable warm front light and long battery life. The bad news is that this sale is the worst we've seen, but unfortunately, since Amazonraised prices for the Paperwhite(among other Kindle models), I don't expect to see a lower price in the future anymore. It's better than paying full price, and I'd only get it on sale. —Nena Farrell
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## The Best Headphone Deals
+
+Best Over-Ear Headphone Deals
+* Photograph: Parker Hall
+* Photograph: Parker Hall
+* Photograph: Parker Hall
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Nothing
+
+### Headphone (1)
+
+$299
+ 
+$189
+ 
+(37% off)
+ 
+
+Amazon
+
+$299
+ 
+$199
+ 
+(33% off)
+ 
+
+Walmart
+
+$299
+ 
+$219
+ 
+(27% off)
+ 
+
+Best Buy
+
+This is the lowest price ever for theNothing Headphone (1), an excellent, stylish pair of over-ear headphones with great sound and even better battery life: up to 35 hours with noise-canceling on or 80 hours with it off. The headphones have tactile controls on each earcup I personally love—things like a volume wheel, Bluetooth pairing button, on-off switch, and media control paddle. —Harry Rabinowitz
+
+Courtesy of Amazon
+Save to wishlist
+Save to wishlist
+
+Bose
+
+### QuietComfort Headphones (1st Gen)
+
+$359
+ 
+$169
+ 
+(53% off)
+ 
+
+Amazon
+
+$359
+ 
+$169
+ 
+(53% off)
+ 
+
+Best Buy
+
+$359
+ 
+$169
+ 
+(53% off)
+ 
+
+Walmart
+
+Bose is starting to phase out these QuietComfort Headphones in favor of the 2nd Gen version, so this might be the last time to grab a pair at such a low price. Despite their age, they are still some of the most comfortable over-ear headphones you can get, with a lightweight design and physical button controls on each ear. Sure, they’ve been surpassed by newer models, but at this price, these are a steal. —Harry Rabinowitz
+
+* Photograph: Brad Bourque
+* Courtesy of Best Buy
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+SteelSeries
+
+### Arctis Nova 3P Wireless
+
+$110
+ 
+$71
+ 
+(35% off)
+ 
+
+Amazon (White)
+
+$110
+ 
+$76
+ 
+(31% off)
+ 
+
+Amazon (Lavender)
+
+$110
+ 
+$76
+ 
+(31% off)
+ 
+
+Amazon (Aqua)
+
+$110
+ 
+$80
+ 
+(27% off)
+ 
+
+Best Buy
+
+This is my go-togaming headset, even as I'm testing newly released models for an update to our buying guide. It's comfortable, stylish, and lightweight, with surprisingly clear sound. —Louryn Strampe
+
+Best Wireless Earbud Deals
+* Photograph: Julian Chokkattu
+* Photograph: Parker Hall
+* Photograph: Parker Hall
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Google
+
+### Pixel Buds Pro 2
+
+$229
+ 
+$170
+ 
+(26% off)
+ 
+
+Amazon
+
+$229
+ 
+$190
+ 
+(17% off)
+ 
+
+Best Buy
+
+$229
+ 
+
+Google
+
+TheGoogle Pixel Buds Pro 2remain ourtop earbudsfor Android users (they also work with iOS). They're aesthetically pleasing. They sound great. They're comfortable and have a long-lasting battery and active noise cancellation, plus some useful software features. If you want good earbuds that aren't AirPods, these might be up your alley. —Louryn Strampe
+
+* Photograph: Harry Rabinowitz
+* Photograph: Harry Rabinowitz
+* Photograph: Harry Rabinowitz
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Bose
+
+### Ultra Open Earbuds
+
+$299
+ 
+$199
+ 
+(33% off)
+ 
+
+Amazon
+
+$299
+ 
+$199
+ 
+(33% off)
+ 
+
+Bose
+
+$299
+ 
+$199
+ 
+(33% off)
+ 
+
+Best Buy
+
+Bose recently launched anew versionof these earbuds, hence these 2024 originals being deeply discounted, matching the lowest price I’ve ever seen. They’re my top pick for premium, comfortable, great-sounding open earbuds—their only downside was price, but 33 percent off solves this problem. Despite years of newer options, I still occasionally grab these for a quick run or bike ride. —Harry Rabinowitz
+
+* Photograph: Ryan Waniata
+* Photograph: Ryan Waniata
+* Photograph: Ryan Waniata
+* Photograph: Ryan Waniata
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Samsung
+
+### Galaxy Buds4 Pro
+
+$250
+ 
+$190
+ 
+(24% off)
+ 
+
+Amazon
+
+$250
+ 
+
+Walmart
+
+$250
+ 
+
+Samsung
+
+This isn’t as good a deal as last Prime Day, but it’s still the second-lowest price I’ve seen forSamsung Galaxy Buds 4 Proall year. They are some of thebest wireless earbudsyou can get if you own an Android phone, particularly a Samsung one. The noise-canceling is great for canceling out low drones and office chatter, but the transparency might be the real standout—it sounds incredibly natural. —Harry Rabinowitz
+
+Best Earbuds for Working Out
+* Photograph: Harry Rabinowitz
+* Photograph: Harry Rabinowitz
+* Photograph: Harry Rabinowitz
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Shokz
+
+### OpenRun Pro 2
+
+$180
+ 
+$125
+ 
+(31% off)
+ 
+
+Amazon
+
+$180
+ 
+
+REI
+
+$180
+ 
+
+Best Buy
+
+These are simultaneously some of thebest open ear headphonesandbest bone conduction headphonesyou can buy, matching the best price I’ve seen all year (only matched by the last Prime Day). TheShokz OpenRun Pro 2hook around your ear and use a combination of speakers and bone conduction to play your tunes, leaving your ear open to hear the world around you. I love them particularly for outdoor running and bike rides. —Harry Rabinowitz
+
+* Photograph: Harry Rabinowitz
+* Photograph: Ryan Waniata
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Beats
+
+### Powerbeats Pro 2
+
+$250
+ 
+$180
+ 
+(28% off)
+ 
+
+Amazon
+
+$250
+ 
+$200
+ 
+(20% off)
+ 
+
+Best Buy
+
+$250
+ 
+
+Beats by Dre
+
+We see this deal forour favorite workout earbudspretty regularly, but they only ever get about $20 cheaper, so it's still a solid option if you're in the market. TheBeats Powerbeats Pro 2play well with iOS and Android, have punchy sound, and feature the option for both transparency mode and active noise canceling. —Louryn Strampe
+
+Best Earplug Deals
+Courtesy of Amazon
+Save to wishlist
+Save to wishlist
+
+Loop
+
+### Quiet 2 Ear Plugs
+
+$25
+ 
+$20
+ 
+(20% off)
+ 
+
+Amazon
+
+$25
+ 
+
+Loop
+
+Theseearplugsare a must-have for me when I travel. They're entirely silicone and come with varying sizes of both foam and silicone eartips, so you can choose whichever is comfiest and offers the level of noise reduction you want. I regularly sleep in a tent at bass music festivals; these help me get actual shut-eye. I don't love the case, but I love everything else. —Louryn Strampe
+
+Courtesy of EarPeace
+Save to wishlist
+Save to wishlist
+
+### NPR Music x Earpeace Pro
+
+$43
+ 
+$34
+ 
+(21% off)
+ 
+
+Amazon
+
+The best earplugs for concerts do an excellent job at protecting your hearing while still ensuring you can hear the show you paid to see. We also like the slick aluminum carrying case.—Louryn Strampe
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Best Smart Home Deals
+
+The Lowest Price We've Seen on the Echo Show 11
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Echo Show 11
+
+$250
+ 
+$150
+ 
+(40% off)
+ 
+
+Amazon
+
+Amazon launched two new Echo Show smart displays last year, and the Echo Show 11 was easily the better of the two. The sound is better, and the screen is larger—but not so large that it's a pain to put on a kitchen counter. Amazon didraise the price by $30 at the end of August, but this is still the lowest deal price I've seen for it since its launch.—Nena Farrell
+
+* Photograph: Nena Farrell
+* Courtesy of Amazon
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Echo Spot (2024)
+
+$110
+ 
+$55
+ 
+(50% off)
+ 
+
+Amazon
+
+$110
+ 
+$55
+ 
+(50% off)
+ 
+
+Best Buy
+
+I really like the Echo Spot. It's got a small screen that displays the time, information like the weather, and what song it's currently playing, but leaves out the camera, ads, and other screen clutter you'll get on an Echo Show. It doesn't have the best sound out of Amazon's smaller Echo models, but it's fine for casual listening. The price did rise from $80 to $110 in August, but $55 for this is still a good sale price.—Nena Farrell
+
+Photograph: Nena Farrell
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Echo Dot (5th Gen)
+
+$80
+ 
+$40
+ 
+(50% off)
+ 
+
+Amazon
+
+Amazon's smallest speaker is its most affordable, but the price hikes the company rolled out in late August moved it from being a $50 speaker to an $80 speaker. It's definitely not worth that, but it's a good speaker and a fine purchase for $40. It has clearly improved sound over the older models like the puck-shaped Echo Dot, but I am bummed with how much the price has increased. I'd only buy it now while it's on sale. —Nena Farrell
+
+A Great Deal on Our Favorite Echo Speaker
+Photograph: Nena Farrell
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Echo Studio (2nd Gen)
+
+$220
+ 
+$180
+ 
+(18% off)
+ 
+
+Amazon
+
+The Echo Studio has been ourfavorite Echo speakerfor the sound quality since the original model, and the second-generation version packs fantastic sound like its predecessor. I also love that its price didn't increase between the two generations, or afterAmazon's price hike in August. It's still one of the more expensive models, even on sale, so I'd choose it only if you have a massive room you're trying to fill with sound. But it's also the only new Echo that didn't get a price increase, so this sale isn't just a trick of the numbers.—Nena Farrell
+
+Photograph: Nena Farrell
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Echo Dot Max
+
+$120
+ 
+$80
+ 
+(33% off)
+ 
+
+Amazon
+
+The Echo Dot Max takes the once-cheap Echo Dot model and gives it better sound and a built-in smart home hub, but amps up the price to match. It has much better sound than Amazon's previous pint-sized speakers, but it's still a big price to pay for something that doesn't have a screen. The pricealso went up $20 at the end of August,so you could argue this is really only $20 off. I do really like this speaker, but you'd be just as happy with the cheaper Echo Spot and older Echo Dot if you're just looking for a smallsmart speaker.—Nena Farrell
+
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Echo Show 8 (4th Gen)
+
+$200
+ 
+$125
+ 
+(38% off)
+ 
+
+Amazon
+
+Amazon updated my usual favorite Echo Show last year, but the sound on the fourth-generation Echo Show 8 isn't quite as good as the older model. To be honest, I'd recommend the older model over this one, but this discount is still pretty good (even withthe price increase that brought it up to $200 flat at the end of August).—Nena Farrell
+
+A Great Deal on a Budget Smart Calendar
+* Photograph: Nena Farrell
+* Courtesy of Apolosign
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Apolosign
+
+### Digital Calendar
+
+$296
+ 
+$249
+ 
+(16% off)
+ 
+
+Amazon (15.6-inch)
+
+$400
+ 
+$270
+ 
+(33% off)
+ 
+
+Walmart (15.6-inch)
+
+Apolosign'sdigital calendarruns on Android OS and has two modes: Calendar and Android. The Calendar mode is easy to navigate and comes with sections like Calendar, Routines, and Meals, but the Android mode lets you customize more and add a photo screensaver. Best part, though, is neither option needs a subscription. —Nena Farrell
+
+Photograph: Chris Haslam
+Save to wishlist
+Save to wishlist
+
+Skylight
+
+### Smart Calendar Max
+
+$630
+ 
+$560
+ 
+(11% off)
+ 
+
+Amazon
+
+$630
+ 
+$600
+ 
+(5% off)
+ 
+
+Skylight (With One Free Month of Plus Plan)
+
+My favoritedigital wall calendaris from Skylight. It's easy to use to connect your events, organize meals and to-do lists, and even plug in entire recipes to convert to your shopping list. It also doubles as a digital photo frame, so long as you pay the subscription (unfortunately). The Max is the largest size and is most frequently on sale, reaching a massive 27 inches. —Nena Farrell
+
+Photograph: Nena Farrell
+Save to wishlist
+Save to wishlist
+
+TP-Link
+
+### Tapo Matter-Certified Smart Plug Mini (P125M)
+
+$25
+ 
+$19
+ 
+(24% off)
+ 
+
+Amazon (3-Pack)
+
+$50
+ 
+$30
+ 
+(40% off)
+ 
+
+Best Buy (3-Pack)
+
+A good smart plug is handy all over the house. I really like this set from TP-Link's Tapo brand because the plugs are Matter-certified, making them easy to pair with any existing smart home ecosystem, and have a small form factor so they won't block the other outlets. I like them best for controlling lamps that don't fit for a smart bulb, but you could use them for all kinds of things. —Nena Farrell
+
+The Best Automatic Litter Box Deal
+* Photograph: Molly Higgins
+* Photograph: Molly Higgins
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Petkit
+
+### Purobot Max 3
+
+$480
+ 
+$360
+ 
+(25% off)
+ 
+
+Amazon
+
+$500
+ 
+$400
+ 
+(20% off)
+ 
+
+Petkit
+
+If you want a really great, reliableautomatic litter boxbut don’t need extras like AI recognition or an internal camera to watch, I think this is the best model. In fact, it’s the automatic litter box I recommend for most people. It’s an upgrade from thePetkit PuraMax 2(which I also loved). It has a larger opening and better odor control than the previous model. It also has a connected app, where you can monitor usage and adjust settings from afar. At less than $400, this is a pretty cheap price point for a model of this caliber.—Molly Higgins
+
+The Best Pet Feeder Deals
+* Photograph: Molly Higgins
+* Courtesy of Amazon
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Oneisall
+
+### Dual Automatic Feeder
+
+$50
+ 
+$42
+ 
+(16% off)
+ 
+
+Amazon
+
+$70
+ 
+
+Walmart
+
+$100
+ 
+$70
+ 
+(30% off)
+ 
+
+Chewy
+
+$90
+ 
+$70
+ 
+(22% off)
+ 
+
+Oneisall
+
+If you’re looking for a cheapautomatic pet feederin a home with two pets and you don’t need all of the bells and whistles, I recommend this model. It’s a solid, inexpensive dual feeder with a connected app where you can customize feeding plans of up to six meals a day, and it also has a knob on the front to plan meals if you want to go analog. Plus, I loved the hygienic stainless steel inserts that can be removed for easier cleaning. This is the lowest price we’ve seen all year.—Molly Higgins
+
+* Photograph: Kat Merck
+* Courtesy of Brook Fountains
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Brook
+
+### Glass Pet Fountain
+
+$90
+ 
+$80
+ 
+(11% off)
+ 
+
+Amazon
+
+I recommend that every cat parent invest in anautomatic pet water fountain. The moving water keeps cats interested in drinking, and increased hydration helps fight against a myriad of potential health issues, especially in dehydration-prone housecats. This glass model not only looks elegant, but the glass is naturally less bacteria-harboring than porous plastic, making it more hygienic. This model is large, heavy, and needs a bigger footprint, but water stays cleaner and fresher for longer. This is the lowest price we’ve seen this year by about $10.  —Molly Higgins
+
+* Photograph: Molly Higgins
+* Photograph: Petkit
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Petkit
+
+### Purobot Ultra
+
+$800
+ 
+$700
+ 
+(13% off)
+ 
+
+Amazon
+
+$1,000
+ 
+
+Walmart
+
+This automatic litter box is a little too big for my small apartment, but it was one of the first models of its kind to use a camera and AI technology to monitor litter box usage to help you more closely monitor your cat’s health. It uses a camera on a swiveling arm to follow and record your cat. Through the connected app, you can monitor usage, engage in two-way audio, and watch 24/7 streaming. It also has auto-bagging and sealing features, so you never have to deal with the stool, which is a plus. —Molly Higgins
+
+* Photograph: Molly Higgins
+* Courtesy of Petlibro
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Petlibro
+
+### One RFID Smart Feeder
+
+$150
+ 
+$120
+ 
+(20% off)
+ 
+
+Amazon
+
+$150
+ 
+
+Petlibro
+
+Thisautomatic pet feederis ideal for greedy pets in a multi-pet home. For this techy device, the pet wears a collar with a tag that opens the feeder’s lid only with that tag and retracts back over the kibble when the pet leaves, ensuring that only the chosen pet with the collar can access the food. Through the app, you can adjust scheduled feedings, including amounts and on-demand feeds.—Molly Higgins
+
+Our Favorite Air Purifiers Are on Sale
+Photograph: Lisa Wood Shapiro
+Save to wishlist
+Save to wishlist
+
+Coway
+
+### Airmega ProX
+
+$999
+ 
+$633
+ 
+(37% off)
+ 
+
+Amazon
+
+$999
+ 
+
+Coway
+
+This large (50-pound), boxyair purifieris ideal for high-ceilinged homes over 8 feet tall. It can clean the air four times per hour in an impressively large 1,000-square-foot space at its highest setting. It’s a behemoth, but its hidden handles and built-in lockable wheels make moving a bit easier. Plus, we also like that it has Coway's built-in air quality indicator light, where blue is good and red is bad—an easy way to monitor your air quality at a glance without needing to whip out anair quality monitor. —Molly Higgins
+
+Photograph: Lisa Wood Shapiro
+Save to wishlist
+Save to wishlist
+
+Coway
+
+### Airmega 450
+
+$499
+ 
+$350
+ 
+(30% off)
+ 
+
+Amazon
+
+$499
+ 
+
+Coway
+
+We deemed thisair purifiermodel the “Best Air Purifier for VOCs and Odors” because of its whisper-quiet ability to capture particulate matter, odors, and volatile organic compounds (VOCs)—the microscopic, potentially harmful stuff that you definitely don’t want in your home or penetrating deep into your lungs. The small 30-inch cylinder tower weighs just under 25 pounds and has easy-to-maneuver wheels and a hidden handle. It also has a handy built-in air-quality sensor that illuminates the large circular indicator light on the top of the tower to indicate the room’s pollutant level. —Molly Higgins
+
+Photograph: Lisa Wood Shapiro
+Save to wishlist
+Save to wishlist
+
+Windmill
+
+### Air Purifier Max
+
+$399
+ 
+$249
+ 
+(38% off)
+ 
+
+Amazon
+
+$478
+ 
+$249
+ 
+(48% off)
+ 
+
+Windmill
+
+If you value aesthetics and still want a solid small-to-midsize roomair purifier, you may like this discounted model from Windmill. It has a chic Scandinavian look, with bamboo paneling that makes it look more like furniture than most other models I’ve tested. It has an intuitive connected app that integrates with other products in the Windmill ecosystem. It also has an internal sensor and indicator light that make it easy to tell the air quality at a glance.—MollyHiggins
+
+* Photograph: Molly Higgins
+* Photograph: Molly Higgins
+* Photograph: Molly Higgins
+* Photograph: Molly Higgins
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Levoit
+
+### Vital 200S-P Air Purifier
+
+$190
+ 
+$152
+ 
+(20% off)
+ 
+
+Amazon
+
+$190
+ 
+
+Levoit
+
+I’ve testedair purifiersthat cost 10 times as much as this budget Levoit, but I keep coming back to this affordable pick. I really love the connected app, which lets me adjust settings like fan speed and modes from afar and check filter life. Plus, the app sends notifications when air quality is poor and updates when it reaches clean levels again. You can also see historical indoor air quality levels and the corresponding action the purifier took, which helps track patterns. It’s also compatible with Amazon Alexa or Google Assistant for voice control.—MollyHiggins
+
+* Photograph: Molly Higgins
+* Video: Molly Higgins
+* Photograph: Molly Higgins
+* Photograph: Molly Higgins
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Coway
+
+### Airmega Mighty2
+
+$270
+ 
+$190
+ 
+(30% off)
+ 
+
+Amazon
+
+$270
+ 
+
+Coway
+
+I thinkthis modelis the bestair purifierfor most people—it’s quiet, compact, reliable, and relatively affordable, with minimal maintenance. It has two filters combined into one that only needs to be replaced once a year, which is twice as long as a typical air purifier filter, and will save you money over time. It also has helpful real-time AQI detection and a MegaScan laser to evaluate a full spectrum of particles, including PM 1, 2.5, and 10. It’s the lowest price we’ve seen this year.—MollyHiggins
+
+Great Discounts On Our Favorite Security Cameras
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Arlo
+
+### Pro 6
+
+$125
+ 
+$95
+ 
+(24% off)
+ 
+
+Amazon
+
+$230
+ 
+$131
+ 
+(43% off)
+ 
+
+Walmart (2-Cam Kit)
+
+$300
+ 
+
+Best Buy (3-Cam Kit)
+
+Arlo ticks all the boxes with crisp 2K video, a wide 160-degree field of view, two-way audio, and direct Wi-Fi connection, and the Pro 6 tops ourbest outdoor security camerasguide. The Arlo app is swift to load, offers rich notifications, and supports two-factor authentication and biometric login, so you can log in with your fingerprint or face, phone permitting. The catch is a pricey, but crucial, subscription ($10 per month or $96 a year for a single camera, $20 per month or $216 a year for unlimited cameras) for subject recognition, smart alerts, and cloud storage.—Simon Hill
+
+Photograph: Simon Hill
+Save to wishlist
+Save to wishlist
+
+Eufy
+
+### Floodlight Cam E340
+
+$220
+ 
+$150
+ 
+(32% off)
+ 
+
+Amazon
+
+$220
+ 
+$160
+ 
+(27% off)
+ 
+
+Best Buy
+
+$220
+ 
+
+Eufy
+
+Security cameras with floodlights are great for your garage or backyard, and this is thebest floodlight security camerafor most people. The E340 is a dual-lens camera with a 3K wide-angle lens and a 2K telephoto lens for up to 8x zoom to capture details up to 50 feet away. Adjustable light panels provide up to 2,000 lumens. It also pans 360 degrees and tilts 120 degrees, and records locally to a microSD card or to a HomeBase 3 (both sold separately). —Simon Hill
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Laptop and Home Office Deals
+
+* Photograph: Luke Larsen
+* Photograph: Luke Larsen
+* Photograph: Luke Larsen
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Dell
+
+### 27 Plus (S2725HSM)
+
+$175
+ 
+$130
+ 
+(26% off)
+ 
+
+Amazon
+
+$140
+ 
+
+Dell
+
+When it comes to monitors, all most people need is something reliable, comfortable to use, and not horrifically ugly. That’s underselling the Dell S2725HSM, despite its price. It’s a basic 1080p resolution, but it has really solid image quality, and it even comes with a 144-Hz refresh rate. All those features are heightened when it’s on sale for just $130, too. That’s the biggest price drop I’ve seen on this monitor in a while.—Luke Larsen
+
+An AI-Powered Webcam
+Save to wishlist
+Save to wishlist
+
+Obsbot
+
+### Tiny 3
+
+$349
+ 
+$296
+ 
+(15% off)
+ 
+
+Amazon
+
+$349
+ 
+
+Obsbot
+
+$349
+ 
+
+Walmart
+
+Tilt-Pan-Zoom webcams like the Obsbot Tiny 3 are so much more than just a webcam for video calls. The gimbal gives the camera a huge range of motion, letting you dramatically expand what you can shoot compared to a standard webcam. It’s ideal for streamers, content creators, podcasters, and online educators—or really anyone who wants to show more of their room on video. On top of that, it also has tons of interesting AI features to play with. This is a rare discount on this top-shelf webcam, too.—Luke Larsen
+
+A Webcam With Portrait and Landscape Mode
+Courtesy of Amazon
+Save to wishlist
+Save to wishlist
+
+Yololiv
+
+### YoloCam S3
+
+$199
+ 
+$177
+ 
+(11% off)
+ 
+
+Amazon
+
+$199
+ 
+
+Yololiv
+
+On its own, this is adecent 4K webcamwith all the typical high-end webcam trappings. But this one has a trick up its sleeve: Being able to easily switch between portrait and landscape. And because it magnetically attaches to the mount, it works just as well in both modes. For anyone shooting social videos, it’s extremely handy.—Luke Larsen
+
+Photograph: Luke Larsen
+Save to wishlist
+Save to wishlist
+
+AmazonBasics
+
+### Ergonomic Laptop Stand
+
+$30
+ 
+$25
+ 
+(17% off)
+ 
+
+Amazon
+
+Five dollars off this laptop stand won’t blow your mind, but I promise you won’t regret your purchase. There are certainly prettierlaptop standsout there, such as the one I use every day, theNative Union Laptop Stand. But it’s four times the price. And in terms of functionality, it shares a lot in common with the Amazon Basics model. Despite being only $25, the Amazon Basics Laptop Stand is incredibly sturdy and rigid, and has plenty of height adjustment to reach your eye level.—Luke Larsen
+
+* Photograph: Luke Larsen
+* Photograph: Luke Larsen
+* Photograph: Luke Larsen
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Belkin
+
+### Connect USB-C 11-in-1 Pro GaN Dock
+
+$200
+ 
+$133
+ 
+(34% off)
+ 
+
+Amazon
+
+$200
+ 
+
+B&H Photo
+
+USB hubs and docking stations are always bigger than most people expect, especially when you include the power brick. But not the Belkin Connect Pro, which uses GaN technology to shrink down the power supply to fit into the device itself. No more massive power bricks cluttering up your desk or precariously dangling off the edge of your standing desk. It drops to this price fairly often, but it’s still better to buy it now than at full price.—Luke Larsen
+
+Photograph: Luke Larsen
+Save to wishlist
+Save to wishlist
+
+Plugable
+
+### USB-C 9-in-1 Hub (USBC-9IN1E)
+
+$50
+ 
+$37
+ 
+(26% off)
+ 
+
+Amazon
+
+$50
+ 
+
+Plugable
+
+Your laptop probably doesn’t have all the ports you might need. I like this one because it matches a MacBook pretty nicely, and provides nine ports in one, providing everything from hard-wired Ethernet to an HDMI to support an external 4K display. It’s useful enough to just leave on your desk or toss in your bag on trips. The peace of mind of knowing you won’t run ever be caught off guard without the port you need is priceless.—Luke Larsen
+
+A Subscription-Free Mesh Wi-Fi System
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Asus
+
+### ZenWiFi BT10
+
+$690
+ 
+$528
+ 
+(23% off)
+ 
+
+Amazon (2-Pack)
+
+$690
+ 
+
+Asus (2-Pack)
+
+$1,000
+ 
+
+Best Buy (3-Pack)
+
+This tri-band Wi-Fi 7 mesh is thebest subscription-free mesh systemfor most people. A two-pack will be enough to cover most homes, and each router has two 10-Gbps Ethernet ports, one Gigabit port, and a USB 3.0 port. Asus allows you to tinker with and configure everything and offers comprehensive security software and parental controls at no extra cost (you can even redeem a free year of NordVPN service with this mesh). Clip the on-page coupon to save.—Simon Hill
+
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Netgear
+
+### Orbi 770 Series
+
+$550
+ 
+$417
+ 
+(24% off)
+ 
+
+Amazon (2-Pack)
+
+$700
+ 
+$570
+ 
+(19% off)
+ 
+
+Amazon (3-Pack)
+
+$550
+ 
+
+Netgear (2-Pack)
+
+$550
+ 
+
+Best Buy (2-Pack)
+
+Ready to upgrade your home network to enjoy the speedy delights ofWi-Fi 7? TheNetgear Orbi 770 Seriesis easy to set up and use, delivers rock-solid, reliable performance, and offers expansive coverage. Currently topping ourbest mesh routers, this is the sweet spot in Netgear’s lineup, and I think it’s an ideal mesh system for most homes right now. —Simon Hill
+
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Amazon
+
+### Eero Pro 7
+
+$800
+ 
+$600
+ 
+(25% off)
+ 
+
+Amazon (3-Pack)
+
+$550
+ 
+$400
+ 
+(27% off)
+ 
+
+Amazon (2-Pack)
+
+$550
+ 
+$400
+ 
+(27% off)
+ 
+
+Best Buy (2-Pack)
+
+Families seeking a reliable, set-and-forget, Wi-Fi 7 mesh system that doesn't require configuration should consider Amazon’s Eero brand. TheEero Pro 7is a solid pick that will serve you well for the next few years. It’s a tri-band system that performs extremely well in a busy family home, delivering impressively low lag and stable bandwidth sharing across many devices. The app is also very easy to use, but the pricey subscription is required if you want full parental controls, advanced security, and additional features.—Simon Hill
+
+Photograph: Simon Hill
+Save to wishlist
+Save to wishlist
+
+Asus
+
+### RT-BE58U
+
+$150
+ 
+$109
+ 
+(27% off)
+ 
+
+Amazon
+
+$145
+ 
+
+Walmart
+
+Currently top of ourbest Wi-Fi routersguide, this router will cover most homes and apartments up to around 2,000 square feet, with fast and reliable connectivity. It’s only dual-band, so you miss out on the 6-GHz band, but you get all the otheradvantages of Wi-Fi 7. It also has a generous array of ports and comes with free security software and parental controls. Support for VPN service, separate IoT or guest networks, and AiMesh rounds out an excellent device. —Simon Hill
+
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+TP-Link
+
+### Archer BE9700 (BE600)
+
+$250
+ 
+$180
+ 
+(28% off)
+ 
+
+Amazon
+
+$280
+ 
+$230
+ 
+(18% off)
+ 
+
+Best Buy
+
+$250
+ 
+
+B&H
+
+This tri-band Wi-Fi 7 router is reasonably priced at its regular price. It offers excellent close-range speeds on the 6-GHz band, and good performance on both the 5-GHz and 2.4-GHz bands. TP-Link has also built in a generous array of ports, including one 10 Gbps and four 2.5 Gbps Ethernet ports, and a USB 3.0 port. I don’t love the design, but the six adjustable antennas are useful. —Simon Hill
+
+The Best Office Chair, Bar None
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+* Courtesy of Branch
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Branch
+
+### Ergonomic Chair Pro
+
+$499
+ 
+
+Branch
+
+$499
+ 
+$449
+ 
+(10% off)
+ 
+
+Amazon
+
+$499
+ 
+
+The Container Store
+
+The Branch Ergonomic Chair Pro is bothour favorite office chairandour favorite gaming chair. It's incredibly comfortable and features several points of adjustment so you can fine-tune your experience. It's also high-quality and easy to assemble. You can't beat the value offered for the price. —Louryn Strampe
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Best AV Deals
+
+Upgrade Your TV Audio With This Soundbar Subwoofer Combo
+Photograph: Polk Audio
+Save to wishlist
+Save to wishlist
+
+Polk Audio
+
+### Signa S4
+
+$449
+ 
+$321
+ 
+(29% off)
+ 
+
+Amazon
+
+$449
+ 
+$359
+ 
+(20% off)
+ 
+
+Polk
+
+This soundbar plus subwoofer is a fantastic way to upgrade your TV audio system for a reasonable price, especially at 25 percent off. ThePolk Signa S4is one of our favorite soundbars for that very reason: It’s simple, easy to use, sounds great, and doesn’t cost an arm and a leg. Sure, it doesn’t have more advanced features like Wi-Fi connectivity, voice assistant support, or multi-speaker surround sound. But if you’re coming from built-in TV speakers, this is a great first upgrade. —Harry Rabinowitz
+
+* Photograph: Ryan Waniata
+* Photograph: Ryan Waniata
+* Photograph: Ryan Waniata
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Sonos
+
+### Arc Ultra
+
+$1,099
+ 
+$899
+ 
+(18% off)
+ 
+
+Amazon
+
+$1,099
+ 
+
+Best Buy
+
+$1,099
+ 
+
+Sonos
+
+I’ve seen this same sale a few times this year, but it’s still worth taking a look at, simply because theSonos Arc Ultrais such a greatsoundbar. It’s the best all-in-one solution, delivering rich, clean sound for shows, movies, games, and music. The Sonos app offers extensive remote control, automatic room calibration, and grouping with other Sonos speakers. —Harry Rabinowitz
+
+* Photograph: Simon Hill
+* Courtesy of Sonos
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Sonos
+
+### Beam (Gen 2)
+
+$499
+ 
+$359
+ 
+(28% off)
+ 
+
+Amazon
+
+$499
+ 
+$359
+ 
+(28% off)
+ 
+
+Sonos
+
+$499
+ 
+$359
+ 
+(28% off)
+ 
+
+Best Buy
+
+Sonos recently launched the Sonos Beam Ultra, so it’s no wonder that the 2021 Beam is on sale right now. While it can’t compare with Sonos’ newer models, it doesn’t really have to at this great price point. I used the Sonos Beam Gen 2 for years as my mainsoundbar. It’s incredibly small and compact but manages excellent sound, especially when paired with a small space and small-ish TV. —Harry Rabinowitz
+
+* Photograph: Ryan Waniata
+* Photograph: Ryan Waniata
+* Photograph: Ryan Waniata
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+JBL
+
+### Flip 7
+
+$150
+ 
+$110
+ 
+(27% off)
+ 
+
+Amazon
+
+$150
+ 
+
+Walmart
+
+$150
+ 
+$100
+ 
+(33% off)
+ 
+
+Best Buy
+
+This isour favorite portable Bluetooth speaker. It delivers huge sound, and is small and durable enough to carry on any adventure. It also has IP68 water resistance, an easy-release strap, and a two-hour battery boost (or four if you reduce the bass). —Louryn Strampe
+
+Courtesy of Audio Technica
+Save to wishlist
+Save to wishlist
+
+### AT-LP120XUSB
+
+$449
+ 
+$319
+ 
+(29% off)
+ 
+
+Amazon
+
+$349
+ 
+
+Walmart
+
+$349
+ 
+
+B&H
+
+I'm not going to act like 20 percent off is a huge bargain, but this is an iconic turntable and our number one pick from ourbest turntable guide. It’s durable, upgradable, and sounds great out of the box. Physically owning music, whether that’s vinyl or CD, is in vogue in 2026, and this USB-enabled turntable lets you plug in directly into your computer to rip your records to MP3 files. —Harry Rabinowitz
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Phone Deals
+
+Some Great Android Phones Are on Sale
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Samsung
+
+### Galaxy S26 and S26+
+
+$1,199
+ 
+$900
+ 
+(25% off)
+ 
+
+Amazon (S26)
+
+$1,399
+ 
+$980
+ 
+(30% off)
+ 
+
+Amazon (S26+, 512 GB)
+
+$900
+ 
+
+Best Buy (S26)
+
+$900
+ 
+
+Samsung (Both)
+
+Thebest Samsung phonesare on sale. If you want an Android phone with real power, but prefer something that’s not too big, theSamsung Galaxy S26is tough to beat. It’s fast, has a bright and sharp screen, a reliable triple-camera system, and good battery life. You also get seven years of software support, and the base model has jumped to 256 GB of storage. This has been cheaper, but with prices on the rise across the market, I’m not sure when it will dip again. This is still a decent discount. —Simon Hill
+
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Google
+
+### Pixel 11
+
+$899
+ 
+$734
+ 
+(18% off)
+ 
+
+Amazon
+
+$899
+ 
+
+Best Buy
+
+TheGoogle Pixel 11is the value sweet spot in Google’s new lineup, especially with this hefty discount. It combines a great camera, strong battery life, and solid performance with Qi2 25W support and slick contextual AI features.—Simon Hill
+
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Samsung
+
+### Galaxy S26 Ultra
+
+$1,400
+ 
+$950
+ 
+(32% off)
+ 
+
+Amazon
+
+$1,300
+ 
+
+Best Buy
+
+$1,300
+ 
+
+Samsung
+
+If you demand the most powerful phone Samsung makes, you’re an Ultra kind of person. Only theS26 Ultrahas Samsung’s fancy Privacy Display, and it’s a big screen at 6.9 inches. You also get the biggest battery, the most versatile quad-lens camera system, and the largest vapor chamber to keep things cool, even when you’re hardcore gaming. This beast of a phone can do it all. —Simon Hill
+
+Photograph: Julian Chokkattu
+Save to wishlist
+Save to wishlist
+
+Motorola
+
+### Moto G Stylus 2025
+
+$400
+ 
+$250
+ 
+(38% off)
+ 
+
+Amazon
+
+$400
+ 
+$300
+ 
+(25% off)
+ 
+
+Motorola
+
+The Moto G Stylus is our pick of thebest cheap phonesunder $400, and it’s down by another $100 right now, making it a pretty tempting deal. It could be ideal if you miss a headphone jack and microSD card slot. This is the 2025 model, but Motorola increased the price by $100 for the2026 Moto G Stylus, and, apart from the upgraded active stylus, there’s precious little to justify the extra cost. —Simon Hill
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Best Vacuum Deals
+
+Our All-Time Favorite Robot Vacuum Is on Sale
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+* Video: Nena Farrell
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Shark
+
+### PowerDetect UV Reveal
+
+$1,300
+ 
+$750
+ 
+(42% off)
+ 
+
+Amazon
+
+$1,300
+ 
+$750
+ 
+(42% off)
+ 
+
+SharkNinja
+
+My all-time favoriterobot vacuumis often on sale, but this is the lowest the price it ever goes (and used to only go as low as $800, so don't miss it!) The Shark PowerDetect UV Reveal uses a UV light to spot stains and spills on your floor and will go back to scrub them away after doing its regular clean. It's the smartest one I've tried in 2026 by a long shot, and little announcements from the base station make it easy to know when the vacuum is just cleaning versus handling stains. —Nena Farrell
+
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Roborock
+
+### Qrevo 2 Pro
+
+$800
+ 
+$485
+ 
+(39% off)
+ 
+
+Amazon
+
+$800
+ 
+$550
+ 
+(31% off)
+ 
+
+Roborock
+
+TheRoborock Qrevo 2 Prois a solid, relatively affordablerobot vacuum. It could do a better job at cleaning up tricky spills, but it has good suction power and this is the best price we've seen since it was released.—Louryn Strampe
+
+* Photograph: Adrienne So
+* Photograph: Adrienne So
+* Photograph: Adrienne So
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Roborock
+
+### Saros Z70
+
+$2,000
+ 
+$950
+ 
+(53% off)
+ 
+
+Amazon
+
+$2,000
+ 
+$1,000
+ 
+(50% off)
+ 
+
+Best Buy
+
+$2,600
+ 
+$1,000
+ 
+(62% off)
+ 
+
+Roborock
+
+I'd usually say you shouldn't spend a full grand on a robot vacuum during a sale event, but if you've been wanting a robot vacuum that can also pick up small items, the Roborock Saros Z70 with its robot arm is on sale right now. We didn't love it when we tested it last year, but hopefully the OmniGrip has improved in the last year. It's been on sale usually for $1,700 the last few months, and $1,000 is as low as we've seen it go. —Nena Farrell
+
+* Photograph: Adrienne So
+* Photograph: Adrienne So
+* Photograph: Adrienne So
+* Video: Adrienne So
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Roborock
+
+### Qrevo Curv 2 Flow
+
+$1,000
+ 
+$625
+ 
+(38% off)
+ 
+
+Amazon
+
+$1,000
+ 
+$800
+ 
+(20% off)
+ 
+
+Roborock
+
+Roborock has been launching new robot vacuums left and right, particularly in its more affordable Qrevo line, and one of the best we've tested is the Qrevo Curv 2 Flow. It's a great vacuum with a roller mop and 20,000 Pa of suction, and its little base station feels sleek and painless to add to your home. —Nena Farrell
+
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+* Video: Nena Farrell
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Eufy
+
+### Omni C28
+
+$800
+ 
+$430
+ 
+(46% off)
+ 
+
+Amazon
+
+$800
+ 
+$450
+ 
+(44% off)
+ 
+
+Eufy
+
+You're probably looking at this discount and thinking, isn't it hundreds of dollars off? Technically, yes, the Eufy Omni C28 retails for $800, but it's almost always on sale for $500. But that's usually as low as it goes, and for Amazon's Big Deal Days it's lower than ever. It's a great robot vacuum and one of my top picks because of the great price you can usually score it for, and it's even better now. —Nena Farrell
+
+Photograph: Adrienne So
+Save to wishlist
+Save to wishlist
+
+Dreame
+
+### X50 Ultra
+
+$1,000
+ 
+$850
+ 
+(15% off)
+ 
+
+Amazon
+
+$1,600
+ 
+$1,000
+ 
+(38% off)
+ 
+
+Dreame
+
+I've always been happy with a Dreame vacuum, and former WIRED reviewer Adrienne So confirmed the Dreame X50 Ultra is a great model. It has 20,000 Pa of suction, double-roll brushes, side wands for edge cleaning, and a large-capacity docking station. She also really liked the built-in AI that can identify dirty areas in your home. —Nena Farrell
+
+Best Cordless Vacuum Deals
+* Photograph: Nena Farrell
+* Photograph: Nena Farrell
+* Courtesy of Dyson
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Dyson
+
+### V15 Detect
+
+$840
+ 
+$590
+ 
+(30% off)
+ 
+
+Amazon
+
+$820
+ 
+
+Amazon (Plus)
+
+I usually see a lot ofDyson vacuumson sale during events like these, and the slightly older Dyson V15 is often one of them. Now that there are newer models, the V15's sale price is just under $600, and it's a good price for a Dyson vacuum that comes with both a hard floor and all-floor cleaner head, plus a crevice tool. There's an LCD screen too, which you won't find on Dyson's new, more affordable models. —Nena Farrell
+
+Photograph: Simon Hill
+Save to wishlist
+Save to wishlist
+
+Bissell
+
+### ProHeat 2X Revolution Pet Pro
+
+$280
+ 
+$210
+ 
+(25% off)
+ 
+
+Amazon
+
+$280
+ 
+$238
+ 
+(15% off)
+ 
+
+Best Buy
+
+Thiscarpet cleanerlooks like a normal vacuum, but it has two removable tanks: one for warm water and detergent, and another for the dirty water it extracts while wet-washing embedded grime. A pedal-activated spray jet helps target stains, and three modes—Max, Deep, and Express—let you adjust the cleaning. It also comes with plenty of attachments, including an upholstery attachment and a stair-cleaning tool. It’s a godsend for spill-prone kids and cats that love to throw up on soft surfaces, and it’s the lowest price we’ve seen this year.—MollyHiggins
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Mobile Charging and Accessory Deals
+
+A Great Deal on a Translucent Power Bank
+Photograph: Simon Hill
+Save to wishlist
+Save to wishlist
+
+Sharge
+
+### Shargeek 170 Power Bank
+
+$169
+ 
+$104
+ 
+(38% off)
+ 
+
+Amazon
+
+Why settle for a dull black brick when you can snag translucent tech that looks like it came from a Cyberpunk world? This isn’t just thebest-looking power bank, it’s also functionally awesome. It can supply up to 170 watts, has an ample 24,000-mAh capacity, and scores an IP66 rating for water resistance, meaning there’s no need to worry about rain. —Simon Hill
+
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Anker
+
+### Nano Power Bank
+
+$27
+ 
+$20
+ 
+(26% off)
+ 
+
+Amazon
+
+$30
+ 
+
+Anker
+
+$30
+ 
+
+Best Buy
+
+Perfect for your pocket or bag, this power bank has a USB-C connector to slot into the bottom of your phone, and it comes in a bunch of fun colors. This made ourbest power banksguide, and despite the tiny form factor, it will fully recharge most phones. It's also easy to slide into place, and you can continue to use your phone while it charges. —Simon Hill
+
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Ecoflow
+
+### Rapid Pro Power Bank
+
+$200
+ 
+$170
+ 
+(15% off)
+ 
+
+Amazon
+
+$126
+ 
+$76
+ 
+(40% off)
+ 
+
+Amazon (20,000 mAh)
+
+The current top pick in ourbest laptop power banks, this power bank delivers close to themaximum capacity allowed on flights, and it’s an absolute unit. Seriously, this charger can juice up a couple of laptops and your phone at once. It has three USB-C ports (140W, 65W, 65W), a retractable USB-C cable (140W), and a display to show all sorts of charging stats. It supports just about every fast charging standard going (PD3.1, PPS, QC3.0, AFC, Apple2.4A, BC1.2, SCP, FCP, UFCS). —Simon Hill
+
+Photograph: Simon Hill
+Save to wishlist
+Save to wishlist
+
+Anker
+
+### MagGo Power Bank (10K) (Qi2)
+
+$90
+ 
+$72
+ 
+(20% off)
+ 
+
+Amazon
+
+$90
+ 
+
+Walmart
+
+$90
+ 
+
+Anker
+
+$90
+ 
+
+Best Buy
+
+TheQi2 wireless charging standardwas developed in partnership with Apple and features MagSafe-like magnetic alignment for iPhones. This power bank can also charge other Qi2 devices. It is compact with a handy kickstand, a two-way USB-C port, and an LED display showing remaining power and time to charge. It can support MagSafe iPhones in portrait or landscape orientation, and it works with Apple’s StandBy mode, making it one of thebest MagSafe power banks. —Simon Hill
+
+Photograph: Julian Chokkattu
+Save to wishlist
+Save to wishlist
+
+Belkin
+
+### UltraCharge 2-in-1 Foldable Magnetic Wireless Charger (Qi2 25W)
+
+$60
+ 
+$43
+ 
+(28% off)
+ 
+
+Amazon
+
+$60
+ 
+
+Office Depot
+
+$60
+ 
+
+Belkin
+
+This 2-in-1 charger has a magnetic Qi2 pad on the front and folds up so you can take it with you on the go. It also works great as a permanent charger for your desk or nightstand. There's a charging pad on the back for AirPods or any wireless earbuds with wireless charging, and a handy spare USB-C port, so you can charge a third device. Belkin includes a very compact 45-watt power adapter and a USB-C cable. —Simon Hill
+
+* Photograph: Brenda Stolyar
+* Courtesy of Amazon
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Smartish
+
+### Side Hustle Wallet
+
+$35
+ 
+$23
+ 
+(34% off)
+ 
+
+Amazon
+
+$35
+ 
+$30
+ 
+(14% off)
+ 
+
+Smartish
+
+The Smartish Side Hustle is one ofour favorite MagSafe wallets. These kinds of wallets can be tricky to use in daily life, but this wallet is designed to pop cards out for you, saving time at the register. This price is the best we've tracked. —Louryn Strampe
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## The Best TV Deals
+
+A Great Deal on an Already Affordable OLED TV
+Courtesy of Amazon
+Save to wishlist
+Save to wishlist
+
+Sony
+
+### Bravia 6
+
+$2,000
+ 
+$1,298
+ 
+(35% off)
+ 
+
+Amazon
+
+An affordableOLED TVis rare, but this newly launched model from Sony is an exception during this sale. It's Sony's entry-level OLED TV, and while it might have fewer bells and whistles than theSony Bravia 8 II, it's far easier on your wallet and still delivers a rich picture with deep black tones and excellent color contrast. It also has Google Gemini built in, which you can use to control the picture, change settings, flip inputs, and ask about obscure sci-fi movies from the ’70s. —John Brandon
+
+Courtesy of Amazon
+Save to wishlist
+Save to wishlist
+
+Samsung
+
+### The Frame LS03F
+
+$1,498
+ 
+$898
+ 
+(40% off)
+ 
+
+Amazon
+
+$1,600
+ 
+$900
+ 
+(44% off)
+ 
+
+Best Buy
+
+$1,798
+ 
+$898
+ 
+(50% off)
+ 
+
+B&H Photo
+
+While Samsung’s flagship model,The Frame Pro 2026, gets all of the accolades, The Frame from 2025 is a steal this Prime Day. I still like the matte finish on this original version, which makes paintings and photos look more realistic. The bezels are customizable and snap into place using magnets for a more art deco look. It also costs significantly less than the flagship Pro version. —John Brandon
+
+Save to wishlist
+Save to wishlist
+
+Roku
+
+### 65-Inch Plus Series Smart TV
+
+$650
+ 
+$430
+ 
+(34% off)
+ 
+
+Amazon
+
+$650
+ 
+$450
+ 
+(31% off)
+ 
+
+Best Buy
+
+Roku is launching a whole new line ofOLED models, but in the meantime, its LED televisions are deeply discounted. One of my favorites is this Plus Series model for $450, 31 percent off the usual price. The built-in streaming interface is intuitive and includes free movies and shows. You have a lot of options for voice control as well, such as Roku Voice, Google Assistant, or Alexa. This budget model supports Dolby Vision and Dolby Atmos. —John Brandon
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Best Deals on Toys and Games
+
+A Sound Stage STEM Toy
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Qubs
+
+### Qubitunes
+
+$130
+ 
+$73
+ 
+(44% off)
+ 
+
+Amazon
+
+This screen-free play stage andspeaker for kidsis enormous fun. Simply slot one of the wooden cartridges in the top and pop wooden character pieces on the circular soundstage, divided into four sections, to change the audio it plays. This basic functionality allows for a clever variety of themed add-on packs, including classical music and a cooking game.
+
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+* Photograph: Simon Hill
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Lego
+
+### Star Wars Smart Play Throne Room Duel and A-Wing
+
+$160
+ 
+$128
+ 
+(20% off)
+ 
+
+Amazon
+
+$160
+ 
+
+Lego
+
+$160
+ 
+
+Walmart
+
+TheStar Wars Smart Play Throne Room Duel and A-Wingset recreates the iconic final lightsaber battle inStar Wars: Return of the Jedi, as Emperor Palpatine sits on his throne, watching Darth Vader and Luke Skywalker fight. You also get an A-Wing to fly around, some imperial guards, and Smart Bricks that play sound effects and a version of “The Imperial March.” —Simon Hill
+
+Courtesy of Clixo
+Save to wishlist
+Save to wishlist
+
+Clixo
+
+### Super Rainbow Pack
+
+$60
+ 
+$48
+ 
+(20% off)
+ 
+
+Amazon
+
+This irresistible construction kit from ourbest STEM toysguide is a wonderful gift for kids of all ages. Clixo’s colorful, versatile, magnetic pieces snap together, enabling you to build all kinds of three-dimensional shapes, from crowns to cats. The pieces stack neatly and are very compact when packed away; they are also durable and washable, and you can play with them anywhere – you don’t need a table. Clixo kits are suitable for kids aged 4 and up, but teens and even adults will get a kick out of these too. —Simon Hill
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Best Kitchen and Coffee Deals
+
+A Kitchen Composter That Won't Smell
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+FoodCycler
+
+### Eco 3 Compact Kitchen Food Recycler
+
+$400
+ 
+$340
+ 
+(15% off)
+ 
+
+Amazon
+
+$400
+ 
+
+FoodCycler
+
+If you’re looking to cut down on food waste but don’t want to deal with smelly compost containers and mess, FoodCycler 3 isone of my top picksfor this purpose. Put your peels, cores, and wilted herbs into the included 3.5-liter countertop bucket; when it’s full, seat it right in the machine, which will then grind and dry your scraps to a fine powder. You can then top-dress your lawn with the resultant “Foodilizer,” put it in your yard waste bin, or even mix it with soil (1:10 ratio) to use in your garden.—Kat Merck
+
+Photograph: Scott Gilbertson
+Save to wishlist
+Save to wishlist
+
+Field Company
+
+### Cast Iron Skillet
+
+$160
+ 
+$131
+ 
+(18% off)
+ 
+
+Amazon (No. 8)
+
+$165
+ 
+$132
+ 
+(20% off)
+ 
+
+Field Company (No. 8)
+
+$215
+ 
+$172
+ 
+(20% off)
+ 
+
+Field Company (No. 10)
+
+WIRED operations manager andcast-iron pan enthusiastScott Gilbertson thinks Field Company makes the best-looking cast iron skillet out there. Field’s vintage-inspired models are more lightweight than other cast iron, and thus much easier to maneuver—in contrast, I’m afraid I’m going to break something every time I haul mymassive, 15-inch Lodgeout of the cupboard to make a stir-fry. Scott tested the 8 and the 10, and found them to be so well seasoned that he hasn’t had to reseason them in the year he used them.—Kat Merck
+
+Courtesy of Amazon
+Save to wishlist
+Save to wishlist
+
+KitchenAid
+
+### Nonstick Induction Frying Pan With Lid, 12-Inch
+
+$90
+ 
+$58
+ 
+(36% off)
+ 
+
+Amazon
+
+Hot take: A good nonstick pan has its place. Not for high-temperature cooking, mind you, but if you've ever tried to get eggs or fish just right, you know what I'm talking about. You can certainly usecast iron, but it’s harder to maintain, and while many people love ceramic, it became “sticky” pretty quickly for me. This is the pan that I use the most for the above purposes, and it works on every kind of stove, including induction.—Kat Merck
+
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+KBS
+
+### Pro Stainless Steel Bread Machine
+
+$160
+ 
+$123
+ 
+(23% off)
+ 
+
+Amazon
+
+My parents bought this bread machine years ago because it was one of the only models with a ceramic pan and no suspicious nonstick coatings. They handed it down to me, and I still have it. It works flawlessly, turning out ball-shaped 1-, 1.5-, or 2-lb. loaves. It doesn’t have as much versatility as higher-end machineslike the Zojirushi Virtuoso, which does a better job with specialty breads, but if you’re interested in making your own basic, preservative-free loaves without having to mess with starters, kneading, and all-day rising schedules, this machine is the best value out there.—Kat Merck
+
+Courtesy of Solo Stove
+Save to wishlist
+Save to wishlist
+
+Solo Stove
+
+### Pi Prime Pizza Oven
+
+$450
+ 
+$360
+ 
+(20% off)
+ 
+
+Solo Stove
+
+$400
+ 
+$360
+ 
+(10% off)
+ 
+
+Amazon
+
+The Solo Stove Pi Prime is an excellentpizza oven, with an elegant and functional design that is more round than oval. It's propane-powered and has solid wind shielding, and it won't take up too much space in your backyard. —Louryn Strampe
+
+* Photograph: Matthew Korfhage
+* Photograph: Matthew Korfhage
+* Photograph: Matthew Korfhage
+* Courtesy of De’Longhi
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+De'Longhi
+
+### Rivelia
+
+$1,300
+ 
+$1,000
+ 
+(23% off)
+ 
+
+Amazon
+
+$1,500
+ 
+$1,000
+ 
+(33% off)
+ 
+
+Seattle Coffee Gear
+
+$1,300
+ 
+$1,000
+ 
+(23% off)
+ 
+
+Williams Sonoma
+
+This is a solid deal on thebest automatic latte and cappuccino makerwe've tested. TheRiveliais user-friendly and easy to use, and it even has a built-in milk frother in addition to the grinder. We also like the touchscreen display and consistently tasty results. —Louryn Strampe
+
+Photograph: Louryn Strampe
+Save to wishlist
+Save to wishlist
+
+Athletic Greens
+
+### AG1 Next Gen
+
+$99
+ 
+
+Athletic Greens
+
+$100
+ 
+$75
+ 
+(25% off)
+ 
+
+Amazon (Classic Formula)
+
+Athletic Greens has a newer formula with a few additional ingredients, but the Classic formula is cheaper than we've seen before. This brand doesn't go on sale often. I noticed smoother digestion and higher energy levels when I tested thisgreens powder, which can be a beneficial way to supplement your diet in addition to whole fruits and veggies. —Louryn Strampe
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Best Gaming Deals
+
+Photograph: Simon Hill
+Save to wishlist
+Save to wishlist
+
+Backbone
+
+### One
+
+$80
+ 
+$64
+ 
+(20% off)
+ 
+
+Amazon (USB-C)
+
+$80
+ 
+
+Backbone (USB-C or Lightning)
+
+$99
+ 
+$77
+ 
+(22% off)
+ 
+
+Walmart (USB-C)
+
+$100
+ 
+$90
+ 
+(10% off)
+ 
+
+Amazon (Lightning)
+
+I've triedmany mobile gaming controllers, and theBackbone Oneremains the best. It feels great, it's fast and tactile, and the app makes finding new games easy. This price comes within $5 of the best we've seen.—Louryn Strampe
+
+Courtesy of Amazon
+Save to wishlist
+Save to wishlist
+
+Logitech
+
+### G Pro X TKL Lightspeed Wireless Gaming Keyboard
+
+$220
+ 
+$152
+ 
+(31% off)
+ 
+
+Amazon
+
+$220
+ 
+$190
+ 
+(14% off)
+ 
+
+Logitech
+
+In the world of PC gaming, this keyboard truly qualifies as a classic. It’s a few years old at this point, but this wireless, mechanical gaming keyboard is extremely balanced and well-made. The tenkeyless layout gives you everything you need without overtaking your desk (or getting in the way of your mouse hand), and the design has some flash without overdoing it.—Luke Larsen
+
+* Photograph: Julian Chokkattu
+* Courtesy of Steelcase
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Steelcase
+
+### Gesture
+
+$1,510
+ 
+$1,208
+ 
+(20% off)
+ 
+
+Amazon
+
+$2,213
+ 
+
+Steelcase (Leather)
+
+The Steelcase Gesture is our recommendation for apremium office chair. If you want something that feels a little more luxurious and cushy, it's a very safe bet. It still has several elegant points of adjustment and the foam seat is plush and comfortable. —Louryn Strampe
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## The Best Camera Deals
+
+A Bargain Action Camera
+* Photograph: Scott Gilbertson
+* Photograph: Scott Gilbertson
+* Photograph: Scott Gilbertson
+* Photograph: Scott Gilbertson
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+GoPro
+
+### Lit Hero
+
+$270
+ 
+$179
+ 
+(34% off)
+ 
+
+Amazon
+
+$270
+ 
+
+Adorama
+
+$270
+ 
+
+B&H Photo
+
+The wee little Lit Hero is GoPro's smallest, lightest, cheapest action camera. It'smy favorite GoPro for selfiesthanks to the included light. The cluster of four LEDs next to the lens ensures this camera keeps you well-lit in every scene. The Lit Hero isn't quite as capable video-wise as the Hero 13 Black (also on sale, see below), but it can shoot 4K at 60 fps, and the battery held up for a respectable 101 minutes during my test (shooting a 4K 60 fps video). —Scott Gilbertson
+
+## Health and Fitness Deals
+
+Get the Theragun Relief for Less
+Courtesy of Therabody
+Save to wishlist
+Save to wishlist
+
+Therabody
+
+### Theragun Relief
+
+$160
+ 
+$120
+ 
+(25% off)
+ 
+
+Amazon
+
+$160
+ 
+$120
+ 
+(25% off)
+ 
+
+Therabody
+
+The Theragun Relief is ourbudget Theragun pick, and at $100, it’s an even cheaper buy. It’s an older 2023 model, but massage guns don’t need the latest features to be effective. You get three attachments and three speed settings, and it’s half the weight of the Pro Plus, making it much easier to pack for travel. I’ve seen the price drop slightly lower, but $100 is still a solid discount on one of our favorite percussive guns.—Boutayna Chokrane
+
+Courtesy of LifePro
+Save to wishlist
+Save to wishlist
+
+LifePro
+
+### Sonic Handheld Percussion Massage Gun
+
+$60
+ 
+$51
+ 
+(15% off)
+ 
+
+Amazon
+
+$90
+ 
+$50
+ 
+(44% off)
+ 
+
+LifePro
+
+The LifePro Sonic Massage Gun is our budgetmassage gunpick, and $40 is the lowest price I’ve seen. It also comes with a generous set of accessories: eight attachments, plus a storage case. You get five speed settings and a battery indicator, which is plenty of versatility without paying the premium prices of higher-end massage guns. If you’re shopping for an affordable massage gun, it can’t get better than LifePro.—Boutayna Chokrane
+
+* Photograph: Boutayna Chokrane
+* Photograph: Boutayna Chokrane
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Therabody
+
+### Theragun Mini Plus
+
+$280
+ 
+$240
+ 
+(14% off)
+ 
+
+Amazon
+
+$280
+ 
+$250
+ 
+(11% off)
+ 
+
+Therabody
+
+The Theragun Mini Plus is our favoriteportable massage gun. It’s not only compact and TSA-approved, but it also features heat therapy. At $238, it’s at the lowest price I’ve seen, making this the ideal time to snag one if you were considering it. The Mini Plus is also compatible with the Cold Plus and Vibration Plus attachments, which are both sold separately.—Boutayna Chokrane
+
+A Still-Great Samsung Watch Deal
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+* Photograph: Julian Chokkattu
+* Photograph: Adrienne So
+Chevron
+Chevron
+Save to wishlist
+Save to wishlist
+
+Samsung
+
+### Galaxy Watch8 and Watch8 Classic
+
+$300
+ 
+$209
+ 
+(30% off)
+ 
+
+Amazon (40 mm)
+
+$300
+ 
+
+Samsung (40 mm)
+
+Samsung’s newerGalaxy Watch9is a modest upgrade, with a faster processor, slightly larger battery, and additional health metrics that may not be useful for everyone. The processor doesn’t make a dramatic difference in everyday use, and the larger battery doesn’t translate to a longer battery life. At $260, theWatch8is $120 less than its successor; it’s a compelling option if you don’t need the latest model.—Boutayna Chokrane
+
+Photograph: Julian Chokkattu
+Save to wishlist
+Save to wishlist
+
+Google
+
+### Pixel Watch 5
+
+$400
+ 
+$335
+ 
+(16% off)
+ 
+
+Amazon (41 mm and Wi-Fi)
+
+$400
+ 
+$350
+ 
+(13% off)
+ 
+
+Google (41 mm and Wi-Fi)
+
+TheGoogle Pixel Watch 5is a stunning smartwatch with a round face and it's your best bet if you use an Android phone. It can track your activity, sleep, and multiple health markers automatically, and it works seamlessly with Gemini. Subscribers can also get coached by Google Health.—Simon Hill
+
+Save on a Withings Smart Scale
+Photograph: Withings
+Save to wishlist
+Save to wishlist
+
+Withings
+
+### Body Comp Smart Scale
+
+$230
+ 
+$171
+ 
+(26% off)
+ 
+
+Amazon
+
+$230
+ 
+$180
+ 
+(22% off)
+ 
+
+Withings
+
+Smart scalescan be tough to justify when they cost hundreds of dollars, but $69 off makes our top pick even easier to recommend. The Withings Body Comp is among the most advanced smart scales we’ve tested, with a companion app that can track data for up to eight users. It’s also meant to last a lifetime; WIRED reviewerChristopher Nullhas Withings info dating back to 2010 and plans to keep the streak going.—Boutayna Chokrane
+
+Photograph: Adrienne So
+Save to wishlist
+Save to wishlist
+
+Urevo
+
+### CyberPad for Home
+
+$480
+ 
+$368
+ 
+(23% off)
+ 
+
+Amazon
+
+$500
+ 
+
+Urevo
+
+The Urevo CyberPad stands out with its 14-percent incline, one of the steepest we’ve seen on awalking pad. In testing, WIRED contributorKristin Canningalso praised its durable construction, solid feel underfoot, and comfortable belt. I’ve seen this model discounted further, but $387 is a solid price for a premium walking pad now rather than waiting for Black Friday.—Boutayna Chokrane
+
+Courtesy of ComfyBrace
+Save to wishlist
+Save to wishlist
+
+ComfyBrace
+
+### Adjustable Posture Corrector
+
+$27
+ 
+$21
+ 
+(22% off)
+ 
+
+Amazon
+
+If you’re considering aposture corrector, this adjustable orthopedic brace is my favorite and one of the easiest to use. Its stretchy, breathable neoprene fabric makes it comfortable to wear, and it slips on and off clothes almost effortlessly. The lowest I’ve seen it drop to is $19, so this is a great time to buy.—Boutayna Chokrane
+
+Jump to a section:Apple Deals,Kindle Deals,Headphone Deals,Smart Home Deals,Laptop and Home Office Deals,AV Deals,Phone Deals,Vacuum Deals,Mobile Charging and Accessory Deals,TV Deals,Deals on Toys and Games,Kitchen and Coffee Deals,Gaming Deals,Camera Deals,Health and Fitness Deals,Outdoor and Home Deals
+
+## Best Outdoor and Travel Deals
+
+Let a Robot Clean Your Pool
+Photograph: Chris Null
+Save to wishlist
+Save to wishlist
+
+Beatbot
+
+### AquaSense 2 Ultra
+
+$2,299
+ 
+$1,954
+ 
+(15% off)
+ 
+
+Amazon
+
+$2,699
+ 
+
+Beatbot
+
+WIRED contributing reviewer Christopher Null has tried a lot ofpool-cleaning robots, and this is his favorite. It offers flawless cleaning of your floors, walls, and waterline, plus an app and a battery with six hours of charge underwater. It also floats when it’s done, so you don’t have to fish it up from the bottom. The only downside—aside from its heft—is the price, but this is a genuinely good sale, so worth snagging at this price if you’ve been considering it.—Kat Merck
+
+Courtesy of Govee
+Save to wishlist
+Save to wishlist
+
+Govee
+
+### Permanent Outdoor Lights Pro
+
+$440
+ 
+$280
+ 
+(36% off)
+ 
+
+Amazon (100 feet)
+
+$760
+ 
+$600
+ 
+(21% off)
+ 
+
+Govee (200 feet)
+
+Long before we started testingpermanent outdoor smart lights, we already liked these lights from Govee, and they still reign supreme in our outdoor lighting guides. The only downside is that they're an expensive investment, but they're designed to stay outside all year and can be customized to suit any holiday at any moment through the Govee app. They're on sale now, making it a great time to buy before the holiday season kicks off. —Nena Farrell
+
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+Eufy
+
+### Permanent Outdoor Lights S4
+
+$500
+ 
+$285
+ 
+(43% off)
+ 
+
+Amazon (100 ft)
+
+$400
+ 
+$319
+ 
+(20% off)
+ 
+
+Best Buy (100 ft)
+
+$500
+ 
+$350
+ 
+(30% off)
+ 
+
+Eufy (100 ft)
+
+Thesepermanent outdoor lightsare usually available for $400, if not a little cheaper, but this is the lowest price you'll find—don't wait any longer if you're looking to set up your home for the holiday season. WIRED reviewer Kat Merck has had them on her home for two seasons now without issue, and says the lights were relatively easy to install, the app is easy to navigate, and there are tons of preset lighting designs to choose from. —Nena Farrell
+
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+Bagsmart
+
+### Compression Packing Cubes (Set of 6)
+
+$40
+ 
+$24
+ 
+(40% off)
+ 
+
+Amazon
+
+$46
+ 
+$43
+ 
+(7% off)
+ 
+
+Bagsmart
+
+As someone who’s tested dozens of sets of packing cubes, I believe these to be thebest you can buy on Amazon. Compression, label windows, lots of color options, breathability, privacy—this six-piece set has it all. This particular package gets you four rectangular cubes with handles, plus a shoe bag and double-open drawstring bag for dirty clothes or bulkier items. Everything you need for fitting the maximum amount in your carry-on.—Kat Merck
+
+Photograph: Simon Hill
+Save to wishlist
+Save to wishlist
+
+Ceptics
+
+### 6 in 1 Worldwide Travel Adapter
+
+$19
+ 
+$16
+ 
+(16% off)
+ 
+
+Amazon
+
+The budget pick in our best travel adapters guide, this Ceptics travel adapter covers more than 150 countries, with sliders you push to reveal the three most common international plugs—EU, UK, and US (rotate the pins for sockets in Australia or China). They lock in place securely, with a button to retract, and you’ll find two USB-C and two USB-A ports on the bottom, plus a USB-C port on the side.—Simon Hill
+
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+Jisulife
+
+### Handheld Mini Fan
+
+$18
+ 
+$11
+ 
+(39% off)
+ 
+
+Amazon
+
+Back when I first started writing aboutthis best-selling fan, almost two years ago, it was only $10. The price now swings between $12 and $18, but this is as low as you’re typically going to see it. It’s a nifty little device with two rubbery blades on a stalk that folds down into a pill-shaped handle. On the bottom is a flashlight and on the back is a USB charger. Because the blades stop as soon as they hit something, it’s a great fan for kids, and it’s not so loud that you can’t hold a conversation over it.—Kat Merck
+
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+Lettuce Grow
+
+### Farmstand
+
+$773
+ 
+$580
+ 
+(25% off)
+ 
+
+Amazon (12 seedlings)
+
+$949
+ 
+$712
+ 
+(25% off)
+ 
+
+Amazon (18 seedlings)
+
+$1,149
+ 
+$862
+ 
+(25% off)
+ 
+
+Amazon (24 seedlings)
+
+$1,274
+ 
+$956
+ 
+(25% off)
+ 
+
+Amazon (30 seedlings)
+
+This is my secondfavorite indoor gardening systemI’ve ever tested. I’ve had the 24-seedling model in the hall outside my home office for nearly two years now, successfully growing everything from pole beans and strawberries to snapdragons and lettuce. Compared to similar systems, it’s relatively easy to clean and maintain, and you can grow anything you want—every Farmstand comes with credits for seedlings, but you can also sprout your own using peat pellets. The only downsides are that the pump runs once an hour and it is loud, and the lights are very bright.—Kat Merck
+
+The Most Reliable Smart Bird Feeder
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+Netvue
+
+### Birdfy Lite Smart Bird Feeder
+
+$170
+ 
+$133
+ 
+(22% off)
+ 
+
+Amazon (AI ID, Solar)
+
+$180
+ 
+$123
+ 
+(32% off)
+ 
+
+Amazon (No AI ID, With Solar)
+
+$200
+ 
+$110
+ 
+(45% off)
+ 
+
+Birdfy (No AI ID, No Solar)
+
+$230
+ 
+$130
+ 
+(43% off)
+ 
+
+Birdfy (Lifetime AI, No Solar)
+
+If you’re looking for the most reliablesmart bird feederat the best price, you won’t do better than Birdfy’s original plastic feeder. Birdfy recently surpassed 1 million units sold and continues to advance its app with new features, including the ability to identify multiple birds on a feeder at once. The plastic feeder body comes with blue or yellow accents and is a bit lightweight, so you’ll want to make sure to mount it away from squirrels who could damage it. This model comes with an auxiliary solar panel and has no paywalled subscription features, so you won’t have to stress about hidden post-purchase fees.—Kat Merck
+
+Our Favorite Smart Nest Box
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+Birdfy
+
+### Nest Duo
+
+$320
+ 
+$250
+ 
+(22% off)
+ 
+
+Amazon
+
+$350
+ 
+$280
+ 
+(20% off)
+ 
+
+Birdfy
+
+$300
+ 
+$280
+ 
+(7% off)
+ 
+
+Walmart
+
+One of my favoriteproducts I tested this year, this smart nesting box features a camera both inside and outside, so you can see all the comings and goings of any bird families that decide to move in. Mine had black-capped chickadees, but the Duo comes with different sized holes (and corresponding metal predator guards to prevent chewing) to appeal to different species. You can also raise the floor up or down to change the cavity size. I wouldn’t recommend this in hot climates due to the black-painted side and lack of ventilation, but otherwise it’s a must-buy if you love birds.—Kat Merck
+
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+Birdfy
+
+### Rookie Smart Bird Feeder
+
+$80
+ 
+$50
+ 
+(38% off)
+ 
+
+Amazon (No AI ID, No Solar)
+
+$140
+ 
+$80
+ 
+(43% off)
+ 
+
+Birdfy (No AI ID, Solar)
+
+$150
+ 
+$90
+ 
+(40% off)
+ 
+
+Chewy
+
+If you’re not sure if you’ll like asmart bird feeder, this is an inexpensive, low-stakes way to experience Birdfy’s excellent app and 1080p camera for yourself. The plastic housing is about as basic as it gets—it reminds me of a little gravity pet feeder, and is pretty lightweight. The lid to my test unit blew off in a gust of wind. Still, this is the best smart feeder configuration you can buy at this price point, and even though it doesn’t include a subscription for AI ID, you can still screenshot unfamiliar birds and Google them.—Kat Merck
+
+Photograph: Kat Merck
+Save to wishlist
+Save to wishlist
+
+Camojojo
+
+### Hibird Pro
+
+$140
+ 
+$113
+ 
+(19% off)
+ 
+
+Amazon
+
+Top pick for photo quality in my guide to theBest Smart Bird Feeders, this well-engineered feeder offers 4K HD video and 32 MP image captures, plus remote streaming in 1080p HD. It operates on both 2.4 and 5 GHz Wi-Fi bands and features sturdy, heavy construction that stood up well to squirrel chewing in my testing. Without the $54/year subscription, you'll get 20 uses of AI ID per month, but be forewarned this feature isn’t great, and you also won’t be able to search past videos by bird, as free storage is capped at three days’ worth.—Kat Merck
+
+Photograph: Philips
+Save to wishlist
+Save to wishlist
+
+Philips Hue
+
+### Festavia
+
+$220
+ 
+$187
+ 
+(15% off)
+ 
+
+Amazon
+
+$220
+ 
+
+Best Buy
+
+If you want to brighten up your holiday season, the Philips Hue Festavia are thebest smart Christmas lightsyou can buy. This 65-foot string is easy to drape on an indoor or outdoor tree (the lights are IP54 rated) and sports 250 tiny LEDs. You can pick any color, animate with twinkly effects, and even tune white to find your preferred color temperature. Cozy and classy, these smart string lights can be scheduled with different colors or effects for different times of day, paired with other Hue lights, or synced with music. —Simon Hill
+
+## More Prime Day Deals
+
+* All of TheAbsolute Best October Prime Day Deals
+* Prime Day Tech DealsWe're Shopping Ourselves
+* Can't MissPrime Day Apple Deals
+* Editor-VettedPrime Big Deal Day TV Deals
+* Prime Day Headphone DealsWorth Your Money
+* This Season's TopKindle Deals
+* We'reTracking The Latest Prime Day Developmentsin Real Time
+Louryn Strampe
+ is a product writer and reviewer at WIRED covering 
+deals
+, 
+beauty
+, 
+home goods
+, and 
+gifts
+. She’s written about Black Friday, Cyber Monday, Prime Day, and other shopping holidays since 2013, offering 
+tips and tricks
+ and sleuthing out fact-checked discounts for fun and for a living. She previously covered ... 
+Read More
+Writer and Reviewer
+* X
+Topics
+Amazon Prime Day
+Deals
+Amazon Prime
+Shopping
+
+## Wired Coupons
+
+LegalZoom Promo Code
+
+LegalZoom Promo Code 10% Off Sitewide
+
+Code promo Canon
+
+10% Off Canon Promo Code + Up to 30% Off
+
+Veriizon Promo Code
+
+Best Verizon Smartphone Deals
+
+AT&T Promo Code
+
+AT&T Top Deals: Wireless, Internet, Bundles and More!
+
+VistaPrint promo code
+
+Take Up to 25% Off Custom Prints with VistaPrint Promo Code
+
+Peacock Promo Code
+
+Save With a Peacock Promo Code: 3 Months Free
