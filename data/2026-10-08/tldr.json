@@ -1,25 +1,5 @@
 [
   {
-    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
-    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
-    "description": "64-Day Certificate Lifetimes Coming Feb 2027",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "A Note on Our Fundraise | Nous Research",
-    "url": "https://nousresearch.com/a-note-on-our-fundraise",
-    "description": "A Note on Our Fundraise | Nous Research",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "A Terminal Protocol for Program Status (OSC 7501)",
     "url": "https://mitchellh.com/writing/program-status-osc7501",
     "description": "A Terminal Protocol for Program Status (OSC 7501)",
@@ -30,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687",
-    "description": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
+    "title": "AI Model Evaluator Arena Valued at Over $3 Billion in Round",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-model-evaluator-arena-valued-at-over-3-billion-in-round",
+    "description": "AI Model Evaluator Arena Valued at Over $3 Billion in Round",
     "tags": [
       "tldr"
     ],
@@ -40,9 +20,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple invites developers to submit iPhone Duo-ready apps to the App Store",
-    "url": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store",
-    "description": "Apple invites developers to submit iPhone Duo-ready apps to the App Store",
+    "title": "Addressing Cascading Failures",
+    "url": "https://sre.google/sre-book/addressing-cascading-failures",
+    "description": "Addressing Cascading Failures",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
+    "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout",
+    "description": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+    "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever",
+    "description": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
     "tags": [
       "tldr"
     ],
@@ -60,6 +60,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Bengio: ‘If you prioritize safety, leave frontier AI companies’",
+    "url": "https://yoshuabengio.org/en/blog/bengio-if-you-prioritize-safety-leave-frontier-ai-companies",
+    "description": "Bengio: ‘If you prioritize safety, leave frontier AI companies’",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
     "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
     "url": "https://commandline.microsoft.com/local-models-sandboxed-tools-github-windows",
     "description": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
@@ -70,9 +80,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building resilient systems with Sam Newman",
-    "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
-    "description": "Building resilient systems with Sam Newman",
+    "title": "Building Git infrastructure for agent-scale development",
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+    "description": "Building Git infrastructure for agent-scale development",
     "tags": [
       "tldr"
     ],
@@ -90,9 +100,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Claude Haiku 5.5 pricing jumps fivefold at 100,001 prompt tokens",
-    "url": "https://importstatic.com/ai/claude-haiku-5-5-pricing-threshold",
-    "description": "Claude Haiku 5.5 pricing jumps fivefold at 100,001 prompt tokens",
+    "title": "Carbon-A: An Open Model for Finding Genes Directly in DNA",
+    "url": "https://x.com/thom_wolf/status/2108220549268639992",
+    "description": "Carbon-A: An Open Model for Finding Genes Directly in DNA",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Classifying Emails with Jev and the OpenAI Decisions API",
+    "url": "https://builders.abnormal.ai/p/classifying-emails-with-jev-and-the",
+    "description": "Classifying Emails with Jev and the OpenAI Decisions API",
     "tags": [
       "tldr"
     ],
@@ -103,6 +123,16 @@
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
     "description": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "EpicGames/raddebugger: A native graphical debugger, custom debug info format, and high-performance linker",
+    "url": "https://github.com/EpicGames/raddebugger",
+    "description": "EpicGames/raddebugger: A native graphical debugger, custom debug info format, and high-performance linker",
     "tags": [
       "tldr"
     ],
@@ -140,9 +170,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
-    "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
-    "description": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+    "title": "Gemini at Work 2026: Introducing Gemini agent",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026?linkId=64057297",
+    "description": "Gemini at Work 2026: Introducing Gemini agent",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google Cloud unveils the Gemini agent to handle multi-day enterprise workflows across Workspace, Microsoft 365, and Slack, with support for multiple AI models",
+    "url": "https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage",
+    "description": "Google Cloud unveils the Gemini agent to handle multi-day enterprise workflows across Workspace, Microsoft 365, and Slack, with support for multiple AI models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+    "url": "https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html",
+    "description": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
     "tags": [
       "tldr"
     ],
@@ -160,19 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google goes nuclear to power its AI data centers, committing to purchase 890 megawatts of energy from Constellation",
-    "url": "https://siliconangle.com/2026/10/06/google-goes-nuclear-to-power-its-ai-data-centers-committing-to-purchase-890-megawatts-of-energy-from-constellation",
-    "description": "Google goes nuclear to power its AI data centers, committing to purchase 890 megawatts of energy from Constellation",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Google researchers publish generative AI patent attorney study (*)",
-    "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
-    "description": "Google researchers publish generative AI patent attorney study (*)",
+    "title": "Having the best robotics model isn’t enough to win the robotics race",
+    "url": "https://www.the-substrate.net/p/having-the-best-robotics-model-isnt",
+    "description": "Having the best robotics model isn’t enough to win the robotics race",
     "tags": [
       "tldr"
     ],
@@ -210,39 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing OpenDocRouter: every document model under one API",
-    "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
-    "description": "Introducing OpenDocRouter: every document model under one API",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Introducing Personal Agent Protocol",
-    "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-    "description": "Introducing Personal Agent Protocol",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript",
-    "url": "https://x.com/rauchg/status/2107119811444748555",
-    "description": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark",
-    "url": "https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai",
-    "description": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark",
+    "title": "Manus raises more than $500M in first funding round since Meta exit",
+    "url": "https://thenextweb.com/news/manus-raises-500m-after-meta-exit",
+    "description": "Manus raises more than $500M in first funding round since Meta exit",
     "tags": [
       "tldr"
     ],
@@ -260,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Musk’s Grok Bot will use Anthropic’s Claude, Midjourney and Suno models",
-    "url": "https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk",
-    "description": "Musk’s Grok Bot will use Anthropic’s Claude, Midjourney and Suno models",
+    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes",
+    "description": "Microsoft event debuts new AI-friendly hardware and Windows changes",
     "tags": [
       "tldr"
     ],
@@ -270,9 +280,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "description": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "title": "Microsoft launches Copilot Managed Runtime and Dynamics 365 skills (*)",
+    "url": "https://x.com/satyanadella/status/2108213283144810958",
+    "description": "Microsoft launches Copilot Managed Runtime and Dynamics 365 skills (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft will let Copilot act on local files on Windows PCs",
+    "url": "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html",
+    "description": "Microsoft will let Copilot act on local files on Windows PCs",
     "tags": [
       "tldr"
     ],
@@ -290,19 +310,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI hits 40M Codex and ChatGPT Work users (*)",
-    "url": "https://x.com/thsottiaux/status/2107913674593644711",
-    "description": "OpenAI hits 40M Codex and ChatGPT Work users (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI introduces visual ad formats and measurement tools for ChatGPT (*)",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "description": "OpenAI introduces visual ad formats and measurement tools for ChatGPT (*)",
+    "title": "OpenAI annualised revenues $20bn less than previously signalled",
+    "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
+    "description": "OpenAI annualised revenues $20bn less than previously signalled",
     "tags": [
       "tldr"
     ],
@@ -320,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Our approach to EU text provenance rules",
-    "url": "https://openai.com/index/eu-text-provenance",
-    "description": "Our approach to EU text provenance rules",
+    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu",
+    "description": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
     "tags": [
       "tldr"
     ],
@@ -330,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
-    "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth",
-    "description": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+    "title": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+",
+    "url": "https://siliconangle.com/2026/10/08/oratomic-raises-475m-for-neutral-atom-quantum-computing-universal-quantum-nets-100m",
+    "description": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+",
     "tags": [
       "tldr"
     ],
@@ -340,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Putting a Transformer Inside Every Card Authorization",
-    "url": "https://builders.ramp.com/post/sequence-aware-card-fraud",
-    "description": "Putting a Transformer Inside Every Card Authorization",
+    "title": "Samsung Collaborates with Sui to Bring USDC to Samsung Wallet on 82 Million U.S. Galaxy Devices",
+    "url": "https://www.sui.io/blog/samsung-collaborates-with-sui-to-bring-usdc-to-samsung-wallet-on-82-million-u-s-galaxy-devices",
+    "description": "Samsung Collaborates with Sui to Bring USDC to Samsung Wallet on 82 Million U.S. Galaxy Devices",
     "tags": [
       "tldr"
     ],
@@ -350,39 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SAP Just Added Stablecoin Settlement to the Software That Runs 84% of Global Commerce",
-    "url": "https://forkast.news/sap-just-added-stablecoin-settlement-to-the-software-that-runs-84-of-global-commerce",
-    "description": "SAP Just Added Stablecoin Settlement to the Software That Runs 84% of Global Commerce",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
-    "url": "https://www.theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
-    "description": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Security researcher claims they found KVM guest-host escape flaw",
-    "url": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
-    "description": "Security researcher claims they found KVM guest-host escape flaw",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Software Supply Chain Attack on @subql/common: Overview and Response Guidance",
-    "url": "https://flatt.tech/research/posts/subql-common-npm-supply-chain-attack",
-    "description": "Software Supply Chain Attack on @subql/common: Overview and Response Guidance",
+    "title": "Secret protection must scale with software",
+    "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+    "description": "Secret protection must scale with software",
     "tags": [
       "tldr"
     ],
@@ -400,16 +380,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceX to borrow $40-billion to buy Nvidia chips",
-    "url": "https://techcentral.co.za/spacex-40-billion-apollo-nvidia-chips/286971",
-    "description": "SpaceX to borrow $40-billion to buy Nvidia chips",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "Stack Overflow Developer Survey 2026",
     "url": "https://survey.stackoverflow.co/2026",
     "description": "Stack Overflow Developer Survey 2026",
@@ -420,9 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The state of the tech industry in 2026",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
-    "description": "The state of the tech industry in 2026",
+    "title": "Tensorlake npm Package Compromised: A Worm With a Hostage Token That Wipes Your Machine If You Revoke It",
+    "url": "https://www.stepsecurity.io/blog/tensorlake-npm-compromised-hostage-token-worm",
+    "description": "Tensorlake npm Package Compromised: A Worm With a Hostage Token That Wipes Your Machine If You Revoke It",
     "tags": [
       "tldr"
     ],
@@ -430,9 +400,49 @@
     "site_name": "tldr"
   },
   {
-    "title": "Two-Thirds of MiMo v2.6's Coding Tasks Leak the Answer. Are Models That Exploit This Misbehaving? | Vals AI",
-    "url": "https://www.vals.ai/blogs/mimo-reward-hacking",
-    "description": "Two-Thirds of MiMo v2.6's Coding Tasks Leak the Answer. Are Models That Exploit This Misbehaving? | Vals AI",
+    "title": "The Evolution of Automation at Google",
+    "url": "https://sre.google/sre-book/automation-at-google",
+    "description": "The Evolution of Automation at Google",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The International Ice Patrol",
+    "url": "https://thebuild.com/blog/the-international-ice-patrol",
+    "description": "The International Ice Patrol",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The State of AI Report 2026",
+    "url": "https://nathanbenaich.substack.com/p/state-of-ai-2026",
+    "description": "The State of AI Report 2026",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "US suspending permanent residency programme for Microsoft and Capgemini, officials say",
+    "url": "https://thenextweb.com/news/perm-suspension-capgemini-europe",
+    "description": "US suspending permanent residency programme for Microsoft and Capgemini, officials say",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What is Codemode",
+    "url": "https://lucumr.pocoo.org/2026/10/6/codemode",
+    "description": "What is Codemode",
     "tags": [
       "tldr"
     ],
@@ -460,9 +470,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "pbakaus/impeccable: Design guidance and skills for AI coding agents",
-    "url": "https://github.com/pbakaus/impeccable",
-    "description": "pbakaus/impeccable: Design guidance and skills for AI coding agents",
+    "title": "microsoft/quicksand: Quickly sandbox your AI agent",
+    "url": "https://github.com/microsoft/quicksand",
+    "description": "microsoft/quicksand: Quickly sandbox your AI agent",
     "tags": [
       "tldr"
     ],
@@ -483,16 +493,6 @@
     "title": "pola-rs/polars: Release Python Polars 2.0.0",
     "url": "https://github.com/pola-rs/polars/releases/tag/py-2.0.0",
     "description": "pola-rs/polars: Release Python Polars 2.0.0",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "rui314/mold: Release mold 3.0.0",
-    "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
-    "description": "rui314/mold: Release mold 3.0.0",
     "tags": [
       "tldr"
     ],
