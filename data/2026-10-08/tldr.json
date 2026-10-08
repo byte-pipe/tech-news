@@ -1,5 +1,15 @@
 [
   {
+    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+    "description": "64-Day Certificate Lifetimes Coming Feb 2027",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
     "title": "A Terminal Protocol for Program Status (OSC 7501)",
     "url": "https://mitchellh.com/writing/program-status-osc7501",
     "description": "A Terminal Protocol for Program Status (OSC 7501)",
@@ -13,6 +23,16 @@
     "title": "AI Model Evaluator Arena Valued at Over $3 Billion in Round",
     "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-model-evaluator-arena-valued-at-over-3-billion-in-round",
     "description": "AI Model Evaluator Arena Valued at Over $3 Billion in Round",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AMD Instinct MI455X vs MI355X: A Technical Look at the Advancing AI 2026 Inference Numbers",
+    "url": "https://rocm.blogs.amd.com/software-tools-optimization/mi455x-vs-mi355x/README.html",
+    "description": "AMD Instinct MI455X vs MI355X: A Technical Look at the Advancing AI 2026 Inference Numbers",
     "tags": [
       "tldr"
     ],
@@ -50,6 +70,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "An opt-in vulnerability-finding service for open-source software \\ Anthropic",
+    "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+    "description": "An opt-in vulnerability-finding service for open-source software \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic launches critical infrastructure program and free OSS Scanner for open source",
+    "url": "https://siliconangle.com/2026/10/08/anthropic-launches-critical-infrastructure-program-and-free-oss-scanner-for-open-source",
+    "description": "Anthropic launches critical infrastructure program and free OSS Scanner for open source",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
     "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
     "url": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718",
     "description": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
@@ -60,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Bengio: ‘If you prioritize safety, leave frontier AI companies’",
-    "url": "https://yoshuabengio.org/en/blog/bengio-if-you-prioritize-safety-leave-frontier-ai-companies",
-    "description": "Bengio: ‘If you prioritize safety, leave frontier AI companies’",
+    "title": "Bootstrap 6 Alpha",
+    "url": "https://blog.getbootstrap.com/2026/10/08/bootstrap-6-alpha",
+    "description": "Bootstrap 6 Alpha",
     "tags": [
       "tldr"
     ],
@@ -80,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building Git infrastructure for agent-scale development",
-    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-    "description": "Building Git infrastructure for agent-scale development",
+    "title": "Building effective agent automations / claude.dev Blog",
+    "url": "https://claude.dev/blog/building-effective-agent-automations",
+    "description": "Building effective agent automations / claude.dev Blog",
     "tags": [
       "tldr"
     ],
@@ -110,9 +150,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Classifying Emails with Jev and the OpenAI Decisions API",
-    "url": "https://builders.abnormal.ai/p/classifying-emails-with-jev-and-the",
-    "description": "Classifying Emails with Jev and the OpenAI Decisions API",
+    "title": "Claude launches Dashboards and Motion in beta",
+    "url": "https://www.testingcatalog.com/claude-launches-dashboards-and-motion-in-beta",
+    "description": "Claude launches Dashboards and Motion in beta",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Decisions",
+    "url": "https://developers.openai.com/api/docs/guides/decisions",
+    "description": "Decisions",
     "tags": [
       "tldr"
     ],
@@ -150,9 +200,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "FastH3 on Consumer Hardware: RTX GPUs, DGX Spark and Macs, Plus FastH3 Trim",
-    "url": "https://haoailab.com/blogs/fasth3-rtx",
-    "description": "FastH3 on Consumer Hardware: RTX GPUs, DGX Spark and Macs, Plus FastH3 Trim",
+    "title": "GPT-6.1 Sol Ultrafast is rolling out! Up to 8x faster token generation than Sol Standard, at $1...",
+    "url": "https://x.com/reach_vb/status/2108264743744020833",
+    "description": "GPT-6.1 Sol Ultrafast is rolling out! Up to 8x faster token generation than Sol Standard, at $1...",
     "tags": [
       "tldr"
     ],
@@ -190,39 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
-    "url": "https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html",
-    "description": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "Google expands global access to SynthID Detector in partnership with OpenAI, NVIDIA, and Apple",
     "url": "https://x.com/newsfromgoogle/status/2107837483983483360",
     "description": "Google expands global access to SynthID Detector in partnership with OpenAI, NVIDIA, and Apple",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Having the best robotics model isn’t enough to win the robotics race",
-    "url": "https://www.the-substrate.net/p/having-the-best-robotics-model-isnt",
-    "description": "Having the best robotics model isn’t enough to win the robotics race",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Introducing Beam: Reflection's 501B open-weight model — Reflection",
-    "url": "https://reflection.ai/blog/introducing-beam",
-    "description": "Introducing Beam: Reflection's 501B open-weight model — Reflection",
     "tags": [
       "tldr"
     ],
@@ -250,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Manus raises more than $500M in first funding round since Meta exit",
-    "url": "https://thenextweb.com/news/manus-raises-500m-after-meta-exit",
-    "description": "Manus raises more than $500M in first funding round since Meta exit",
+    "title": "Introducing trusted-access models to the Artificial Analysis Cyber Index | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/articles/trusted-access-models-cyber-index",
+    "description": "Introducing trusted-access models to the Artificial Analysis Cyber Index | Artificial Analysis",
     "tags": [
       "tldr"
     ],
@@ -273,16 +293,6 @@
     "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
     "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes",
     "description": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Microsoft launches Copilot Managed Runtime and Dynamics 365 skills (*)",
-    "url": "https://x.com/satyanadella/status/2108213283144810958",
-    "description": "Microsoft launches Copilot Managed Runtime and Dynamics 365 skills (*)",
     "tags": [
       "tldr"
     ],
@@ -330,26 +340,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu",
-    "description": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+",
-    "url": "https://siliconangle.com/2026/10/08/oratomic-raises-475m-for-neutral-atom-quantum-computing-universal-quantum-nets-100m",
-    "description": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "Samsung Collaborates with Sui to Bring USDC to Samsung Wallet on 82 Million U.S. Galaxy Devices",
     "url": "https://www.sui.io/blog/samsung-collaborates-with-sui-to-bring-usdc-to-samsung-wallet-on-82-million-u-s-galaxy-devices",
     "description": "Samsung Collaborates with Sui to Bring USDC to Samsung Wallet on 82 Million U.S. Galaxy Devices",
@@ -360,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Secret protection must scale with software",
-    "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-    "description": "Secret protection must scale with software",
+    "title": "Sources: Apple is planning a second launch this month, scheduled on or around October 27, to introduce its first touch-screen MacBook, a new iPad mini, and more",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ5MDMwMCwiZXhwIjoxNzkyMDk1MTAwLCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FtH_qR7-ZMoCNHSPZzDhdIAtFuxSSOo7BPD87jeDEW4",
+    "description": "Sources: Apple is planning a second launch this month, scheduled on or around October 27, to introduce its first touch-screen MacBook, a new iPad mini, and more",
     "tags": [
       "tldr"
     ],
@@ -390,6 +380,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal",
+    "url": "https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061",
+    "description": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
     "title": "Tensorlake npm Package Compromised: A Worm With a Hostage Token That Wipes Your Machine If You Revoke It",
     "url": "https://www.stepsecurity.io/blog/tensorlake-npm-compromised-hostage-token-worm",
     "description": "Tensorlake npm Package Compromised: A Worm With a Hostage Token That Wipes Your Machine If You Revoke It",
@@ -400,9 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Evolution of Automation at Google",
-    "url": "https://sre.google/sre-book/automation-at-google",
-    "description": "The Evolution of Automation at Google",
+    "title": "The Bigger the Judge, the Better the Judgment? Not Quite.",
+    "url": "https://cirriustech.co.uk/blog/the-bigger-the-judge-the-better",
+    "description": "The Bigger the Judge, the Better the Judgment? Not Quite.",
     "tags": [
       "tldr"
     ],
@@ -410,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The International Ice Patrol",
-    "url": "https://thebuild.com/blog/the-international-ice-patrol",
-    "description": "The International Ice Patrol",
+    "title": "The Evolution of Automation at Google",
+    "url": "https://sre.google/sre-book/automation-at-google",
+    "description": "The Evolution of Automation at Google",
     "tags": [
       "tldr"
     ],
@@ -440,16 +440,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "What is Codemode",
-    "url": "https://lucumr.pocoo.org/2026/10/6/codemode",
-    "description": "What is Codemode",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-08",
-    "site_name": "tldr"
-  },
-  {
     "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
     "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior",
     "description": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
@@ -463,6 +453,16 @@
     "title": "docker/docker-agent: AI Agent Builder and Runtime by Docker Engineering",
     "url": "https://github.com/docker/docker-agent",
     "description": "docker/docker-agent: AI Agent Builder and Runtime by Docker Engineering",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "microsoft/brewlet: Run Java applications from OCI artifacts on Kubernetes",
+    "url": "https://github.com/microsoft/brewlet",
+    "description": "microsoft/brewlet: Run Java applications from OCI artifacts on Kubernetes",
     "tags": [
       "tldr"
     ],
