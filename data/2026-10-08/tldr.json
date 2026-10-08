@@ -1,0 +1,502 @@
+[
+  {
+    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+    "description": "64-Day Certificate Lifetimes Coming Feb 2027",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A Note on Our Fundraise | Nous Research",
+    "url": "https://nousresearch.com/a-note-on-our-fundraise",
+    "description": "A Note on Our Fundraise | Nous Research",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A Terminal Protocol for Program Status (OSC 7501)",
+    "url": "https://mitchellh.com/writing/program-status-osc7501",
+    "description": "A Terminal Protocol for Program Status (OSC 7501)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687",
+    "description": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple invites developers to submit iPhone Duo-ready apps to the App Store",
+    "url": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store",
+    "description": "Apple invites developers to submit iPhone Duo-ready apps to the App Store",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
+    "url": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718",
+    "description": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
+    "url": "https://commandline.microsoft.com/local-models-sandboxed-tools-github-windows",
+    "description": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Building resilient systems with Sam Newman",
+    "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+    "description": "Building resilient systems with Sam Newman",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products",
+    "url": "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products",
+    "description": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Claude Haiku 5.5 pricing jumps fivefold at 100,001 prompt tokens",
+    "url": "https://importstatic.com/ai/claude-haiku-5-5-pricing-threshold",
+    "description": "Claude Haiku 5.5 pricing jumps fivefold at 100,001 prompt tokens",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+    "description": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Expanding the Cyber Verification Program",
+    "url": "https://www.anthropic.com/news/cyber-verification-program",
+    "description": "Expanding the Cyber Verification Program",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "FastH3 on Consumer Hardware: RTX GPUs, DGX Spark and Macs, Plus FastH3 Trim",
+    "url": "https://haoailab.com/blogs/fasth3-rtx",
+    "description": "FastH3 on Consumer Hardware: RTX GPUs, DGX Spark and Macs, Plus FastH3 Trim",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "description": "GPT‑6 and Intelligent UI for everyone",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+    "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+    "description": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google expands global access to SynthID Detector in partnership with OpenAI, NVIDIA, and Apple",
+    "url": "https://x.com/newsfromgoogle/status/2107837483983483360",
+    "description": "Google expands global access to SynthID Detector in partnership with OpenAI, NVIDIA, and Apple",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google goes nuclear to power its AI data centers, committing to purchase 890 megawatts of energy from Constellation",
+    "url": "https://siliconangle.com/2026/10/06/google-goes-nuclear-to-power-its-ai-data-centers-committing-to-purchase-890-megawatts-of-energy-from-constellation",
+    "description": "Google goes nuclear to power its AI data centers, committing to purchase 890 megawatts of energy from Constellation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google researchers publish generative AI patent attorney study (*)",
+    "url": "https://research.google/blog/does-better-work-always-mean-better-workers",
+    "description": "Google researchers publish generative AI patent attorney study (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Beam: Reflection's 501B open-weight model — Reflection",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "description": "Introducing Beam: Reflection's 501B open-weight model — Reflection",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Claude Haiku 5.5 \\ Anthropic",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "description": "Introducing Claude Haiku 5.5 \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4",
+    "description": "Introducing Mistral Large 4",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing OpenDocRouter: every document model under one API",
+    "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
+    "description": "Introducing OpenDocRouter: every document model under one API",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Personal Agent Protocol",
+    "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+    "description": "Introducing Personal Agent Protocol",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript",
+    "url": "https://x.com/rauchg/status/2107119811444748555",
+    "description": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark",
+    "url": "https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai",
+    "description": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft brings hybrid AI and agent controls to Windows",
+    "url": "https://www.testingcatalog.com/microsoft-brings-hybrid-ai-and-agent-controls-to-windows",
+    "description": "Microsoft brings hybrid AI and agent controls to Windows",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Musk’s Grok Bot will use Anthropic’s Claude, Midjourney and Suno models",
+    "url": "https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk",
+    "description": "Musk’s Grok Bot will use Anthropic’s Claude, Midjourney and Suno models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "description": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic",
+    "description": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI hits 40M Codex and ChatGPT Work users (*)",
+    "url": "https://x.com/thsottiaux/status/2107913674593644711",
+    "description": "OpenAI hits 40M Codex and ChatGPT Work users (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI introduces visual ad formats and measurement tools for ChatGPT (*)",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "description": "OpenAI introduces visual ad formats and measurement tools for ChatGPT (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "description": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "description": "Our approach to EU text provenance rules",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+    "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth",
+    "description": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Putting a Transformer Inside Every Card Authorization",
+    "url": "https://builders.ramp.com/post/sequence-aware-card-fraud",
+    "description": "Putting a Transformer Inside Every Card Authorization",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SAP Just Added Stablecoin Settlement to the Software That Runs 84% of Global Commerce",
+    "url": "https://forkast.news/sap-just-added-stablecoin-settlement-to-the-software-that-runs-84-of-global-commerce",
+    "description": "SAP Just Added Stablecoin Settlement to the Software That Runs 84% of Global Commerce",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
+    "url": "https://www.theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
+    "description": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Security researcher claims they found KVM guest-host escape flaw",
+    "url": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
+    "description": "Security researcher claims they found KVM guest-host escape flaw",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Software Supply Chain Attack on @subql/common: Overview and Response Guidance",
+    "url": "https://flatt.tech/research/posts/subql-common-npm-supply-chain-attack",
+    "description": "Software Supply Chain Attack on @subql/common: Overview and Response Guidance",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sources: Broadcom has been working to arrange more than $50B in financing for OpenAI's custom AI chip; Oracle is in talks on financing for a big chip purchase",
+    "url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?st=24irFj",
+    "description": "Sources: Broadcom has been working to arrange more than $50B in financing for OpenAI's custom AI chip; Oracle is in talks on financing for a big chip purchase",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX to borrow $40-billion to buy Nvidia chips",
+    "url": "https://techcentral.co.za/spacex-40-billion-apollo-nvidia-chips/286971",
+    "description": "SpaceX to borrow $40-billion to buy Nvidia chips",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Stack Overflow Developer Survey 2026",
+    "url": "https://survey.stackoverflow.co/2026",
+    "description": "Stack Overflow Developer Survey 2026",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The state of the tech industry in 2026",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+    "description": "The state of the tech industry in 2026",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Two-Thirds of MiMo v2.6's Coding Tasks Leak the Answer. Are Models That Exploit This Misbehaving? | Vals AI",
+    "url": "https://www.vals.ai/blogs/mimo-reward-hacking",
+    "description": "Two-Thirds of MiMo v2.6's Coding Tasks Leak the Answer. Are Models That Exploit This Misbehaving? | Vals AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+    "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior",
+    "description": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "docker/docker-agent: AI Agent Builder and Runtime by Docker Engineering",
+    "url": "https://github.com/docker/docker-agent",
+    "description": "docker/docker-agent: AI Agent Builder and Runtime by Docker Engineering",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "pbakaus/impeccable: Design guidance and skills for AI coding agents",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "pbakaus/impeccable: Design guidance and skills for AI coding agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "pingdotgg/ts-rust: Rust Port of TypeScript (Tsc)",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "description": "pingdotgg/ts-rust: Rust Port of TypeScript (Tsc)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "pola-rs/polars: Release Python Polars 2.0.0",
+    "url": "https://github.com/pola-rs/polars/releases/tag/py-2.0.0",
+    "description": "pola-rs/polars: Release Python Polars 2.0.0",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  },
+  {
+    "title": "rui314/mold: Release mold 3.0.0",
+    "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+    "description": "rui314/mold: Release mold 3.0.0",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-08",
+    "site_name": "tldr"
+  }
+]
