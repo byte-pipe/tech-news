@@ -1,8 +1,8 @@
 [
   {
-    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
-    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
-    "description": "64-Day Certificate Lifetimes Coming Feb 2027",
+    "title": "64-Day Certificate Lifetimes Coming Feb 2027 - Let's Encrypt",
+    "url": "https://letsencrypt.org/2026/10/07/64-day-certs",
+    "description": "64-Day Certificate Lifetimes Coming Feb 2027 - Let's Encrypt",
     "tags": [
       "tldr"
     ],
@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "A Terminal Protocol for Program Status (OSC 7501)",
-    "url": "https://mitchellh.com/writing/program-status-osc7501",
-    "description": "A Terminal Protocol for Program Status (OSC 7501)",
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+    "description": "AI coding agents generate more code, but not more software",
     "tags": [
       "tldr"
     ],
@@ -30,9 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agent Mode in the DuckDB CLI",
-    "url": "https://duckdb.org/2026/10/09/agent-mode.html",
-    "description": "Agent Mode in the DuckDB CLI",
+    "title": "AWS AgentCore security undone by prompt requesting credentials",
+    "url": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+    "description": "AWS AgentCore security undone by prompt requesting credentials",
     "tags": [
       "tldr"
     ],
@@ -60,9 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
-    "url": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718",
-    "description": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
+    "title": "An opt-in vulnerability-finding service for open-source software \\ Anthropic",
+    "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+    "description": "An opt-in vulnerability-finding service for open-source software \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -90,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building Git infrastructure for agent-scale development",
-    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-    "description": "Building Git infrastructure for agent-scale development",
+    "title": "Building effective agent automations / claude.dev Blog",
+    "url": "https://claude.dev/blog/building-effective-agent-automations",
+    "description": "Building effective agent automations / claude.dev Blog",
     "tags": [
       "tldr"
     ],
@@ -100,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Building effective agent automations / claude.dev Blog",
-    "url": "https://claude.dev/blog/building-effective-agent-automations",
-    "description": "Building effective agent automations / claude.dev Blog",
+    "title": "Can AI automate AI R&D yet? Epoch AI's InnovationEval Results",
+    "url": "https://epoch.ai/publications/innovationeval",
+    "description": "Can AI automate AI R&D yet? Epoch AI's InnovationEval Results",
     "tags": [
       "tldr"
     ],
@@ -120,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Department of War Announces $350 Million in Quantum Computing Initiatives",
-    "url": "https://x.com/dowcto/status/2108209306029928448",
-    "description": "Department of War Announces $350 Million in Quantum Computing Initiatives",
+    "title": "Deno will cease development of its JavaScript runtime one year after joining Cloudflare. https://...",
+    "url": "https://x.com/wongmjane/status/2108648279936573658",
+    "description": "Deno will cease development of its JavaScript runtime one year after joining Cloudflare. https://...",
     "tags": [
       "tldr"
     ],
@@ -130,9 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-    "description": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "title": "Distillation for Incrimination and Distillation for Capabilities",
+    "url": "https://arxiv.org/abs/2610.11012",
+    "description": "Distillation for Incrimination and Distillation for Capabilities",
     "tags": [
       "tldr"
     ],
@@ -140,29 +140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "EpicGames/raddebugger: A native graphical debugger, custom debug info format, and high-performance linker",
-    "url": "https://github.com/EpicGames/raddebugger",
-    "description": "EpicGames/raddebugger: A native graphical debugger, custom debug info format, and high-performance linker",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-09",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
-    "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
-    "description": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-09",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Expanding the Cyber Verification Program",
-    "url": "https://www.anthropic.com/news/cyber-verification-program",
-    "description": "Expanding the Cyber Verification Program",
+    "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs",
+    "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+    "description": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs",
     "tags": [
       "tldr"
     ],
@@ -200,16 +180,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent",
-    "url": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
-    "description": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-09",
-    "site_name": "tldr"
-  },
-  {
     "title": "Introducing Claude Haiku 5.5 \\ Anthropic",
     "url": "https://www.anthropic.com/claude-haiku-5-5",
     "description": "Introducing Claude Haiku 5.5 \\ Anthropic",
@@ -220,9 +190,59 @@
     "site_name": "tldr"
   },
   {
+    "title": "Introducing Microsoft-Decision-1, our model for fast decision-making",
+    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry",
+    "description": "Introducing Microsoft-Decision-1, our model for fast decision-making",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-09",
+    "site_name": "tldr"
+  },
+  {
     "title": "Introducing the Anthropic Cyber Mission",
     "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
     "description": "Introducing the Anthropic Cyber Mission",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-09",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Investigating unintended model actions in our evaluations and internal use",
+    "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+    "description": "Investigating unintended model actions in our evaluations and internal use",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-09",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Jev creator TypeSafe closes $870M round at $7.5B valuation",
+    "url": "https://siliconangle.com/2026/10/09/jev-creator-typesafe-closes-870m-round-at-7-5b-valuation",
+    "description": "Jev creator TypeSafe closes $870M round at $7.5B valuation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-09",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Justin Drake Calls for Crypto \"Bunker Mode\" as AI Threatens ECDSA",
+    "url": "https://threadreaderapp.com/thread/2107837081313505768.html",
+    "description": "Justin Drake Calls for Crypto \"Bunker Mode\" as AI Threatens ECDSA",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-09",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft Execution Containers: Policy-driven containment for AI agents",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents",
+    "description": "Microsoft Execution Containers: Policy-driven containment for AI agents",
     "tags": [
       "tldr"
     ],
@@ -250,19 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft will let Copilot act on local files on Windows PCs",
-    "url": "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html",
-    "description": "Microsoft will let Copilot act on local files on Windows PCs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-09",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27",
-    "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
-    "description": "Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27",
+    "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+    "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
+    "description": "Mistral says \"Le Chonk\" can challenge the best AI models",
     "tags": [
       "tldr"
     ],
@@ -280,19 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI annualised revenues $20bn less than previously signalled",
-    "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
-    "description": "OpenAI annualised revenues $20bn less than previously signalled",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-09",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "description": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
+    "title": "OpenAI releases hundreds of new math results (*)",
+    "url": "https://scottaaronson.blog/?p=10169",
+    "description": "OpenAI releases hundreds of new math results (*)",
     "tags": [
       "tldr"
     ],
@@ -320,9 +320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
-    "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth",
-    "description": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+    "title": "Ramp Hits $60 Billion Valuation in $1.85 Billion Funding Round",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-09/ramp-hits-60-billion-valuation-in-1-85-billion-funding-round",
+    "description": "Ramp Hits $60 Billion Valuation in $1.85 Billion Funding Round",
     "tags": [
       "tldr"
     ],
@@ -330,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed",
-    "url": "https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap",
-    "description": "Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed",
+    "title": "Rewriting Prime Agent in Rust",
+    "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+    "description": "Rewriting Prime Agent in Rust",
     "tags": [
       "tldr"
     ],
@@ -343,6 +343,16 @@
     "title": "Samsung Collaborates with Sui to Bring USDC to Samsung Wallet on 82 Million U.S. Galaxy Devices",
     "url": "https://www.sui.io/blog/samsung-collaborates-with-sui-to-bring-usdc-to-samsung-wallet-on-82-million-u-s-galaxy-devices",
     "description": "Samsung Collaborates with Sui to Bring USDC to Samsung Wallet on 82 Million U.S. Galaxy Devices",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-09",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SoftBank-Backed OPay Wins $185 Million Standard Bank Placement",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-09/softbank-backed-opay-wins-185-million-standard-bank-placement",
+    "description": "SoftBank-Backed OPay Wins $185 Million Standard Bank Placement",
     "tags": [
       "tldr"
     ],
@@ -370,9 +380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceX to Acquire Low-Band Spectrum for Mobile Phone Service",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service",
-    "description": "SpaceX to Acquire Low-Band Spectrum for Mobile Phone Service",
+    "title": "SpaceX Acquires Grain Management’s 800 MHz Spectrum Portfolio to Launch Standalone Starlink Mobile Carrier",
+    "url": "https://satnews.com/2026/10/09/spacex-acquires-grain-managements-800-mhz-spectrum-portfolio-to-launch-standalone-starlink-mobile-carrier",
+    "description": "SpaceX Acquires Grain Management’s 800 MHz Spectrum Portfolio to Launch Standalone Starlink Mobile Carrier",
     "tags": [
       "tldr"
     ],
@@ -400,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The State of AI 2026 bets your next customer is an agent with a wallet",
-    "url": "https://kachar.dev/blog/state-of-ai-2026-for-people-who-ship",
-    "description": "The State of AI 2026 bets your next customer is an agent with a wallet",
+    "title": "The DNS Root Changes Its Key on Sunday. A Resolver That Still Trusts Only the Old One Stops Resolving Everything.",
+    "url": "https://webhosting.today/2026/10/09/the-dns-root-changes-its-key-on-sunday-a-resolver-that-still-trusts-only-the-old-one-stops-resolving-everything",
+    "description": "The DNS Root Changes Its Key on Sunday. A Resolver That Still Trusts Only the Old One Stops Resolving Everything.",
     "tags": [
       "tldr"
     ],
@@ -410,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The keys to the Internet change on October 11. Are you ready?",
-    "url": "https://blog.cloudflare.com/root-ksk-2024-rollover",
-    "description": "The keys to the Internet change on October 11. Are you ready?",
+    "title": "The State of AI 2026 bets your next customer is an agent with a wallet",
+    "url": "https://kachar.dev/blog/state-of-ai-2026-for-people-who-ship",
+    "description": "The State of AI 2026 bets your next customer is an agent with a wallet",
     "tags": [
       "tldr"
     ],
@@ -450,16 +460,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Zuckerberg called Muse ready despite the risks, New York Times reports",
-    "url": "https://thenextweb.com/news/zuckerberg-muse-launch-safety-concerns-nyt",
-    "description": "Zuckerberg called Muse ready despite the risks, New York Times reports",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-09",
-    "site_name": "tldr"
-  },
-  {
     "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
     "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior",
     "description": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
@@ -480,9 +480,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "pingdotgg/ts-rust: Rust Port of TypeScript (Tsc)",
-    "url": "https://github.com/pingdotgg/ts-rust",
-    "description": "pingdotgg/ts-rust: Rust Port of TypeScript (Tsc)",
+    "title": "facebook/Lifeguard: Static analyzer for Python Lazy Imports",
+    "url": "https://github.com/Facebook/lifeguard",
+    "description": "facebook/Lifeguard: Static analyzer for Python Lazy Imports",
     "tags": [
       "tldr"
     ],
@@ -490,9 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "thedotmack/claude-mem: Persistent context and memory plugin for AI coding assistants",
-    "url": "https://github.com/thedotmack/claude-mem",
-    "description": "thedotmack/claude-mem: Persistent context and memory plugin for AI coding assistants",
+    "title": "pingdotgg/ts-rust: Rust Port of TypeScript (Tsc)",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "description": "pingdotgg/ts-rust: Rust Port of TypeScript (Tsc)",
     "tags": [
       "tldr"
     ],
