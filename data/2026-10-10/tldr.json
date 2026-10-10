@@ -1,15 +1,5 @@
 [
   {
-    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
-    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
-    "description": "64-Day Certificate Lifetimes Coming Feb 2027",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-10",
-    "site_name": "tldr"
-  },
-  {
     "title": "AI coding agents generate more code, but not more software",
     "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
     "description": "AI coding agents generate more code, but not more software",
@@ -50,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
-    "url": "https://commandline.microsoft.com/local-models-sandboxed-tools-github-windows",
-    "description": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
+    "title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices",
+    "url": "https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices",
+    "description": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices",
     "tags": [
       "tldr"
     ],
@@ -70,6 +60,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Building effective agent automations / claude.dev Blog",
+    "url": "https://claude.dev/blog/building-effective-agent-automations",
+    "description": "Building effective agent automations / claude.dev Blog",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-10",
+    "site_name": "tldr"
+  },
+  {
     "title": "Bun v1.4.3: Built-in TypeScript Type Checker and Runtime Updates",
     "url": "https://bun.com/blog/bun-v1.4.3",
     "description": "Bun v1.4.3: Built-in TypeScript Type Checker and Runtime Updates",
@@ -80,9 +80,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "CPython eyes UTF-8 as default internal string storage",
-    "url": "https://freenode.net/article/cpython-eyes-utf-8-as-default-internal-string-storage",
-    "description": "CPython eyes UTF-8 as default internal string storage",
+    "title": "Can AI automate Epoch?",
+    "url": "https://epoch.ai/publications/can-ai-automate-epoch",
+    "description": "Can AI automate Epoch?",
     "tags": [
       "tldr"
     ],
@@ -90,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Can AI automate AI R&D yet? Epoch AI's InnovationEval Results",
-    "url": "https://epoch.ai/publications/innovationeval",
-    "description": "Can AI automate AI R&D yet? Epoch AI's InnovationEval Results",
+    "title": "Celebrating one year of LadybugDB 🐞",
+    "url": "https://thedataquarry.com/blog/celebrating-one-year-of-ladybug",
+    "description": "Celebrating one year of LadybugDB 🐞",
     "tags": [
       "tldr"
     ],
@@ -110,16 +110,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Distillation for Incrimination and Distillation for Capabilities",
-    "url": "https://arxiv.org/abs/2610.11012",
-    "description": "Distillation for Incrimination and Distillation for Capabilities",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-10",
-    "site_name": "tldr"
-  },
-  {
     "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs",
     "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
     "description": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs",
@@ -130,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GPT‑6 and Intelligent UI for everyone",
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "description": "GPT‑6 and Intelligent UI for everyone",
+    "title": "Fired OpenAI Researchers Ask Company to Preserve Visibility Into AI Reasoning",
+    "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94?st=XM4bHK",
+    "description": "Fired OpenAI Researchers Ask Company to Preserve Visibility Into AI Reasoning",
     "tags": [
       "tldr"
     ],
@@ -143,16 +133,6 @@
     "title": "Gemini at Work 2026: Introducing Gemini agent",
     "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026?linkId=64057297",
     "description": "Gemini at Work 2026: Introducing Gemini agent",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-10",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Introducing Claude Haiku 5.5 \\ Anthropic",
-    "url": "https://www.anthropic.com/claude-haiku-5-5",
-    "description": "Introducing Claude Haiku 5.5 \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -210,9 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft Touts ‘Hybrid Intelligence,’ Agent Security Push And New AI PCs",
-    "url": "https://www.crn.com/news/ai/2026/microsoft-touts-hybrid-intelligence-agent-security-push-and-new-ai-pcs",
-    "description": "Microsoft Touts ‘Hybrid Intelligence,’ Agent Security Push And New AI PCs",
+    "title": "Let's Encrypt moving to 64-day certificate lifetimes in 2027",
+    "url": "https://lwn.net/Articles/1099588",
+    "description": "Let's Encrypt moving to 64-day certificate lifetimes in 2027",
     "tags": [
       "tldr"
     ],
@@ -260,9 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions",
-    "url": "https://www.wsj.com/tech/ai/chatgpt-gpt5-sycophancy-delusions-9b3506bf",
-    "description": "OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions",
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "description": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
     "tags": [
       "tldr"
     ],
@@ -270,9 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI posts 700 maths preprints online: mathematicians are up in arms",
-    "url": "https://www.nature.com/articles/d41586-026-03196-8",
-    "description": "OpenAI posts 700 maths preprints online: mathematicians are up in arms",
+    "title": "OpenAI’s Dots",
+    "url": "https://mjtsai.com/blog/2026/10/09/openais-dots",
+    "description": "OpenAI’s Dots",
     "tags": [
       "tldr"
     ],
@@ -330,6 +310,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Sources: Apple is planning a second launch this month, scheduled on or around October 27, to introduce its first touch-screen MacBook, a new iPad mini, and more",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ5MDMwMCwiZXhwIjoxNzkyMDk1MTAwLCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FtH_qR7-ZMoCNHSPZzDhdIAtFuxSSOo7BPD87jeDEW4",
+    "description": "Sources: Apple is planning a second launch this month, scheduled on or around October 27, to introduce its first touch-screen MacBook, a new iPad mini, and more",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-10",
+    "site_name": "tldr"
+  },
+  {
     "title": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
     "url": "https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393",
     "description": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
@@ -373,6 +363,16 @@
     "title": "Tensorlake npm Package Compromised: A Worm With a Hostage Token That Wipes Your Machine If You Revoke It",
     "url": "https://www.stepsecurity.io/blog/tensorlake-npm-compromised-hostage-token-worm",
     "description": "Tensorlake npm Package Compromised: A Worm With a Hostage Token That Wipes Your Machine If You Revoke It",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Business Context for Mistral Large 4 (ML4) | Blog | Cloudera.",
+    "url": "https://www.cloudera.com/blog/business/the-business-context-for-mistral-large-4-ml4.html",
+    "description": "The Business Context for Mistral Large 4 (ML4) | Blog | Cloudera.",
     "tags": [
       "tldr"
     ],
@@ -440,19 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
-    "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior",
-    "description": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-10",
-    "site_name": "tldr"
-  },
-  {
-    "title": "docker/docker-agent: AI Agent Builder and Runtime by Docker Engineering",
-    "url": "https://github.com/docker/docker-agent",
-    "description": "docker/docker-agent: AI Agent Builder and Runtime by Docker Engineering",
+    "title": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
+    "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+    "description": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
     "tags": [
       "tldr"
     ],
@@ -493,6 +483,16 @@
     "title": "vLLM Support for NVIDIA Vera Rubin NVL72",
     "url": "https://vllm.ai/blog/2026-10-09-vera-rubin-preview",
     "description": "vLLM Support for NVIDIA Vera Rubin NVL72",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-10",
+    "site_name": "tldr"
+  },
+  {
+    "title": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
+    "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+    "description": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
     "tags": [
       "tldr"
     ],
