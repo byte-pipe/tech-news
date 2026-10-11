@@ -1,50 +1,55 @@
 ---
-date: '2026-10-09'
+date: '2026-10-11'
 model: gpt-oss:120b-cloud
-generated_at: '2026-10-09T18:00:14.367209'
+generated_at: '2026-10-11T13:39:27.961902'
 ---
 
 ## Executive Summary
-- Open‑source speech‑to‑text model **Whistle** demonstrates that high‑accuracy transcription can run on a 16.9 MB binary entirely on‑device, challenging larger competitors.  
-- Anthropic unveiled a **Critical Infrastructure Defense Program** and a free **OSS Scanner**, signaling a shift toward AI‑driven security for both industrial control systems and open‑source projects.  
-- AI‑related equities slipped after OpenAI corrected its revenue run‑rate to $50 bn, pressuring Nvidia, Oracle and others, while AMD showcased a 30‑fold performance edge with its new MI455X GPU for large language‑model inference.  
-- In software tooling, React’s internal update cycle is clarified, Bootstrap 6 enters alpha with modern CSS modules, and a viral IoT incident revealed a smart coffee maker consuming 1 TB of network traffic in ten days.  
-- Outside tech, a UK senator who once fought prediction‑market gambling now lobbies for Kalshi, and a UK government review warns that ADHD and autism may be over‑diagnosed, prompting calls for systemic reform.
+- Amazon, following Microsoft, announced it will no longer use NDAs when negotiating AI‑infrastructure data‑center deals, a move aimed at rebuilding public trust amid growing community backlash.  
+- Google Cloud unveiled **Gemini**, a universal, enterprise‑grade AI agent that lives across Workspace, Microsoft 365, Slack and more, promising persistent context, multi‑agent orchestration and cost‑aware model routing.  
+- MongoDB introduced **Atlas Infinite**, a disaggregated compute‑storage architecture that keeps storage “blind” to customer data while delivering independent scaling of compute and storage resources.  
+- Microsoft’s WSL 3 kernel shows sizable gains—up to 61 % memory bandwidth and double‑digit latency reductions—benefiting IPC‑heavy workloads, while open‑source projects like Talorys demonstrate how personal AI agents can run entirely on free‑tier Cloudflare services.  
+- Cultural shifts surface as audiences begin to pay a “human premium” for art created without AI, and researchers propose a “Lightbulb Computer” that brings ambient, projector‑based spatial computing into everyday spaces.
 
----
+---  
 
-## AI and Machine Learning
+## AI and Machine Learning  
 
-- **Whistle: Speech to Text in 16.9 MB** [Hacker News] – The open‑source model delivers multilingual transcription, word timestamps and embeddings from a single 16.9 MB file, running on‑device without internet and beating Whisper base on several benchmarks.  
-- **Ex‑cons founder launches Commissary Club** [TechCrunch] – Former Stratton Oakmont trader Richard Bronson creates a for‑profit platform that uses AI to help formerly incarcerated people find jobs, housing and community, positioning the service as a “huge” untapped market.  
-- **AMD Instinct MI455X vs MI355X technical comparison** [ROCm Blogs] – Early‑access MI455X shows 2.5× to 34× higher token‑throughput over MI355X depending on concurrency, highlighting AMD’s roadmap for 2026 AI inference workloads.  
-- **Anthropic Critical Infrastructure Program & OSS Scanner** [SiliconANGLE] – Anthropic offers its Claude models to power‑grid and water‑system operators while also providing a free, model‑generated vulnerability scanner for open‑source projects, backed by a dedicated Defender Advantage Fund.  
-- **Why the industry isn’t freaking out about DeepSeek 4.1 Flash** [Hacker News] – Users report that the model’s low cost and massive KV‑cache reduction make it a practical alternative to premium LLMs for routine tasks, though self‑hosting remains uneconomical for now.  
+### ‘Wallace and Gromit,’ 90% Alone – Hacker News  
+Nick Park single‑handedly produced the 1989 short *A Grand Day Out*, creating roughly 90 % of the animation and establishing the iconic Wallace & Gromit characters; the film’s modest debut led to a BAFTA, an Oscar nomination for *Creature Comforts*, and a lasting visual style that reshaped Aardman’s identity.
 
----
+### Amazon and others are done keeping data center deals secret. Is it enough to build trust? – TechCrunch  
+Amazon announced it will stop using NDAs in data‑center negotiations, mirroring Microsoft’s earlier policy shift; the change is framed as a transparency measure to counter community‑driven moratoriums on AI‑related construction and to make trust a core product for emerging personal‑AI startups.
 
-## Software Engineering and Dev Tools
+### 500+ Billion Tokens Later: Letting AI Agents Decompile A First‑Person Shooter – Maurice’s Blog (TL;DR)  
+A team of autonomous Claude and Codex agents spent months decompiling a classic FPS into C++ using a token‑heavy workflow, achieving ~80 % code reconstruction but struggling with semantic errors due to vague acceptance criteria; a byte‑matching CI script was later added to enforce exact binary equivalence.
 
-- **How React Actually Works Under the Hood** [DEV Community] – The article demystifies React’s three‑phase update cycle (trigger, render, commit) and explains why state updates appear asynchronous, helping developers avoid common logging pitfalls.  
-- **Smart coffee maker generates 1 TB of traffic in 10 days** [Dexerto] – A Reddit‑style post uncovers a firmware bug that flooded a household Wi‑Fi network, prompting the owner to unplug the device and sparking broader debate on IoT data‑usage monitoring.  
-- **Bootstrap 6 Alpha released** [Bootstrap Blog] – The first alpha of Bootstrap 6 rewrites the framework with Sass module system, ESM‑only JavaScript and modern CSS features (e.g., `:has()`, `color‑mix()`), while retaining Bootstrap 5 support for legacy projects.  
-- **Anthropic OSS Scanner – opt‑in vulnerability service** [TLDR] – A companion piece to the infrastructure announcement, detailing how the free scanner auto‑generates exploit‑ready reports using Claude models, with early validation showing an 88 % true‑positive rate.  
+### Gemini at Work 2026: Introducing Gemini agent – Google Cloud Blog (TL;DR)  
+Google Cloud’s CEO Thomas Kurian launched **Gemini**, a single, persistent AI agent that operates across Google Workspace, Microsoft 365, Slack and other platforms, offering unified chat, autonomous sub‑agents, a tools/skills registry, enterprise security, and smart routing to balance performance and cost.
 
----
+## Cybersecurity and Privacy  
 
-## Startups and Business
+### WSL2 vs WSL3 Benchmarks: Performance, Memory, and Syscall Scaling – Hacker News (Tony Metzidis)  
+WSL 3’s Linux 6.18 kernel delivers up to 61 % higher memory bandwidth and 10‑12 % lower IPC latency versus WSL 2, shaving ~4 % off GoReleaser build times; the biggest gains appear for workloads heavy on system calls, page‑fault handling or inter‑process messaging.
 
-- **AI‑related stocks tumble after OpenAI revenue correction** [Hacker News] – Nvidia, Oracle, AMD and others fell 3‑8 % when OpenAI disclosed a $50 bn annualized revenue figure (down from $68 bn), intensifying scrutiny ahead of its anticipated 2027 IPO.  
+### Atlas Infinite: MongoDB's Disaggregated Architecture – TL;DR  
+MongoDB’s Atlas Infinite preview decouples compute from storage while keeping data encrypted end‑to‑end; a two‑log design (logical oplog + physical phylog) and a Rust‑based shared storage layer enable independent scaling, cheap snapshots and secure “blind” storage.
 
----
+## Software Engineering and Dev Tools  
 
-## Science and Research
+### Talorys – Personal AI Agent on Cloudflare – Hacker News  
+Talorys is an open‑source, single‑user AI assistant that runs entirely within a Cloudflare account using Pages, Workers, Durable Objects (SQLite) and the free‑tier Workers AI model; it offers chat, memory, task/notes management and scheduled automations without any external servers or telemetry.
 
-- **IceCube Nobel Prize explanation** [WIRED] – Nobel laureate Francis Halzen and IceCube collaborator Juan Carlos Díaz Vélez describe how the South‑Pole detector’s 5,160 optical sensors capture rare high‑energy neutrinos, enabling breakthroughs such as identifying a blazar source and mapping the Milky Way in neutrinos.  
+### The Register of UNIX® Certified Products – Hacker News  
+The Open Group’s official UNIX® certification register lists compliant systems—from IBM’s z/OS and AIX to HP‑UX and UnixWare—providing a vendor‑neutral benchmark that guarantees portability, stability and enterprise‑grade reliability for developers and purchasers.
 
----
+### AI is creating a ‘human premium’ for art created by people – BBC News  
+Research shows a growing market segment willing to pay extra for explicitly human‑made creative works; as AI‑generated content floods music, writing and visual media, labels akin to “Fairtrade” are being explored to certify human origin and preserve perceived artistic value.
 
-## World News and Geopolitics
+## Science and Research  
 
-- **Former senator becomes Kalshi lobbyist** [Ars Technica] – Ex‑Senator Blanche Lincoln, who once pushed to ban gambling‑type prediction markets, now receives $480 k from Kalshi and advocates for CFTC approval of sports‑event contracts, highlighting a dramatic policy reversal.  
-- **UK review warns of ADHD and autism over‑diagnosis** [BBC News] – A government‑commissioned report links rising diagnosis rates to social‑media pressure and funding structures, recommending tighter regulation of private assessors and decoupling support from formal diagnosis.
+### The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors – Hacker News  
+A speculative “Lightbulb Computer” combines a compact projector with on‑device vision to deliver voice‑ and gesture‑controlled ambient displays that can be mounted in sockets or lamp bases; the concept aims to replace glasses‑based AR with socially acceptable, privacy‑first spatial computing for everyday tasks like kitchen assistance, study aids and shared dashboards.
+
+## Notable Mentions  
+- (none)
