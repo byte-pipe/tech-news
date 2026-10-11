@@ -5,7 +5,7 @@
     "date": "2026-10-09",
     "description": "AI speed exposes bad architectural habitsNorthernDevNorthernDevNorthernDevFollowOct 9AI Got Better While I Was Away. Software Didn't.#ai#programming#w...",
     "tags": "#ai, #programming, #webdev, #softwareengineering",
-    "reactions": "46 reactions",
+    "reactions": "54 reactions",
     "comments": "0",
     "url": "https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b"
   },
@@ -15,7 +15,7 @@
     "date": "2026-10-07",
     "description": "Reveals why script spaces break commandsS M TahosinS M TahosinS M TahosinFollowOct 7Bash Isn't a Programming Language. It's a Text Substitution Engine...",
     "tags": "#bash, #linux, #devops, #beginners",
-    "reactions": "42 reactions",
+    "reactions": "43 reactions",
     "comments": "0",
     "url": "https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml"
   },
@@ -45,7 +45,7 @@
     "date": "2026-10-09",
     "description": "Readers share hackathon plans and career debatesHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowforThe DEVengersOct 9Dev Opportunity Radar...",
     "tags": "#discuss, #community, #resources, #opportunities",
-    "reactions": "94 reactions",
+    "reactions": "96 reactions",
     "comments": "0",
     "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec"
   },
@@ -53,11 +53,21 @@
     "title": "Every Software Developer Has Blamed…",
     "author": "Sylwia Laskowska",
     "date": "2026-10-08",
-    "description": "Relatable tech humor and shared grievancesSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowOct 8Every Software Developer Has Blamed…#discuss124re...",
+    "description": "Relatable tech humor and shared grievancesSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowOct 8Every Software Developer Has Blamed…#discuss130re...",
     "tags": "#discuss",
-    "reactions": "124 reactions",
+    "reactions": "130 reactions",
     "comments": "0",
     "url": "https://dev.to/sylwia-lask/every-software-developer-has-blamed-3a1o"
+  },
+  {
+    "title": "How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔",
+    "author": "nyaomaru",
+    "date": "2026-10-10",
+    "description": "Balancing strict LLM constraints with raw PR textnyaomarunyaomarunyaomaruFollowOct 10How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? ...",
+    "tags": "#opensource, #githubactions, #ai, #typescript",
+    "reactions": "75 reactions",
+    "comments": "Comments 25 comments",
+    "url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk"
   },
   {
     "title": "How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)",
@@ -65,7 +75,7 @@
     "date": "2026-10-08",
     "description": "Relates the universal rookie state-logging mistakeS M TahosinS M TahosinS M TahosinFollowOct 8How React Actually Works Under the Hood (And Why Your Me...",
     "tags": "#discuss, #react, #javascript, #webdev",
-    "reactions": "38 reactions",
+    "reactions": "41 reactions",
     "comments": "0",
     "url": "https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8"
   },
@@ -75,7 +85,7 @@
     "date": "2026-10-07",
     "description": "Reframe boredom as productive mental spaceJames AndersonJames AndersonJames AndersonFollowOct 7I Think We're Forgetting How to Be Bored#discuss#mental...",
     "tags": "#discuss, #mentalhealth, #productivity, #ai",
-    "reactions": "74 reactions",
+    "reactions": "78 reactions",
     "comments": "0",
     "url": "https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5"
   },
@@ -83,9 +93,9 @@
     "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
     "author": "Swift",
     "date": "2026-10-08",
-    "description": "Real production benchmarks comparing costsSwiftSwiftSwiftFollowOct 8I got Jev to zero mistakes. I'm still using Flash-Lite.#ai#gemini#testing#jev35rea...",
+    "description": "Real production benchmarks comparing costsSwiftSwiftSwiftFollowOct 8I got Jev to zero mistakes. I'm still using Flash-Lite.#ai#gemini#testing#jev40rea...",
     "tags": "#ai, #gemini, #testing, #jev",
-    "reactions": "35 reactions",
+    "reactions": "40 reactions",
     "comments": "0",
     "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7"
   },
@@ -93,21 +103,11 @@
     "title": "Join the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass! $2,450 in Prizes Across 17 Winners.",
     "author": "Jem",
     "date": "2026-10-05",
-    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxTouch grass. Then build an app for it.Week 1 of Hacktoberfest is li...",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxMissed the weekend? Week 1 is a fresh start.Build something with op...",
     "tags": "#devchallenge, #hf26challenge, #hacktoberfest, #softwaredevelopment",
     "reactions": "8 reactions",
     "comments": "Comments 3 comments",
-    "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom?bb=264618"
-  },
-  {
-    "title": "OriginTrace: Protecting the DEV Community from Content Theft using Sanity Context MCP",
-    "author": "Dhruv Jani",
-    "date": "2026-10-04",
-    "description": "Sanity Challenge Path One SubmissionDhruv JaniDhruv JaniDhruv JaniFollowOct 4OriginTrace: Protecting the DEV Community from Content Theft using Sanity...",
-    "tags": "#devchallenge, #sanitychallenge, #sanity, #ai",
-    "reactions": "65 reactions",
-    "comments": "Comments 28 comments",
-    "url": "https://dev.to/dj29/origintrace-protecting-the-dev-community-from-content-theft-using-sanity-context-mcp-j5c"
+    "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom?bb=264620"
   },
   {
     "title": "Super-Intelligent Yes-Men: Are We Training AI to Ignore the Truth?",
@@ -115,7 +115,7 @@
     "date": "2026-10-09",
     "description": "Kaggle Benchmarking Challenge SubmissionDaniel NwaneriDaniel NwaneriDaniel NwaneriFollowOct 9Super-Intelligent Yes-Men: Are We Training AI to Ignore t...",
     "tags": "#devchallenge, #kagglechallenge, #ai, #machinelearning",
-    "reactions": "39 reactions",
+    "reactions": "40 reactions",
     "comments": "0",
     "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp"
   },
@@ -125,8 +125,8 @@
     "date": "2026-10-05",
     "description": "Insights from an OpenAI researcher's PhD job huntHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowOct 5The Parts of a Job Search We Don't S...",
     "tags": "#discuss, #community, #career, #mentalhealth",
-    "reactions": "88 reactions",
-    "comments": "Comments 28 comments",
+    "reactions": "89 reactions",
+    "comments": "Comments 29 comments",
     "url": "https://dev.to/hemapriya_kanagala/the-parts-of-a-job-search-we-dont-see-3a6"
   },
   {
@@ -145,7 +145,7 @@
     "date": "2026-10-08",
     "description": "Kaggle Benchmarking Challenge SubmissionDaniel BalcarekDaniel BalcarekDaniel BalcarekFollowOct 8To Retry or Not to Retry? That Is the Question.#devcha...",
     "tags": "#devchallenge, #kagglechallenge, #ai, #machinelearning",
-    "reactions": "67 reactions",
+    "reactions": "70 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l"
   },
@@ -165,8 +165,8 @@
     "date": "2026-10-10",
     "description": "Character traits revealed through coffee choicesxulingfengxulingfengxulingfengFollowOct 10What Do You Drink While You Work?#discuss#career#programming...",
     "tags": "#discuss, #career, #programming, #webdev",
-    "reactions": "76 reactions",
-    "comments": "Comments 149 comments",
+    "reactions": "82 reactions",
+    "comments": "Comments 162 comments",
     "url": "https://dev.to/xulingfeng/what-do-you-drink-while-you-work-17bm"
   },
   {
@@ -175,7 +175,7 @@
     "date": "2026-10-06",
     "description": "Type assertions mask runtime risksS M TahosinS M TahosinS M TahosinFollowOct 6Why Your TypeScript Code Still Crashes in Production#discuss#typescript#...",
     "tags": "#discuss, #typescript, #javascript, #beginners",
-    "reactions": "38 reactions",
+    "reactions": "40 reactions",
     "comments": "0",
     "url": "https://dev.to/smtahosin/why-your-typescript-code-still-crashes-in-production-2bf4"
   },

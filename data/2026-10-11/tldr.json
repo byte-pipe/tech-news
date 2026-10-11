@@ -10,9 +10,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "A Tour of the Vortex Columnar Format: using vortex-java",
+    "url": "https://dfa1.github.io/articles/vortex-on-a-real-dataset.html",
+    "description": "A Tour of the Vortex Columnar Format: using vortex-java",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-11",
+    "site_name": "tldr"
+  },
+  {
     "title": "AI coding agents generate more code, but not more software",
     "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
     "description": "AI coding agents generate more code, but not more software",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI stocks crumble on report that OpenAI’s annualized revenue is much lower than previously believed",
+    "url": "https://siliconangle.com/2026/10/08/ai-stocks-crumble-on-report-that-openais-annualized-revenue-is-much-lower-than-previously-believed",
+    "description": "AI stocks crumble on report that OpenAI’s annualized revenue is much lower than previously believed",
     "tags": [
       "tldr"
     ],
@@ -30,19 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
-    "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout",
-    "description": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
-    "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever",
-    "description": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+    "title": "Amazon's new Alexa tablets ditch Fire OS for regular Android",
+    "url": "https://www.techspot.com/news/114161-amazon-new-alexa-tablets-ditch-fire-os-regular.html",
+    "description": "Amazon's new Alexa tablets ditch Fire OS for regular Android",
     "tags": [
       "tldr"
     ],
@@ -80,9 +90,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Can AI automate Epoch?",
-    "url": "https://epoch.ai/publications/can-ai-automate-epoch",
-    "description": "Can AI automate Epoch?",
+    "title": "Can AI automate AI R&D yet?",
+    "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+    "description": "Can AI automate AI R&D yet?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Clusters and compute access | State of AI Report Compute Index",
+    "url": "https://www.stateof.ai/compute-explore/clusters-and-access",
+    "description": "Clusters and compute access | State of AI Report Compute Index",
     "tags": [
       "tldr"
     ],
@@ -100,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs",
-    "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
-    "description": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs",
+    "title": "Developer launches gittifacts agent-native git platform (*)",
+    "url": "https://jovidecroock.com/blog/gittifacts",
+    "description": "Developer launches gittifacts agent-native git platform (*)",
     "tags": [
       "tldr"
     ],
@@ -110,9 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Fired OpenAI Researchers Ask Company to Preserve Visibility Into AI Reasoning",
-    "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94?st=XM4bHK",
-    "description": "Fired OpenAI Researchers Ask Company to Preserve Visibility Into AI Reasoning",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+    "description": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
     "tags": [
       "tldr"
     ],
@@ -120,9 +140,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Gemini at Work 2026: Introducing Gemini agent",
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026?linkId=64057297",
-    "description": "Gemini at Work 2026: Introducing Gemini agent",
+    "title": "GPU lifetime and economics | State of AI Report Compute Index",
+    "url": "https://www.stateof.ai/compute-explore/gpu-lifetime",
+    "description": "GPU lifetime and economics | State of AI Report Compute Index",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google’s Gemini Agent Launch Signals a Consolidation Play for Enterprise AI Infrastructure",
+    "url": "https://forkast.news/googles-gemini-agent-launch-signals-a-consolidation-play-for-enterprise-ai-infrastructure",
+    "description": "Google’s Gemini Agent Launch Signals a Consolidation Play for Enterprise AI Infrastructure",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How We Prevented the Biggest Hack in Crypto History | Veria Labs",
+    "url": "https://verialabs.com/blog/biggest-hack-in-crypto-history",
+    "description": "How We Prevented the Biggest Hack in Crypto History | Veria Labs",
     "tags": [
       "tldr"
     ],
@@ -170,9 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Let's Encrypt moving to 64-day certificate lifetimes in 2027",
-    "url": "https://lwn.net/Articles/1099588",
-    "description": "Let's Encrypt moving to 64-day certificate lifetimes in 2027",
+    "title": "Math 2.0",
+    "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+    "description": "Math 2.0",
     "tags": [
       "tldr"
     ],
@@ -180,9 +220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft will let Copilot act on local files on Windows PCs",
-    "url": "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html",
-    "description": "Microsoft will let Copilot act on local files on Windows PCs",
+    "title": "Microsoft Redefines Windows AI With Surface Laptop Ultra on RTX Spark",
+    "url": "https://moorinsightsstrategy.com/field-notes/microsoft-redefines-windows-ai-with-surface-laptop-ultra-on-rtx-spark",
+    "description": "Microsoft Redefines Windows AI With Surface Laptop Ultra on RTX Spark",
     "tags": [
       "tldr"
     ],
@@ -200,29 +240,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "NVlabs/LongLive: NVIDIA's Long-Video and World-Action Research",
-    "url": "https://github.com/NVlabs/LongLive",
-    "description": "NVlabs/LongLive: NVIDIA's Long-Video and World-Action Research",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia and Microsoft say the \"agentic PC\" era starts with the Surface Laptop Ultra",
-    "url": "https://www.techspot.com/news/114139-nvidia-microsoft-agentic-pc-era-starts-surface-laptop.html",
-    "description": "Nvidia and Microsoft say the \"agentic PC\" era starts with the Surface Laptop Ultra",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
     "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
     "description": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Open data for predictive ai models of biology 1 8 billion committed",
+    "url": "https://hraness.com/reading/open-data-for-predictive-ai-models-of-biology-1-8-billion-committed",
+    "description": "Open data for predictive ai models of biology 1 8 billion committed",
     "tags": [
       "tldr"
     ],
@@ -250,9 +280,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "PostgreSQL 18 async I/O halved our vacuum, once reads hit the disk",
-    "url": "https://importstatic.com/databases/postgres-18-async-io-measured",
-    "description": "PostgreSQL 18 async I/O halved our vacuum, once reads hit the disk",
+    "title": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes",
+    "url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b",
+    "description": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Python 3.15",
+    "url": "https://astral.sh/blog/python-3.15",
+    "description": "Python 3.15",
     "tags": [
       "tldr"
     ],
@@ -290,16 +330,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
-    "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
-    "description": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "Self-Hosted Managed Agents (2026): Claude, OpenAI, AWS, and Open Source",
     "url": "https://www.omnara.com/guides/self-hosted-managed-agents",
     "description": "Self-Hosted Managed Agents (2026): Claude, OpenAI, AWS, and Open Source",
@@ -310,29 +340,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Software Supply Chain Attack on tensorlake: Overview and Response Guidance",
-    "url": "https://flatt.tech/research/posts/tensorlake-npm-supply-chain-attack",
-    "description": "Software Supply Chain Attack on tensorlake: Overview and Response Guidance",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Sources: Apple is planning a second launch this month, scheduled on or around October 27, to introduce its first touch-screen MacBook, a new iPad mini, and more",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ5MDMwMCwiZXhwIjoxNzkyMDk1MTAwLCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FtH_qR7-ZMoCNHSPZzDhdIAtFuxSSOo7BPD87jeDEW4",
-    "description": "Sources: Apple is planning a second launch this month, scheduled on or around October 27, to introduce its first touch-screen MacBook, a new iPad mini, and more",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
     "url": "https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393",
     "description": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-11",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Speculative Decoding: The Art of Guessing Well",
+    "url": "https://astralord.github.io/posts/speculative-decoding-the-art-of-guessing-well",
+    "description": "Speculative Decoding: The Art of Guessing Well",
     "tags": [
       "tldr"
     ],
@@ -380,9 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The DNS Root Changes Its Key on Sunday. A Resolver That Still Trusts Only the Old One Stops Resolving Everything.",
-    "url": "https://webhosting.today/2026/10/09/the-dns-root-changes-its-key-on-sunday-a-resolver-that-still-trusts-only-the-old-one-stops-resolving-everything",
-    "description": "The DNS Root Changes Its Key on Sunday. A Resolver That Still Trusts Only the Old One Stops Resolving Everything.",
+    "title": "The Dirty Pages Surprise: When a Read-Only Query Writes Terabytes",
+    "url": "https://swingbit.github.io/dirty_pages",
+    "description": "The Dirty Pages Surprise: When a Read-Only Query Writes Terabytes",
     "tags": [
       "tldr"
     ],
@@ -390,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The State of AI 2026 bets your next customer is an agent with a wallet",
-    "url": "https://kachar.dev/blog/state-of-ai-2026-for-people-who-ship",
-    "description": "The State of AI 2026 bets your next customer is an agent with a wallet",
+    "title": "The First Reduction in Their History: 64-Day Let's Encrypt Certificates",
+    "url": "https://scotthelme.ghost.io/the-first-reduction-in-their-history-64-day-lets-encrypt-certificates",
+    "description": "The First Reduction in Their History: 64-Day Let's Encrypt Certificates",
     "tags": [
       "tldr"
     ],
@@ -410,16 +430,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
-    "description": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-11",
-    "site_name": "tldr"
-  },
-  {
     "title": "Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work",
     "url": "https://threadreaderapp.com/thread/2108262812489531498.html",
     "description": "Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work",
@@ -430,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why Are Coding Agents So Dumb?",
-    "url": "https://mtlynch.io/why-are-coding-agents-so-dumb",
-    "description": "Why Are Coding Agents So Dumb?",
+    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+    "url": "https://lobste.rs/s/gmnqhj",
+    "description": "Valen's Memory Safety: A New Kind of Borrow Checking",
     "tags": [
       "tldr"
     ],
@@ -440,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-    "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-    "description": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+    "title": "Why Are Coding Agents So Dumb?",
+    "url": "https://mtlynch.io/why-are-coding-agents-so-dumb",
+    "description": "Why Are Coding Agents So Dumb?",
     "tags": [
       "tldr"
     ],
@@ -483,16 +493,6 @@
     "title": "vLLM Support for NVIDIA Vera Rubin NVL72",
     "url": "https://vllm.ai/blog/2026-10-09-vera-rubin-preview",
     "description": "vLLM Support for NVIDIA Vera Rubin NVL72",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-11",
-    "site_name": "tldr"
-  },
-  {
-    "title": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
-    "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
-    "description": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
     "tags": [
       "tldr"
     ],
