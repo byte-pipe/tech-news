@@ -1,0 +1,502 @@
+[
+  {
+    "title": "500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+    "description": "500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A Tour of the Vortex Columnar Format: using vortex-java",
+    "url": "https://dfa1.github.io/articles/vortex-on-a-real-dataset.html",
+    "description": "A Tour of the Vortex Columnar Format: using vortex-java",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A versioned filesystem for disposable sandboxes",
+    "url": "https://www.shayon.dev/post/2026/283/versioned-filesystem-for-disposable-sandboxes",
+    "description": "A versioned filesystem for disposable sandboxes",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+    "description": "AI coding agents generate more code, but not more software",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI2 replaces priority GPU scheduler with time-budget system (*)",
+    "url": "https://allenai.org/blog/impactful-scheduling",
+    "description": "AI2 replaces priority GPU scheduler with time-budget system (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Atlas Infinite: MongoDB's Disaggregated Architecture",
+    "url": "https://muratbuffalo.blogspot.com/2026/10/atlas-infinite-mongodbs-disaggregated.html",
+    "description": "Atlas Infinite: MongoDB's Disaggregated Architecture",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Build live dashboards and animate explainers with Claude | Claude by Anthropic",
+    "url": "https://claude.com/resources/articles/dashboards-and-motion",
+    "description": "Build live dashboards and animate explainers with Claude | Claude by Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Bun v1.4.3: Built-in TypeScript Type Checker and Runtime Updates",
+    "url": "https://bun.com/blog/bun-v1.4.3",
+    "description": "Bun v1.4.3: Built-in TypeScript Type Checker and Runtime Updates",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Can AI automate AI R&D yet?",
+    "url": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet",
+    "description": "Can AI automate AI R&D yet?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Clusters and compute access | State of AI Report Compute Index",
+    "url": "https://www.stateof.ai/compute-explore/clusters-and-access",
+    "description": "Clusters and compute access | State of AI Report Compute Index",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Deno is joining Cloudflare",
+    "url": "https://blog.cloudflare.com/deno-joins-cloudflare",
+    "description": "Deno is joining Cloudflare",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Developer launches gittifacts agent-native git platform (*)",
+    "url": "https://jovidecroock.com/blog/gittifacts",
+    "description": "Developer launches gittifacts agent-native git platform (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GPU lifetime and economics | State of AI Report Compute Index",
+    "url": "https://www.stateof.ai/compute-explore/gpu-lifetime",
+    "description": "GPU lifetime and economics | State of AI Report Compute Index",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google Cloud unveils Gemini agent for workplace tasks",
+    "url": "https://www.verdict.co.uk/google-cloud-unveils-gemini-agent-for-workplace-tasks",
+    "description": "Google Cloud unveils Gemini agent for workplace tasks",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Microsoft-Decision-1, our model for fast decision-making",
+    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry",
+    "description": "Introducing Microsoft-Decision-1, our model for fast decision-making",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing the Anthropic Cyber Mission",
+    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "description": "Introducing the Anthropic Cyber Mission",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Investigating unintended model actions in our evaluations and internal use",
+    "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+    "description": "Investigating unintended model actions in our evaluations and internal use",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Jev creator TypeSafe closes $870M round at $7.5B valuation",
+    "url": "https://siliconangle.com/2026/10/09/jev-creator-typesafe-closes-870m-round-at-7-5b-valuation",
+    "description": "Jev creator TypeSafe closes $870M round at $7.5B valuation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft Redefines Windows AI With Surface Laptop Ultra on RTX Spark",
+    "url": "https://moorinsightsstrategy.com/field-notes/microsoft-redefines-windows-ai-with-surface-laptop-ultra-on-rtx-spark",
+    "description": "Microsoft Redefines Windows AI With Surface Laptop Ultra on RTX Spark",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Multiagent orchestration - Claude Platform Docs",
+    "url": "https://platform.claude.com/docs/en/managed-agents/multiagent-orchestration",
+    "description": "Multiagent orchestration - Claude Platform Docs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "description": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Open data for predictive ai models of biology 1 8 billion committed",
+    "url": "https://hraness.com/reading/open-data-for-predictive-ai-models-of-biology-1-8-billion-committed",
+    "description": "Open data for predictive ai models of biology 1 8 billion committed",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI’s Dots",
+    "url": "https://mjtsai.com/blog/2026/10/09/openais-dots",
+    "description": "OpenAI’s Dots",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Our $445M Series D",
+    "url": "https://oxide.computer/blog/our-445m-series-d",
+    "description": "Our $445M Series D",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "PostgreSQL 18 async I/O halved our vacuum, once reads hit the disk",
+    "url": "https://importstatic.com/databases/postgres-18-async-io-measured",
+    "description": "PostgreSQL 18 async I/O halved our vacuum, once reads hit the disk",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Python Release Python 3.15.0 | Python.org",
+    "url": "https://www.python.org/downloads/release/python-3150",
+    "description": "Python Release Python 3.15.0 | Python.org",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Ramp Hits $60 Billion Valuation in $1.85 Billion Funding Round",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-09/ramp-hits-60-billion-valuation-in-1-85-billion-funding-round",
+    "description": "Ramp Hits $60 Billion Valuation in $1.85 Billion Funding Round",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Rewriting Prime Agent in Rust",
+    "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+    "description": "Rewriting Prime Agent in Rust",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Rolling the root key",
+    "url": "https://blog.apnic.net/2026/10/09/rolling-the-root-key-2",
+    "description": "Rolling the root key",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Rust 1.99 returns FFI bool values that aren't 0 or 1 on x86_64 Linux",
+    "url": "https://importstatic.com/rust/rust-1-99-ffi-bool-miscompile",
+    "description": "Rust 1.99 returns FFI bool values that aren't 0 or 1 on x86_64 Linux",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Self-Hosted Managed Agents (2026): Claude, OpenAI, AWS, and Open Source",
+    "url": "https://www.omnara.com/guides/self-hosted-managed-agents",
+    "description": "Self-Hosted Managed Agents (2026): Claude, OpenAI, AWS, and Open Source",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sources: Apple is planning a second launch this month, scheduled on or around October 27, to introduce its first touch-screen MacBook, a new iPad mini, and more",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ5MDMwMCwiZXhwIjoxNzkyMDk1MTAwLCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FtH_qR7-ZMoCNHSPZzDhdIAtFuxSSOo7BPD87jeDEW4",
+    "description": "Sources: Apple is planning a second launch this month, scheduled on or around October 27, to introduce its first touch-screen MacBook, a new iPad mini, and more",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
+    "url": "https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393",
+    "description": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Speculative Decoding: The Art of Guessing Well",
+    "url": "https://astralord.github.io/posts/speculative-decoding-the-art-of-guessing-well",
+    "description": "Speculative Decoding: The Art of Guessing Well",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Super Micro case ‘fixer’ pleads guilty to sending AI servers to China",
+    "url": "https://thenextweb.com/news/super-micro-case-fixer-pleads-guilty-to-sending-ai-servers-to-china",
+    "description": "Super Micro case ‘fixer’ pleads guilty to sending AI servers to China",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Superpowers releases version 7.0 (*)",
+    "url": "https://blog.fsck.com/2026/10/09/what-a-year",
+    "description": "Superpowers releases version 7.0 (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Business Context for Mistral Large 4 (ML4) | Blog | Cloudera.",
+    "url": "https://www.cloudera.com/blog/business/the-business-context-for-mistral-large-4-ml4.html",
+    "description": "The Business Context for Mistral Large 4 (ML4) | Blog | Cloudera.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Dirty Pages Surprise: When a Read-Only Query Writes Terabytes",
+    "url": "https://swingbit.github.io/dirty_pages",
+    "description": "The Dirty Pages Surprise: When a Read-Only Query Writes Terabytes",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The First Reduction in Their History: 64-Day Let's Encrypt Certificates",
+    "url": "https://scotthelme.ghost.io/the-first-reduction-in-their-history-64-day-lets-encrypt-certificates",
+    "description": "The First Reduction in Their History: 64-Day Let's Encrypt Certificates",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The hazy OpenAI growth metric driving Wall Street",
+    "url": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+    "description": "The hazy OpenAI growth metric driving Wall Street",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Trump administration targets Microsoft in new immigration crackdown",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown",
+    "description": "Trump administration targets Microsoft in new immigration crackdown",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
+    "description": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why Are Coding Agents So Dumb?",
+    "url": "https://mtlynch.io/why-are-coding-agents-so-dumb",
+    "description": "Why Are Coding Agents So Dumb?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why Your CVE Program Misses Most AI Agent Vulnerabilities",
+    "url": "https://aminrj.com/posts/why-cve-programs-miss-most-ai-agent-vulnerabilities",
+    "description": "Why Your CVE Program Misses Most AI Agent Vulnerabilities",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+    "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+    "description": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
+    "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+    "description": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "facebook/Lifeguard: Static analyzer for Python Lazy Imports",
+    "url": "https://github.com/Facebook/lifeguard",
+    "description": "facebook/Lifeguard: Static analyzer for Python Lazy Imports",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "unikernels were hard. key word: were.",
+    "url": "https://ghuntley.com/unikernels",
+    "description": "unikernels were hard. key word: were.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "vLLM Support for NVIDIA Vera Rubin NVL72",
+    "url": "https://vllm.ai/blog/2026-10-09-vera-rubin-preview",
+    "description": "vLLM Support for NVIDIA Vera Rubin NVL72",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  },
+  {
+    "title": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
+    "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+    "description": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-12",
+    "site_name": "tldr"
+  }
+]
