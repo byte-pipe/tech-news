@@ -4,269 +4,284 @@
     "url": "https://github.com/rust-lang/rust/issues/164250",
     "description": "11 year old unsoundness bugs found in Rust borrow checker",
     "date": "2026-10-13",
-    "score": 552,
-    "comments": 319,
+    "score": 642,
+    "comments": 361,
     "discussion_url": "https://news.ycombinator.com/item?id=50069499",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084657"
+    "fetched_at": "2026-10-13T23:13:38.235384"
   },
   {
     "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
     "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
     "description": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
     "date": "2026-10-13",
-    "score": 177,
-    "comments": 75,
+    "score": 214,
+    "comments": 90,
     "discussion_url": "https://news.ycombinator.com/item?id=50070593",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084612"
-  },
-  {
-    "title": "A Modern Web App in C",
-    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-    "description": "A Modern Web App in C",
-    "date": "2026-10-12",
-    "score": 676,
-    "comments": 301,
-    "discussion_url": "https://news.ycombinator.com/item?id=50058528",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084724"
-  },
-  {
-    "title": "AI is a tool and using it well takes skill",
-    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-    "description": "AI is a tool and using it well takes skill",
-    "date": "2026-10-12",
-    "score": 586,
-    "comments": 468,
-    "discussion_url": "https://news.ycombinator.com/item?id=50063427",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084703"
+    "fetched_at": "2026-10-13T23:13:38.235358"
   },
   {
     "title": "Apple HomeView",
     "url": "https://www.apple.com/apple-homeview/",
     "description": "Apple HomeView",
     "date": "2026-10-13",
-    "score": 463,
-    "comments": 568,
+    "score": 614,
+    "comments": 748,
     "discussion_url": "https://news.ycombinator.com/item?id=50071017",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084600"
+    "fetched_at": "2026-10-13T23:13:38.235349"
+  },
+  {
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "description": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "date": "2026-10-13",
+    "score": 151,
+    "comments": 251,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072286",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-13T23:13:38.235319"
   },
   {
     "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
     "url": "https://blog.character.ai/an-update-on-character-ai/",
     "description": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
     "date": "2026-10-13",
-    "score": 177,
-    "comments": 198,
+    "score": 263,
+    "comments": 260,
     "discussion_url": "https://news.ycombinator.com/item?id=50068036",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084681"
+    "fetched_at": "2026-10-13T23:13:38.235394"
   },
   {
     "title": "Firefox Enterprise",
     "url": "https://www.firefox.com/en-US/enterprise/",
     "description": "Firefox Enterprise",
     "date": "2026-10-13",
-    "score": 391,
-    "comments": 169,
+    "score": 589,
+    "comments": 249,
     "discussion_url": "https://news.ycombinator.com/item?id=50070302",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084624"
-  },
-  {
-    "title": "GLM-Legal",
-    "url": "https://z.ai/blog/glm-legal",
-    "description": "GLM-Legal",
-    "date": "2026-10-12",
-    "score": 655,
-    "comments": 353,
-    "discussion_url": "https://news.ycombinator.com/item?id=50058507",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084735"
+    "fetched_at": "2026-10-13T23:13:38.235367"
   },
   {
     "title": "Gemini 4 Argon",
     "url": "https://deepmind.google/models/gemini/",
     "description": "Gemini 4 Argon",
     "date": "2026-10-13",
-    "score": 417,
-    "comments": 320,
+    "score": 870,
+    "comments": 681,
     "discussion_url": "https://news.ycombinator.com/item?id=50073879",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084513"
+    "fetched_at": "2026-10-13T23:13:38.235257"
   },
   {
-    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-    "description": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-    "date": "2026-10-12",
-    "score": 859,
-    "comments": 956,
-    "discussion_url": "https://news.ycombinator.com/item?id=50055304",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084746"
-  },
-  {
-    "title": "Hittite royal archive found in Turkey",
-    "url": "https://www.thehistoryblog.com/archives/77107",
-    "description": "Hittite royal archive found in Turkey",
+    "title": "Gemini 4 Argon for Robotics",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "description": "Gemini 4 Argon for Robotics",
     "date": "2026-10-13",
-    "score": 286,
-    "comments": 73,
-    "discussion_url": "https://news.ycombinator.com/item?id=50067414",
+    "score": 168,
+    "comments": 40,
+    "discussion_url": "https://news.ycombinator.com/item?id=50074869",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084692"
+    "fetched_at": "2026-10-13T23:13:38.235247"
+  },
+  {
+    "title": "How to engineer an AI harness for game development",
+    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+    "description": "How to engineer an AI harness for game development",
+    "date": "2026-10-13",
+    "score": 112,
+    "comments": 49,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072120",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-13T23:13:38.235329"
   },
   {
     "title": "I posted to HN, and then my website was flooded with AI bot traffic",
     "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
     "description": "I posted to HN, and then my website was flooded with AI bot traffic",
     "date": "2026-10-13",
-    "score": 104,
-    "comments": 62,
+    "score": 216,
+    "comments": 139,
     "discussion_url": "https://news.ycombinator.com/item?id=50073221",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084560"
+    "fetched_at": "2026-10-13T23:13:38.235278"
   },
   {
-    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-    "description": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "description": "Ledger confirms spy chip implant behind wallet crypto thefts",
     "date": "2026-10-12",
-    "score": 292,
-    "comments": 167,
-    "discussion_url": "https://news.ycombinator.com/item?id=50063365",
+    "score": 330,
+    "comments": 279,
+    "discussion_url": "https://news.ycombinator.com/item?id=50054092",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084714"
+    "fetched_at": "2026-10-13T23:13:38.235412"
+  },
+  {
+    "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+    "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+    "description": "MIT class project turns into an FDA-cleared treatment for tremors",
+    "date": "2026-10-12",
+    "score": 117,
+    "comments": 18,
+    "discussion_url": "https://news.ycombinator.com/item?id=50061659",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-13T23:13:38.235402"
   },
   {
     "title": "New Apple TV 4K",
     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
     "description": "New Apple TV 4K",
     "date": "2026-10-13",
-    "score": 157,
-    "comments": 313,
+    "score": 259,
+    "comments": 505,
     "discussion_url": "https://news.ycombinator.com/item?id=50071310",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084587"
+    "fetched_at": "2026-10-13T23:13:38.235339"
   },
   {
-    "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-    "url": "https://pdftomp3.com/connect-ai/",
-    "description": "Show HN: Use your OpenAI subscription to create audiobooks",
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "description": "OpenAI engineer arrested in bugging of executive conference room",
     "date": "2026-10-13",
-    "score": 136,
-    "comments": 69,
-    "discussion_url": "https://news.ycombinator.com/item?id=50069337",
+    "score": 246,
+    "comments": 237,
+    "discussion_url": "https://news.ycombinator.com/item?id=50078141",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084668"
+    "fetched_at": "2026-10-13T23:13:38.235212"
   },
   {
-    "title": "The baffling intelligence of a single cell (2024)",
-    "url": "https://jsomers.net/e-coli-chemotaxis/",
-    "description": "The baffling intelligence of a single cell (2024)",
-    "date": "2026-10-11",
-    "score": 383,
-    "comments": 121,
-    "discussion_url": "https://news.ycombinator.com/item?id=50041866",
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "description": "Redesigning source control at Anthropic",
+    "date": "2026-10-13",
+    "score": 443,
+    "comments": 442,
+    "discussion_url": "https://news.ycombinator.com/item?id=50073633",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084757"
+    "fetched_at": "2026-10-13T23:13:38.235268"
+  },
+  {
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "url": "https://guitoro.com/",
+    "description": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "date": "2026-10-13",
+    "score": 179,
+    "comments": 64,
+    "discussion_url": "https://news.ycombinator.com/item?id=50077020",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-13T23:13:38.235236"
+  },
+  {
+    "title": "The United Kingdom generates less electricity per person than in the 1970s",
+    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+    "description": "The United Kingdom generates less electricity per person than in the 1970s",
+    "date": "2026-10-13",
+    "score": 161,
+    "comments": 231,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072994",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-13T23:13:38.235287"
   },
   {
     "title": "Thunderbird for iOS",
     "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
     "description": "Thunderbird for iOS",
     "date": "2026-10-13",
-    "score": 151,
-    "comments": 55,
+    "score": 288,
+    "comments": 118,
     "discussion_url": "https://news.ycombinator.com/item?id=50072913",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084575"
+    "fetched_at": "2026-10-13T23:13:38.235306"
   },
   {
     "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
     "url": "https://eg2.haku.sh/",
     "description": "We turned EmbeddingGemma 2 into a speech-to-text model",
     "date": "2026-10-13",
-    "score": 309,
-    "comments": 77,
+    "score": 373,
+    "comments": 82,
     "discussion_url": "https://news.ycombinator.com/item?id=50069971",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-13T17:58:02.084644"
+    "fetched_at": "2026-10-13T23:13:38.235375"
   }
 ]

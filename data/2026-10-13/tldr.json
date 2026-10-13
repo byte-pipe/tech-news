@@ -60,9 +60,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple Introduces HomeView, Updates Apple TV 4K and HomePod mini",
-    "url": "https://schwarztech.net/articles/apple-introduces-homeview-updates-apple-tv-4k-and-homepod-mini",
-    "description": "Apple Introduces HomeView, Updates Apple TV 4K and HomePod mini",
+    "title": "An Update on Character.ai",
+    "url": "https://blog.character.ai/an-update-on-character-ai",
+    "description": "An Update on Character.ai",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-13",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Announcing our API beta",
+    "url": "https://physicalintelligence.company/blog/api-beta",
+    "description": "Announcing our API beta",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-13",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple introduces HomeView, a $299 tablet for the home",
+    "url": "https://www.seattletimes.com/business/apple-introduces-homeview-a-299-tablet-for-the-home",
+    "description": "Apple introduces HomeView, a $299 tablet for the home",
     "tags": [
       "tldr"
     ],
@@ -83,16 +103,6 @@
     "title": "Artificial Analysis Decision Index v1.0 | Artificial Analysis",
     "url": "https://artificialanalysis.ai/articles/artificial-analysis-decision-index",
     "description": "Artificial Analysis Decision Index v1.0 | Artificial Analysis",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Building a GPU Compiler from Scratch",
-    "url": "https://kernelspace.substack.com/p/building-a-gpu-compiler-from-scratch",
-    "description": "Building a GPU Compiler from Scratch",
     "tags": [
       "tldr"
     ],
@@ -150,6 +160,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Enriching Domain-Specific Post-Training with Multi-Teacher On-Policy Distillation",
+    "url": "https://appliedcompute.com/research/multi-teacher-on-policy-distillation",
+    "description": "Enriching Domain-Specific Post-Training with Multi-Teacher On-Policy Distillation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-13",
+    "site_name": "tldr"
+  },
+  {
     "title": "Exclusive: Slack Alums Launch Scuba, New ‘Context Engine’ For Teams And AI Agents",
     "url": "https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba",
     "description": "Exclusive: Slack Alums Launch Scuba, New ‘Context Engine’ For Teams And AI Agents",
@@ -160,19 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
-    "description": "Gemini 4 Argon: Built to solve your hardest problems",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Google Play adding ‘personal library’ to access your vibe-coded Android apps",
-    "url": "https://9to5google.com/2026/10/13/google-play-vibe-coded",
-    "description": "Google Play adding ‘personal library’ to access your vibe-coded Android apps",
+    "title": "Gemini 4 Argon available on Google Cloud",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?e=48754805",
+    "description": "Gemini 4 Argon available on Google Cloud",
     "tags": [
       "tldr"
     ],
@@ -190,9 +200,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-    "description": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "title": "Jason Ma on Dyna-2, World-Action Models, and Full-Stack Robotics",
+    "url": "https://www.latent.space/p/dyna",
+    "description": "Jason Ma on Dyna-2, World-Action Models, and Full-Stack Robotics",
     "tags": [
       "tldr"
     ],
@@ -203,16 +213,6 @@
     "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog | Liquid AI",
     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
     "description": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog | Liquid AI",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-    "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-    "description": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
     "tags": [
       "tldr"
     ],
@@ -270,9 +270,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
-    "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
-    "description": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "description": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-13",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Muse Wonder and Muse Wonder Full: a material jump in intelligence over previous Meta models | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/articles/muse-wonder",
+    "description": "Muse Wonder and Muse Wonder Full: a material jump in intelligence over previous Meta models | Artificial Analysis",
     "tags": [
       "tldr"
     ],
@@ -293,16 +303,6 @@
     "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
     "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform",
     "description": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-13",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
-    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-    "description": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
     "tags": [
       "tldr"
     ],
@@ -350,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Put your ideas to work with Muse Wonder and Muse Wonder Full",
-    "url": "https://dev.meta.ai/resources/blog/build-with-muse-wonder",
-    "description": "Put your ideas to work with Muse Wonder and Muse Wonder Full",
+    "title": "Prime Intellect acquires Moondream to speed inference (*)",
+    "url": "https://www.primeintellect.ai/blog/moondream",
+    "description": "Prime Intellect acquires Moondream to speed inference (*)",
     "tags": [
       "tldr"
     ],
@@ -420,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Two Exit Doors: Anthropic’s $2 Trillion Pitch Starts Oct. 14. The Public Prospectus Comes Later.",
-    "url": "https://forkast.news/two-exit-doors-anthropics-2-trillion-pitch-starts-oct-14-the-public-prospectus-comes-later",
-    "description": "Two Exit Doors: Anthropic’s $2 Trillion Pitch Starts Oct. 14. The Public Prospectus Comes Later.",
+    "title": "Terence Tao on \"Math 2.0\" [pdf]",
+    "url": "https://news.ycombinator.com/item?id=50039798",
+    "description": "Terence Tao on \"Math 2.0\" [pdf]",
     "tags": [
       "tldr"
     ],
@@ -430,9 +430,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
-    "url": "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577",
-    "description": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
+    "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+    "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models",
+    "description": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-13",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Rise of DeployCos",
+    "url": "https://www.tanayj.com/p/the-rise-of-deploycos",
+    "description": "The Rise of DeployCos",
     "tags": [
       "tldr"
     ],
@@ -460,16 +470,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why OpenAI's latest results left mathematicians in shock",
-    "url": "https://ia.acs.org.au/article/2026/why-openai-s-latest-results-left-mathematicians-in-shock.html",
-    "description": "Why OpenAI's latest results left mathematicians in shock",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-13",
-    "site_name": "tldr"
-  },
-  {
     "title": "XBOW Built a Chrome Full-Chain Exploit Affecting a Billion Users in Six Days",
     "url": "https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit",
     "description": "XBOW Built a Chrome Full-Chain Exploit Affecting a Billion Users in Six Days",
@@ -490,9 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "rust-lang/rust: Lifetime requirements bypassed via covariant field assignment",
+    "title": "rust-lang/rust: Lifetime requirements bypassed via covariant field assignment (#164250)",
     "url": "https://github.com/rust-lang/rust/issues/164250",
-    "description": "rust-lang/rust: Lifetime requirements bypassed via covariant field assignment",
+    "description": "rust-lang/rust: Lifetime requirements bypassed via covariant field assignment (#164250)",
     "tags": [
       "tldr"
     ],

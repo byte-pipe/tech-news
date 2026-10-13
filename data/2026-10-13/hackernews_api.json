@@ -4,8 +4,8 @@
     "url": "https://github.com/rust-lang/rust/issues/164250",
     "author": "formerly_proven",
     "date": "2026-10-13",
-    "score": 556,
-    "comments": 321,
+    "score": 646,
+    "comments": 362,
     "id": 50069499,
     "discussion_url": "https://news.ycombinator.com/item?id=50069499",
     "description": "11 year old unsoundness bugs found in Rust borrow checker",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271276"
+    "fetched_at": "2026-10-13T23:13:25.307692"
   },
   {
     "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
     "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
     "author": "acossta",
     "date": "2026-10-13",
-    "score": 178,
-    "comments": 75,
+    "score": 216,
+    "comments": 91,
     "id": 50070593,
     "discussion_url": "https://news.ycombinator.com/item?id=50070593",
     "description": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
@@ -31,49 +31,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271217"
+    "fetched_at": "2026-10-13T23:13:25.307712"
   },
   {
-    "title": "A Modern Web App in C",
-    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-    "author": "prophittcorey",
-    "date": "2026-10-12",
-    "score": 676,
-    "comments": 301,
-    "id": 50058528,
-    "discussion_url": "https://news.ycombinator.com/item?id=50058528",
-    "description": "A Modern Web App in C",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271345"
-  },
-  {
-    "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-    "url": "https://www.argmin.net/p/faster-fourier-transforms",
-    "author": "mochomocha",
+    "title": "A Visual Intro to Complex Numbers",
+    "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+    "author": "surprisetalk",
     "date": "2026-10-13",
-    "score": 230,
-    "comments": 145,
-    "id": 50065932,
-    "discussion_url": "https://news.ycombinator.com/item?id=50065932",
-    "description": "A look at the math that OpenAI claims computes faster Fourier transforms",
+    "score": 113,
+    "comments": 68,
+    "id": 50070287,
+    "discussion_url": "https://news.ycombinator.com/item?id=50070287",
+    "description": "A Visual Intro to Complex Numbers",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271393"
+    "fetched_at": "2026-10-13T23:13:25.307807"
   },
   {
     "title": "AI is a tool and using it well takes skill",
     "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
     "author": "layer8",
     "date": "2026-10-12",
-    "score": 586,
-    "comments": 468,
+    "score": 638,
+    "comments": 506,
     "id": 50063427,
     "discussion_url": "https://news.ycombinator.com/item?id=50063427",
     "description": "AI is a tool and using it well takes skill",
@@ -82,32 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271313"
+    "fetched_at": "2026-10-13T23:13:25.307759"
   },
   {
-    "title": "AI models can provably hide arbitrary capabilities",
-    "url": "https://arxiv.org/abs/2610.13928",
-    "author": "sbulaev",
+    "title": "AWS Lambda Web Functions",
+    "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+    "author": "HatchedLake721",
     "date": "2026-10-13",
-    "score": 264,
-    "comments": 131,
-    "id": 50065692,
-    "discussion_url": "https://news.ycombinator.com/item?id=50065692",
-    "description": "AI models can provably hide arbitrary capabilities",
+    "score": 101,
+    "comments": 94,
+    "id": 50069318,
+    "discussion_url": "https://news.ycombinator.com/item?id=50069318",
+    "description": "AWS Lambda Web Functions",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271412"
+    "fetched_at": "2026-10-13T23:13:25.307766"
   },
   {
     "title": "Apple HomeView",
     "url": "https://www.apple.com/apple-homeview/",
     "author": "etothet",
     "date": "2026-10-13",
-    "score": 464,
-    "comments": 571,
+    "score": 623,
+    "comments": 751,
     "id": 50071017,
     "discussion_url": "https://news.ycombinator.com/item?id=50071017",
     "description": "Apple HomeView",
@@ -116,32 +99,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271191"
+    "fetched_at": "2026-10-13T23:13:25.307649"
   },
   {
-    "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-    "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
-    "author": "helsinkiandrew",
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "author": "ivell",
     "date": "2026-10-13",
-    "score": 397,
-    "comments": 206,
-    "id": 50069329,
-    "discussion_url": "https://news.ycombinator.com/item?id=50069329",
-    "description": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+    "score": 155,
+    "comments": 263,
+    "id": 50072286,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072286",
+    "description": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271421"
+    "fetched_at": "2026-10-13T23:13:25.307706"
   },
   {
     "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
     "url": "https://blog.character.ai/an-update-on-character-ai/",
     "author": "nryoo",
     "date": "2026-10-13",
-    "score": 179,
-    "comments": 198,
+    "score": 265,
+    "comments": 260,
     "id": 50068036,
     "discussion_url": "https://news.ycombinator.com/item?id=50068036",
     "description": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
@@ -150,49 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271294"
+    "fetched_at": "2026-10-13T23:13:25.307743"
   },
   {
-    "title": "Citroen revives the 2CV for an electric age",
-    "url": "https://www.bbc.com/news/articles/c620r33plgppo",
-    "author": "scrlk",
-    "date": "2026-10-12",
-    "score": 399,
-    "comments": 454,
-    "id": 50055220,
-    "discussion_url": "https://news.ycombinator.com/item?id=50055220",
-    "description": "Citroen revives the 2CV for an electric age",
+    "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
+    "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
+    "author": "paaloeye",
+    "date": "2026-10-13",
+    "score": 145,
+    "comments": 118,
+    "id": 50074289,
+    "discussion_url": "https://news.ycombinator.com/item?id=50074289",
+    "description": "Cyberattack halts construction of tunnel between Denmark and Germany",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271371"
-  },
-  {
-    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-    "url": "https://github.com/openai/codex/issues/48195",
-    "author": "whimblepop",
-    "date": "2026-10-12",
-    "score": 590,
-    "comments": 287,
-    "id": 50060694,
-    "discussion_url": "https://news.ycombinator.com/item?id=50060694",
-    "description": "Codex CLI installs a persistent, self-updating background daemon by default",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271458"
+    "fetched_at": "2026-10-13T23:13:25.307776"
   },
   {
     "title": "Firefox Enterprise",
     "url": "https://www.firefox.com/en-US/enterprise/",
     "author": "recvonline",
     "date": "2026-10-13",
-    "score": 397,
-    "comments": 170,
+    "score": 596,
+    "comments": 251,
     "id": 50070302,
     "discussion_url": "https://news.ycombinator.com/item?id=50070302",
     "description": "Firefox Enterprise",
@@ -201,15 +167,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271242"
+    "fetched_at": "2026-10-13T23:13:25.307676"
   },
   {
     "title": "GLM-Legal",
     "url": "https://z.ai/blog/glm-legal",
     "author": "ilreb",
     "date": "2026-10-12",
-    "score": 655,
-    "comments": 353,
+    "score": 662,
+    "comments": 358,
     "id": 50058507,
     "discussion_url": "https://news.ycombinator.com/item?id=50058507",
     "description": "GLM-Legal",
@@ -218,15 +184,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271304"
+    "fetched_at": "2026-10-13T23:13:25.307825"
   },
   {
     "title": "Gemini 4 Argon",
     "url": "https://deepmind.google/models/gemini/",
     "author": "737max",
     "date": "2026-10-13",
-    "score": 422,
-    "comments": 327,
+    "score": 877,
+    "comments": 688,
     "id": 50073879,
     "discussion_url": "https://news.ycombinator.com/item?id=50073879",
     "description": "Gemini 4 Argon",
@@ -235,15 +201,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271222"
+    "fetched_at": "2026-10-13T23:13:25.307645"
+  },
+  {
+    "title": "Gemini 4 Argon for Robotics",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "author": "xnx",
+    "date": "2026-10-13",
+    "score": 169,
+    "comments": 40,
+    "id": 50074869,
+    "discussion_url": "https://news.ycombinator.com/item?id=50074869",
+    "description": "Gemini 4 Argon for Robotics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-13T23:13:25.307709"
   },
   {
     "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
     "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
     "author": "Zeekaas",
     "date": "2026-10-12",
-    "score": 859,
-    "comments": 957,
+    "score": 880,
+    "comments": 980,
     "id": 50055304,
     "discussion_url": "https://news.ycombinator.com/item?id=50055304",
     "description": "Hackers activate automatic defrosting in supermarket fridges across Europe",
@@ -252,15 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271322"
+    "fetched_at": "2026-10-13T23:13:25.307832"
   },
   {
     "title": "Hittite royal archive found in Turkey",
     "url": "https://www.thehistoryblog.com/archives/77107",
     "author": "benbreen",
     "date": "2026-10-13",
-    "score": 287,
-    "comments": 73,
+    "score": 331,
+    "comments": 82,
     "id": 50067414,
     "discussion_url": "https://news.ycombinator.com/item?id=50067414",
     "description": "Hittite royal archive found in Turkey",
@@ -269,219 +252,236 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271285"
+    "fetched_at": "2026-10-13T23:13:25.307752"
   },
   {
-    "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-    "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-    "author": "soeckly",
+    "title": "How to engineer an AI harness for game development",
+    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+    "author": "kkukshtel",
+    "date": "2026-10-13",
+    "score": 112,
+    "comments": 49,
+    "id": 50072120,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072120",
+    "description": "How to engineer an AI harness for game development",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-13T23:13:25.307735"
+  },
+  {
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "author": "sammy0910",
+    "date": "2026-10-13",
+    "score": 220,
+    "comments": 139,
+    "id": 50073221,
+    "discussion_url": "https://news.ycombinator.com/item?id=50073221",
+    "description": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-13T23:13:25.307684"
+  },
+  {
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "author": "thm",
     "date": "2026-10-12",
-    "score": 229,
-    "comments": 114,
-    "id": 50052638,
-    "discussion_url": "https://news.ycombinator.com/item?id=50052638",
-    "description": "I Found a $90k Remote Code Execution Vulnerability in Google",
+    "score": 342,
+    "comments": 287,
+    "id": 50054092,
+    "discussion_url": "https://news.ycombinator.com/item?id=50054092",
+    "description": "Ledger confirms spy chip implant behind wallet crypto thefts",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271450"
+    "fetched_at": "2026-10-13T23:13:25.307688"
   },
   {
-    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-    "author": "hurricanepootis",
+    "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+    "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+    "author": "zdw",
     "date": "2026-10-12",
-    "score": 293,
-    "comments": 168,
-    "id": 50063365,
-    "discussion_url": "https://news.ycombinator.com/item?id=50063365",
-    "description": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "score": 119,
+    "comments": 19,
+    "id": 50061659,
+    "discussion_url": "https://news.ycombinator.com/item?id=50061659",
+    "description": "MIT class project turns into an FDA-cleared treatment for tremors",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271326"
+    "fetched_at": "2026-10-13T23:13:25.307641"
   },
   {
-    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-    "url": "https://github.com/prabanta-dev/janas",
-    "author": "khalidkhair",
-    "date": "2026-10-12",
-    "score": 208,
-    "comments": 77,
-    "id": 50063717,
-    "discussion_url": "https://news.ycombinator.com/item?id=50063717",
-    "description": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "title": "New Apple TV 4K",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+    "author": "corvad",
+    "date": "2026-10-13",
+    "score": 260,
+    "comments": 508,
+    "id": 50071310,
+    "discussion_url": "https://news.ycombinator.com/item?id=50071310",
+    "description": "New Apple TV 4K",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271340"
+    "fetched_at": "2026-10-13T23:13:25.307715"
   },
   {
-    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "url": "https://taylor.town/kk-ai-2026",
-    "author": "surprisetalk",
-    "date": "2026-10-12",
-    "score": 209,
-    "comments": 84,
-    "id": 50057668,
-    "discussion_url": "https://news.ycombinator.com/item?id=50057668",
-    "description": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "author": "forthwall",
+    "date": "2026-10-13",
+    "score": 295,
+    "comments": 253,
+    "id": 50078141,
+    "discussion_url": "https://news.ycombinator.com/item?id=50078141",
+    "description": "OpenAI engineer arrested in bugging of executive conference room",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271426"
+    "fetched_at": "2026-10-13T23:13:25.307629"
   },
   {
-    "title": "Making big downloads resumable in Firefox",
-    "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-    "author": "speckx",
-    "date": "2026-10-12",
-    "score": 270,
-    "comments": 128,
-    "id": 50061791,
-    "discussion_url": "https://news.ycombinator.com/item?id=50061791",
-    "description": "Making big downloads resumable in Firefox",
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "author": "Philpax",
+    "date": "2026-10-13",
+    "score": 452,
+    "comments": 452,
+    "id": 50073633,
+    "discussion_url": "https://news.ycombinator.com/item?id=50073633",
+    "description": "Redesigning source control at Anthropic",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271354"
+    "fetched_at": "2026-10-13T23:13:25.307665"
   },
   {
-    "title": "Muse Wonder",
-    "url": "https://research.meta.ai/blog/muse-wonder",
-    "author": "meetpateltech",
-    "date": "2026-10-12",
-    "score": 654,
-    "comments": 369,
-    "id": 50059115,
-    "discussion_url": "https://news.ycombinator.com/item?id=50059115",
-    "description": "Muse Wonder",
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "url": "https://guitoro.com/",
+    "author": "talccc",
+    "date": "2026-10-13",
+    "score": 183,
+    "comments": 70,
+    "id": 50077020,
+    "discussion_url": "https://news.ycombinator.com/item?id=50077020",
+    "description": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271446"
+    "fetched_at": "2026-10-13T23:13:25.307661"
   },
   {
-    "title": "Solar panels that plug into your wall",
-    "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-    "author": "speckx",
-    "date": "2026-10-12",
-    "score": 249,
-    "comments": 265,
-    "id": 50056822,
-    "discussion_url": "https://news.ycombinator.com/item?id=50056822",
-    "description": "Solar panels that plug into your wall",
+    "title": "Show HN: How Random Are You?",
+    "url": "https://lab.specr.net/rigged-draw/",
+    "author": "vunderba",
+    "date": "2026-10-13",
+    "score": 65,
+    "comments": 35,
+    "id": 50074909,
+    "discussion_url": "https://news.ycombinator.com/item?id=50074909",
+    "description": "Show HN: How Random Are You?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271384"
+    "fetched_at": "2026-10-13T23:13:25.307746"
   },
   {
-    "title": "Terence Tao: Math 2.0 [pdf]",
-    "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-    "author": "Anon84",
-    "date": "2026-10-11",
-    "score": 551,
-    "comments": 539,
-    "id": 50043026,
-    "discussion_url": "https://news.ycombinator.com/item?id=50043026",
-    "description": "Terence Tao: Math 2.0 [pdf]",
+    "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+    "url": "https://github.com/bherbruck/solidcraft",
+    "author": "bherbruck",
+    "date": "2026-10-13",
+    "score": 133,
+    "comments": 44,
+    "id": 50064840,
+    "discussion_url": "https://news.ycombinator.com/item?id=50064840",
+    "description": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271438"
+    "fetched_at": "2026-10-13T23:13:25.307828"
   },
   {
-    "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-    "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-    "author": "gregsadetsky",
-    "date": "2026-10-10",
-    "score": 269,
-    "comments": 103,
-    "id": 50036287,
-    "discussion_url": "https://news.ycombinator.com/item?id=50036287",
-    "description": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+    "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+    "url": "https://pdftomp3.com/connect-ai/",
+    "author": "janpmz",
+    "date": "2026-10-13",
+    "score": 158,
+    "comments": 79,
+    "id": 50069337,
+    "discussion_url": "https://news.ycombinator.com/item?id=50069337",
+    "description": "Show HN: Use your OpenAI subscription to create audiobooks",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271407"
+    "fetched_at": "2026-10-13T23:13:25.307773"
   },
   {
-    "title": "The baffling intelligence of a single cell (2024)",
-    "url": "https://jsomers.net/e-coli-chemotaxis/",
-    "author": "jsomers",
-    "date": "2026-10-11",
-    "score": 383,
-    "comments": 121,
-    "id": 50041866,
-    "discussion_url": "https://news.ycombinator.com/item?id=50041866",
-    "description": "The baffling intelligence of a single cell (2024)",
+    "title": "The United Kingdom generates less electricity per person than in the 1970s",
+    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+    "author": "karakoram",
+    "date": "2026-10-13",
+    "score": 169,
+    "comments": 240,
+    "id": 50072994,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072994",
+    "description": "The United Kingdom generates less electricity per person than in the 1970s",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271331"
+    "fetched_at": "2026-10-13T23:13:25.307698"
   },
   {
-    "title": "Thinking will become a hobby",
-    "url": "https://www.spinellis.gr/blog/20261008/?li261008",
-    "author": "pranitha_m",
-    "date": "2026-10-12",
-    "score": 322,
-    "comments": 458,
-    "id": 50059204,
-    "discussion_url": "https://news.ycombinator.com/item?id=50059204",
-    "description": "Thinking will become a hobby",
+    "title": "Thunderbird for iOS",
+    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "author": "mjorgers",
+    "date": "2026-10-13",
+    "score": 294,
+    "comments": 120,
+    "id": 50072913,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072913",
+    "description": "Thunderbird for iOS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271466"
-  },
-  {
-    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-    "url": "https://github.com/h0m3us3r/w1700k-sdr",
-    "author": "djfergus",
-    "date": "2026-10-12",
-    "score": 403,
-    "comments": 110,
-    "id": 50055593,
-    "discussion_url": "https://news.ycombinator.com/item?id=50055593",
-    "description": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271362"
+    "fetched_at": "2026-10-13T23:13:25.307657"
   },
   {
     "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
     "url": "https://eg2.haku.sh/",
     "author": "amrrs",
     "date": "2026-10-13",
-    "score": 310,
-    "comments": 78,
+    "score": 374,
+    "comments": 84,
     "id": 50069971,
     "discussion_url": "https://news.ycombinator.com/item?id=50069971",
     "description": "We turned EmbeddingGemma 2 into a speech-to-text model",
@@ -490,23 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271211"
+    "fetched_at": "2026-10-13T23:13:25.307695"
   },
   {
-    "title": "Who is vfmaddrnd231pd?",
-    "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-    "author": "pngmangi",
-    "date": "2026-10-12",
-    "score": 244,
-    "comments": 21,
-    "id": 50063138,
-    "discussion_url": "https://news.ycombinator.com/item?id=50063138",
-    "description": "Who is vfmaddrnd231pd?",
+    "title": "Worlds more habitable than Earth?",
+    "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+    "author": "cainxinth",
+    "date": "2026-10-13",
+    "score": 76,
+    "comments": 153,
+    "id": 50070554,
+    "discussion_url": "https://news.ycombinator.com/item?id=50070554",
+    "description": "Worlds more habitable than Earth?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-13T17:57:45.271349"
+    "fetched_at": "2026-10-13T23:13:25.307749"
   }
 ]

@@ -1,10 +1,10 @@
 ---
 title: 'Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners. - DEV Community'
-url: https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba?bb=264688
+url: https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba?bb=264691
 site_name: devto
 content_file: devto-join-the-hacktoberfest-open-source-ai-challenge-si
-fetched_at: '2026-10-13T17:57:52.654733'
-original_url: https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba?bb=264688
+fetched_at: '2026-10-13T23:13:32.296501'
+original_url: https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba?bb=264691
 author: Jem
 date: '2026-10-12'
 description: Week 2 of our five Hacktoberfest DEV Challenges starts today! Running through October 18, the... Tagged with devchallenge, hf26challenge, hacktoberfest, softwaredevelopment.
@@ -144,7 +144,7 @@ Preview
 
 Dismiss
 
- View full discussion (12 comments)
+ View full discussion (13 comments)
  
 
 Some comments may only be visible to logged-in visitors.Sign into view all comments.
