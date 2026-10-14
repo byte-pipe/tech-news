@@ -1,15 +1,5 @@
 [
   {
-    "title": "(Post-Quantum) Cryptographic Right Answers",
-    "url": "https://words.filippo.io/right-answers",
-    "description": "(Post-Quantum) Cryptographic Right Answers",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-14",
-    "site_name": "tldr"
-  },
-  {
     "title": "38 things we've learned about building AI products",
     "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
     "description": "38 things we've learned about building AI products",
@@ -30,9 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AA-3D Elo vs. Early Visual Inspection",
-    "url": "https://artificialanalysis.ai/articles/aa-3d",
-    "description": "AA-3D Elo vs. Early Visual Inspection",
+    "title": "A UAF turned RCE",
+    "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce",
+    "description": "A UAF turned RCE",
     "tags": [
       "tldr"
     ],
@@ -60,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple announces Apple TV 4K with built-in Siri AI (*)",
-    "url": "https://www.macstories.net/news/apple-unveils-homeview-a-smart-home-display-powered-by-siri-ai",
-    "description": "Apple announces Apple TV 4K with built-in Siri AI (*)",
+    "title": "Apple Brings the Home Into View",
+    "url": "https://creativestrategies.com/research/apple-brings-the-home-into-view",
+    "description": "Apple Brings the Home Into View",
     "tags": [
       "tldr"
     ],
@@ -100,29 +90,19 @@
     "site_name": "tldr"
   },
   {
+    "title": "CVE-2026-74580: Linux vhost stale IOTLB cache vulnerability (Vghost)",
+    "url": "https://www.openwall.com/lists/oss-security/2026/10/14/2",
+    "description": "CVE-2026-74580: Linux vhost stale IOTLB cache vulnerability (Vghost)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-14",
+    "site_name": "tldr"
+  },
+  {
     "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
     "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
     "description": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "China faces uphill battle to wean tech firms off Nvidia chips",
-    "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
-    "description": "China faces uphill battle to wean tech firms off Nvidia chips",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Composable Models: More Diverse Models Will Change How We Build",
-    "url": "https://x.com/josharosen/status/2110384466438844433",
-    "description": "Composable Models: More Diverse Models Will Change How We Build",
     "tags": [
       "tldr"
     ],
@@ -143,6 +123,16 @@
     "title": "GlobalFoundries to build and operate two new chip fabs in NY as part of $21bn US-Japan deal",
     "url": "https://www.datacenterdynamics.com/en/news/globalfoundries-to-build-and-operate-two-new-chip-fabs-in-ny-as-part-of-21bn-us-japan-deal",
     "description": "GlobalFoundries to build and operate two new chip fabs in NY as part of $21bn US-Japan deal",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation",
+    "url": "https://arxiv.org/abs/2610.15750",
+    "description": "Google Earth AI Geospatial Reasoning Agent: Capabilities and a Systematic Evaluation",
     "tags": [
       "tldr"
     ],
@@ -180,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "It Ain't AGI Until H100s Go for $30 an Hour",
-    "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
-    "description": "It Ain't AGI Until H100s Go for $30 an Hour",
+    "title": "Introducing Grok Voice 3.0 | SpaceXSI",
+    "url": "https://x.ai/news/grok-voice-3",
+    "description": "Introducing Grok Voice 3.0 | SpaceXSI",
     "tags": [
       "tldr"
     ],
@@ -200,29 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-    "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
-    "description": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Linux kernel patches CVE-2026-74580 vulnerability (*)",
-    "url": "https://matrix.tencent.com/en/2026/10/12/vghost-cve-2026-74580",
-    "description": "Linux kernel patches CVE-2026-74580 vulnerability (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta Unveils Muse Wonder AI Models Featuring Active Memory",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=14550",
-    "description": "Meta Unveils Muse Wonder AI Models Featuring Active Memory",
+    "title": "Linus Torvalds's first LLM-assisted patch series",
+    "url": "https://lwn.net/Articles/1100449",
+    "description": "Linus Torvalds's first LLM-assisted patch series",
     "tags": [
       "tldr"
     ],
@@ -240,9 +210,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
-    "url": "https://engineering.fb.com/2026/10/13/ml-applications/metas-generative-ads-model-gem-scaling-the-central-model-and-compute-engine-for-frontier-ads-ai",
-    "description": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+    "title": "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic",
+    "url": "https://thetechportal.com/2026/10/13/meta-ships-muse-wonder-its-first-frontier-models-to-take-on-openai-anthropic",
+    "description": "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft Patches More Than 1,400 Security Flaws",
+    "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws",
+    "description": "Microsoft Patches More Than 1,400 Security Flaws",
     "tags": [
       "tldr"
     ],
@@ -253,6 +233,16 @@
     "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
     "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
     "description": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Modal crosses $1B in Annualized Run Rate and raises $750M Series D",
+    "url": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+    "description": "Modal crosses $1B in Annualized Run Rate and raises $750M Series D",
     "tags": [
       "tldr"
     ],
@@ -290,9 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenCode 2.0",
-    "url": "https://stacker.news/items/1594059",
-    "description": "OpenCode 2.0",
+    "title": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
+    "description": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
     "tags": [
       "tldr"
     ],
@@ -310,9 +300,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Patch Tuesday - October 2026",
-    "url": "https://www.rapid7.com/blog/post/em-patch-tuesday-october-2026",
-    "description": "Patch Tuesday - October 2026",
+    "title": "Passkeys Are Not a Trap",
+    "url": "https://scotthelme.ghost.io/passkeys-are-not-a-trap",
+    "description": "Passkeys Are Not a Trap",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Passkeys Are Not a Trap",
+    "url": "https://news.ycombinator.com/item?id=50088935",
+    "description": "Passkeys Are Not a Trap",
     "tags": [
       "tldr"
     ],
@@ -340,19 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Python 3.15 for Data Scientists: Lazy Imports, frozendict, and Tachyon | CodeCut",
-    "url": "https://codecut.ai/python-3-15-features-data-scientists",
-    "description": "Python 3.15 for Data Scientists: Lazy Imports, frozendict, and Tachyon | CodeCut",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Ramp AI Index September 2026 shows OpenAI gains (*)",
-    "url": "https://econlab.substack.com/p/ai-index-oct-2026",
-    "description": "Ramp AI Index September 2026 shows OpenAI gains (*)",
+    "title": "Python 3.15 arrives with lazy imports, UTF-8 by default and a faster JIT",
+    "url": "https://betanews.com/article/python-3-15-release",
+    "description": "Python 3.15 arrives with lazy imports, UTF-8 by default and a faster JIT",
     "tags": [
       "tldr"
     ],
@@ -370,9 +360,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Rewinding the exponential: How we keep hardware usage down",
-    "url": "https://blog.cloudflare.com/rewinding-the-exponential",
-    "description": "Rewinding the exponential: How we keep hardware usage down",
+    "title": "Reliable GPU compute for large training & inference jobs",
+    "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
+    "description": "Reliable GPU compute for large training & inference jobs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Researchers improve weather forecasts looking two to six weeks out",
+    "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+    "description": "Researchers improve weather forecasts looking two to six weeks out",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+    "url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it",
+    "description": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Runway: Learning From Watching the World",
+    "url": "https://www.notboring.co/p/runway-learning-from-watching-the",
+    "description": "Runway: Learning From Watching the World",
     "tags": [
       "tldr"
     ],
@@ -390,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says",
-    "url": "https://www.reuters.com/world/europe/spacex-limits-starlink-operations-ukraine-disrupting-military-missions-2026-10-14",
-    "description": "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says",
+    "title": "SpaceX limits Starlink service for Ukraine’s high-speed military drones without prior warning",
+    "url": "https://www.tomshardware.com/tech-industry/drones/spacex-limits-starlink-service-for-ukraines-high-speed-military-drones-without-prior-warning-ukrainian-officials-say-limitation-significantly-complicates-logistics-and-drone-operations",
+    "description": "SpaceX limits Starlink service for Ukraine’s high-speed military drones without prior warning",
     "tags": [
       "tldr"
     ],
@@ -410,19 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
-    "url": "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577",
-    "description": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "We found a Chinese fleet · swarmcha.se",
-    "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
-    "description": "We found a Chinese fleet · swarmcha.se",
+    "title": "Trace agents with OpenTelemetry on the Claude Platform | Claude by Anthropic",
+    "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+    "description": "Trace agents with OpenTelemetry on the Claude Platform | Claude by Anthropic",
     "tags": [
       "tldr"
     ],
@@ -440,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Your Agents Need Commander's Intent",
-    "url": "https://blog.sondera.ai/p/ai-agents-commanders-intent",
-    "description": "Your Agents Need Commander's Intent",
+    "title": "XRP Ledger Fixes Bug That Could Have Broken the Token’s Fixed Supply",
+    "url": "https://unchainedcrypto.com/xrp-ledger-fixes-bug-that-could-have-broken-the-tokens-fixed-supply",
+    "description": "XRP Ledger Fixes Bug That Could Have Broken the Token’s Fixed Supply",
     "tags": [
       "tldr"
     ],
@@ -450,9 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "colbymchenry/codegraph: Semantic Code Intelligence for AI Agents",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "description": "colbymchenry/codegraph: Semantic Code Intelligence for AI Agents",
+    "title": "Zero to Calc in Six Days: Inside XBOW’s Chrome Full Chain | XBOW Labs",
+    "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
+    "description": "Zero to Calc in Six Days: Inside XBOW’s Chrome Full Chain | XBOW Labs",
     "tags": [
       "tldr"
     ],
@@ -470,29 +480,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-    "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-    "description": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-14",
-    "site_name": "tldr"
-  },
-  {
-    "title": "electric-sql/pglite: Embeddable Postgres in WebAssembly with real-time bindings",
-    "url": "https://github.com/electric-sql/pglite",
-    "description": "electric-sql/pglite: Embeddable Postgres in WebAssembly with real-time bindings",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-14",
-    "site_name": "tldr"
-  },
-  {
     "title": "rust-lang/rust: Lifetime requirements bypassed via covariant field assignment (#164250)",
     "url": "https://github.com/rust-lang/rust/issues/164250",
     "description": "rust-lang/rust: Lifetime requirements bypassed via covariant field assignment (#164250)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-14",
+    "site_name": "tldr"
+  },
+  {
+    "title": "“A major overhaul”: OpenCode 2.0 puts its terminal, desktop, and web apps on one shared service",
+    "url": "https://thenewstack.io/opencode-2-shared-service",
+    "description": "“A major overhaul”: OpenCode 2.0 puts its terminal, desktop, and web apps on one shared service",
     "tags": [
       "tldr"
     ],
