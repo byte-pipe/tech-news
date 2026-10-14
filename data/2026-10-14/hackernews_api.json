@@ -1,0 +1,512 @@
+[
+  {
+    "title": "11 year old unsoundness bugs found in Rust borrow checker",
+    "url": "https://github.com/rust-lang/rust/issues/164250",
+    "author": "formerly_proven",
+    "date": "2026-10-13",
+    "score": 728,
+    "comments": 413,
+    "id": 50069499,
+    "discussion_url": "https://news.ycombinator.com/item?id=50069499",
+    "description": "11 year old unsoundness bugs found in Rust borrow checker",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619513"
+  },
+  {
+    "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+    "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+    "author": "mdp2021",
+    "date": "2026-10-12",
+    "score": 232,
+    "comments": 40,
+    "id": 50053487,
+    "discussion_url": "https://news.ycombinator.com/item?id=50053487",
+    "description": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619399"
+  },
+  {
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "author": "layer8",
+    "date": "2026-10-12",
+    "score": 746,
+    "comments": 575,
+    "id": 50063427,
+    "discussion_url": "https://news.ycombinator.com/item?id=50063427",
+    "description": "AI is a tool and using it well takes skill",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619457"
+  },
+  {
+    "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+    "url": "https://github.com/android/ndk/issues/2260",
+    "author": "tharen",
+    "date": "2026-10-14",
+    "score": 424,
+    "comments": 204,
+    "id": 50083130,
+    "discussion_url": "https://news.ycombinator.com/item?id=50083130",
+    "description": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619403"
+  },
+  {
+    "title": "AlphaNIST",
+    "url": "https://alpha-nist.github.io/",
+    "author": "jasonjmcghee",
+    "date": "2026-10-13",
+    "score": 87,
+    "comments": 30,
+    "id": 50079464,
+    "discussion_url": "https://news.ycombinator.com/item?id=50079464",
+    "description": "AlphaNIST",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619499"
+  },
+  {
+    "title": "Amazon pushes up prices across the Internet",
+    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+    "author": "sighborg",
+    "date": "2026-10-14",
+    "score": 383,
+    "comments": 379,
+    "id": 50084757,
+    "discussion_url": "https://news.ycombinator.com/item?id=50084757",
+    "description": "Amazon pushes up prices across the Internet",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619342"
+  },
+  {
+    "title": "Apple HomeView",
+    "url": "https://www.apple.com/apple-homeview/",
+    "author": "etothet",
+    "date": "2026-10-13",
+    "score": 742,
+    "comments": 872,
+    "id": 50071017,
+    "discussion_url": "https://news.ycombinator.com/item?id=50071017",
+    "description": "Apple HomeView",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619491"
+  },
+  {
+    "title": "Felix Rieseberg Homepage",
+    "url": "https://felixrieseberg.com/",
+    "author": "rglover",
+    "date": "2026-10-14",
+    "score": 252,
+    "comments": 95,
+    "id": 50082470,
+    "discussion_url": "https://news.ycombinator.com/item?id=50082470",
+    "description": "Felix Rieseberg Homepage",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619417"
+  },
+  {
+    "title": "Firefox Enterprise",
+    "url": "https://www.firefox.com/en-US/enterprise/",
+    "author": "recvonline",
+    "date": "2026-10-13",
+    "score": 731,
+    "comments": 312,
+    "id": 50070302,
+    "discussion_url": "https://news.ycombinator.com/item?id=50070302",
+    "description": "Firefox Enterprise",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619542"
+  },
+  {
+    "title": "Gemini 4 Argon",
+    "url": "https://deepmind.google/models/gemini/",
+    "author": "737max",
+    "date": "2026-10-13",
+    "score": 1390,
+    "comments": 994,
+    "id": 50073879,
+    "discussion_url": "https://news.ycombinator.com/item?id=50073879",
+    "description": "Gemini 4 Argon",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619421"
+  },
+  {
+    "title": "Hiking the world in search of rare cheeses",
+    "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+    "author": "tosh",
+    "date": "2026-10-12",
+    "score": 101,
+    "comments": 39,
+    "id": 50059542,
+    "discussion_url": "https://news.ycombinator.com/item?id=50059542",
+    "description": "Hiking the world in search of rare cheeses",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619531"
+  },
+  {
+    "title": "How to engineer an AI harness for game development",
+    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+    "author": "kkukshtel",
+    "date": "2026-10-13",
+    "score": 160,
+    "comments": 82,
+    "id": 50072120,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072120",
+    "description": "How to engineer an AI harness for game development",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619545"
+  },
+  {
+    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "url": "https://typeof.net/Iosevka/",
+    "author": "otobrglez",
+    "date": "2026-10-14",
+    "score": 443,
+    "comments": 172,
+    "id": 50084240,
+    "discussion_url": "https://news.ycombinator.com/item?id=50084240",
+    "description": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619316"
+  },
+  {
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "author": "thm",
+    "date": "2026-10-12",
+    "score": 761,
+    "comments": 481,
+    "id": 50054092,
+    "discussion_url": "https://news.ycombinator.com/item?id=50054092",
+    "description": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619450"
+  },
+  {
+    "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+    "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+    "author": "zdw",
+    "date": "2026-10-12",
+    "score": 257,
+    "comments": 53,
+    "id": 50061659,
+    "discussion_url": "https://news.ycombinator.com/item?id=50061659",
+    "description": "MIT class project turns into an FDA-cleared treatment for tremors",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619442"
+  },
+  {
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "author": "forthwall",
+    "date": "2026-10-13",
+    "score": 620,
+    "comments": 518,
+    "id": 50078141,
+    "discussion_url": "https://news.ycombinator.com/item?id=50078141",
+    "description": "OpenAI engineer arrested in bugging of executive conference room",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619502"
+  },
+  {
+    "title": "Passkeys Are Not a Trap",
+    "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+    "author": "speckx",
+    "date": "2026-10-14",
+    "score": 113,
+    "comments": 95,
+    "id": 50088935,
+    "discussion_url": "https://news.ycombinator.com/item?id=50088935",
+    "description": "Passkeys Are Not a Trap",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619333"
+  },
+  {
+    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+    "url": "https://github.com/timescale/pg_vectorsearch",
+    "author": "jascha_eng",
+    "date": "2026-10-14",
+    "score": 102,
+    "comments": 33,
+    "id": 50086165,
+    "discussion_url": "https://news.ycombinator.com/item?id=50086165",
+    "description": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619387"
+  },
+  {
+    "title": "Recreational Programming",
+    "url": "https://www.cphiri.dev/presentations/recreational-programming",
+    "author": "jslakro",
+    "date": "2026-10-13",
+    "score": 272,
+    "comments": 115,
+    "id": 50079865,
+    "discussion_url": "https://news.ycombinator.com/item?id=50079865",
+    "description": "Recreational Programming",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619337"
+  },
+  {
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "author": "Philpax",
+    "date": "2026-10-13",
+    "score": 837,
+    "comments": 908,
+    "id": 50073633,
+    "discussion_url": "https://news.ycombinator.com/item?id=50073633",
+    "description": "Redesigning source control at Anthropic",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619471"
+  },
+  {
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "url": "https://guitoro.com/",
+    "author": "talccc",
+    "date": "2026-10-13",
+    "score": 523,
+    "comments": 145,
+    "id": 50077020,
+    "discussion_url": "https://news.ycombinator.com/item?id=50077020",
+    "description": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619370"
+  },
+  {
+    "title": "Show HN: How random are you?",
+    "url": "https://lab.specr.net/rigged-draw/",
+    "author": "vunderba",
+    "date": "2026-10-13",
+    "score": 198,
+    "comments": 100,
+    "id": 50074909,
+    "discussion_url": "https://news.ycombinator.com/item?id=50074909",
+    "description": "Show HN: How random are you?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619446"
+  },
+  {
+    "title": "Sound – Bartosz Ciechanowski (2022)",
+    "url": "https://ciechanow.ski/sound/",
+    "author": "dverlaeckt80",
+    "date": "2026-10-11",
+    "score": 226,
+    "comments": 24,
+    "id": 50045147,
+    "discussion_url": "https://news.ycombinator.com/item?id=50045147",
+    "description": "Sound – Bartosz Ciechanowski (2022)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619378"
+  },
+  {
+    "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+    "url": "https://strafe.chat/",
+    "author": "brydencalaway",
+    "date": "2026-10-14",
+    "score": 87,
+    "comments": 69,
+    "id": 50082021,
+    "discussion_url": "https://news.ycombinator.com/item?id=50082021",
+    "description": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619528"
+  },
+  {
+    "title": "Switzerland proposes banning profiling-based ads to minors",
+    "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+    "author": "wuemeli",
+    "date": "2026-10-14",
+    "score": 216,
+    "comments": 133,
+    "id": 50087328,
+    "discussion_url": "https://news.ycombinator.com/item?id=50087328",
+    "description": "Switzerland proposes banning profiling-based ads to minors",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619495"
+  },
+  {
+    "title": "TV4 postpones show after AI agent erases edited material",
+    "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+    "author": "tobr",
+    "date": "2026-10-14",
+    "score": 85,
+    "comments": 51,
+    "id": 50085323,
+    "discussion_url": "https://news.ycombinator.com/item?id=50085323",
+    "description": "TV4 postpones show after AI agent erases edited material",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619383"
+  },
+  {
+    "title": "The Origin Story of Kid Pix",
+    "url": "http://red-green-blue.com/kid-pix-the-early-years",
+    "author": "MBCook",
+    "date": "2026-10-12",
+    "score": 102,
+    "comments": 20,
+    "id": 50064673,
+    "discussion_url": "https://news.ycombinator.com/item?id=50064673",
+    "description": "The Origin Story of Kid Pix",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619346"
+  },
+  {
+    "title": "The United Kingdom generates less electricity per person than in the 1970s",
+    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+    "author": "karakoram",
+    "date": "2026-10-13",
+    "score": 386,
+    "comments": 635,
+    "id": 50072994,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072994",
+    "description": "The United Kingdom generates less electricity per person than in the 1970s",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619438"
+  },
+  {
+    "title": "Thunderbird for iOS",
+    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "author": "mjorgers",
+    "date": "2026-10-13",
+    "score": 452,
+    "comments": 197,
+    "id": 50072913,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072913",
+    "description": "Thunderbird for iOS",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619520"
+  },
+  {
+    "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+    "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+    "author": "hacb",
+    "date": "2026-10-14",
+    "score": 100,
+    "comments": 100,
+    "id": 50084838,
+    "discussion_url": "https://news.ycombinator.com/item?id=50084838",
+    "description": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-14T15:44:16.619414"
+  }
+]
