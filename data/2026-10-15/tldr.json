@@ -1,0 +1,502 @@
+[
+  {
+    "title": "A Series of Unauthenticated Events: Chained Exploitation of Ivanti Connect Secure Zero-Days",
+    "url": "https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days",
+    "description": "A Series of Unauthenticated Events: Chained Exploitation of Ivanti Connect Secure Zero-Days",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A UAF turned RCE",
+    "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce",
+    "description": "A UAF turned RCE",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A proposal for better informing the public about loss-of-control risks from frontier AI development",
+    "url": "https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks",
+    "description": "A proposal for better informing the public about loss-of-control risks from frontier AI development",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI models may be capable of self-replicating without access to a datacenter \\ Anthropic",
+    "url": "https://www.anthropic.com/research/self-replicating-ai",
+    "description": "AI models may be capable of self-replicating without access to a datacenter \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Accelerating Scientific Research in Health Data Science With Muse Models | Meta AI Research",
+    "url": "https://go.meta.me/3U06wvD",
+    "description": "Accelerating Scientific Research in Health Data Science With Muse Models | Meta AI Research",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+    "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+    "description": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+    "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+    "description": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apertus 1.5: Expanding Open Multimodal Reasoners",
+    "url": "https://arxiv.org/abs/2610.15542",
+    "description": "Apertus 1.5: Expanding Open Multimodal Reasoners",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple Introduces HomeView, Updates Apple TV 4K and HomePod mini with Siri AI",
+    "url": "https://eshumarneedi.com/2026/10/14/apple-introduces-homeview-updates-apple.html",
+    "description": "Apple Introduces HomeView, Updates Apple TV 4K and HomePod mini with Siri AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Artificial Analysis Decision Index v1.0 | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-decision-index",
+    "description": "Artificial Analysis Decision Index v1.0 | Artificial Analysis",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
+    "url": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+    "description": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Better HTTP/1 connection reuse",
+    "url": "https://go.dev/blog/http-connection-reuse",
+    "description": "Better HTTP/1 connection reuse",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+    "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset",
+    "description": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+    "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
+    "description": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Cloudflare Brings the Deno Team In to Make Self-Hosted Workers Practical",
+    "url": "https://devops.com/cloudflare-brings-the-deno-team-in-to-make-self-hosted-workers-practical",
+    "description": "Cloudflare Brings the Deno Team In to Make Self-Hosted Workers Practical",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware - The Citizen Lab",
+    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware",
+    "description": "Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware - The Citizen Lab",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Figma announces new features to define how agents work on its platform",
+    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+    "description": "Figma announces new features to define how agents work on its platform",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Gemini 4 Argon available on Google Cloud",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?e=48754805",
+    "description": "Gemini 4 Argon available on Google Cloud",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "GlobalFoundries to build and operate two new chip fabs in NY as part of $21bn US-Japan deal",
+    "url": "https://www.datacenterdynamics.com/en/news/globalfoundries-to-build-and-operate-two-new-chip-fabs-in-ny-as-part-of-21bn-us-japan-deal",
+    "description": "GlobalFoundries to build and operate two new chip fabs in NY as part of $21bn US-Japan deal",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
+    "url": "https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d",
+    "description": "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to use a ChatGPT Dot when it rolls out to you",
+    "url": "https://www.engadget.com/2281998/how-to-use-opeai-dot-rollout-schedule",
+    "description": "How to use a ChatGPT Dot when it rolls out to you",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Inference has no yardstick",
+    "url": "https://ciphertalk.substack.com/p/inference-has-no-yardstick",
+    "description": "Inference has no yardstick",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Grok Voice 3.0 | SpaceXSI",
+    "url": "https://x.ai/news/grok-voice-3",
+    "description": "Introducing Grok Voice 3.0 | SpaceXSI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog | Liquid AI",
+    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "description": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog | Liquid AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Linus Torvalds's first LLM-assisted patch series",
+    "url": "https://lwn.net/Articles/1100449",
+    "description": "Linus Torvalds's first LLM-assisted patch series",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Mastercard and BVNK launch Global Money Platform for fiat and stablecoins",
+    "url": "https://cryptobriefing.com/mastercard-bvnk-global-money-platform-stablecoins",
+    "description": "Mastercard and BVNK launch Global Money Platform for fiat and stablecoins",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta says its new Muse model has reached the AI frontier",
+    "url": "https://thenextweb.com/news/meta-muse-wonder-frontier-eu",
+    "description": "Meta says its new Muse model has reached the AI frontier",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic",
+    "url": "https://thetechportal.com/2026/10/13/meta-ships-muse-wonder-its-first-frontier-models-to-take-on-openai-anthropic",
+    "description": "Meta ships ‘Muse Wonder’, its first frontier models to take on OpenAI, Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft debuts multichiplet Maia 300 inference accelerator",
+    "url": "https://siliconangle.com/2026/10/12/microsoft-debuts-multichiplet-maia-300-inference-accelerator",
+    "description": "Microsoft debuts multichiplet Maia 300 inference accelerator",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Modal crosses $1B in Annualized Run Rate and raises $750M Series D",
+    "url": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+    "description": "Modal crosses $1B in Annualized Run Rate and raises $750M Series D",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Muse Wonder | Meta AI Research",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "description": "Muse Wonder | Meta AI Research",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Muse Wonder: Zuckerberg and Wang's $100B AI",
+    "url": "https://cheekypint.substack.com/p/muse-wonder-zuckerberg-and-wangs",
+    "description": "Muse Wonder: Zuckerberg and Wang's $100B AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "NousResearch/hermes-agent: Release Hermes Agent v0.22.0",
+    "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0",
+    "description": "NousResearch/hermes-agent: Release Hermes Agent v0.22.0",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nvidia plans $2B in European AI deals in the next week",
+    "url": "https://thenextweb.com/news/nvidia-huang-europe-2-billion",
+    "description": "Nvidia plans $2B in European AI deals in the next week",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI employee accused of planting recording device in office",
+    "url": "https://www.cbsnews.com/news/openai-employee-arrest-recording-device",
+    "description": "OpenAI employee accused of planting recording device in office",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Physical Intelligence launches Pi API beta with π0 and π0.5 (*)",
+    "url": "https://physicalintelligence.company/blog/api-beta",
+    "description": "Physical Intelligence launches Pi API beta with π0 and π0.5 (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Prime Intellect acquires Moondream to speed inference (*)",
+    "url": "https://www.primeintellect.ai/blog/moondream",
+    "description": "Prime Intellect acquires Moondream to speed inference (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Redesigning source control at Anthropic \\ Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "description": "Redesigning source control at Anthropic \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Reliable GPU compute for large training & inference jobs",
+    "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss-c3aeaf49d8a4------2",
+    "description": "Reliable GPU compute for large training & inference jobs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+    "url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it",
+    "description": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an \"AI first\" production model with \"no more hand-written code\"",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTgyOTQ5NCwiZXhwIjoxNzkyNDM0Mjk0LCJhcnRpY2xlSWQiOiJUTVQ0SDVSS1YyVEQwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.rC824FbXuutjticK4TKijZtWW-ewDWvg6AIoVnPo5IA",
+    "description": "Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an \"AI first\" production model with \"no more hand-written code\"",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Steering AI Beyond Automation",
+    "url": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+    "description": "Steering AI Beyond Automation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "StepFun Releases Open Weights for Step 5 Preview, Publishes Technical Blog on Its Architecture",
+    "url": "https://pandaily.com/stepfun-step-5-preview-open-weights-technical-blog-92-layer-sparse-gqa",
+    "description": "StepFun Releases Open Weights for Step 5 Preview, Publishes Technical Blog on Its Architecture",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sudden Starlink Restrictions Hamper Ukraine Just as Russia Escalates",
+    "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+    "description": "Sudden Starlink Restrictions Hamper Ukraine Just as Russia Escalates",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Welcome to the era of embodied AI: Introducing AA-Robotics v0.1 | Artificial Analysis",
+    "url": "https://artificialanalysis.ai/articles/aa-robotics",
+    "description": "Welcome to the era of embodied AI: Introducing AA-Robotics v0.1 | Artificial Analysis",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+    "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets",
+    "description": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Z.ai’s GLM-5.3 raises researcher fears the Chinese model can fake AI safety tests",
+    "url": "https://www.scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests",
+    "description": "Z.ai’s GLM-5.3 raises researcher fears the Chinese model can fake AI safety tests",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Zero to Calc in Six Days: Inside XBOW’s Chrome Full Chain | XBOW Labs",
+    "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
+    "description": "Zero to Calc in Six Days: Inside XBOW’s Chrome Full Chain | XBOW Labs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "curl 8.23.0 Released",
+    "url": "https://daniel.haxx.se/blog/2026/10/14/curl-8-23-0",
+    "description": "curl 8.23.0 Released",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "rust-lang/rust: Lifetime requirements bypassed via covariant field assignment (#164250)",
+    "url": "https://github.com/rust-lang/rust/issues/164250",
+    "description": "rust-lang/rust: Lifetime requirements bypassed via covariant field assignment (#164250)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  }
+]
