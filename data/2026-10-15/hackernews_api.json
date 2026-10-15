@@ -1,45 +1,45 @@
 [
   {
-    "title": "Americans' social activity has steeply declined in the past 30 years",
-    "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-    "author": "hubraumhugo",
-    "date": "2026-10-14",
-    "score": 512,
-    "comments": 484,
-    "id": 50089921,
-    "discussion_url": "https://news.ycombinator.com/item?id=50089921",
-    "description": "Americans' social activity has steeply declined in the past 30 years",
+    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "author": "jcomp",
+    "date": "2026-10-15",
+    "score": 330,
+    "comments": 482,
+    "id": 50101813,
+    "discussion_url": "https://news.ycombinator.com/item?id=50101813",
+    "description": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216908"
+    "fetched_at": "2026-10-15T21:58:02.653359"
   },
   {
-    "title": "Better HTTP/1 connection reuse in Go 1.27",
-    "url": "https://go.dev/blog/http-connection-reuse",
-    "author": "allddd",
-    "date": "2026-10-14",
-    "score": 289,
-    "comments": 46,
-    "id": 50090369,
-    "discussion_url": "https://news.ycombinator.com/item?id=50090369",
-    "description": "Better HTTP/1 connection reuse in Go 1.27",
+    "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+    "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+    "author": "ibobev",
+    "date": "2026-10-15",
+    "score": 116,
+    "comments": 110,
+    "id": 50103164,
+    "discussion_url": "https://news.ycombinator.com/item?id=50103164",
+    "description": "C++26 Contracts: Introduction to Preconditions and Postconditions",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216949"
+    "fetched_at": "2026-10-15T21:58:02.653425"
   },
   {
     "title": "Catch a Bird – I made it for my own sanity",
     "url": "https://catchabird.com",
     "author": "eduardsik",
     "date": "2026-10-12",
-    "score": 320,
-    "comments": 94,
+    "score": 373,
+    "comments": 108,
     "id": 50053384,
     "discussion_url": "https://news.ycombinator.com/item?id=50053384",
     "description": "Catch a Bird – I made it for my own sanity",
@@ -48,32 +48,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216823"
+    "fetched_at": "2026-10-15T21:58:02.653501"
   },
   {
-    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "author": "latexr",
-    "date": "2026-10-14",
-    "score": 930,
-    "comments": 583,
-    "id": 50091788,
-    "discussion_url": "https://news.ycombinator.com/item?id=50091788",
-    "description": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "title": "Celebrating 70 Years of Fortran",
+    "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "author": "rbanffy",
+    "date": "2026-10-15",
+    "score": 187,
+    "comments": 82,
+    "id": 50104726,
+    "discussion_url": "https://news.ycombinator.com/item?id=50104726",
+    "description": "Celebrating 70 Years of Fortran",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216973"
+    "fetched_at": "2026-10-15T21:58:02.653412"
+  },
+  {
+    "title": "Delta’s Biscoff cookies were supposed to be temporary",
+    "url": "https://www.seriouseats.com/biscoff-history-12168161",
+    "author": "mhb",
+    "date": "2026-10-13",
+    "score": 138,
+    "comments": 126,
+    "id": 50080155,
+    "discussion_url": "https://news.ycombinator.com/item?id=50080155",
+    "description": "Delta’s Biscoff cookies were supposed to be temporary",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653408"
   },
   {
     "title": "Do dentists know what they're doing?",
     "url": "https://mapwriting.substack.com/p/dentists",
     "author": "doitLP",
     "date": "2026-10-12",
-    "score": 880,
-    "comments": 627,
+    "score": 948,
+    "comments": 678,
     "id": 50050553,
     "discussion_url": "https://news.ycombinator.com/item?id=50050553",
     "description": "Do dentists know what they're doing?",
@@ -82,134 +99,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216898"
+    "fetched_at": "2026-10-15T21:58:02.653579"
   },
   {
-    "title": "Fancy Curl Sites",
-    "url": "https://nytpu.com/gemlog/2026-03-18",
-    "author": "adunk",
-    "date": "2026-10-14",
-    "score": 137,
-    "comments": 25,
-    "id": 50093612,
-    "discussion_url": "https://news.ycombinator.com/item?id=50093612",
-    "description": "Fancy Curl Sites",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.217007"
-  },
-  {
-    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-    "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-    "author": "ilamont",
-    "date": "2026-10-14",
-    "score": 376,
-    "comments": 262,
-    "id": 50092730,
-    "discussion_url": "https://news.ycombinator.com/item?id=50092730",
-    "description": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.217009"
-  },
-  {
-    "title": "Google is silently linking your phone number across all signed-in accounts",
-    "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-    "author": "Brajeshwar",
-    "date": "2026-10-14",
-    "score": 495,
-    "comments": 140,
-    "id": 50090349,
-    "discussion_url": "https://news.ycombinator.com/item?id=50090349",
-    "description": "Google is silently linking your phone number across all signed-in accounts",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.217024"
-  },
-  {
-    "title": "Has AI tells",
-    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-    "author": "7777777phil",
-    "date": "2026-10-14",
-    "score": 130,
-    "comments": 111,
-    "id": 50090799,
-    "discussion_url": "https://news.ycombinator.com/item?id=50090799",
-    "description": "Has AI tells",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216979"
-  },
-  {
-    "title": "How Amazon pushes up prices all across the Internet",
-    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-    "author": "sighborg",
-    "date": "2026-10-14",
-    "score": 908,
-    "comments": 700,
-    "id": 50084757,
-    "discussion_url": "https://news.ycombinator.com/item?id=50084757",
-    "description": "How Amazon pushes up prices all across the Internet",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216957"
-  },
-  {
-    "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-    "url": "https://typeof.net/Iosevka/",
-    "author": "otobrglez",
-    "date": "2026-10-14",
-    "score": 730,
-    "comments": 299,
-    "id": 50084240,
-    "discussion_url": "https://news.ycombinator.com/item?id=50084240",
-    "description": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.217021"
-  },
-  {
-    "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
-    "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
-    "author": "chunkyslink",
+    "title": "E Ink Kaleido 4",
+    "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+    "author": "Perroboc",
     "date": "2026-10-15",
-    "score": 343,
-    "comments": 165,
-    "id": 50103000,
-    "discussion_url": "https://news.ycombinator.com/item?id=50103000",
-    "description": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+    "score": 89,
+    "comments": 50,
+    "id": 50108229,
+    "discussion_url": "https://news.ycombinator.com/item?id=50108229",
+    "description": "E Ink Kaleido 4",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216991"
+    "fetched_at": "2026-10-15T21:58:02.653297"
+  },
+  {
+    "title": "I know why the mathematicians weep",
+    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "author": "RickJWagner",
+    "date": "2026-10-15",
+    "score": 320,
+    "comments": 518,
+    "id": 50103630,
+    "discussion_url": "https://news.ycombinator.com/item?id=50103630",
+    "description": "I know why the mathematicians weep",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653433"
   },
   {
     "title": "It took me nine years to hack my Xbox 360",
     "url": "https://kennedn.com/blog/posts/glitching/",
     "author": "kennedn",
     "date": "2026-10-13",
-    "score": 146,
-    "comments": 41,
+    "score": 164,
+    "comments": 47,
     "id": 50070661,
     "discussion_url": "https://news.ycombinator.com/item?id=50070661",
     "description": "It took me nine years to hack my Xbox 360",
@@ -218,15 +150,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216923"
+    "fetched_at": "2026-10-15T21:58:02.653548"
+  },
+  {
+    "title": "Jev meets the Trolley Problem",
+    "url": "https://zachlandes.com/trolley-problem/",
+    "author": "zlandes86",
+    "date": "2026-10-15",
+    "score": 199,
+    "comments": 93,
+    "id": 50106023,
+    "discussion_url": "https://news.ycombinator.com/item?id=50106023",
+    "description": "Jev meets the Trolley Problem",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653389"
+  },
+  {
+    "title": "Krea 3 – An image model built for editing at scale",
+    "url": "https://www.krea.ai/krea-3",
+    "author": "dvrp",
+    "date": "2026-10-15",
+    "score": 213,
+    "comments": 73,
+    "id": 50105648,
+    "discussion_url": "https://news.ycombinator.com/item?id=50105648",
+    "description": "Krea 3 – An image model built for editing at scale",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653323"
   },
   {
     "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
     "author": "gmays",
     "date": "2026-10-14",
-    "score": 262,
-    "comments": 70,
+    "score": 279,
+    "comments": 73,
     "id": 50097369,
     "discussion_url": "https://news.ycombinator.com/item?id=50097369",
     "description": "LFM2.5-24B-A2B: Built for fast on-device agents",
@@ -235,15 +201,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216916"
+    "fetched_at": "2026-10-15T21:58:02.653524"
   },
   {
     "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
     "url": "https://libreboot.org/news/libreboot2610.html",
     "author": "iamnothere",
     "date": "2026-10-15",
-    "score": 137,
-    "comments": 60,
+    "score": 235,
+    "comments": 136,
     "id": 50102923,
     "discussion_url": "https://news.ycombinator.com/item?id=50102923",
     "description": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
@@ -252,15 +218,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216895"
+    "fetched_at": "2026-10-15T21:58:02.653447"
+  },
+  {
+    "title": "More on Anthropic's Scion ripping off Mononoke",
+    "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+    "author": "sunshowers",
+    "date": "2026-10-15",
+    "score": 210,
+    "comments": 64,
+    "id": 50106738,
+    "discussion_url": "https://news.ycombinator.com/item?id=50106738",
+    "description": "More on Anthropic's Scion ripping off Mononoke",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653468"
+  },
+  {
+    "title": "Muse Spark Open",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "author": "bigwheels",
+    "date": "2026-10-15",
+    "score": 494,
+    "comments": 288,
+    "id": 50107379,
+    "discussion_url": "https://news.ycombinator.com/item?id=50107379",
+    "description": "Muse Spark Open",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653268"
+  },
+  {
+    "title": "Neural networks are clean",
+    "url": "https://already-clean.goodfire.com/",
+    "author": "themgt",
+    "date": "2026-10-15",
+    "score": 396,
+    "comments": 138,
+    "id": 50105647,
+    "discussion_url": "https://news.ycombinator.com/item?id=50105647",
+    "description": "Neural networks are clean",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653288"
+  },
+  {
+    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+    "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+    "author": "johnbehnke",
+    "date": "2026-10-15",
+    "score": 86,
+    "comments": 67,
+    "id": 50109375,
+    "discussion_url": "https://news.ycombinator.com/item?id=50109375",
+    "description": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653293"
   },
   {
     "title": "OpenCode 2.0",
     "url": "https://anoma.ly/notes/opencode-2-0/",
     "author": "gmays",
     "date": "2026-10-14",
-    "score": 773,
-    "comments": 329,
+    "score": 848,
+    "comments": 370,
     "id": 50094994,
     "discussion_url": "https://news.ycombinator.com/item?id=50094994",
     "description": "OpenCode 2.0",
@@ -269,83 +303,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216873"
+    "fetched_at": "2026-10-15T21:58:02.653552"
   },
   {
-    "title": "Passkeys are not a trap",
-    "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-    "author": "speckx",
-    "date": "2026-10-14",
-    "score": 624,
-    "comments": 763,
-    "id": 50088935,
-    "discussion_url": "https://news.ycombinator.com/item?id=50088935",
-    "description": "Passkeys are not a trap",
+    "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
+    "url": "https://github.com/andunieee/flipflop",
+    "author": "andunie",
+    "date": "2026-10-15",
+    "score": 96,
+    "comments": 54,
+    "id": 50099136,
+    "discussion_url": "https://news.ycombinator.com/item?id=50099136",
+    "description": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216995"
+    "fetched_at": "2026-10-15T21:58:02.653302"
   },
   {
-    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-    "url": "https://github.com/timescale/pg_vectorsearch",
-    "author": "jascha_eng",
-    "date": "2026-10-14",
-    "score": 206,
-    "comments": 52,
-    "id": 50086165,
-    "discussion_url": "https://news.ycombinator.com/item?id=50086165",
-    "description": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.217015"
-  },
-  {
-    "title": "Phloem: Git history grown like a slime mold",
-    "url": "https://phloem.stemdeck.app/",
-    "author": "thclpr",
+    "title": "Show HN: Indigene – Native plants for where you stand",
+    "url": "https://indigene.app/",
+    "author": "olivierlacan",
     "date": "2026-10-12",
-    "score": 123,
-    "comments": 22,
-    "id": 50054465,
-    "discussion_url": "https://news.ycombinator.com/item?id=50054465",
-    "description": "Phloem: Git history grown like a slime mold",
+    "score": 105,
+    "comments": 26,
+    "id": 50064470,
+    "discussion_url": "https://news.ycombinator.com/item?id=50064470",
+    "description": "Show HN: Indigene – Native plants for where you stand",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216986"
-  },
-  {
-    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "url": "https://petal.live/",
-    "author": "thedracle",
-    "date": "2026-10-14",
-    "score": 202,
-    "comments": 39,
-    "id": 50092470,
-    "discussion_url": "https://news.ycombinator.com/item?id=50092470",
-    "description": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216964"
+    "fetched_at": "2026-10-15T21:58:02.653536"
   },
   {
     "title": "Show HN: Unfenced – Land for sale that borders public land",
     "url": "https://unfenced.land/",
     "author": "otherwatersflow",
     "date": "2026-10-15",
-    "score": 132,
-    "comments": 85,
+    "score": 235,
+    "comments": 160,
     "id": 50102247,
     "discussion_url": "https://news.ycombinator.com/item?id=50102247",
     "description": "Show HN: Unfenced – Land for sale that borders public land",
@@ -354,32 +354,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216828"
+    "fetched_at": "2026-10-15T21:58:02.653429"
   },
   {
-    "title": "Submarine cable resilience",
-    "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-    "author": "speckx",
-    "date": "2026-10-14",
-    "score": 164,
-    "comments": 73,
-    "id": 50089229,
-    "discussion_url": "https://news.ycombinator.com/item?id=50089229",
-    "description": "Submarine cable resilience",
+    "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "author": "aaraujo002",
+    "date": "2026-10-15",
+    "score": 206,
+    "comments": 173,
+    "id": 50104654,
+    "discussion_url": "https://news.ycombinator.com/item?id=50104654",
+    "description": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.217004"
+    "fetched_at": "2026-10-15T21:58:02.653463"
+  },
+  {
+    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+    "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+    "author": "speckx",
+    "date": "2026-10-15",
+    "score": 100,
+    "comments": 46,
+    "id": 50108872,
+    "discussion_url": "https://news.ycombinator.com/item?id=50108872",
+    "description": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653381"
+  },
+  {
+    "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+    "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+    "author": "starkparker",
+    "date": "2026-10-15",
+    "score": 235,
+    "comments": 246,
+    "id": 50105635,
+    "discussion_url": "https://news.ycombinator.com/item?id=50105635",
+    "description": "Steam Client is now faster than Epic's new vibe coded launcher",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653372"
+  },
+  {
+    "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+    "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+    "author": "maxall4",
+    "date": "2026-10-12",
+    "score": 100,
+    "comments": 46,
+    "id": 50060547,
+    "discussion_url": "https://news.ycombinator.com/item?id=50060547",
+    "description": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-15T21:58:02.653540"
   },
   {
     "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
     "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
     "author": "bookofjoe",
     "date": "2026-10-13",
-    "score": 93,
-    "comments": 37,
+    "score": 140,
+    "comments": 50,
     "id": 50079701,
     "discussion_url": "https://news.ycombinator.com/item?id=50079701",
     "description": "The First Social Network: In rural Argentina residents send messages w AM radio",
@@ -388,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216858"
+    "fetched_at": "2026-10-15T21:58:02.653484"
   },
   {
     "title": "Things to know when you get cancer",
     "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
     "author": "jjmaxwell4",
     "date": "2026-10-14",
-    "score": 1731,
-    "comments": 411,
+    "score": 1840,
+    "comments": 442,
     "id": 50093568,
     "discussion_url": "https://news.ycombinator.com/item?id=50093568",
     "description": "Things to know when you get cancer",
@@ -405,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216840"
+    "fetched_at": "2026-10-15T21:58:02.653488"
   },
   {
     "title": "Tiny Little Office",
     "url": "https://tinylittleoffice.com/",
     "author": "donohoe",
     "date": "2026-10-14",
-    "score": 578,
-    "comments": 142,
+    "score": 654,
+    "comments": 186,
     "id": 50096142,
     "discussion_url": "https://news.ycombinator.com/item?id=50096142",
     "description": "Tiny Little Office",
@@ -422,32 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216865"
-  },
-  {
-    "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-    "url": "https://oxide.computer/blog/voxel-labs",
-    "author": "tosh",
-    "date": "2026-10-14",
-    "score": 137,
-    "comments": 13,
-    "id": 50092423,
-    "discussion_url": "https://news.ycombinator.com/item?id=50092423",
-    "description": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216998"
+    "fetched_at": "2026-10-15T21:58:02.653568"
   },
   {
     "title": "Wanted to download an ISO, ended up writing a kernel exploit",
     "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
     "author": "0xdeafbeef",
     "date": "2026-10-13",
-    "score": 248,
-    "comments": 128,
+    "score": 331,
+    "comments": 163,
     "id": 50070625,
     "discussion_url": "https://news.ycombinator.com/item?id=50070625",
     "description": "Wanted to download an ISO, ended up writing a kernel exploit",
@@ -456,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216853"
+    "fetched_at": "2026-10-15T21:58:02.653395"
   },
   {
     "title": "Wayland desktop for Linux with skeuomorphic design",
     "url": "https://github.com/fyzugx/DEsk",
     "author": "FinalDestiny",
     "date": "2026-10-15",
-    "score": 123,
-    "comments": 33,
+    "score": 438,
+    "comments": 176,
     "id": 50103338,
     "discussion_url": "https://news.ycombinator.com/item?id=50103338",
     "description": "Wayland desktop for Linux with skeuomorphic design",
@@ -473,40 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216812"
-  },
-  {
-    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-    "url": "https://typesafe.ai/blog/jev-1-14",
-    "author": "emschwartz",
-    "date": "2026-10-14",
-    "score": 319,
-    "comments": 113,
-    "id": 50095353,
-    "discussion_url": "https://news.ycombinator.com/item?id=50095353",
-    "description": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216982"
-  },
-  {
-    "title": "Your C is not standard C",
-    "url": "https://sebsite.pw/w/20261012-notstdc.html",
-    "author": "dverlaeckt80",
-    "date": "2026-10-13",
-    "score": 119,
-    "comments": 85,
-    "id": 50071546,
-    "discussion_url": "https://news.ycombinator.com/item?id=50071546",
-    "description": "Your C is not standard C",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-15T15:30:38.216967"
+    "fetched_at": "2026-10-15T21:58:02.653307"
   }
 ]

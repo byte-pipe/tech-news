@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "A UAF turned RCE",
-    "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce",
-    "description": "A UAF turned RCE",
+    "title": "AA-3D Elo vs. Early Visual Inspection",
+    "url": "https://artificialanalysis.ai/articles/aa-3d",
+    "description": "AA-3D Elo vs. Early Visual Inspection",
     "tags": [
       "tldr"
     ],
@@ -20,39 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "A proposal for better informing the public about loss-of-control risks from frontier AI development",
-    "url": "https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks",
-    "description": "A proposal for better informing the public about loss-of-control risks from frontier AI development",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI models may be capable of self-replicating without access to a datacenter \\ Anthropic",
-    "url": "https://www.anthropic.com/research/self-replicating-ai",
-    "description": "AI models may be capable of self-replicating without access to a datacenter \\ Anthropic",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Accelerating Scientific Research in Health Data Science With Muse Models | Meta AI Research",
-    "url": "https://go.meta.me/3U06wvD",
-    "description": "Accelerating Scientific Research in Health Data Science With Muse Models | Meta AI Research",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-    "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
-    "description": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+    "title": "Announcing AWS Lambda Web Functions | AWS News Blog",
+    "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere",
+    "description": "Announcing AWS Lambda Web Functions | AWS News Blog",
     "tags": [
       "tldr"
     ],
@@ -70,9 +40,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apertus 1.5: Expanding Open Multimodal Reasoners",
-    "url": "https://arxiv.org/abs/2610.15542",
-    "description": "Apertus 1.5: Expanding Open Multimodal Reasoners",
+    "title": "Anthropic update on independent evaluators \\ Anthropic",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "description": "Anthropic update on independent evaluators \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
+    "description": "Anthropic warns small AI models could self-replicate through IoT devices",
     "tags": [
       "tldr"
     ],
@@ -90,6 +70,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Are Harnesses Worth the Cost?",
+    "url": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+    "description": "Are Harnesses Worth the Cost?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "Artificial Analysis Decision Index v1.0 | Artificial Analysis",
     "url": "https://artificialanalysis.ai/articles/artificial-analysis-decision-index",
     "description": "Artificial Analysis Decision Index v1.0 | Artificial Analysis",
@@ -100,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
-    "url": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
-    "description": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
+    "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing",
+    "description": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
     "tags": [
       "tldr"
     ],
@@ -110,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Better HTTP/1 connection reuse",
-    "url": "https://go.dev/blog/http-connection-reuse",
-    "description": "Better HTTP/1 connection reuse",
+    "title": "Build the agent. Don’t build its computer.",
+    "url": "https://nibzard.com/agent-computer",
+    "description": "Build the agent. Don’t build its computer.",
     "tags": [
       "tldr"
     ],
@@ -140,9 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Cloudflare Brings the Deno Team In to Make Self-Hosted Workers Practical",
-    "url": "https://devops.com/cloudflare-brings-the-deno-team-in-to-make-self-hosted-workers-practical",
-    "description": "Cloudflare Brings the Deno Team In to Make Self-Hosted Workers Practical",
+    "title": "China faces uphill battle to wean tech firms off Nvidia chips",
+    "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+    "description": "China faces uphill battle to wean tech firms off Nvidia chips",
     "tags": [
       "tldr"
     ],
@@ -160,9 +150,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Figma announces new features to define how agents work on its platform",
-    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
-    "description": "Figma announces new features to define how agents work on its platform",
+    "title": "FLUX 3 Image Klein: open weights, 5.6B parameters | Black Forest Labs",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "description": "FLUX 3 Image Klein: open weights, 5.6B parameters | Black Forest Labs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says",
+    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says",
+    "description": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Frontier Pre-training at Microsoft AI | Microsoft AI",
+    "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
+    "description": "Frontier Pre-training at Microsoft AI | Microsoft AI",
     "tags": [
       "tldr"
     ],
@@ -180,9 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "GlobalFoundries to build and operate two new chip fabs in NY as part of $21bn US-Japan deal",
-    "url": "https://www.datacenterdynamics.com/en/news/globalfoundries-to-build-and-operate-two-new-chip-fabs-in-ny-as-part-of-21bn-us-japan-deal",
-    "description": "GlobalFoundries to build and operate two new chip fabs in NY as part of $21bn US-Japan deal",
+    "title": "Google's Gemini Agent Bets on Governance and Model Choice",
+    "url": "https://creativestrategies.com/research/googles-gemini-agent-bets-on-governance-and-model-choice",
+    "description": "Google's Gemini Agent Bets on Governance and Model Choice",
     "tags": [
       "tldr"
     ],
@@ -190,29 +200,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
-    "url": "https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d",
-    "description": "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "How to use a ChatGPT Dot when it rolls out to you",
-    "url": "https://www.engadget.com/2281998/how-to-use-opeai-dot-rollout-schedule",
-    "description": "How to use a ChatGPT Dot when it rolls out to you",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Inference has no yardstick",
-    "url": "https://ciphertalk.substack.com/p/inference-has-no-yardstick",
-    "description": "Inference has no yardstick",
+    "title": "How Codex Happened",
+    "url": "https://every.to/p/how-codex-happened",
+    "description": "How Codex Happened",
     "tags": [
       "tldr"
     ],
@@ -230,6 +220,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date | Meta AI Research",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "description": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date | Meta AI Research",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
     "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog | Liquid AI",
     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
     "description": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog | Liquid AI",
@@ -240,29 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Linus Torvalds's first LLM-assisted patch series",
-    "url": "https://lwn.net/Articles/1100449",
-    "description": "Linus Torvalds's first LLM-assisted patch series",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Mastercard and BVNK launch Global Money Platform for fiat and stablecoins",
-    "url": "https://cryptobriefing.com/mastercard-bvnk-global-money-platform-stablecoins",
-    "description": "Mastercard and BVNK launch Global Money Platform for fiat and stablecoins",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta says its new Muse model has reached the AI frontier",
-    "url": "https://thenextweb.com/news/meta-muse-wonder-frontier-eu",
-    "description": "Meta says its new Muse model has reached the AI frontier",
+    "title": "Meta releases Muse Wonder AI models built to run personal and professional agents",
+    "url": "https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents",
+    "description": "Meta releases Muse Wonder AI models built to run personal and professional agents",
     "tags": [
       "tldr"
     ],
@@ -280,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft debuts multichiplet Maia 300 inference accelerator",
-    "url": "https://siliconangle.com/2026/10/12/microsoft-debuts-multichiplet-maia-300-inference-accelerator",
-    "description": "Microsoft debuts multichiplet Maia 300 inference accelerator",
+    "title": "Microsoft unveils new Maia 300 AI chip",
+    "url": "https://www.computerworld.com/article/4234722/microsoft-unveils-new-maia-300-ai-chip.html",
+    "description": "Microsoft unveils new Maia 300 AI chip",
     "tags": [
       "tldr"
     ],
@@ -290,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Modal crosses $1B in Annualized Run Rate and raises $750M Series D",
-    "url": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
-    "description": "Modal crosses $1B in Annualized Run Rate and raises $750M Series D",
+    "title": "NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB Model Release",
+    "url": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-24GB",
+    "description": "NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB Model Release",
     "tags": [
       "tldr"
     ],
@@ -300,9 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Muse Wonder | Meta AI Research",
-    "url": "https://research.meta.ai/blog/muse-wonder",
-    "description": "Muse Wonder | Meta AI Research",
+    "title": "NVIDIA Releases Nemotron 3.5 Super and Nemotron 3.5 Bolt",
+    "url": "https://artificialanalysis.ai/articles/nemotron-3-5-super-and-bolt",
+    "description": "NVIDIA Releases Nemotron 3.5 Super and Nemotron 3.5 Bolt",
     "tags": [
       "tldr"
     ],
@@ -310,9 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Muse Wonder: Zuckerberg and Wang's $100B AI",
-    "url": "https://cheekypint.substack.com/p/muse-wonder-zuckerberg-and-wangs",
-    "description": "Muse Wonder: Zuckerberg and Wang's $100B AI",
+    "title": "Neural Networks Are Already Clean",
+    "url": "https://already-clean.goodfire.com",
+    "description": "Neural Networks Are Already Clean",
     "tags": [
       "tldr"
     ],
@@ -320,9 +300,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "NousResearch/hermes-agent: Release Hermes Agent v0.22.0",
-    "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0",
-    "description": "NousResearch/hermes-agent: Release Hermes Agent v0.22.0",
+    "title": "No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development",
+    "url": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
+    "description": "No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development",
     "tags": [
       "tldr"
     ],
@@ -343,6 +323,36 @@
     "title": "OpenAI employee accused of planting recording device in office",
     "url": "https://www.cbsnews.com/news/openai-employee-arrest-recording-device",
     "description": "OpenAI employee accused of planting recording device in office",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI just changed math forever. Exactly how, no one yet knows",
+    "url": "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
+    "description": "OpenAI just changed math forever. Exactly how, no one yet knows",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
+    "description": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Perplexity Open-Sources SPACE Sandbox Platform for AI Agents",
+    "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+    "description": "Perplexity Open-Sources SPACE Sandbox Platform for AI Agents",
     "tags": [
       "tldr"
     ],
@@ -380,9 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Reliable GPU compute for large training & inference jobs",
-    "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss-c3aeaf49d8a4------2",
-    "description": "Reliable GPU compute for large training & inference jobs",
+    "title": "Rewinding the exponential: How we keep hardware usage down",
+    "url": "https://blog.cloudflare.com/rewinding-the-exponential",
+    "description": "Rewinding the exponential: How we keep hardware usage down",
     "tags": [
       "tldr"
     ],
@@ -390,9 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
-    "url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it",
-    "description": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+    "title": "Rogue A.I. Agents from China Chatted with American Researchers",
+    "url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+    "description": "Rogue A.I. Agents from China Chatted with American Researchers",
     "tags": [
       "tldr"
     ],
@@ -400,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an \"AI first\" production model with \"no more hand-written code\"",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTgyOTQ5NCwiZXhwIjoxNzkyNDM0Mjk0LCJhcnRpY2xlSWQiOiJUTVQ0SDVSS1YyVEQwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.rC824FbXuutjticK4TKijZtWW-ewDWvg6AIoVnPo5IA",
-    "description": "Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an \"AI first\" production model with \"no more hand-written code\"",
+    "title": "Runway: Learning From Watching the World",
+    "url": "https://www.notboring.co/p/runway-learning-from-watching-the",
+    "description": "Runway: Learning From Watching the World",
     "tags": [
       "tldr"
     ],
@@ -410,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Steering AI Beyond Automation",
-    "url": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
-    "description": "Steering AI Beyond Automation",
+    "title": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
+    "url": "https://www.wired.com/story/apple-homeview-smart-display",
+    "description": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
     "tags": [
       "tldr"
     ],
@@ -420,29 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "StepFun Releases Open Weights for Step 5 Preview, Publishes Technical Blog on Its Architecture",
-    "url": "https://pandaily.com/stepfun-step-5-preview-open-weights-technical-blog-92-layer-sparse-gqa",
-    "description": "StepFun Releases Open Weights for Step 5 Preview, Publishes Technical Blog on Its Architecture",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Sudden Starlink Restrictions Hamper Ukraine Just as Russia Escalates",
-    "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
-    "description": "Sudden Starlink Restrictions Hamper Ukraine Just as Russia Escalates",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-15",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Welcome to the era of embodied AI: Introducing AA-Robotics v0.1 | Artificial Analysis",
-    "url": "https://artificialanalysis.ai/articles/aa-robotics",
-    "description": "Welcome to the era of embodied AI: Introducing AA-Robotics v0.1 | Artificial Analysis",
+    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+    "description": "Threat of AI share crash puts world financial stability at risk, says IMF",
     "tags": [
       "tldr"
     ],
@@ -480,9 +470,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "curl 8.23.0 Released",
-    "url": "https://daniel.haxx.se/blog/2026/10/14/curl-8-23-0",
-    "description": "curl 8.23.0 Released",
+    "title": "electric-sql/pglite: Embeddable Postgres in WebAssembly with real-time bindings",
+    "url": "https://github.com/electric-sql/pglite",
+    "description": "electric-sql/pglite: Embeddable Postgres in WebAssembly with real-time bindings",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-15",
+    "site_name": "tldr"
+  },
+  {
+    "title": "mistralai/timestral: Mistral AI time series foundation models",
+    "url": "https://github.com/mistralai/timestral",
+    "description": "mistralai/timestral: Mistral AI time series foundation models",
     "tags": [
       "tldr"
     ],
