@@ -1,8 +1,8 @@
 [
   {
-    "title": "A Series of Unauthenticated Events: Chained Exploitation of Ivanti Connect Secure Zero-Days",
-    "url": "https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days",
-    "description": "A Series of Unauthenticated Events: Chained Exploitation of Ivanti Connect Secure Zero-Days",
+    "title": "A look inside the $52 billion hole that CoreWeave needs to climb out of",
+    "url": "https://fortune.com/2026/10/16/coreweave-debt-leases-profit-revenue-stock",
+    "description": "A look inside the $52 billion hole that CoreWeave needs to climb out of",
     "tags": [
       "tldr"
     ],
@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Announcing Day 0 Support for NVIDIA Nemotron 3.5 Super VL on vLLM",
-    "url": "https://vllm.ai/blog/2026-10-15-nemotron-3-5-super-vl-vllm",
-    "description": "Announcing Day 0 Support for NVIDIA Nemotron 3.5 Super VL on vLLM",
+    "title": "A team of Gemini 4 Argon agents beats Minecraft",
+    "url": "https://arxiv.org/pdf/2610.22319",
+    "description": "A team of Gemini 4 Argon agents beats Minecraft",
     "tags": [
       "tldr"
     ],
@@ -20,9 +20,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
-    "description": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "title": "AI Runs Into Its Next Big Obstacle: Insurance",
+    "url": "https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556",
+    "description": "AI Runs Into Its Next Big Obstacle: Insurance",
     "tags": [
       "tldr"
     ],
@@ -30,9 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic revenue jumps to $16.8bn in third quarter",
-    "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-    "description": "Anthropic revenue jumps to $16.8bn in third quarter",
+    "title": "AI Startups Now Take 82.7% of US Venture Capital Dollars",
+    "url": "https://startupfortune.com/ai-startups-now-take-827-of-us-venture-capital-dollars",
+    "description": "AI Startups Now Take 82.7% of US Venture Capital Dollars",
     "tags": [
       "tldr"
     ],
@@ -40,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
-    "description": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+    "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+    "description": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
     "tags": [
       "tldr"
     ],
@@ -50,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple Introduces HomeView, Updates Apple TV 4K and HomePod mini with Siri AI",
-    "url": "https://eshumarneedi.com/2026/10/14/apple-introduces-homeview-updates-apple.html",
-    "description": "Apple Introduces HomeView, Updates Apple TV 4K and HomePod mini with Siri AI",
+    "title": "AI agents are going rogue—the labs’ own training choices are a big reason why",
+    "url": "https://fortune.com/2026/10/16/ai-agents-are-going-rogue-the-labs-own-training-choices-are-to-blame-reinforcement-learning",
+    "description": "AI agents are going rogue—the labs’ own training choices are a big reason why",
     "tags": [
       "tldr"
     ],
@@ -60,9 +60,79 @@
     "site_name": "tldr"
   },
   {
-    "title": "Artificial Analysis Decision Index v1.0 | Artificial Analysis",
-    "url": "https://artificialanalysis.ai/articles/artificial-analysis-decision-index",
-    "description": "Artificial Analysis Decision Index v1.0 | Artificial Analysis",
+    "title": "Agent Monetization Shift: Per-Seat Pricing Is Dying",
+    "url": "https://forkast.news/agent-monetization-shift-per-seat-pricing-is-dying",
+    "description": "Agent Monetization Shift: Per-Seat Pricing Is Dying",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agent-first IDP: how big tech and the clouds are preparing platforms for agents",
+    "url": "https://platformengineering.org/blog/agent-first-idp-how-big-tech-and-the-clouds-are-preparing-platforms-for-agents",
+    "description": "Agent-first IDP: how big tech and the clouds are preparing platforms for agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agents Beat Two Accelerator Chips in 24 Hours | Blackbox",
+    "url": "https://www.blackbox.ai/blog/gpt-oss-one-gpu-vs-custom-chips",
+    "description": "Agents Beat Two Accelerator Chips in 24 Hours | Blackbox",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Alexandr Wang, Meta’s AI wunderkind",
+    "url": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1",
+    "description": "Alexandr Wang, Meta’s AI wunderkind",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic can walk from $84.5 billion of SpaceX compute on 90 days' notice; the stock is at 103 times sales",
+    "url": "https://theinference.org/article/anthropic-can-walk-from-84-5-billion-of-spacex-compute-on-90-days-notice-the-stock-is-at-103-times-sales",
+    "description": "Anthropic can walk from $84.5 billion of SpaceX compute on 90 days' notice; the stock is at 103 times sales",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic pushes toward an IPO while CoreWeave's debt spooks Wall Street",
+    "url": "https://startupfortune.com/anthropic-pushes-toward-an-ipo-while-coreweaves-debt-spooks-wall-street",
+    "description": "Anthropic pushes toward an IPO while CoreWeave's debt spooks Wall Street",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic secured highest junk credit rating in June",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
+    "description": "Anthropic secured highest junk credit rating in June",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple iPhone Duo is already backordered until 2027",
+    "url": "https://www.techspot.com/news/114238-iphone-duo-demand-outpaces-supply-apple-pushes-orders.html",
+    "description": "Apple iPhone Duo is already backordered until 2027",
     "tags": [
       "tldr"
     ],
@@ -80,6 +150,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Beam is now available — Reflection",
+    "url": "https://reflection.ai/blog/beam-is-available?source=hn",
+    "description": "Beam is now available — Reflection",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
     "title": "Blue Origin is going all in on the New Glenn rocket",
     "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket",
     "description": "Blue Origin is going all in on the New Glenn rocket",
@@ -90,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-    "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-    "description": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+    "title": "British watchdog seeks tougher terms around Microsoft's dominance of business software",
+    "url": "https://www.theregister.com/software/2026/10/16/british-watchdog-seeks-tougher-terms-around-microsofts-dominance-of-business-software/5303520",
+    "description": "British watchdog seeks tougher terms around Microsoft's dominance of business software",
     "tags": [
       "tldr"
     ],
@@ -100,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'",
-    "url": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
-    "description": "Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'",
+    "title": "Cerebras doubles its chip's clock speed as OpenAI's fast tier runs at 300 tokens a second, down from 750",
+    "url": "https://theinference.org/article/cerebras-doubles-its-chip-s-clock-speed-as-openai-s-fast-tier-runs-at-300-tokens-a-second-down-from-750",
+    "description": "Cerebras doubles its chip's clock speed as OpenAI's fast tier runs at 300 tokens a second, down from 750",
     "tags": [
       "tldr"
     ],
@@ -110,9 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "China considers new export curbs on solar, AI, biotech",
-    "url": "https://www.thehindubusinessline.com/info-tech/china-considers-new-export-curbs-on-solar-ai-biotech/article71592158.ece",
-    "description": "China considers new export curbs on solar, AI, biotech",
+    "title": "China Imposes Temporary Export Registration Requirements for AI, Biotech and Solar Technologies, Seeks Public Comment on Proposed Export Restrictions",
+    "url": "https://www.geopolitechs.org/p/china-imposes-temporary-export-registration",
+    "description": "China Imposes Temporary Export Registration Requirements for AI, Biotech and Solar Technologies, Seeks Public Comment on Proposed Export Restrictions",
     "tags": [
       "tldr"
     ],
@@ -120,9 +200,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
-    "url": "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
-    "description": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
+    "title": "Designing more efficient quantum circuits with Claude \\ Anthropic",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "description": "Designing more efficient quantum circuits with Claude \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -130,9 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware - The Citizen Lab",
-    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware",
-    "description": "Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware - The Citizen Lab",
+    "title": "Disney to Pay $60 Million a Year for 66 Character.AI Workers as the Startup Sits in Bankruptcy",
+    "url": "https://rews.cc/a/disney-to-pay-60-million-a-year-for-66-character-ai-workers--6880ed",
+    "description": "Disney to Pay $60 Million a Year for 66 Character.AI Workers as the Startup Sits in Bankruptcy",
     "tags": [
       "tldr"
     ],
@@ -140,9 +220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
-    "url": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
-    "description": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+    "title": "Does a robot cost $2 or $35 an hour? A multitrillion-dollar market depends on how the answer",
+    "url": "https://fortune.com/2026/10/16/when-will-physical-ai-robots-pay-off",
+    "description": "Does a robot cost $2 or $35 an hour? A multitrillion-dollar market depends on how the answer",
     "tags": [
       "tldr"
     ],
@@ -150,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "FLUX 3 Image Klein: open weights, 5.6B parameters | Black Forest Labs",
-    "url": "https://bfl.ai/blog/flux-3-image-klein",
-    "description": "FLUX 3 Image Klein: open weights, 5.6B parameters | Black Forest Labs",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+    "description": "Elorian’s first AI model wants to reason with images, not just about them",
     "tags": [
       "tldr"
     ],
@@ -160,9 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Frontier Pre-training at Microsoft AI",
-    "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
-    "description": "Frontier Pre-training at Microsoft AI",
+    "title": "Google is building humanoid robots, hiring Boston Dynamics' ex-CTO for a 35,000-square-foot Massachusetts lab",
+    "url": "https://theinference.org/article/google-is-building-humanoid-robots-hiring-boston-dynamics-ex-cto-for-a-35-000-square-foot-massachusetts-lab",
+    "description": "Google is building humanoid robots, hiring Boston Dynamics' ex-CTO for a 35,000-square-foot Massachusetts lab",
     "tags": [
       "tldr"
     ],
@@ -170,9 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Gemini 4 Argon available on Google Cloud",
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?e=48754805",
-    "description": "Gemini 4 Argon available on Google Cloud",
+    "title": "Hello Toronto! Waymo is En Route",
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+    "description": "Hello Toronto! Waymo is En Route",
     "tags": [
       "tldr"
     ],
@@ -180,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-    "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
-    "description": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+    "title": "How employment is changing at Anthropic \\ Anthropic",
+    "url": "https://www.anthropic.com/research/employment-at-anthropic",
+    "description": "How employment is changing at Anthropic \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -190,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
-    "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email",
-    "description": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
+    "title": "Intel fell 5% the day TSMC's CEO offered to take its chip packaging customers",
+    "url": "https://theinference.org/article/intel-fell-5-the-day-tsmc-s-ceo-offered-to-take-its-chip-packaging-customers",
+    "description": "Intel fell 5% the day TSMC's CEO offered to take its chip packaging customers",
     "tags": [
       "tldr"
     ],
@@ -200,9 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How the Claude Code team does code review / claude.dev Blog",
-    "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-    "description": "How the Claude Code team does code review / claude.dev Blog",
+    "title": "Just How Rosy Is That Datacenter Buildout Forecast?",
+    "url": "https://www.nextplatform.com/compute/2026/10/16/just-how-rosy-is-that-datacenter-buildout-forecast/5303595",
+    "description": "Just How Rosy Is That Datacenter Buildout Forecast?",
     "tags": [
       "tldr"
     ],
@@ -210,9 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "I Know Why the Mathematicians Weep",
-    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-    "description": "I Know Why the Mathematicians Weep",
+    "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees",
+    "description": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
     "tags": [
       "tldr"
     ],
@@ -220,9 +300,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Grok Voice 3.0 | SpaceXSI",
-    "url": "https://x.ai/news/grok-voice-3",
-    "description": "Introducing Grok Voice 3.0 | SpaceXSI",
+    "title": "Nvidia, Meta and Apple Unveil New Open Models",
+    "url": "https://www.wsj.com/cio-journal/nvidia-meta-and-apple-unveil-new-open-models-501d4173",
+    "description": "Nvidia, Meta and Apple Unveil New Open Models",
     "tags": [
       "tldr"
     ],
@@ -230,9 +310,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date",
-    "url": "https://research.meta.ai/blog/muse-spark-open",
-    "description": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date",
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+    "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+    "description": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
     "tags": [
       "tldr"
     ],
@@ -240,9 +320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Keep the creepy crawlies out of you workflows: securing GitHub Actions in 2026",
-    "url": "https://jessehouwing.net/secure-github-actions-keep-the-creepy-crawlies-out-of-you-workflows",
-    "description": "Keep the creepy crawlies out of you workflows: securing GitHub Actions in 2026",
+    "title": "Open-weight models trail closed models in cyber capabilities by 6–7 months",
+    "url": "https://epoch.ai/data-insights/open-closed-cyber-eci-gap",
+    "description": "Open-weight models trail closed models in cyber capabilities by 6–7 months",
     "tags": [
       "tldr"
     ],
@@ -250,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog | Liquid AI",
-    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-    "description": "LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog | Liquid AI",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
+    "description": "OpenAI models hacked a crypto wallet and breached more websites",
     "tags": [
       "tldr"
     ],
@@ -260,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta releases new AI models, Muse Wonder and Muse Wonder Full",
-    "url": "https://www.scworld.com/brief/meta-releases-new-ai-models-muse-wonder-and-muse-wonder-full",
-    "description": "Meta releases new AI models, Muse Wonder and Muse Wonder Full",
+    "title": "OpenAI sued over children safety and data use",
+    "url": "https://www.malwarebytes.com/blog/ai/2026/10/openai-sued-over-children-safety-and-data-use",
+    "description": "OpenAI sued over children safety and data use",
     "tags": [
       "tldr"
     ],
@@ -270,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
-    "url": "https://engineering.fb.com/2026/10/13/ml-applications/metas-generative-ads-model-gem-scaling-the-central-model-and-compute-engine-for-frontier-ads-ai",
-    "description": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+    "title": "Paying the AI piper (1/2 - how are we going to keep the funding plates spinning when the capital is running out? BlackRock CEO Larry Fink is worried",
+    "url": "https://diginomica.com/paying-ai-piper-12-how-are-we-going-keep-funding-plates-spinning-when-capital-running-out-blackrock",
+    "description": "Paying the AI piper (1/2 - how are we going to keep the funding plates spinning when the capital is running out? BlackRock CEO Larry Fink is worried",
     "tags": [
       "tldr"
     ],
@@ -280,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft Maia 300 Bets Gigawatts on Dataflow Inference Silicon",
-    "url": "https://futurumgroup.com/insights/microsoft-maia-300-bets-gigawatts-on-dataflow-inference-silicon",
-    "description": "Microsoft Maia 300 Bets Gigawatts on Dataflow Inference Silicon",
+    "title": "Research firm calls Anthropic the ‘most ridiculous IPO of 2026’, says it may be worth $144bn",
+    "url": "https://thenextweb.com/news/anthropic-ipo-valuation-new-constructs-144bn",
+    "description": "Research firm calls Anthropic the ‘most ridiculous IPO of 2026’, says it may be worth $144bn",
     "tags": [
       "tldr"
     ],
@@ -290,9 +370,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB Model Release",
-    "url": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-24GB",
-    "description": "NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB Model Release",
+    "title": "Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX",
+    "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x",
+    "description": "Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX",
     "tags": [
       "tldr"
     ],
@@ -300,9 +380,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Neural Networks Are Already Clean - Goodfire",
-    "url": "https://www.goodfire.com/research/already-clean",
-    "description": "Neural Networks Are Already Clean - Goodfire",
+    "title": "SoftBank Is Said to Weigh Buying Largest US Security Firm Allied",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied",
+    "description": "SoftBank Is Said to Weigh Buying Largest US Security Firm Allied",
     "tags": [
       "tldr"
     ],
@@ -310,9 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Nvidia plans $2B in European AI deals in the next week",
-    "url": "https://thenextweb.com/news/nvidia-huang-europe-2-billion",
-    "description": "Nvidia plans $2B in European AI deals in the next week",
+    "title": "SpaceX targets 10GW of AI compute by 2027 with Nvidia’s Vera Rubin chips",
+    "url": "https://cryptobriefing.com/spacex-10gw-ai-compute-nvidia-2027",
+    "description": "SpaceX targets 10GW of AI compute by 2027 with Nvidia’s Vera Rubin chips",
     "tags": [
       "tldr"
     ],
@@ -320,99 +400,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
-    "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks",
-    "description": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Perplexity Open-Sources SPACE Sandbox Platform for AI Agents",
-    "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
-    "description": "Perplexity Open-Sources SPACE Sandbox Platform for AI Agents",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Physical Intelligence launches Pi API beta with π0 and π0.5 (*)",
-    "url": "https://physicalintelligence.company/blog/api-beta",
-    "description": "Physical Intelligence launches Pi API beta with π0 and π0.5 (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
-    "description": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Prime Intellect acquires Moondream, a vision AI startup founded in Seattle by AWS vets",
-    "url": "https://www.geekwire.com/2026/prime-intellect-acquires-moondream-a-vision-ai-startup-founded-in-seattle-by-aws-vets",
-    "description": "Prime Intellect acquires Moondream, a vision AI startup founded in Seattle by AWS vets",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Redesigning source control at Anthropic \\ Anthropic",
-    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "description": "Redesigning source control at Anthropic \\ Anthropic",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Reliable GPU compute for large training & inference jobs",
-    "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
-    "description": "Reliable GPU compute for large training & inference jobs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Rewinding the exponential: How we keep hardware usage down",
-    "url": "https://blog.cloudflare.com/rewinding-the-exponential",
-    "description": "Rewinding the exponential: How we keep hardware usage down",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Rogue A.I. Agents from China Chatted with American Researchers",
-    "url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
-    "description": "Rogue A.I. Agents from China Chatted with American Researchers",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Sakana AI: Sakana AI announces The Agentic Scientist for automated scientific co-discovery",
-    "url": "https://pub.sakana.ai/agentic-scientist",
-    "description": "Sakana AI: Sakana AI announces The Agentic Scientist for automated scientific co-discovery",
+    "title": "Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain",
+    "description": "Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain",
     "tags": [
       "tldr"
     ],
@@ -421,7 +411,7 @@
   },
   {
     "title": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
-    "url": "https://ca.finance.yahoo.com/news/taiwan-curb-ai-chip-exports-054957385.html",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal",
     "description": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
     "tags": [
       "tldr"
@@ -430,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The New Tesla Roadster Just Did A Mid-Air Barrel Roll",
-    "url": "https://insideevs.com/news/812152/tesla-roadster-backflip-suction-2g",
-    "description": "The New Tesla Roadster Just Did A Mid-Air Barrel Roll",
+    "title": "The $690 billion cloud spending spree",
+    "url": "https://www.infoworld.com/article/4235566/the-690-billion-cloud-spending-spree.html",
+    "description": "The $690 billion cloud spending spree",
     "tags": [
       "tldr"
     ],
@@ -440,9 +430,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Thoma Bravo-owned cybersecurity company Proofpoint plans to buy data security firm Varonis Systems in an all-cash deal valued at about $6.3B",
-    "url": "https://www.reuters.com/legal/transactional/proofpoint-buy-varonis-systems-63-billion-all-cash-deal-2026-10-15",
-    "description": "Thoma Bravo-owned cybersecurity company Proofpoint plans to buy data security firm Varonis Systems in an all-cash deal valued at about $6.3B",
+    "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+    "url": "https://words.filippo.io/seeds-solved",
+    "description": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The data centre IPO debacle that sparked a market meltdown",
+    "url": "https://www.ft.com/content/537c9a68-7b6f-41a7-80ff-acac5c52e80d?syn-25a6b1a6=1",
+    "description": "The data centre IPO debacle that sparked a market meltdown",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-16",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Trump’s AI task force starts work and tells labs to report rogue behaviour",
+    "url": "https://thenextweb.com/news/super-intelligence-force-charter-first-meeting-anthropic",
+    "description": "Trump’s AI task force starts work and tells labs to report rogue behaviour",
     "tags": [
       "tldr"
     ],
@@ -460,9 +470,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "url": "https://huggingface.co/blog/reflection-beam",
-    "description": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "title": "Wall street limit ai spending debt",
+    "url": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
+    "description": "Wall street limit ai spending debt",
     "tags": [
       "tldr"
     ],
@@ -470,9 +480,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’ | Nature",
-    "url": "https://www.nature.com/articles/d41586-026-03329-z?linkId=64130786",
-    "description": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’ | Nature",
+    "title": "Western open-weight models still can’t beat China",
+    "url": "https://restofworld.org/2026/china-open-weight-models",
+    "description": "Western open-weight models still can’t beat China",
     "tags": [
       "tldr"
     ],
@@ -480,19 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Zero to Calc in Six Days: Inside XBOW’s Chrome Full Chain | XBOW Labs",
-    "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
-    "description": "Zero to Calc in Six Days: Inside XBOW’s Chrome Full Chain | XBOW Labs",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-16",
-    "site_name": "tldr"
-  },
-  {
-    "title": "mistralai/timestral: Mistral AI time series foundation models",
-    "url": "https://github.com/mistralai/timestral",
-    "description": "mistralai/timestral: Mistral AI time series foundation models",
+    "title": "‘I told you so’: China’s chip sector is making breakthroughs—and U.S. export controls are the reasons why",
+    "url": "https://fortune.com/2026/10/16/china-chip-export-controls-failed-rakesh-kumar",
+    "description": "‘I told you so’: China’s chip sector is making breakthroughs—and U.S. export controls are the reasons why",
     "tags": [
       "tldr"
     ],
