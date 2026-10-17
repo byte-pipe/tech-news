@@ -1,0 +1,512 @@
+[
+  {
+    "title": "/dev/null: social network for developers",
+    "url": "https://dev-null.sh",
+    "author": "mnapoli",
+    "date": "2026-10-17",
+    "score": 135,
+    "comments": 120,
+    "id": 50121004,
+    "discussion_url": "https://news.ycombinator.com/item?id=50121004",
+    "description": "/dev/null: social network for developers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244262"
+  },
+  {
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "author": "speckx",
+    "date": "2026-10-17",
+    "score": 418,
+    "comments": 353,
+    "id": 50121179,
+    "discussion_url": "https://news.ycombinator.com/item?id=50121179",
+    "description": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244544"
+  },
+  {
+    "title": "AI-assisted PCB design for KiCad 10",
+    "url": "https://github.com/mixelpixx/Konnect",
+    "author": "ofrzeta",
+    "date": "2026-10-14",
+    "score": 128,
+    "comments": 48,
+    "id": 50085553,
+    "discussion_url": "https://news.ycombinator.com/item?id=50085553",
+    "description": "AI-assisted PCB design for KiCad 10",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244930"
+  },
+  {
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "author": "JumpCrisscross",
+    "date": "2026-10-17",
+    "score": 222,
+    "comments": 70,
+    "id": 50122112,
+    "discussion_url": "https://news.ycombinator.com/item?id=50122112",
+    "description": "Anthropic assigned highest junk credit rating in June",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244756"
+  },
+  {
+    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "author": "antipaul",
+    "date": "2026-10-17",
+    "score": 273,
+    "comments": 123,
+    "id": 50118320,
+    "discussion_url": "https://news.ycombinator.com/item?id=50118320",
+    "description": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244495"
+  },
+  {
+    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+    "url": "https://calif.io/research/big-fish",
+    "author": "rs_rs_rs_rs_rs",
+    "date": "2026-10-17",
+    "score": 167,
+    "comments": 48,
+    "id": 50118977,
+    "discussion_url": "https://news.ycombinator.com/item?id=50118977",
+    "description": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244305"
+  },
+  {
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "author": "ahlCVA",
+    "date": "2026-10-17",
+    "score": 711,
+    "comments": 277,
+    "id": 50122800,
+    "discussion_url": "https://news.ycombinator.com/item?id=50122800",
+    "description": "Claude reveals ECDSA curve origins",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244578"
+  },
+  {
+    "title": "Designing more efficient quantum circuits with Claude",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "author": "pretext",
+    "date": "2026-10-17",
+    "score": 107,
+    "comments": 20,
+    "id": 50121939,
+    "discussion_url": "https://news.ycombinator.com/item?id=50121939",
+    "description": "Designing more efficient quantum circuits with Claude",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244724"
+  },
+  {
+    "title": "FLUX 3 Image Klein",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "author": "gmays",
+    "date": "2026-10-17",
+    "score": 122,
+    "comments": 34,
+    "id": 50123580,
+    "discussion_url": "https://news.ycombinator.com/item?id=50123580",
+    "description": "FLUX 3 Image Klein",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244411"
+  },
+  {
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "author": "pretext",
+    "date": "2026-10-17",
+    "score": 252,
+    "comments": 238,
+    "id": 50122951,
+    "discussion_url": "https://news.ycombinator.com/item?id=50122951",
+    "description": "How the Claude Code team does code review",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244561"
+  },
+  {
+    "title": "I Love Software Rendering",
+    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "author": "speckx",
+    "date": "2026-10-16",
+    "score": 299,
+    "comments": 190,
+    "id": 50117746,
+    "discussion_url": "https://news.ycombinator.com/item?id=50117746",
+    "description": "I Love Software Rendering",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244286"
+  },
+  {
+    "title": "I never authorized an integration that scans my secrets",
+    "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+    "author": "trvrprkr",
+    "date": "2026-10-17",
+    "score": 201,
+    "comments": 152,
+    "id": 50124251,
+    "discussion_url": "https://news.ycombinator.com/item?id=50124251",
+    "description": "I never authorized an integration that scans my secrets",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244342"
+  },
+  {
+    "title": "JPEG XL vs. AVIF for web use-cases",
+    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "author": "farlight",
+    "date": "2026-10-17",
+    "score": 212,
+    "comments": 149,
+    "id": 50120224,
+    "discussion_url": "https://news.ycombinator.com/item?id=50120224",
+    "description": "JPEG XL vs. AVIF for web use-cases",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244610"
+  },
+  {
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "url": "https://github.com/cobanov/PS5LM",
+    "author": "Anon84",
+    "date": "2026-10-17",
+    "score": 215,
+    "comments": 57,
+    "id": 50122431,
+    "discussion_url": "https://news.ycombinator.com/item?id=50122431",
+    "description": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244429"
+  },
+  {
+    "title": "Muse Spark Open",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "author": "bigwheels",
+    "date": "2026-10-16",
+    "score": 902,
+    "comments": 467,
+    "id": 50107379,
+    "discussion_url": "https://news.ycombinator.com/item?id=50107379",
+    "description": "Muse Spark Open",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.245181"
+  },
+  {
+    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+    "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+    "author": "magoghm",
+    "date": "2026-10-17",
+    "score": 181,
+    "comments": 70,
+    "id": 50119991,
+    "discussion_url": "https://news.ycombinator.com/item?id=50119991",
+    "description": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.245134"
+  },
+  {
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "author": "__cayenne__",
+    "date": "2026-10-17",
+    "score": 192,
+    "comments": 88,
+    "id": 50118688,
+    "discussion_url": "https://news.ycombinator.com/item?id=50118688",
+    "description": "Show HN: Gemini 4 Argon plays StarCraft",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244462"
+  },
+  {
+    "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+    "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+    "author": "ohjeez",
+    "date": "2026-10-14",
+    "score": 107,
+    "comments": 64,
+    "id": 50074322,
+    "discussion_url": "https://news.ycombinator.com/item?id=50074322",
+    "description": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244361"
+  },
+  {
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "author": "shekhar101",
+    "date": "2026-10-16",
+    "score": 1234,
+    "comments": 2215,
+    "id": 50112657,
+    "discussion_url": "https://news.ycombinator.com/item?id=50112657",
+    "description": "Tesla Roadster",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244227"
+  },
+  {
+    "title": "The Economic Complexity of the Western Roman Empire",
+    "url": "https://www.michelecoscia.com/?p=2613",
+    "author": "mikk14",
+    "date": "2026-10-14",
+    "score": 149,
+    "comments": 37,
+    "id": 50084790,
+    "discussion_url": "https://news.ycombinator.com/item?id=50084790",
+    "description": "The Economic Complexity of the Western Roman Empire",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244961"
+  },
+  {
+    "title": "The Folders Programming Language",
+    "url": "https://danieltemkin.com/esolangs/folders",
+    "author": "gurst",
+    "date": "2026-10-16",
+    "score": 203,
+    "comments": 37,
+    "id": 50114342,
+    "discussion_url": "https://news.ycombinator.com/item?id=50114342",
+    "description": "The Folders Programming Language",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.245149"
+  },
+  {
+    "title": "Two-Stack Sliding-Window Aggregation",
+    "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+    "author": "surprisetalk",
+    "date": "2026-10-14",
+    "score": 128,
+    "comments": 25,
+    "id": 50072485,
+    "discussion_url": "https://news.ycombinator.com/item?id=50072485",
+    "description": "Two-Stack Sliding-Window Aggregation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.245165"
+  },
+  {
+    "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+    "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+    "author": "DeepLogin",
+    "date": "2026-10-17",
+    "score": 193,
+    "comments": 111,
+    "id": 50120101,
+    "discussion_url": "https://news.ycombinator.com/item?id=50120101",
+    "description": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.245118"
+  },
+  {
+    "title": "Waymo in Toronto",
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+    "author": "ChrisArchitect",
+    "date": "2026-10-17",
+    "score": 285,
+    "comments": 393,
+    "id": 50118981,
+    "discussion_url": "https://news.ycombinator.com/item?id=50118981",
+    "description": "Waymo in Toronto",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244528"
+  },
+  {
+    "title": "What on Earth Is Dekton?",
+    "url": "https://www.worksinprogress.news/p/porcelain",
+    "author": "wawayanda",
+    "date": "2026-10-17",
+    "score": 130,
+    "comments": 45,
+    "id": 50118828,
+    "discussion_url": "https://news.ycombinator.com/item?id=50118828",
+    "description": "What on Earth Is Dekton?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244379"
+  },
+  {
+    "title": "What was a Token Ring network?",
+    "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+    "author": "ibobev",
+    "date": "2026-10-17",
+    "score": 101,
+    "comments": 78,
+    "id": 50118318,
+    "discussion_url": "https://news.ycombinator.com/item?id=50118318",
+    "description": "What was a Token Ring network?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244445"
+  },
+  {
+    "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+    "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+    "author": "johnnyApplePRNG",
+    "date": "2026-10-13",
+    "score": 827,
+    "comments": 246,
+    "id": 50065859,
+    "discussion_url": "https://news.ycombinator.com/item?id=50065859",
+    "description": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244994"
+  },
+  {
+    "title": "Yet another way to invoke functions without parentheses",
+    "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+    "author": "aragonite",
+    "date": "2026-10-14",
+    "score": 244,
+    "comments": 102,
+    "id": 50077225,
+    "discussion_url": "https://news.ycombinator.com/item?id=50077225",
+    "description": "Yet another way to invoke functions without parentheses",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244821"
+  },
+  {
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "author": "speckx",
+    "date": "2026-10-17",
+    "score": 170,
+    "comments": 45,
+    "id": 50122878,
+    "discussion_url": "https://news.ycombinator.com/item?id=50122878",
+    "description": "You could have invented transformers from memory",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244708"
+  },
+  {
+    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+    "author": "7402",
+    "date": "2026-10-17",
+    "score": 181,
+    "comments": 146,
+    "id": 50122034,
+    "discussion_url": "https://news.ycombinator.com/item?id=50122034",
+    "description": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-17T13:52:48.244511"
+  }
+]
