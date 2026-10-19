@@ -10,9 +10,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "A user told Meta’s Muse to sell his keyboard. What happened next was alarming",
-    "url": "https://www.fastcompany.com/91625964/user-told-metas-muse-sell-keyboard-what-happened-next-alarming",
-    "description": "A user told Meta’s Muse to sell his keyboard. What happened next was alarming",
+    "title": "AI Benchmarks: Climbing the Wrong Hills | Contrary Research",
+    "url": "https://research.contrary.com/deep-dive/ai-benchmarks-climbing-the-wrong-hills",
+    "description": "AI Benchmarks: Climbing the Wrong Hills | Contrary Research",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI Compute and Data Center Vulnerabilities in Recent Conflicts",
+    "url": "https://x.com/rohanpaul_ai/status/2112260223050346710",
+    "description": "AI Compute and Data Center Vulnerabilities in Recent Conflicts",
     "tags": [
       "tldr"
     ],
@@ -30,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI agent deprovisioning: Revoking access doesn't erase what it read",
-    "url": "https://workos.com/blog/ai-agent-deprovisioning-revocation",
-    "description": "AI agent deprovisioning: Revoking access doesn't erase what it read",
+    "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch",
+    "description": "AI assistant startup Town nabs unicorn valuation four months after launch",
     "tags": [
       "tldr"
     ],
@@ -50,6 +60,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "AI rapidly improving, could vastly boost U.S. GDP: Anthropic's Clark",
+    "url": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
+    "description": "AI rapidly improving, could vastly boost U.S. GDP: Anthropic's Clark",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
     "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
     "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
     "description": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
@@ -60,9 +80,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agility Robotics releases Digit 5 humanoid worker (*)",
-    "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-    "description": "Agility Robotics releases Digit 5 humanoid worker (*)",
+    "title": "Agent-to-agent authorization: What OpenAI's Hugging Face incident shows",
+    "url": "https://workos.com/blog/agent-to-agent-authorization-openai-hugging-face",
+    "description": "Agent-to-agent authorization: What OpenAI's Hugging Face incident shows",
     "tags": [
       "tldr"
     ],
@@ -70,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Alexandr Wang gave Meta its mojo back with launch of Muse, Muse Wonder",
-    "url": "https://chatgptiseatingtheworld.com/2026/10/17/alexandr-wang-gave-meta-its-mojo-back-with-launch-of-muse-muse-wonder",
-    "description": "Alexandr Wang gave Meta its mojo back with launch of Muse, Muse Wonder",
+    "title": "Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana",
+    "url": "https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana",
+    "description": "Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana",
     "tags": [
       "tldr"
     ],
@@ -80,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-    "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant",
-    "description": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+    "description": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
     "tags": [
       "tldr"
     ],
@@ -90,9 +110,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amnon Shashua’s doubleAI launches an AI that speeds up code while it runs",
-    "url": "https://thenextweb.com/news/doubleai-maxwell-code-execution-model-compute-costs",
-    "description": "Amnon Shashua’s doubleAI launches an AI that speeds up code while it runs",
+    "title": "Amazon knows how to build big. The AI boom is testing just how big it can go.",
+    "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+    "description": "Amazon knows how to build big. The AI boom is testing just how big it can go.",
     "tags": [
       "tldr"
     ],
@@ -110,39 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic Builds Biology Lab to Test Claude in Life Sciences",
-    "url": "https://hyper.ai/en/stories/73761396966aa5fcefe124c646f8ae21",
-    "description": "Anthropic Builds Biology Lab to Test Claude in Life Sciences",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic can walk from $84.5 billion of SpaceX compute on 90 days' notice; the stock is at 103 times sales",
-    "url": "https://theinference.org/article/anthropic-can-walk-from-84-5-billion-of-spacex-compute-on-90-days-notice-the-stock-is-at-103-times-sales",
-    "description": "Anthropic can walk from $84.5 billion of SpaceX compute on 90 days' notice; the stock is at 103 times sales",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Anthropic growth makes it a cloud contender (*)",
     "url": "https://tomtunguz.com/what-if-they-are-all-clouds",
     "description": "Anthropic growth makes it a cloud contender (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic plans 5% shares to public good fund (*)",
-    "url": "https://www.anthropic.com/news/public-benefit-fund",
-    "description": "Anthropic plans 5% shares to public good fund (*)",
     "tags": [
       "tldr"
     ],
@@ -160,29 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Character.AI Is in Chapter 11. Its Replacement Runs on Your Laptop.",
-    "url": "https://galratner.substack.com/p/characterai-is-in-chapter-11-its",
-    "description": "Character.AI Is in Chapter 11. Its Replacement Runs on Your Laptop.",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
     "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
     "description": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Chinese firm unveils world’s first 100,000-card supercluster built with domestic chips",
-    "url": "https://interestingengineering.com/innovation/china-unveils-100000-card-ai-supercluster",
-    "description": "Chinese firm unveils world’s first 100,000-card supercluster built with domestic chips",
     "tags": [
       "tldr"
     ],
@@ -200,6 +170,36 @@
     "site_name": "tldr"
   },
   {
+    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+    "url": "https://blog.cloudflare.com/obsessive-inference-optimization",
+    "description": "Cutting our inference bill by 68% by being obsessive about optimization",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "DHS to ban DeepSeek from federal civilian agencies",
+    "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies",
+    "description": "DHS to ban DeepSeek from federal civilian agencies",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Diffusion at Scale: Introducing Mercury 3 – Inception",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "description": "Diffusion at Scale: Introducing Mercury 3 – Inception",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
     "title": "Disney found a way to buy Character.AI without buying its lawsuits",
     "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
     "description": "Disney found a way to buy Character.AI without buying its lawsuits",
@@ -210,9 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Elon Musk promises to give every child in America a free SpaceX share next year",
-    "url": "https://www.techspot.com/news/114253-elon-musk-promises-give-every-child-america-free.html",
-    "description": "Elon Musk promises to give every child in America a free SpaceX share next year",
+    "title": "Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures",
+    "url": "https://www.forbes.com/sites/johnkoetsier/2026/10/19/robot-brains-for-75-centshour-former-nvidia-researchers-raise-90-million",
+    "description": "Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures",
     "tags": [
       "tldr"
     ],
@@ -220,19 +220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Federal agencies recommend cyber controls, independent testing for frontier AI systems",
-    "url": "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance",
-    "description": "Federal agencies recommend cyber controls, independent testing for frontier AI systems",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Google is building humanoid robots, hiring Boston Dynamics' ex-CTO for a 35,000-square-foot Massachusetts lab",
-    "url": "https://theinference.org/article/google-is-building-humanoid-robots-hiring-boston-dynamics-ex-cto-for-a-35-000-square-foot-massachusetts-lab",
-    "description": "Google is building humanoid robots, hiring Boston Dynamics' ex-CTO for a 35,000-square-foot Massachusetts lab",
+    "title": "Helium, critical for tech, faces supply chain crisis",
+    "url": "https://www.cbsnews.com/news/iran-war-impacts-helium-needed-for-big-tech-60-minutes",
+    "description": "Helium, critical for tech, faces supply chain crisis",
     "tags": [
       "tldr"
     ],
@@ -260,6 +250,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Human Attention Is the New Old Bottleneck in AI-Driven Workplaces",
+    "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
+    "description": "Human Attention Is the New Old Bottleneck in AI-Driven Workplaces",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "I built a programming language that LLMs can't use • Dominik Picheta's blog",
+    "url": "https://blog.picheta.me/post/killswitch-lang",
+    "description": "I built a programming language that LLMs can't use • Dominik Picheta's blog",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
     "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
     "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
     "description": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
@@ -270,39 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-    "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-    "description": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-    "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-    "description": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Loud, Fast, and Everywhere: Anatomy of a Real AI-Driven Cloud Attack",
-    "url": "https://www.wiz.io/blog/anatomy-of-ai-driven-cloud-attacks",
-    "description": "Loud, Fast, and Everywhere: Anatomy of a Real AI-Driven Cloud Attack",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Microsoft plans to pay Anthropic over $2B a year to keep Copilot competitive",
-    "url": "https://cryptobriefing.com/microsoft-anthropic-2b-copilot-deal",
-    "description": "Microsoft plans to pay Anthropic over $2B a year to keep Copilot competitive",
+    "title": "Introducing Clairic, a new System One class of extraction models",
+    "url": "https://blog.cloudflare.com/clairic-extraction-model",
+    "description": "Introducing Clairic, a new System One class of extraction models",
     "tags": [
       "tldr"
     ],
@@ -320,9 +300,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research | MiniMax",
-    "url": "https://www.minimax.io/blog/minimax-m31f",
-    "description": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research | MiniMax",
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
+    "description": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "MiniMax-AI releases MiniMax-M3.1-Flash reasoning model",
+    "url": "https://x.com/artificialanlys/status/2112211865128608002",
+    "description": "MiniMax-AI releases MiniMax-M3.1-Flash reasoning model",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+    "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares",
+    "description": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+    "description": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
     "tags": [
       "tldr"
     ],
@@ -340,9 +350,49 @@
     "site_name": "tldr"
   },
   {
-    "title": "New App Store Rules Target AI Deepfakes and Nudify Apps",
-    "url": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes",
-    "description": "New App Store Rules Target AI Deepfakes and Nudify Apps",
+    "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node",
+    "url": "https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die",
+    "description": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "New AI wearables push the limits of privacy and wiretap laws",
+    "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+    "description": "New AI wearables push the limits of privacy and wiretap laws",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal",
+    "description": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nvidia GB300 FP4 vs TPUv7 Performance Comparison",
+    "url": "https://x.com/semianalysis_/status/2112258243372146742",
+    "description": "Nvidia GB300 FP4 vs TPUv7 Performance Comparison",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nvidia Vera’s System Architecture: Pushing Bandwidth",
+    "url": "https://chipsandcheese.com/p/nvidia-veras-system-architecture",
+    "description": "Nvidia Vera’s System Architecture: Pushing Bandwidth",
     "tags": [
       "tldr"
     ],
@@ -380,49 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
-    "description": "Replit is no longer working with Anthropic, CEO says",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
-    "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "description": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-    "url": "https://thenextweb.com/news/robots-and-ai-could-reach-80-of-work-but-rarely-cheaply-anthropic-says",
-    "description": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Schwab and JPMorgan Block Unauthorized AI Agents from Moving Money as Private Ordering Reaches Financial Core",
-    "url": "https://forkast.news/schwab-and-jpmorgan-block-unauthorized-ai-agents-from-moving-money-as-private-ordering-reaches-financial-core",
-    "description": "Schwab and JPMorgan Block Unauthorized AI Agents from Moving Money as Private Ordering Reaches Financial Core",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
-    "url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers",
-    "description": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
+    "description": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
     "tags": [
       "tldr"
     ],
@@ -450,29 +460,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Town raises $108M at a $1B valuation so AI assistants can work as a team",
-    "url": "https://thenextweb.com/news/town-108m-series-b-1b-valuation-ai-assistants",
-    "description": "Town raises $108M at a $1B valuation so AI assistants can work as a team",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
-    "title": "US Moves to Bar DeepSeek From Federal Agencies and Contracts",
-    "url": "https://ca.finance.yahoo.com/news/us-moves-bar-deepseek-federal-133753757.html",
-    "description": "US Moves to Bar DeepSeek From Federal Agencies and Contracts",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-19",
-    "site_name": "tldr"
-  },
-  {
     "title": "Web Bot Auth: How to identify AI agents and set policy for them",
     "url": "https://workos.com/blog/web-bot-auth-identify-ai-agents",
     "description": "Web Bot Auth: How to identify AI agents and set policy for them",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-19",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What has to go right to justify the trillions being spent on AI CapEx?",
+    "url": "https://www.generativevalue.com/p/what-has-to-go-right-to-justify-the",
+    "description": "What has to go right to justify the trillions being spent on AI CapEx?",
     "tags": [
       "tldr"
     ],
@@ -490,9 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "[News] NVIDIA Chooses Monolithic Die Over Chiplets for Vera CPU, Claims 2× x86 Performance in Agentic AI",
-    "url": "https://www.trendforce.com/news/2026/10/19/news-nvidia-chooses-monolithic-die-over-chiplets-for-vera-cpu-claims-2x-x86-performance-in-agentic-ai",
-    "description": "[News] NVIDIA Chooses Monolithic Die Over Chiplets for Vera CPU, Claims 2× x86 Performance in Agentic AI",
+    "title": "kksimp/Mac.apk: Run Android apps natively on Apple Silicon Macs",
+    "url": "https://github.com/kksimp/Mac.apk",
+    "description": "kksimp/Mac.apk: Run Android apps natively on Apple Silicon Macs",
     "tags": [
       "tldr"
     ],
