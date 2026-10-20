@@ -1,8 +1,8 @@
 [
   {
-    "title": "A look at Anthropic's Long-Term Benefit Trust, an unusual, opaque five-member trust whose trustees own no equity and hold enormous sway over the company",
-    "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg",
-    "description": "A look at Anthropic's Long-Term Benefit Trust, an unusual, opaque five-member trust whose trustees own no equity and hold enormous sway over the company",
+    "title": "5 Interesting Learnings from Braze at $910 Million in Revenue: A $5.66B Sale to Salesforce, 26% Growth, and Operating Expenses Up Just 6%",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-braze-at-910-million-in-revenue-a-5-66b-sale-to-salesforce-26-growth-and-operating-expenses-up-just-6",
+    "description": "5 Interesting Learnings from Braze at $910 Million in Revenue: A $5.66B Sale to Salesforce, 26% Growth, and Operating Expenses Up Just 6%",
     "tags": [
       "tldr"
     ],
@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Benchmarks: Climbing the Wrong Hills | Contrary Research",
-    "url": "https://research.contrary.com/deep-dive/ai-benchmarks-climbing-the-wrong-hills",
-    "description": "AI Benchmarks: Climbing the Wrong Hills | Contrary Research",
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub",
+    "description": "A visit to Samsung’s massive new semiconductor hub",
     "tags": [
       "tldr"
     ],
@@ -40,39 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI agents are only as good as the personal information you share",
-    "url": "https://apnews.com/article/meta-muse-openai-dot-ai-privacy-449734d41d3750aad7038b761faa49c9",
-    "description": "AI agents are only as good as the personal information you share",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
-    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch",
-    "description": "AI assistant startup Town nabs unicorn valuation four months after launch",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI cloud firm Nscale faces investor pushback over IPO valuation",
-    "url": "https://www.businesstimes.com.sg/companies-markets/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation",
-    "description": "AI cloud firm Nscale faces investor pushback over IPO valuation",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
-    "description": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "title": "ASI Hits $3 Billion Valuation in $325 Million Round Led by Spark",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/asi-hits-3-billion-valuation-in-325-million-round-led-by-spark",
+    "description": "ASI Hits $3 Billion Valuation in $325 Million Round Led by Spark",
     "tags": [
       "tldr"
     ],
@@ -90,9 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana",
-    "url": "https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana",
-    "description": "Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana",
+    "title": "Amazon plans to make a €16bn investment in Germany in 2027",
+    "url": "https://thenextweb.com/news/amazon-plans-to-make-a-e16bn-investment-in-germany-in-2027",
+    "description": "Amazon plans to make a €16bn investment in Germany in 2027",
     "tags": [
       "tldr"
     ],
@@ -100,29 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
-    "description": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic growth makes it a cloud contender (*)",
-    "url": "https://tomtunguz.com/what-if-they-are-all-clouds",
-    "description": "Anthropic growth makes it a cloud contender (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Apple prepares first touchscreen MacBook Pro (*)",
+    "title": "At Apple, Pigs Are About to Fly",
     "url": "https://www.theinformation.com/articles/apple-pigs-fly",
-    "description": "Apple prepares first touchscreen MacBook Pro (*)",
+    "description": "At Apple, Pigs Are About to Fly",
     "tags": [
       "tldr"
     ],
@@ -130,9 +80,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Apple’s HomeView smart display ties to Siri trust debate (*)",
-    "url": "https://stratechery.com/2026/do-you-trust-apple",
-    "description": "Apple’s HomeView smart display ties to Siri trust debate (*)",
+    "title": "Bain report questions AI $6 trillion buildout monetization (*)",
+    "url": "https://blog.dshr.org/2026/10/the-underpants-gnomes-step-2.html",
+    "description": "Bain report questions AI $6 trillion buildout monetization (*)",
     "tags": [
       "tldr"
     ],
@@ -140,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Character.ai Bankruptcy Exposes the High Cost of AI Companionship",
-    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/character-ai-bankruptcy-exposes-the-high-cost-of-ai-companionship",
-    "description": "Character.ai Bankruptcy Exposes the High Cost of AI Companionship",
+    "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+    "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet",
+    "description": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
     "tags": [
       "tldr"
     ],
@@ -150,9 +100,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-    "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
-    "description": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+    "title": "Blocking Identity Resolution Infrastructure",
+    "url": "https://webkit.org/blog/18438/blocking-identity-resolution-infrastructure",
+    "description": "Blocking Identity Resolution Infrastructure",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Bringing Ultra-Fast, Interactive LLM Inference to AMD Instinct™ MI355X GPUs",
+    "url": "https://rocm.blogs.amd.com/software-tools-optimization/megakernel-intro/README.html",
+    "description": "Bringing Ultra-Fast, Interactive LLM Inference to AMD Instinct™ MI355X GPUs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports",
+    "url": "https://www.tomshardware.com/pc-components/gpus/chinas-tech-giants-drop-usd35-billion-on-export-compliant-nvidia-rtx-pro-5500-workstation-gpu-orders-to-power-ai-ambitions-according-to-reports-bytedance-alibaba-and-tencent-order-3-million-cards-despite-warnings-that-only-10-percent-of-orders-are-fulfillable",
+    "description": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "ClickHouse Will Let You Be Wrong at Scale",
+    "url": "https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale",
+    "description": "ClickHouse Will Let You Be Wrong at Scale",
     "tags": [
       "tldr"
     ],
@@ -170,29 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "DHS to ban DeepSeek from federal civilian agencies",
-    "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies",
-    "description": "DHS to ban DeepSeek from federal civilian agencies",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Diffusion at Scale: Introducing Mercury 3 – Inception",
-    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-    "description": "Diffusion at Scale: Introducing Mercury 3 – Inception",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-    "description": "Disney found a way to buy Character.AI without buying its lawsuits",
+    "title": "Daytona hits $1B valuation with $60M Series B for AI agent cloud",
+    "url": "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud",
+    "description": "Daytona hits $1B valuation with $60M Series B for AI agent cloud",
     "tags": [
       "tldr"
     ],
@@ -210,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google Energy Chief: SpaceX Contract Bridges \"Huge\" Gemini Demand",
-    "url": "https://x.com/firesidealpha/status/2112247407585206777",
-    "description": "Google Energy Chief: SpaceX Contract Bridges \"Huge\" Gemini Demand",
+    "title": "Eight eMudhra CAs Were Revoked for Compromise, and Nobody Has Said Why",
+    "url": "https://fenko.nz/blog/emudhra-ca-compromise",
+    "description": "Eight eMudhra CAs Were Revoked for Compromise, and Nobody Has Said Why",
     "tags": [
       "tldr"
     ],
@@ -220,9 +180,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Helium, critical for tech, faces supply chain crisis",
-    "url": "https://www.cbsnews.com/news/iran-war-impacts-helium-needed-for-big-tech-60-minutes",
-    "description": "Helium, critical for tech, faces supply chain crisis",
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+    "description": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
     "tags": [
       "tldr"
     ],
@@ -230,9 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How far can we push computing?",
-    "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing",
-    "description": "How far can we push computing?",
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+    "description": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
     "tags": [
       "tldr"
     ],
@@ -240,9 +200,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites: Reuters exclusive",
-    "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/19/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites-reuters-exclusive",
-    "description": "How one hacker used AI agents and a few thousand dollars to break into scores of sites: Reuters exclusive",
+    "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+    "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+    "description": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
     "tags": [
       "tldr"
     ],
@@ -250,9 +210,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "I built a programming language that LLMs can't use • Dominik Picheta's blog",
-    "url": "https://blog.picheta.me/post/killswitch-lang",
-    "description": "I built a programming language that LLMs can't use • Dominik Picheta's blog",
+    "title": "Gemini 4: Argon - Early Access Review",
+    "url": "https://jgunnink.substack.com/p/gemini-4-argon-early-access-review",
+    "description": "Gemini 4: Argon - Early Access Review",
     "tags": [
       "tldr"
     ],
@@ -260,9 +220,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "IMF Warns That AI Bubble Could Take Down the Entire World Economy",
-    "url": "https://futurism.com/future-society/imf-ai-bubble-world-economy",
-    "description": "IMF Warns That AI Bubble Could Take Down the Entire World Economy",
+    "title": "Goldman ai energy infrastructure bottleneck",
+    "url": "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck",
+    "description": "Goldman ai energy infrastructure bottleneck",
     "tags": [
       "tldr"
     ],
@@ -270,9 +230,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
-    "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-    "description": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+    "title": "How Claude designed protein binders against scorpion neurotoxins \\ Anthropic",
+    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "description": "How Claude designed protein binders against scorpion neurotoxins \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Kiro fixes itself, and how we keep the fixes honest",
+    "url": "https://kiro.dev/blog/how-kiro-fixes-itself",
+    "description": "How Kiro fixes itself, and how we keep the fixes honest",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to Build a Decision Model Like Jev",
+    "url": "https://www.fratepietro.com/2026/how-to-build-a-decision-model-like-jev",
+    "description": "How to Build a Decision Model Like Jev",
     "tags": [
       "tldr"
     ],
@@ -290,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft pulls out of delayed Nscale data center in Loughton, Essex",
-    "url": "https://www.datacenterdynamics.com/en/news/microsoft-pulls-out-of-delayed-nscale-data-center-in-loughton-essex",
-    "description": "Microsoft pulls out of delayed Nscale data center in Loughton, Essex",
+    "title": "Introducing tsrs: a Port of TypeScript to Rust",
+    "url": "https://blog.cloudflare.com/typescript-rust-port",
+    "description": "Introducing tsrs: a Port of TypeScript to Rust",
     "tags": [
       "tldr"
     ],
@@ -300,9 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
-    "description": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "title": "Microsoft Completes Pretraining of 2.8 Trillion-Parameter MAI-Base-2",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=14721",
+    "description": "Microsoft Completes Pretraining of 2.8 Trillion-Parameter MAI-Base-2",
     "tags": [
       "tldr"
     ],
@@ -310,39 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "MiniMax-AI releases MiniMax-M3.1-Flash reasoning model",
-    "url": "https://x.com/artificialanlys/status/2112211865128608002",
-    "description": "MiniMax-AI releases MiniMax-M3.1-Flash reasoning model",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-    "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares",
-    "description": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
-    "description": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node",
-    "url": "https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die",
-    "description": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node",
+    "title": "Nano Banana Came for Getty Images in a Picture-Perfect AI Takeover",
+    "url": "https://galratner.substack.com/p/nano-banana-came-for-getty-images",
+    "description": "Nano Banana Came for Getty Images in a Picture-Perfect AI Takeover",
     "tags": [
       "tldr"
     ],
@@ -353,16 +303,6 @@
     "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
     "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
     "description": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia GB300 FP4 vs TPUv7 Performance Comparison",
-    "url": "https://x.com/semianalysis_/status/2112258243372146742",
-    "description": "Nvidia GB300 FP4 vs TPUv7 Performance Comparison",
     "tags": [
       "tldr"
     ],
@@ -390,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OpenAI is reportedly rushing its $30 billion round to finish before Anthropic's November IPO",
-    "url": "https://aistockwire.com/blog/openai-accelerates-30-billion-round-before-anthropic-ipo-1-4-trillion-october-2026",
-    "description": "OpenAI is reportedly rushing its $30 billion round to finish before Anthropic's November IPO",
+    "title": "OpenAI reportedly races to close $30bn round before Anthropic’s IPO",
+    "url": "https://thenextweb.com/news/openai-30bn-round-before-anthropic-ipo",
+    "description": "OpenAI reportedly races to close $30bn round before Anthropic’s IPO",
     "tags": [
       "tldr"
     ],
@@ -400,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
-    "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "description": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+    "description": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
     "tags": [
       "tldr"
     ],
@@ -410,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The FDE Bubble: Silicon Valley’s Most Expensive Game Of Pretend",
-    "url": "https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived",
-    "description": "The FDE Bubble: Silicon Valley’s Most Expensive Game Of Pretend",
+    "title": "Qwen3.8-27B RL post-train cuts hallucinations and boosts benchmarks (*)",
+    "url": "https://x.com/rohanpaul_ai/status/2112546482478023075",
+    "description": "Qwen3.8-27B RL post-train cuts hallucinations and boosts benchmarks (*)",
     "tags": [
       "tldr"
     ],
@@ -420,9 +360,59 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
-    "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture",
-    "description": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+    "title": "Review of the \"Misalignment in high-stakes settings\" section in Anthropic's Risk Report (August 2026)",
+    "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review",
+    "description": "Review of the \"Misalignment in high-stakes settings\" section in Anthropic's Risk Report (August 2026)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+    "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+    "description": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sea plans IPO for financial services arm Monee, shows internal memo",
+    "url": "https://www.dealstreetasia.com/stories/sea-plans-ipo-for-monee-498613",
+    "description": "Sea plans IPO for financial services arm Monee, shows internal memo",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX alum's aviation startup, Reliable Robotics, lands $115M, topping $1B valuation | TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation",
+    "description": "SpaceX alum's aviation startup, Reliable Robotics, lands $115M, topping $1B valuation | TechCrunch",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
+    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus",
+    "description": "TorchTPU is now open source: Run native PyTorch on TPUs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+    "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon",
+    "description": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
     "tags": [
       "tldr"
     ],
@@ -440,29 +430,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Web Bot Auth: How to identify AI agents and set policy for them",
-    "url": "https://workos.com/blog/web-bot-auth-identify-ai-agents",
-    "description": "Web Bot Auth: How to identify AI agents and set policy for them",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Welcome to Google Gemini 4 Argon: Features, Pricing, and Benchmarks",
-    "url": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon",
-    "description": "Welcome to Google Gemini 4 Argon: Features, Pricing, and Benchmarks",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
     "title": "What has to go right to justify the trillions being spent on AI CapEx?",
     "url": "https://www.generativevalue.com/p/what-has-to-go-right-to-justify-the",
     "description": "What has to go right to justify the trillions being spent on AI CapEx?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "When ‘access denied’ becomes an agent’s next objective",
+    "url": "https://www.infoworld.com/article/4237168/when-access-denied-becomes-an-agents-next-objective.html",
+    "description": "When ‘access denied’ becomes an agent’s next objective",
     "tags": [
       "tldr"
     ],
@@ -480,9 +460,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
-    "description": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+    "title": "Will Salesforce’s Braze deal bring clarity or chaos?",
+    "url": "https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos",
+    "description": "Will Salesforce’s Braze deal bring clarity or chaos?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "are you building a model or a model factory",
+    "url": "https://gradientflow.substack.com/p/are-you-building-a-model-or-a-model",
+    "description": "are you building a model or a model factory",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "deepseek-ai/DeepInfer: High-performance inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "description": "deepseek-ai/DeepInfer: High-performance inference framework for DeepSeek models",
     "tags": [
       "tldr"
     ],
