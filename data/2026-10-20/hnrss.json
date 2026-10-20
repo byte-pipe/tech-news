@@ -1,182 +1,287 @@
 [
   {
+    "title": "2026 is an exciting year for the Rust compiler (and me)",
+    "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+    "description": "2026 is an exciting year for the Rust compiler (and me)",
+    "date": "2026-10-20",
+    "score": 138,
+    "comments": 59,
+    "discussion_url": "https://news.ycombinator.com/item?id=50166502",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-20T22:05:24.195557"
+  },
+  {
     "title": "Apple broke an essential presentation feature of iPads",
     "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
     "description": "Apple broke an essential presentation feature of iPads",
     "date": "2026-10-20",
-    "score": 208,
-    "comments": 107,
+    "score": 432,
+    "comments": 236,
     "discussion_url": "https://news.ycombinator.com/item?id=50165208",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378323"
+    "fetched_at": "2026-10-20T22:05:24.195589"
   },
   {
-    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-    "description": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "date": "2026-10-19",
-    "score": 460,
-    "comments": 379,
-    "discussion_url": "https://news.ycombinator.com/item?id=50154244",
-    "tags": [
-      "hackernews",
-      "hnrss"
-    ],
-    "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378404"
-  },
-  {
-    "title": "DeepSeek just open-sourced its inference engine",
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
     "url": "https://github.com/deepseek-ai/DeepInfer",
-    "description": "DeepSeek just open-sourced its inference engine",
+    "description": "DeepInfer: High-performance inference framework for DeepSeek models",
     "date": "2026-10-20",
-    "score": 1466,
-    "comments": 526,
+    "score": 2045,
+    "comments": 801,
     "discussion_url": "https://news.ycombinator.com/item?id=50163277",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378344"
+    "fetched_at": "2026-10-20T22:05:24.195611"
   },
   {
-    "title": "Google cloud outage takes down banks",
-    "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-    "description": "Google cloud outage takes down banks",
+    "title": "EMudhra Intermediate CA Compromise",
+    "url": "https://emudhra.we-have-a-problem.com/",
+    "description": "EMudhra Intermediate CA Compromise",
     "date": "2026-10-20",
-    "score": 194,
-    "comments": 86,
+    "score": 498,
+    "comments": 274,
+    "discussion_url": "https://news.ycombinator.com/item?id=50166579",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-20T22:05:24.195545"
+  },
+  {
+    "title": "Facebook Pages require paid subscription to post more than two links per month",
+    "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+    "description": "Facebook Pages require paid subscription to post more than two links per month",
+    "date": "2026-10-20",
+    "score": 388,
+    "comments": 342,
+    "discussion_url": "https://news.ycombinator.com/item?id=50167536",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-20T22:05:24.195500"
+  },
+  {
+    "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+    "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+    "description": "Google Cloud outage affects almost all banking and other operations in Europe",
+    "date": "2026-10-20",
+    "score": 285,
+    "comments": 148,
     "discussion_url": "https://news.ycombinator.com/item?id=50163961",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378335"
+    "fetched_at": "2026-10-20T22:05:24.195600"
   },
   {
-    "title": "Making a 88x31 button book using ImageMagick",
-    "url": "https://k.sosnierz.me/08-11-24/",
-    "description": "Making a 88x31 button book using ImageMagick",
-    "date": "2026-10-17",
-    "score": 115,
-    "comments": 19,
-    "discussion_url": "https://news.ycombinator.com/item?id=50132198",
+    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+    "url": "https://github.com/google-pytorch/torch_tpu",
+    "description": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+    "date": "2026-10-20",
+    "score": 207,
+    "comments": 50,
+    "discussion_url": "https://news.ycombinator.com/item?id=50169053",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378433"
+    "fetched_at": "2026-10-20T22:05:24.195452"
+  },
+  {
+    "title": "How I got over 300 Tor exit nodes removed",
+    "url": "https://kaba.cx/posts/20261020_Tor/",
+    "description": "How I got over 300 Tor exit nodes removed",
+    "date": "2026-10-20",
+    "score": 278,
+    "comments": 69,
+    "discussion_url": "https://news.ycombinator.com/item?id=50166257",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-20T22:05:24.195568"
+  },
+  {
+    "title": "IKEA – 3D Guide",
+    "url": "https://sael.net/flatpack/",
+    "description": "IKEA – 3D Guide",
+    "date": "2026-10-20",
+    "score": 114,
+    "comments": 34,
+    "discussion_url": "https://news.ycombinator.com/item?id=50168096",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-20T22:05:24.195488"
   },
   {
     "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
     "url": "https://github.com/microg/GmsCore/wiki",
     "description": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
     "date": "2026-10-20",
-    "score": 257,
-    "comments": 21,
+    "score": 359,
+    "comments": 77,
     "discussion_url": "https://news.ycombinator.com/item?id=50162177",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378354"
+    "fetched_at": "2026-10-20T22:05:24.195622"
   },
   {
-    "title": "MiniMax M3.1 Flash",
-    "url": "https://www.minimax.io/blog/minimax-m31f",
-    "description": "MiniMax M3.1 Flash",
-    "date": "2026-10-19",
-    "score": 502,
-    "comments": 209,
-    "discussion_url": "https://news.ycombinator.com/item?id=50154540",
+    "title": "My Friend Bob Cringely",
+    "url": "https://tyma.com/my-cringe-story/",
+    "description": "My Friend Bob Cringely",
+    "date": "2026-10-20",
+    "score": 143,
+    "comments": 39,
+    "discussion_url": "https://news.ycombinator.com/item?id=50166794",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378393"
+    "fetched_at": "2026-10-20T22:05:24.195533"
   },
   {
     "title": "Nordwand Mono – A monospace font for coders and adventurers",
     "url": "https://github.com/tywr/Nordwand-Mono",
     "description": "Nordwand Mono – A monospace font for coders and adventurers",
     "date": "2026-10-18",
-    "score": 451,
-    "comments": 126,
+    "score": 533,
+    "comments": 147,
     "discussion_url": "https://news.ycombinator.com/item?id=50141581",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378414"
+    "fetched_at": "2026-10-20T22:05:24.195633"
   },
   {
-    "title": "OpenBSD 8.0",
-    "url": "https://www.openbsd.org/80.html",
-    "description": "OpenBSD 8.0",
+    "title": "Ofcom concedes defeat in 4chan case",
+    "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+    "description": "Ofcom concedes defeat in 4chan case",
     "date": "2026-10-20",
-    "score": 413,
-    "comments": 131,
-    "discussion_url": "https://news.ycombinator.com/item?id=50160494",
+    "score": 280,
+    "comments": 185,
+    "discussion_url": "https://news.ycombinator.com/item?id=50167028",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378364"
+    "fetched_at": "2026-10-20T22:05:24.195520"
   },
   {
-    "title": "Publish fake stats, get cited in LLMs",
-    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-    "description": "Publish fake stats, get cited in LLMs",
+    "title": "SimCity, but with Permits",
+    "url": "https://permit.petercai.com/",
+    "description": "SimCity, but with Permits",
     "date": "2026-10-20",
-    "score": 124,
-    "comments": 73,
-    "discussion_url": "https://news.ycombinator.com/item?id=50165801",
+    "score": 356,
+    "comments": 187,
+    "discussion_url": "https://news.ycombinator.com/item?id=50170593",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378298"
+    "fetched_at": "2026-10-20T22:05:24.195411"
   },
   {
-    "title": "Restoration of Retinal Regenerative Potential (2025)",
-    "url": "https://www.nature.com/articles/s41467-025-58290-8",
-    "description": "Restoration of Retinal Regenerative Potential (2025)",
-    "date": "2026-10-18",
-    "score": 104,
-    "comments": 4,
-    "discussion_url": "https://news.ycombinator.com/item?id=50140111",
+    "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+    "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+    "description": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+    "date": "2026-10-20",
+    "score": 121,
+    "comments": 70,
+    "discussion_url": "https://news.ycombinator.com/item?id=50168357",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378424"
+    "fetched_at": "2026-10-20T22:05:24.195476"
   },
   {
-    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "description": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "date": "2026-10-19",
-    "score": 649,
-    "comments": 181,
-    "discussion_url": "https://news.ycombinator.com/item?id=50159341",
+    "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+    "description": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+    "date": "2026-10-15",
+    "score": 102,
+    "comments": 40,
+    "discussion_url": "https://news.ycombinator.com/item?id=50108717",
     "tags": [
       "hackernews",
       "hnrss"
     ],
     "site_name": "hnrss",
-    "fetched_at": "2026-10-20T15:35:04.378373"
+    "fetched_at": "2026-10-20T22:05:24.195644"
+  },
+  {
+    "title": "Tsrs: A Port of TypeScript to Rust",
+    "url": "https://blog.cloudflare.com/typescript-rust-port/",
+    "description": "Tsrs: A Port of TypeScript to Rust",
+    "date": "2026-10-20",
+    "score": 303,
+    "comments": 141,
+    "discussion_url": "https://news.ycombinator.com/item?id=50165953",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-20T22:05:24.195579"
+  },
+  {
+    "title": "Voxtral 3",
+    "url": "https://mistral.ai/news/voxtral-3/",
+    "description": "Voxtral 3",
+    "date": "2026-10-20",
+    "score": 448,
+    "comments": 124,
+    "discussion_url": "https://news.ycombinator.com/item?id=50168396",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-20T22:05:24.195464"
+  },
+  {
+    "title": "What shall I teach my son?",
+    "url": "https://stevekrouse.com/ends",
+    "description": "What shall I teach my son?",
+    "date": "2026-10-20",
+    "score": 165,
+    "comments": 242,
+    "discussion_url": "https://news.ycombinator.com/item?id=50169707",
+    "tags": [
+      "hackernews",
+      "hnrss"
+    ],
+    "site_name": "hnrss",
+    "fetched_at": "2026-10-20T22:05:24.195437"
   }
 ]

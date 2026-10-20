@@ -1,5 +1,15 @@
 [
   {
+    "title": "30 Months on the Exponential (in Charts)",
+    "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "description": "30 Months on the Exponential (in Charts)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
     "title": "5 Interesting Learnings from Braze at $910 Million in Revenue: A $5.66B Sale to Salesforce, 26% Growth, and Operating Expenses Up Just 6%",
     "url": "https://www.saastr.com/5-interesting-learnings-from-braze-at-910-million-in-revenue-a-5-66b-sale-to-salesforce-26-growth-and-operating-expenses-up-just-6",
     "description": "5 Interesting Learnings from Braze at $910 Million in Revenue: A $5.66B Sale to Salesforce, 26% Growth, and Operating Expenses Up Just 6%",
@@ -20,9 +30,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Compute and Data Center Vulnerabilities in Recent Conflicts",
-    "url": "https://x.com/rohanpaul_ai/status/2112260223050346710",
-    "description": "AI Compute and Data Center Vulnerabilities in Recent Conflicts",
+    "title": "AI Had Better Work Out",
+    "url": "https://www.wheresyoured.at/ai-had-better-work-out",
+    "description": "AI Had Better Work Out",
     "tags": [
       "tldr"
     ],
@@ -30,9 +40,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-    "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019",
-    "description": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+    "title": "ASI hits a $3bn valuation as its AI moves from air traffic to the grid",
+    "url": "https://thenextweb.com/news/asi-325m-series-c-3bn-valuation-air-space-intelligence",
+    "description": "ASI hits a $3bn valuation as its AI moves from air traffic to the grid",
     "tags": [
       "tldr"
     ],
@@ -40,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ASI Hits $3 Billion Valuation in $325 Million Round Led by Spark",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/asi-hits-3-billion-valuation-in-325-million-round-led-by-spark",
-    "description": "ASI Hits $3 Billion Valuation in $325 Million Round Led by Spark",
+    "title": "Agent to agent SSO across identity domains: What federation looks like when neither side is human",
+    "url": "https://workos.com/blog/agent-to-agent-sso-federation",
+    "description": "Agent to agent SSO across identity domains: What federation looks like when neither side is human",
     "tags": [
       "tldr"
     ],
@@ -50,9 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agent-to-agent authorization: What OpenAI's Hugging Face incident shows",
-    "url": "https://workos.com/blog/agent-to-agent-authorization-openai-hugging-face",
-    "description": "Agent-to-agent authorization: What OpenAI's Hugging Face incident shows",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+    "description": "Anthropic’s cloud partnerships are getting messy",
     "tags": [
       "tldr"
     ],
@@ -60,49 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon plans to make a €16bn investment in Germany in 2027",
-    "url": "https://thenextweb.com/news/amazon-plans-to-make-a-e16bn-investment-in-germany-in-2027",
-    "description": "Amazon plans to make a €16bn investment in Germany in 2027",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "At Apple, Pigs Are About to Fly",
-    "url": "https://www.theinformation.com/articles/apple-pigs-fly",
-    "description": "At Apple, Pigs Are About to Fly",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Bain report questions AI $6 trillion buildout monetization (*)",
-    "url": "https://blog.dshr.org/2026/10/the-underpants-gnomes-step-2.html",
-    "description": "Bain report questions AI $6 trillion buildout monetization (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-    "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet",
-    "description": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Blocking Identity Resolution Infrastructure",
-    "url": "https://webkit.org/blog/18438/blocking-identity-resolution-infrastructure",
-    "description": "Blocking Identity Resolution Infrastructure",
+    "title": "Ark Invest: \"Tesla has scaled to seven cities across three states, and has completed more than 1 ...",
+    "url": "https://x.com/sawyermerritt/status/2112303385081004060",
+    "description": "Ark Invest: \"Tesla has scaled to seven cities across three states, and has completed more than 1 ...",
     "tags": [
       "tldr"
     ],
@@ -130,49 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "ClickHouse Will Let You Be Wrong at Scale",
-    "url": "https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale",
-    "description": "ClickHouse Will Let You Be Wrong at Scale",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-    "url": "https://blog.cloudflare.com/obsessive-inference-optimization",
-    "description": "Cutting our inference bill by 68% by being obsessive about optimization",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Daytona hits $1B valuation with $60M Series B for AI agent cloud",
-    "url": "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud",
-    "description": "Daytona hits $1B valuation with $60M Series B for AI agent cloud",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures",
-    "url": "https://www.forbes.com/sites/johnkoetsier/2026/10/19/robot-brains-for-75-centshour-former-nvidia-researchers-raise-90-million",
-    "description": "Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Eight eMudhra CAs Were Revoked for Compromise, and Nobody Has Said Why",
-    "url": "https://fenko.nz/blog/emudhra-ca-compromise",
-    "description": "Eight eMudhra CAs Were Revoked for Compromise, and Nobody Has Said Why",
+    "title": "DeepSeek discloses cluster token throughput and revenue figures",
+    "url": "https://x.com/yuchenj_uw/status/2112591074409742733",
+    "description": "DeepSeek discloses cluster token throughput and revenue figures",
     "tags": [
       "tldr"
     ],
@@ -183,26 +113,6 @@
     "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
     "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
     "description": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
-    "description": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-    "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-    "description": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
     "tags": [
       "tldr"
     ],
@@ -230,9 +140,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Google cloud failure hits millions as UK courts and banks knocked offline",
+    "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+    "description": "Google cloud failure hits millions as UK courts and banks knocked offline",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
     "title": "How Claude designed protein binders against scorpion neurotoxins \\ Anthropic",
     "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
     "description": "How Claude designed protein binders against scorpion neurotoxins \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How I got over 300 Tor exit nodes removed - KABA",
+    "url": "https://kaba.cx/posts/20261020_Tor",
+    "description": "How I got over 300 Tor exit nodes removed - KABA",
     "tags": [
       "tldr"
     ],
@@ -260,9 +190,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Clairic, a new System One class of extraction models",
-    "url": "https://blog.cloudflare.com/clairic-extraction-model",
-    "description": "Introducing Clairic, a new System One class of extraction models",
+    "title": "Introducing TorchTPU",
+    "url": "https://pytorch.org/blog/introducing-torchtpu",
+    "description": "Introducing TorchTPU",
     "tags": [
       "tldr"
     ],
@@ -280,9 +210,49 @@
     "site_name": "tldr"
   },
   {
+    "title": "Marvell Photonics Module Enables 50-Meter Separation Between Memory and GPU",
+    "url": "https://x.com/rohanpaul_ai/status/2112437556445106638",
+    "description": "Marvell Photonics Module Enables 50-Meter Separation Between Memory and GPU",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
+    "url": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
+    "description": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+    "description": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
     "title": "Microsoft Completes Pretraining of 2.8 Trillion-Parameter MAI-Base-2",
     "url": "https://www.thelec.net/news/articleView.html?idxno=14721",
     "description": "Microsoft Completes Pretraining of 2.8 Trillion-Parameter MAI-Base-2",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "description": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
     "tags": [
       "tldr"
     ],
@@ -300,29 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
-    "description": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia Vera’s System Architecture: Pushing Bandwidth",
-    "url": "https://chipsandcheese.com/p/nvidia-veras-system-architecture",
-    "description": "Nvidia Vera’s System Architecture: Pushing Bandwidth",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-    "description": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "description": "OpenAI acquires Orchestra Bio",
     "tags": [
       "tldr"
     ],
@@ -350,19 +300,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Qwen3.8-27B RL post-train cuts hallucinations and boosts benchmarks (*)",
-    "url": "https://x.com/rohanpaul_ai/status/2112546482478023075",
-    "description": "Qwen3.8-27B RL post-train cuts hallucinations and boosts benchmarks (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Review of the \"Misalignment in high-stakes settings\" section in Anthropic's Risk Report (August 2026)",
-    "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review",
-    "description": "Review of the \"Misalignment in high-stakes settings\" section in Anthropic's Risk Report (August 2026)",
+    "title": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price",
+    "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price",
+    "description": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price",
     "tags": [
       "tldr"
     ],
@@ -390,6 +330,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Sources: OpenAI has retreated from advocating for strict US chip export controls to China ahead of the lame-duck session, aligning closer with President Trump",
+    "url": "https://www.politico.com/news/2026/10/20/openai-ai-chips-china-nvidia-01127385",
+    "description": "Sources: OpenAI has retreated from advocating for strict US chip export controls to China ahead of the lame-duck session, aligning closer with President Trump",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
     "title": "SpaceX alum's aviation startup, Reliable Robotics, lands $115M, topping $1B valuation | TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation",
     "description": "SpaceX alum's aviation startup, Reliable Robotics, lands $115M, topping $1B valuation | TechCrunch",
@@ -400,9 +350,49 @@
     "site_name": "tldr"
   },
   {
-    "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
-    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus",
-    "description": "TorchTPU is now open source: Run native PyTorch on TPUs",
+    "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+    "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+    "description": "SpaceX will try catching Starship and its booster for first time, Musk says",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX’s AI business is beating expectations",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+    "description": "SpaceX’s AI business is beating expectations",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sundar Pichai: Google’s Frontier Imperative, Compute Scarcity Dilemmas, Future AI Products and Businesses",
+    "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
+    "description": "Sundar Pichai: Google’s Frontier Imperative, Compute Scarcity Dilemmas, Future AI Products and Businesses",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Superhuman Hardware Design Is The Easy Part",
+    "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
+    "description": "Superhuman Hardware Design Is The Easy Part",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Underpants Gnomes' Step 2",
+    "url": "https://blog.dshr.org/2026/10/the-underpants-gnomes-step-2.html",
+    "description": "The Underpants Gnomes' Step 2",
     "tags": [
       "tldr"
     ],
@@ -420,6 +410,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Using Claude to reduce the attack surface of code \\ Anthropic",
+    "url": "https://www.anthropic.com/research/attack-surface-reduction",
+    "description": "Using Claude to reduce the attack surface of code \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
+    "url": "https://mistral.ai/news/voxtral-3",
+    "description": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-20",
+    "site_name": "tldr"
+  },
+  {
     "title": "Waymo plans to quintuple its fleet",
     "url": "https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet",
     "description": "Waymo plans to quintuple its fleet",
@@ -430,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What has to go right to justify the trillions being spent on AI CapEx?",
-    "url": "https://www.generativevalue.com/p/what-has-to-go-right-to-justify-the",
-    "description": "What has to go right to justify the trillions being spent on AI CapEx?",
+    "title": "What’s the ROI of software engineers’ spending on AI?",
+    "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+    "description": "What’s the ROI of software engineers’ spending on AI?",
     "tags": [
       "tldr"
     ],
@@ -443,16 +453,6 @@
     "title": "When ‘access denied’ becomes an agent’s next objective",
     "url": "https://www.infoworld.com/article/4237168/when-access-denied-becomes-an-agents-next-objective.html",
     "description": "When ‘access denied’ becomes an agent’s next objective",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-20",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Why Anthropic replaced Git, and whether you’ll need to",
-    "url": "https://arize.com/blog/anthropic-scion-vs-git",
-    "description": "Why Anthropic replaced Git, and whether you’ll need to",
     "tags": [
       "tldr"
     ],
@@ -490,9 +490,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "kksimp/Mac.apk: Run Android apps natively on Apple Silicon Macs",
-    "url": "https://github.com/kksimp/Mac.apk",
-    "description": "kksimp/Mac.apk: Run Android apps natively on Apple Silicon Macs",
+    "title": "llm-d 1.0, an open source stack for distributed inference",
+    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference",
+    "description": "llm-d 1.0, an open source stack for distributed inference",
     "tags": [
       "tldr"
     ],

@@ -1,13 +1,13 @@
 [
   {
-    "title": "'Localhost' is a Lie: Everything Uni Missed About Real-World Tech",
-    "author": "Maame Afua A. P. Fordjour",
-    "date": "2026-10-13",
-    "description": "Real users break clean databasesMaame Afua A. P. FordjourMaame Afua A. P. FordjourMaame Afua A. P. FordjourFollowOct 13'Localhost' is a Lie: Everythin...",
-    "tags": "#watercooler, #career, #learning, #webdev",
-    "reactions": "71 reactions",
-    "comments": "Comments 27 comments",
-    "url": "https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n"
+    "title": "10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)",
+    "author": "Dhruv Jani",
+    "date": "2026-10-17",
+    "description": "Academic AI theory turned into practical dev tipsDhruv JaniDhruv JaniDhruv JaniFollowOct 1710 Prompting Techniques My Deep Learning Exam Taught Me (Th...",
+    "tags": "#discuss, #promptengineering, #ai, #beginners",
+    "reactions": "77 reactions",
+    "comments": "Comments 23 comments",
+    "url": "https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0"
   },
   {
     "title": "AI Avatar v25 (Avatar Run, Voxel Avatar, Muscle Brain)💪",
@@ -25,7 +25,7 @@
     "date": "2026-10-19",
     "description": "Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Submission 💸Daniel NwaneriDaniel NwaneriDaniel NwaneriFollowOct 19Bank alerts to a day-book...",
     "tags": "#devchallenge, #hf26challenge, #gemma, #opensource",
-    "reactions": "28 reactions",
+    "reactions": "29 reactions",
     "comments": "0",
     "url": "https://dev.to/dannwaneri/bank-alerts-to-a-day-book-with-a-local-gemma-21dl"
   },
@@ -55,7 +55,7 @@
     "date": "2026-10-16",
     "description": "Hemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowforThe DEVengersOct 16Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders...",
     "tags": "#discuss, #community, #opportunities, #resources",
-    "reactions": "90 reactions",
+    "reactions": "92 reactions",
     "comments": "0",
     "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"
   },
@@ -65,9 +65,19 @@
     "date": "2026-10-18",
     "description": "Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Submission 💸Daniel BalcarekDaniel BalcarekDaniel BalcarekFollowOct 18Fine-Tuning Qwen3-8B w...",
     "tags": "#devchallenge, #hf26challenge, #ai, #machinelearning",
-    "reactions": "68 reactions",
+    "reactions": "71 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"
+  },
+  {
+    "title": "How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️",
+    "author": "nyaomaru",
+    "date": "2026-10-14",
+    "description": "Commenters debate skipping heavy schema librariesnyaomarunyaomarunyaomaruFollowOct 14How Do You Validate `unknown` in TypeScript Without a Schema Libr...",
+    "tags": "#typescript, #opensource, #webdev, #programming",
+    "reactions": "71 reactions",
+    "comments": "0",
+    "url": "https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11"
   },
   {
     "title": "I Vibe-Coded My Way Out of Angular Upgrades",
@@ -75,7 +85,7 @@
     "date": "2026-10-15",
     "description": "CI pipeline failures reveal local vs remote quirksDaniel BalcarekDaniel BalcarekDaniel BalcarekFollowOct 15I Vibe-Coded My Way Out of Angular Upgrades...",
     "tags": "#showdev, #ai, #vibecoding, #angular",
-    "reactions": "88 reactions",
+    "reactions": "89 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh"
   },
@@ -85,9 +95,19 @@
     "date": "2026-10-13",
     "description": "Requires server-side Open Graph tags firstThomas BonnetThomas BonnetThomas BonnetFollowOct 13Integrating SEO Components into Discord#webdev#seo#html#d...",
     "tags": "#webdev, #seo, #html, #discord",
-    "reactions": "22 reactions",
+    "reactions": "23 reactions",
     "comments": "0",
     "url": "https://dev.to/thomasbnt/integrating-seo-components-into-discord-2d8g"
+  },
+  {
+    "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+    "author": "Jem",
+    "date": "2026-10-19",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxBuild something lazy. Win up to $250.Use open-source AI to automate...",
+    "tags": "#devchallenge, #hf26challenge, #hacktoberfest, #productivity",
+    "reactions": "5 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee?bb=264731"
   },
   {
     "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
@@ -95,7 +115,7 @@
     "date": "2026-10-15",
     "description": "Compares human grammar quirks to coding paradigmsGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowOct 15Natural Languages Have Design Trade-offs Too...",
     "tags": "#programming, #writing, #design, #languages",
-    "reactions": "119 reactions",
+    "reactions": "133 reactions",
     "comments": "0",
     "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
   },
@@ -105,19 +125,9 @@
     "date": "2026-10-18",
     "description": "Over 10 hours of reading behind itGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowOct 18Promise Delivered: Welcome to the DEV Hall of Fame (65 Auth...",
     "tags": "#discuss, #community, #showdev, #writing",
-    "reactions": "177 reactions",
+    "reactions": "179 reactions",
     "comments": "0",
     "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
-  },
-  {
-    "title": "Someone hacked the freezers at 400 French supermarkets",
-    "author": "Peter Kim Frank",
-    "date": "2026-10-13",
-    "description": "Outdated industrial software risks physical chaosPeter Kim FrankPeter Kim FrankPeter Kim FrankFollowOct 13Someone hacked the freezers at 400 French su...",
-    "tags": "#news, #security, #ai",
-    "reactions": "29 reactions",
-    "comments": "Comments 8 comments",
-    "url": "https://dev.to/peter/someone-hacked-the-freezers-at-400-french-supermarkets-5flm"
   },
   {
     "title": "The minimum you need to know about GitHub Actions",
@@ -135,7 +145,7 @@
     "date": "2026-10-16",
     "description": "Geeky survival humor from tech prosxulingfengxulingfengxulingfengFollowOct 16What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?#...",
     "tags": "#discuss, #career, #jokes, #programming",
-    "reactions": "106 reactions",
+    "reactions": "107 reactions",
     "comments": "Comments 73 comments",
     "url": "https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o"
   },
@@ -145,7 +155,7 @@
     "date": "2026-10-16",
     "description": "Tests help retain code lessonsJessica DoeringJessica DoeringJessica DoeringFollowOct 16What I Actually Learn When I Build With AI#discuss#ai#programmi...",
     "tags": "#discuss, #ai, #programming, #learning",
-    "reactions": "55 reactions",
+    "reactions": "57 reactions",
     "comments": "0",
     "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074"
   },
@@ -153,10 +163,10 @@
     "title": "What was your win this week?!",
     "author": "Jess Lee",
     "date": "2026-10-16",
-    "description": "Community shares weekly triumphsJess LeeJess LeeJess LeeFollowforThe DEV TeamOct 16What was your win this week?!#weeklyretro31reactionsComments37comme...",
+    "description": "Community shares weekly triumphsJess LeeJess LeeJess LeeFollowforThe DEV TeamOct 16What was your win this week?!#weeklyretro31reactionsComments38comme...",
     "tags": "#weeklyretro",
     "reactions": "31 reactions",
-    "comments": "Comments 37 comments",
+    "comments": "Comments 38 comments",
     "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
   },
   {
