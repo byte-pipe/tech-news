@@ -1,22 +1,12 @@
 [
   {
-    "title": "\"Rails Magic\" Isn't Magic. How a Request Actually Travels Through Rails.",
-    "author": "S M Tahosin",
-    "date": "2026-10-19",
-    "description": "S M TahosinS M TahosinS M TahosinFollowOct 19\"Rails Magic\" Isn't Magic. How a Request Actually Travels Through Rails.#rails#ruby#webdev#architecture20...",
-    "tags": "#rails, #ruby, #webdev, #architecture",
-    "reactions": "20 reactions",
-    "comments": "0",
-    "url": "https://dev.to/smtahosin/rails-magic-isnt-magic-how-a-request-actually-travels-through-rails-5gc5"
-  },
-  {
     "title": "10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)",
     "author": "Dhruv Jani",
     "date": "2026-10-17",
     "description": "Academic AI theory turned into practical dev tipsDhruv JaniDhruv JaniDhruv JaniFollowOct 1710 Prompting Techniques My Deep Learning Exam Taught Me (Th...",
     "tags": "#discuss, #promptengineering, #ai, #beginners",
-    "reactions": "91 reactions",
-    "comments": "Comments 27 comments",
+    "reactions": "96 reactions",
+    "comments": "Comments 28 comments",
     "url": "https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0"
   },
   {
@@ -35,7 +25,7 @@
     "date": "2026-10-16",
     "description": "Hemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowforThe DEVengersOct 16Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders...",
     "tags": "#discuss, #community, #opportunities, #resources",
-    "reactions": "103 reactions",
+    "reactions": "104 reactions",
     "comments": "0",
     "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"
   },
@@ -45,7 +35,7 @@
     "date": "2026-10-18",
     "description": "Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Submission 💸Daniel BalcarekDaniel BalcarekDaniel BalcarekFollowOct 18Fine-Tuning Qwen3-8B w...",
     "tags": "#devchallenge, #hf26challenge, #ai, #machinelearning",
-    "reactions": "75 reactions",
+    "reactions": "77 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"
   },
@@ -55,19 +45,19 @@
     "date": "2026-10-21",
     "description": "Real experiences from recent events like JS PolandSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowOct 21How to Become a Tech Conference Speaker ...",
     "tags": "#techtalks, #career, #speaking",
-    "reactions": "63 reactions",
+    "reactions": "97 reactions",
     "comments": "0",
     "url": "https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink"
   },
   {
-    "title": "I Built a New Tab Extension for DEV",
-    "author": "Jessica Doering",
-    "date": "2026-10-18",
-    "description": "Includes tag filters and offline caching detailsJessica DoeringJessica DoeringJessica DoeringFollowOct 18I Built a New Tab Extension for DEV#showdev#w...",
-    "tags": "#showdev, #webdev, #opensource, #javascript",
-    "reactions": "56 reactions",
-    "comments": "Comments 35 comments",
-    "url": "https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm"
+    "title": "I Got Tired of Coming into my Lab to Check the Pressure of my Cryocooler so I Built a Tool to do it for Me",
+    "author": "Paul Horton",
+    "date": "2026-10-21",
+    "description": "Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Submission 🦥Paul HortonPaul HortonPaul HortonFollowOct 21I Got Tired of Coming into my ...",
+    "tags": "#devchallenge, #hf26challenge, #tigerdata, #githubcopilot",
+    "reactions": "35 reactions",
+    "comments": "0",
+    "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7"
   },
   {
     "title": "I Vibe-Coded My Way Out of Angular Upgrades",
@@ -75,7 +65,7 @@
     "date": "2026-10-15",
     "description": "CI pipeline failures reveal local vs remote quirksDaniel BalcarekDaniel BalcarekDaniel BalcarekFollowOct 15I Vibe-Coded My Way Out of Angular Upgrades...",
     "tags": "#showdev, #ai, #vibecoding, #angular",
-    "reactions": "89 reactions",
+    "reactions": "90 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh"
   },
@@ -93,11 +83,21 @@
     "title": "In Ruby, Objects Don't Have Methods. How Method Lookup Actually Works.",
     "author": "S M Tahosin",
     "date": "2026-10-21",
-    "description": "S M TahosinS M TahosinS M TahosinFollowOct 21In Ruby, Objects Don't Have Methods. How Method Lookup Actually Works.#ruby#programming#webdev#oop7reacti...",
+    "description": "S M TahosinS M TahosinS M TahosinFollowOct 21In Ruby, Objects Don't Have Methods. How Method Lookup Actually Works.#ruby#programming#webdev#oop18react...",
     "tags": "#ruby, #programming, #webdev, #oop",
-    "reactions": "7 reactions",
+    "reactions": "18 reactions",
     "comments": "0",
     "url": "https://dev.to/smtahosin/in-ruby-objects-dont-have-methods-how-method-lookup-actually-works-31g9"
+  },
+  {
+    "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+    "author": "Jem",
+    "date": "2026-10-19",
+    "description": "🚀 DEV ChallengesDropdown menuWhat's a billboard?Manage preferencesReport billboardxAutomate the chore you keep putting off.Group chat summaries, inbox...",
+    "tags": "#devchallenge, #hf26challenge, #hacktoberfest, #productivity",
+    "reactions": "5 reactions",
+    "comments": "Comments Add Comment",
+    "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee?bb=264733"
   },
   {
     "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
@@ -105,7 +105,7 @@
     "date": "2026-10-15",
     "description": "Compares human grammar quirks to coding paradigmsGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowOct 15Natural Languages Have Design Trade-offs Too...",
     "tags": "#programming, #writing, #design, #languages",
-    "reactions": "134 reactions",
+    "reactions": "135 reactions",
     "comments": "0",
     "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
   },
@@ -115,7 +115,7 @@
     "date": "2026-10-18",
     "description": "Over 10 hours of reading behind itGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowOct 18Promise Delivered: Welcome to the DEV Hall of Fame (65 Auth...",
     "tags": "#discuss, #community, #showdev, #writing",
-    "reactions": "195 reactions",
+    "reactions": "201 reactions",
     "comments": "0",
     "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
   },
@@ -125,9 +125,19 @@
     "date": "2026-10-20",
     "description": "Comments compare coding to cooking and runningJames AndersonJames AndersonJames AndersonFollowOct 20Somewhere, Coding Stopped Being Allowed to Be Fun#...",
     "tags": "#discuss, #career, #ai, #mentalhealth",
-    "reactions": "46 reactions",
+    "reactions": "47 reactions",
     "comments": "Comments 44 comments",
     "url": "https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe"
+  },
+  {
+    "title": "Stuck in the same dev.to topics? An open model fixed it.",
+    "author": "Thomas Bonnet",
+    "date": "2026-10-21",
+    "description": "Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Submission 🦥Thomas BonnetThomas BonnetThomas BonnetFollowOct 21Stuck in the same dev.to...",
+    "tags": "#devchallenge, #hf26challenge, #ai, #javascript",
+    "reactions": "32 reactions",
+    "comments": "0",
+    "url": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc"
   },
   {
     "title": "What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?",
@@ -135,7 +145,7 @@
     "date": "2026-10-16",
     "description": "Geeky survival humor from tech prosxulingfengxulingfengxulingfengFollowOct 16What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?#...",
     "tags": "#discuss, #career, #jokes, #programming",
-    "reactions": "111 reactions",
+    "reactions": "112 reactions",
     "comments": "Comments 77 comments",
     "url": "https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o"
   },
@@ -145,7 +155,7 @@
     "date": "2026-10-16",
     "description": "Tests help retain code lessonsJessica DoeringJessica DoeringJessica DoeringFollowOct 16What I Actually Learn When I Build With AI#discuss#ai#programmi...",
     "tags": "#discuss, #ai, #programming, #learning",
-    "reactions": "59 reactions",
+    "reactions": "61 reactions",
     "comments": "0",
     "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074"
   },
@@ -160,14 +170,14 @@
     "url": "https://dev.to/devteam/what-was-your-win-this-week-36am"
   },
   {
-    "title": "🌑 Blue October",
-    "author": "Anna Villarreal",
-    "date": "2026-10-16",
-    "description": "From burnout to code recovery storyAnna VillarrealAnna VillarrealAnna VillarrealFollowOct 16🌑 Blue October#webdev#programming#mentalhealth26reactionsP...",
-    "tags": "#webdev, #programming, #mentalhealth",
-    "reactions": "26 reactions",
-    "comments": "0",
-    "url": "https://dev.to/annavi11arrea1/blue-october-1jia"
+    "title": "is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50",
+    "author": "nyaomaru",
+    "date": "2026-10-21",
+    "description": "Covers new APIs, Effect edge cases, and OSS usagenyaomarunyaomarunyaomaruFollowOct 21is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50#typescri...",
+    "tags": "#typescript, #opensource, #webdev, #frontend",
+    "reactions": "55 reactions",
+    "comments": "Comments 10 comments",
+    "url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf"
   },
   {
     "title": "🐾 DEV Pet Corner #2: Show Us Your Pets!",

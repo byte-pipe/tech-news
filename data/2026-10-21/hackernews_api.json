@@ -1,28 +1,45 @@
 [
   {
-    "title": "C# now beats Rust on WASM size",
-    "url": "https://github.com/zion-sati/NetWasm",
-    "author": "sumnole",
+    "title": "Claude Duet",
+    "url": "https://claude.com/product/claude-duet",
+    "author": "kuberwastaken",
     "date": "2026-10-21",
-    "score": 142,
-    "comments": 77,
-    "id": 50175510,
-    "discussion_url": "https://news.ycombinator.com/item?id=50175510",
-    "description": "C# now beats Rust on WASM size",
+    "score": 217,
+    "comments": 189,
+    "id": 50186037,
+    "discussion_url": "https://news.ycombinator.com/item?id=50186037",
+    "description": "Claude Duet",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006468"
+    "fetched_at": "2026-10-21T22:06:15.118206"
+  },
+  {
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "author": "abhisek",
+    "date": "2026-10-21",
+    "score": 363,
+    "comments": 118,
+    "id": 50181114,
+    "discussion_url": "https://news.ycombinator.com/item?id=50181114",
+    "description": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-21T22:06:15.118222"
   },
   {
     "title": "DeepInfer: High-performance inference framework for DeepSeek models",
     "url": "https://github.com/deepseek-ai/DeepInfer",
     "author": "ggcr",
     "date": "2026-10-20",
-    "score": 2281,
-    "comments": 874,
+    "score": 2298,
+    "comments": 881,
     "id": 50163277,
     "discussion_url": "https://news.ycombinator.com/item?id=50163277",
     "description": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -31,83 +48,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006460"
+    "fetched_at": "2026-10-21T22:06:15.118367"
   },
   {
-    "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+    "title": "Drupal is now light-years ahead of its reputation",
+    "url": "https://dri.es/state-of-drupal-presentation-september-2026",
+    "author": "scottfalconer",
+    "date": "2026-10-19",
+    "score": 103,
+    "comments": 107,
+    "id": 50158408,
+    "discussion_url": "https://news.ycombinator.com/item?id=50158408",
+    "description": "Drupal is now light-years ahead of its reputation",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-21T22:06:15.118183"
+  },
+  {
+    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
     "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
     "author": "nnx",
     "date": "2026-10-21",
-    "score": 139,
-    "comments": 13,
+    "score": 332,
+    "comments": 38,
     "id": 50181136,
     "discussion_url": "https://news.ycombinator.com/item?id=50181136",
-    "description": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+    "description": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006307"
+    "fetched_at": "2026-10-21T22:06:15.118187"
   },
   {
-    "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-    "url": "https://www.ncsc.nl/actueel",
-    "author": "jacquesm",
+    "title": "EA is shutting down BioWare",
+    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "author": "aaronbrethorst",
     "date": "2026-10-21",
-    "score": 234,
-    "comments": 75,
-    "id": 50179828,
-    "discussion_url": "https://news.ycombinator.com/item?id=50179828",
-    "description": "Dutch National Cyber Security Center is Offline because it uses PHP",
+    "score": 414,
+    "comments": 251,
+    "id": 50184586,
+    "discussion_url": "https://news.ycombinator.com/item?id=50184586",
+    "description": "EA is shutting down BioWare",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006321"
+    "fetched_at": "2026-10-21T22:06:15.118210"
   },
   {
-    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+    "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
     "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
     "author": "hkc",
     "date": "2026-10-21",
-    "score": 552,
-    "comments": 244,
+    "score": 778,
+    "comments": 384,
     "id": 50177916,
     "discussion_url": "https://news.ycombinator.com/item?id=50177916",
-    "description": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+    "description": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006302"
+    "fetched_at": "2026-10-21T22:06:15.118178"
   },
   {
-    "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-    "author": "Bender",
-    "date": "2026-10-20",
-    "score": 248,
-    "comments": 124,
-    "id": 50173487,
-    "discussion_url": "https://news.ycombinator.com/item?id=50173487",
-    "description": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+    "title": "GitLab Critical Patch Release",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "author": "artooro",
+    "date": "2026-10-21",
+    "score": 154,
+    "comments": 32,
+    "id": 50185869,
+    "discussion_url": "https://news.ycombinator.com/item?id=50185869",
+    "description": "GitLab Critical Patch Release",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006413"
+    "fetched_at": "2026-10-21T22:06:15.118191"
   },
   {
     "title": "Good type against all odds",
     "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
     "author": "firloop",
     "date": "2026-10-21",
-    "score": 180,
-    "comments": 15,
+    "score": 194,
+    "comments": 20,
     "id": 50175059,
     "discussion_url": "https://news.ycombinator.com/item?id=50175059",
     "description": "Good type against all odds",
@@ -116,49 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006435"
+    "fetched_at": "2026-10-21T22:06:15.118360"
   },
   {
-    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-    "url": "https://github.com/google-pytorch/torch_tpu",
-    "author": "ilreb",
-    "date": "2026-10-20",
-    "score": 371,
-    "comments": 83,
-    "id": 50169053,
-    "discussion_url": "https://news.ycombinator.com/item?id=50169053",
-    "description": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+    "title": "Google's Rust Style Guide",
+    "url": "https://google.github.io/styleguide/rustguide.html",
+    "author": "kaycebasques",
+    "date": "2026-10-21",
+    "score": 112,
+    "comments": 81,
+    "id": 50186010,
+    "discussion_url": "https://news.ycombinator.com/item?id=50186010",
+    "description": "Google's Rust Style Guide",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006442"
-  },
-  {
-    "title": "How I got over 300 Tor exit nodes removed",
-    "url": "https://kaba.cx/posts/20261020_Tor/",
-    "author": "kabakabakaba",
-    "date": "2026-10-20",
-    "score": 380,
-    "comments": 97,
-    "id": 50166257,
-    "discussion_url": "https://news.ycombinator.com/item?id=50166257",
-    "description": "How I got over 300 Tor exit nodes removed",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006518"
+    "fetched_at": "2026-10-21T22:06:15.118229"
   },
   {
     "title": "In Hilbert space, all things are quantumly possible",
     "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
     "author": "unprovable",
     "date": "2026-10-21",
-    "score": 128,
-    "comments": 69,
+    "score": 140,
+    "comments": 72,
     "id": 50175185,
     "discussion_url": "https://news.ycombinator.com/item?id=50175185",
     "description": "In Hilbert space, all things are quantumly possible",
@@ -167,15 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006431"
+    "fetched_at": "2026-10-21T22:06:15.118374"
+  },
+  {
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "author": "cbg0",
+    "date": "2026-10-21",
+    "score": 229,
+    "comments": 136,
+    "id": 50184820,
+    "discussion_url": "https://news.ycombinator.com/item?id=50184820",
+    "description": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-21T22:06:15.118225"
   },
   {
     "title": "Muse exposes users' personal and business secrets when they share conversations",
     "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "author": "gumby",
     "date": "2026-10-21",
-    "score": 296,
-    "comments": 143,
+    "score": 379,
+    "comments": 159,
     "id": 50174687,
     "discussion_url": "https://news.ycombinator.com/item?id=50174687",
     "description": "Muse exposes users' personal and business secrets when they share conversations",
@@ -184,32 +218,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006297"
+    "fetched_at": "2026-10-21T22:06:15.118398"
   },
   {
-    "title": "Ofcom concedes defeat in 4chan case",
-    "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-    "author": "iamnothere",
-    "date": "2026-10-20",
-    "score": 409,
-    "comments": 371,
-    "id": 50167028,
-    "discussion_url": "https://news.ycombinator.com/item?id=50167028",
-    "description": "Ofcom concedes defeat in 4chan case",
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "author": "armcat",
+    "date": "2026-10-21",
+    "score": 191,
+    "comments": 88,
+    "id": 50180079,
+    "discussion_url": "https://news.ycombinator.com/item?id=50180079",
+    "description": "OpenAI models are coming to Google Cloud",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006485"
+    "fetched_at": "2026-10-21T22:06:15.118232"
+  },
+  {
+    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "author": "surprisetalk",
+    "date": "2026-10-21",
+    "score": 150,
+    "comments": 80,
+    "id": 50182526,
+    "discussion_url": "https://news.ycombinator.com/item?id=50182526",
+    "description": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-21T22:06:15.118274"
   },
   {
     "title": "PHP 8.2.35",
     "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
     "author": "tuyuri",
     "date": "2026-10-21",
-    "score": 495,
-    "comments": 210,
+    "score": 932,
+    "comments": 521,
     "id": 50180873,
     "discussion_url": "https://news.ycombinator.com/item?id=50180873",
     "description": "PHP 8.2.35",
@@ -218,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006332"
+    "fetched_at": "2026-10-21T22:06:15.118247"
   },
   {
     "title": "PHP2Shell: AI uncovers critical RCE in PHP",
     "url": "https://www.wiz.io/blog/php2shell-php-rce",
     "author": "danlark1",
     "date": "2026-10-21",
-    "score": 290,
-    "comments": 80,
+    "score": 422,
+    "comments": 167,
     "id": 50180836,
     "discussion_url": "https://news.ycombinator.com/item?id=50180836",
     "description": "PHP2Shell: AI uncovers critical RCE in PHP",
@@ -235,32 +286,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006283"
+    "fetched_at": "2026-10-21T22:06:15.118395"
   },
   {
-    "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-    "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-    "author": "mattifrank",
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "author": "nr378",
     "date": "2026-10-21",
-    "score": 201,
-    "comments": 102,
-    "id": 50179706,
-    "discussion_url": "https://news.ycombinator.com/item?id=50179706",
-    "description": "Qwen3-Coder writes less secure code when told it's for a US persona",
+    "score": 209,
+    "comments": 133,
+    "id": 50181175,
+    "discussion_url": "https://news.ycombinator.com/item?id=50181175",
+    "description": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006409"
+    "fetched_at": "2026-10-21T22:06:15.118236"
+  },
+  {
+    "title": "Plex laid off the whole player team",
+    "url": "https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5",
+    "author": "zzyzxd",
+    "date": "2026-10-21",
+    "score": 100,
+    "comments": 72,
+    "id": 50186318,
+    "discussion_url": "https://news.ycombinator.com/item?id=50186318",
+    "description": "Plex laid off the whole player team",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-21T22:06:15.118333"
   },
   {
     "title": "Show HN: SimCity, but with Permits",
     "url": "https://permit.petercai.com/",
     "author": "pcai",
     "date": "2026-10-20",
-    "score": 877,
-    "comments": 396,
+    "score": 903,
+    "comments": 408,
     "id": 50170593,
     "discussion_url": "https://news.ycombinator.com/item?id=50170593",
     "description": "Show HN: SimCity, but with Permits",
@@ -269,49 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006385"
-  },
-  {
-    "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-    "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-    "author": "speckx",
-    "date": "2026-10-20",
-    "score": 310,
-    "comments": 174,
-    "id": 50168357,
-    "discussion_url": "https://news.ycombinator.com/item?id=50168357",
-    "description": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006474"
-  },
-  {
-    "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-    "author": "dhorthy",
-    "date": "2026-10-15",
-    "score": 294,
-    "comments": 116,
-    "id": 50108717,
-    "discussion_url": "https://news.ycombinator.com/item?id=50108717",
-    "description": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006456"
+    "fetched_at": "2026-10-21T22:06:15.118413"
   },
   {
     "title": "The Decoherence Trap",
     "url": "https://maevyn.codes/decoherence",
     "author": "cassianoleal",
     "date": "2026-10-19",
-    "score": 120,
-    "comments": 54,
+    "score": 173,
+    "comments": 82,
     "id": 50149861,
     "discussion_url": "https://news.ycombinator.com/item?id=50149861",
     "description": "The Decoherence Trap",
@@ -320,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006405"
+    "fetched_at": "2026-10-21T22:06:15.118322"
   },
   {
     "title": "The Future of CSS",
     "url": "https://www.joshwcomeau.com/css/interop-2027/",
     "author": "soheilpro",
     "date": "2026-10-21",
-    "score": 521,
-    "comments": 221,
+    "score": 584,
+    "comments": 257,
     "id": 50175070,
     "discussion_url": "https://news.ycombinator.com/item?id=50175070",
     "description": "The Future of CSS",
@@ -337,66 +371,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006370"
+    "fetched_at": "2026-10-21T22:06:15.118381"
   },
   {
-    "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
-    "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
-    "author": "robtherobber",
+    "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+    "author": "bryanrasmussen",
+    "date": "2026-10-20",
+    "score": 126,
+    "comments": 24,
+    "id": 50162044,
+    "discussion_url": "https://news.ycombinator.com/item?id=50162044",
+    "description": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-21T22:06:15.118217"
+  },
+  {
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "author": "ejohnso49",
     "date": "2026-10-21",
-    "score": 234,
-    "comments": 166,
-    "id": 50181137,
-    "discussion_url": "https://news.ycombinator.com/item?id=50181137",
-    "description": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+    "score": 547,
+    "comments": 281,
+    "id": 50182987,
+    "discussion_url": "https://news.ycombinator.com/item?id=50182987",
+    "description": "Today's PHP security release, and how we're strengthening security",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006316"
-  },
-  {
-    "title": "The Other Epidemic: Trying to get off benzodiazepines",
-    "url": "https://www.thebeliever.net/the-other-epidemic/",
-    "author": "gaplong",
-    "date": "2026-10-20",
-    "score": 257,
-    "comments": 203,
-    "id": 50173891,
-    "discussion_url": "https://news.ycombinator.com/item?id=50173891",
-    "description": "The Other Epidemic: Trying to get off benzodiazepines",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006421"
-  },
-  {
-    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-    "url": "https://news-web.php.net/php.announce/509",
-    "author": "xd",
-    "date": "2026-10-20",
-    "score": 1431,
-    "comments": 604,
-    "id": 50172041,
-    "discussion_url": "https://news.ycombinator.com/item?id=50172041",
-    "description": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006365"
+    "fetched_at": "2026-10-21T22:06:15.118159"
   },
   {
     "title": "Using Claude to reduce the attack surface of code",
     "url": "https://www.anthropic.com/research/attack-surface-reduction",
     "author": "dnw",
     "date": "2026-10-21",
-    "score": 107,
-    "comments": 72,
+    "score": 128,
+    "comments": 84,
     "id": 50175779,
     "discussion_url": "https://news.ycombinator.com/item?id=50175779",
     "description": "Using Claude to reduce the attack surface of code",
@@ -405,32 +422,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006453"
+    "fetched_at": "2026-10-21T22:06:15.118405"
   },
   {
-    "title": "Voxtral 3",
-    "url": "https://mistral.ai/news/voxtral-3/",
-    "author": "ilreb",
-    "date": "2026-10-20",
-    "score": 746,
-    "comments": 193,
-    "id": 50168396,
-    "discussion_url": "https://news.ycombinator.com/item?id=50168396",
-    "description": "Voxtral 3",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "author": "raahelb",
+    "date": "2026-10-21",
+    "score": 118,
+    "comments": 64,
+    "id": 50180752,
+    "discussion_url": "https://news.ycombinator.com/item?id=50180752",
+    "description": "Using thousands of AI agents to uncover new leads in biological data",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006397"
+    "fetched_at": "2026-10-21T22:06:15.118282"
   },
   {
     "title": "Way to Play Super Mario 64: On Apple Vision Pro",
     "url": "https://www.pagetable.com/303",
     "author": "frizlab",
     "date": "2026-10-19",
-    "score": 125,
-    "comments": 41,
+    "score": 196,
+    "comments": 82,
     "id": 50150214,
     "discussion_url": "https://news.ycombinator.com/item?id=50150214",
     "description": "Way to Play Super Mario 64: On Apple Vision Pro",
@@ -439,32 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006343"
-  },
-  {
-    "title": "What shall I teach my son?",
-    "url": "https://stevekrouse.com/ends",
-    "author": "Curiositry",
-    "date": "2026-10-20",
-    "score": 450,
-    "comments": 567,
-    "id": 50169707,
-    "discussion_url": "https://news.ycombinator.com/item?id=50169707",
-    "description": "What shall I teach my son?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006450"
+    "fetched_at": "2026-10-21T22:06:15.118308"
   },
   {
     "title": "Whatever Happened to Fire Escapes",
     "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
     "author": "sohkamyung",
     "date": "2026-10-21",
-    "score": 133,
-    "comments": 92,
+    "score": 182,
+    "comments": 140,
     "id": 50178455,
     "discussion_url": "https://news.ycombinator.com/item?id=50178455",
     "description": "Whatever Happened to Fire Escapes",
@@ -473,15 +473,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006401"
+    "fetched_at": "2026-10-21T22:06:15.118336"
+  },
+  {
+    "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+    "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+    "author": "khalidkhair",
+    "date": "2026-10-20",
+    "score": 95,
+    "comments": 57,
+    "id": 50159726,
+    "discussion_url": "https://news.ycombinator.com/item?id=50159726",
+    "description": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-21T22:06:15.118201"
   },
   {
     "title": "ZX Spectrum Next Laptop",
     "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
     "author": "utopcell",
     "date": "2026-10-19",
-    "score": 116,
-    "comments": 20,
+    "score": 121,
+    "comments": 25,
     "id": 50147799,
     "discussion_url": "https://news.ycombinator.com/item?id=50147799",
     "description": "ZX Spectrum Next Laptop",
@@ -490,23 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006446"
-  },
-  {
-    "title": "eMudhra intermediate CA compromise",
-    "url": "https://emudhra.we-have-a-problem.com/",
-    "author": "galadran",
-    "date": "2026-10-20",
-    "score": 1144,
-    "comments": 439,
-    "id": 50166579,
-    "discussion_url": "https://news.ycombinator.com/item?id=50166579",
-    "description": "eMudhra intermediate CA compromise",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-21T15:51:30.006489"
+    "fetched_at": "2026-10-21T22:06:15.118391"
   }
 ]
