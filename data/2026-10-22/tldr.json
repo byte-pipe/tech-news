@@ -1,8 +1,8 @@
 [
   {
-    "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-    "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-    "description": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
+    "title": "'This is absolutely not being overhyped': Sherrod DeGrippo on the PHP flaws and AI's cybersecurity reckoning",
+    "url": "https://www.groundlevel-ai.com/p/php-vulnerabilities-ai-cybersecurity-sherrod-degrippo",
+    "description": "'This is absolutely not being overhyped': Sherrod DeGrippo on the PHP flaws and AI's cybersecurity reckoning",
     "tags": [
       "tldr"
     ],
@@ -10,9 +10,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agility’s Digit 5 humanoid robot will run on Nvidia as it heads for Nasdaq",
-    "url": "https://thenextweb.com/news/agility-robotics-digit-5-nvidia-igx-thor",
-    "description": "Agility’s Digit 5 humanoid robot will run on Nvidia as it heads for Nasdaq",
+    "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
+    "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+    "description": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
     "tags": [
       "tldr"
     ],
@@ -30,9 +30,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+    "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches",
+    "description": "Amazon says PHP2Shell exploitation began 4 days before patches",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "An Interview with OpenAI’s Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
     "url": "https://taekim.substack.com/p/an-interview-with-openais-richard",
     "description": "An Interview with OpenAI’s Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/anthropic-ipo-to-drive-blockbuster-gains-for-iconiq-spark-gic",
+    "description": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC",
     "tags": [
       "tldr"
     ],
@@ -50,9 +70,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-    "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-    "description": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+    "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
+    "url": "https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22",
+    "description": "Apple bets iPhone Duo can remake foldable market as sales begin",
     "tags": [
       "tldr"
     ],
@@ -60,9 +80,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "China's biggest chatbot has started bringing up shopping on its own. It mentions the cold weather, then hands you a coupon",
-    "url": "https://www.reddit.com/r/artificial/comments/1xclm0i/chinas_biggest_chatbot_has_started_bringing_up",
-    "description": "China's biggest chatbot has started bringing up shopping on its own. It mentions the cold weather, then hands you a coupon",
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "description": "Build more responsive apps with the Decisions API",
     "tags": [
       "tldr"
     ],
@@ -70,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
-    "description": "DeepSeek reportedly raises $15B days after US restrictions",
+    "title": "Building agents: When to fold subagents into your main agent loop | Claude by Anthropic",
+    "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+    "description": "Building agents: When to fold subagents into your main agent loop | Claude by Anthropic",
     "tags": [
       "tldr"
     ],
@@ -80,9 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Developers bring incredible new app experiences to iPhone Duo",
-    "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo",
-    "description": "Developers bring incredible new app experiences to iPhone Duo",
+    "title": "CATL, Tencent back DeepSeek’s latest $15b financing",
+    "url": "https://www.dealstreetasia.com/stories/deepseek-fundraising-ai-498879",
+    "description": "CATL, Tencent back DeepSeek’s latest $15b financing",
     "tags": [
       "tldr"
     ],
@@ -90,9 +110,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Dream Labs raises $90M and launches Dream API",
-    "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api",
-    "description": "Dream Labs raises $90M and launches Dream API",
+    "title": "Canva releases its first image generation model",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+    "description": "Canva releases its first image generation model",
     "tags": [
       "tldr"
     ],
@@ -100,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Elon Musk’s flying Roadster was an ad for a SpaceX and Tesla merger after all",
-    "url": "https://www.fastcompany.com/91627503/elon-musks-flying-roadster-was-an-ad-for-a-spacex-and-tesla-merger-after-all",
-    "description": "Elon Musk’s flying Roadster was an ad for a SpaceX and Tesla merger after all",
+    "title": "China Isn't Killing Its Open AI (Yet)",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-10-22/china-isn-t-killing-its-open-ai-yet",
+    "description": "China Isn't Killing Its Open AI (Yet)",
     "tags": [
       "tldr"
     ],
@@ -110,9 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ex-OpenAI Science Head Kevin Weil Launches Startup With $215 Million",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million",
-    "description": "Ex-OpenAI Science Head Kevin Weil Launches Startup With $215 Million",
+    "title": "Datadog Offered to Buy Security Startup ‘Upwind’ For Nearly $4 Billion",
+    "url": "https://www.theinformation.com/articles/datadog-offered-buy-security-startup-upwind-nearly-4-billion",
+    "description": "Datadog Offered to Buy Security Startup ‘Upwind’ For Nearly $4 Billion",
     "tags": [
       "tldr"
     ],
@@ -120,9 +140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Google DeepMind and Cambridge AI Agent Discovers New Math for 11 Turing Machines",
-    "url": "https://x.com/rohanpaul_ai/status/2113232462742778350",
-    "description": "Google DeepMind and Cambridge AI Agent Discovers New Math for 11 Turing Machines",
+    "title": "Donating Agent Skills to the Agentic AI Foundation \\ Anthropic",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "description": "Donating Agent Skills to the Agentic AI Foundation \\ Anthropic",
     "tags": [
       "tldr"
     ],
@@ -130,9 +150,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "How we cut GitLab Duo Code Review's cost by 98%",
-    "url": "https://www.ai21.com/blog/gitlab-case-study",
-    "description": "How we cut GitLab Duo Code Review's cost by 98%",
+    "title": "Elon Musk makes $1 billion investment in Ellison’s Skydance",
+    "url": "https://www.semafor.com/article/10/22/2026/elon-musk-makes-1-billion-investment-in-ellisons-skydance",
+    "description": "Elon Musk makes $1 billion investment in Ellison’s Skydance",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Elon Musk’s dream merger is a nightmare for SpaceX shareholders",
+    "url": "https://fortune.com/2026/10/22/is-elon-musk-tesla-spacex-merger-a-good-idea-shareholders",
+    "description": "Elon Musk’s dream merger is a nightmare for SpaceX shareholders",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
+    "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab",
+    "description": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Cerebras Deploys Trillion-Parameter AI Models",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "description": "How Cerebras Deploys Trillion-Parameter AI Models",
     "tags": [
       "tldr"
     ],
@@ -143,6 +193,16 @@
     "title": "Inside Intel's Fabs: Transistors, EUV, and the Future of Chipmaking",
     "url": "https://www.dwarkesh.com/p/intel-tour",
     "description": "Inside Intel's Fabs: Transistors, EUV, and the Future of Chipmaking",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Insiders Reportedly Say Tesla-SpaceX Merger Must Close Before Trump Leaves Office",
+    "url": "https://gizmodo.com/insiders-reportedly-say-tesla-spacex-merger-must-close-before-trump-leaves-office-2000829228",
+    "description": "Insiders Reportedly Say Tesla-SpaceX Merger Must Close Before Trump Leaves Office",
     "tags": [
       "tldr"
     ],
@@ -170,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Claude Duet | Claude by Anthropic",
-    "url": "https://claude.com/resources/articles/claude-duet",
-    "description": "Introducing Claude Duet | Claude by Anthropic",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+    "description": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
     "tags": [
       "tldr"
     ],
@@ -180,29 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "description": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta says Muse has over 10M users, with shopping a top activity | TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
-    "description": "Meta says Muse has over 10M users, with shopping a top activity | TechCrunch",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Most AI data centers may never be built. Blame the 'bragawatts.'",
-    "url": "https://www.businessinsider.com/ai-data-centers-never-built-bragawatts-kevin-oleary-2026-10",
-    "description": "Most AI data centers may never be built. Blame the 'bragawatts.'",
+    "title": "Modular: Modular 26.7: Opening up MAX",
+    "url": "https://www.modular.com/blog/26-7",
+    "description": "Modular: Modular 26.7: Opening up MAX",
     "tags": [
       "tldr"
     ],
@@ -220,39 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "NVIDIA To Connect 576 Rubin Ultra GPUs Using CPO To Create One Giant GPU With The “Highest Performance per Watt” on the Planet Next Year To Drive 10 Trillion-Parameter AI Models",
-    "url": "https://wccftech.com/nvidia-connect-576-rubin-ultra-gpus-using-cpo-create-one-giant-gpu-highest-performance-per-watt",
-    "description": "NVIDIA To Connect 576 Rubin Ultra GPUs Using CPO To Create One Giant GPU With The “Highest Performance per Watt” on the Planet Next Year To Drive 10 Trillion-Parameter AI Models",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia turns the AI factory into a product, and agents into the workload",
-    "url": "https://siliconangle.com/2026/10/21/nvidia-turns-the-ai-factory-into-a-product-and-agents-into-the-workload",
-    "description": "Nvidia turns the AI factory into a product, and agents into the workload",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
-    "url": "https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html",
-    "description": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "url": "https://allenai.org/blog/olmoearth-v1-3",
-    "description": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "title": "PHP2Shell (CVE-2026-109618 and CVE-2026-109619): Detecting unauthenticated remote code execution in PHP core",
+    "url": "https://webflow.sysdig.com/blog/php2shell-cve-2026-109618-and-cve-2026-109619-detecting-unauthenticated-remote-code-execution-in-php-core",
+    "description": "PHP2Shell (CVE-2026-109618 and CVE-2026-109619): Detecting unauthenticated remote code execution in PHP core",
     "tags": [
       "tldr"
     ],
@@ -280,6 +290,26 @@
     "site_name": "tldr"
   },
   {
+    "title": "Salesforce plans fees for outside AI agents like Claude using its apps",
+    "url": "https://zmedia.co/news/wire/cmvjv98d900edugumfgilx4zz-salesforce-customers-brace-for-new-fees-to-use-claude-in-its",
+    "description": "Salesforce plans fees for outside AI agents like Claude using its apps",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sammy Hajhamid: Switch 2 Jailbreak (ns2jb) Technical Details",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb",
+    "description": "Sammy Hajhamid: Switch 2 Jailbreak (ns2jb) Technical Details",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
     "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
     "description": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
@@ -300,9 +330,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Should your site let AI agents in? Yelp charges, JPMorgan says no.",
-    "url": "https://workos.com/blog/ai-agent-access-policy",
-    "description": "Should your site let AI agents in? Yelp charges, JPMorgan says no.",
+    "title": "SpaceX $40 billion debt deal gets pricey as AI fears spread",
+    "url": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
+    "description": "SpaceX $40 billion debt deal gets pricey as AI fears spread",
     "tags": [
       "tldr"
     ],
@@ -310,9 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
-    "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
-    "description": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+    "title": "SpaceX and Tesla Are Joined at the Hip. A Merger Would Make It Formal.",
+    "url": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f",
+    "description": "SpaceX and Tesla Are Joined at the Hip. A Merger Would Make It Formal.",
     "tags": [
       "tldr"
     ],
@@ -320,9 +350,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "State of Post-Quantum Cryptography implementations",
-    "url": "http://blog.quarkslab.com/state-of-post-quantum-cryptography-implementations.html",
-    "description": "State of Post-Quantum Cryptography implementations",
+    "title": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network",
+    "description": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network",
     "tags": [
       "tldr"
     ],
@@ -330,9 +360,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Study Finds AI-generated Code Fails to Boost Productivity Due to Downstream Bottlenecks",
-    "url": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity",
-    "description": "Study Finds AI-generated Code Fails to Boost Productivity Due to Downstream Bottlenecks",
+    "title": "Supervisory Engineering Work",
+    "url": "http://annievella.com/posts/supervisory-engineering-work",
+    "description": "Supervisory Engineering Work",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+    "description": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
     "tags": [
       "tldr"
     ],
@@ -350,29 +390,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Take Ten-Thousand: Egocentric Data Collection for Humanoid Robots",
-    "url": "https://www.chinatalk.media/p/take-ten-thousand-egocentric-data",
-    "description": "Take Ten-Thousand: Egocentric Data Collection for Humanoid Robots",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
-    "url": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities",
-    "description": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Tesla says it will start selling Cybercabs by end of year",
-    "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year",
-    "description": "Tesla says it will start selling Cybercabs by end of year",
+    "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+    "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet",
+    "description": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
     "tags": [
       "tldr"
     ],
@@ -400,9 +420,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The AI industry is slowly blinding itself to what its own models are thinking",
-    "url": "https://www.threatdown.com/blog/neuralese-chain-of-thought-monitoring",
-    "description": "The AI industry is slowly blinding itself to what its own models are thinking",
+    "title": "The Myth of Safe AI",
+    "url": "https://www.theatlantic.com/technology/2026/10/false-promise-of-safe-ai/689114",
+    "description": "The Myth of Safe AI",
     "tags": [
       "tldr"
     ],
@@ -410,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks: What Does This Mean for You?",
-    "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you",
-    "description": "The Latest Anthropic Claude Models Contain AI Text Watermarks: What Does This Mean for You?",
+    "title": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
+    "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+    "description": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
     "tags": [
       "tldr"
     ],
@@ -420,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The US Robotics Ban Hits Humanoids Hardest and Sends Volume to Europe",
-    "url": "https://www.idc.com/resource-center/blog/us-robotics-ban-humanoids-europe",
-    "description": "The US Robotics Ban Hits Humanoids Hardest and Sends Volume to Europe",
+    "title": "US to award $389 million in R&D funds for power semiconductors, critical materials",
+    "url": "https://www.reuters.com/technology/us-award-389-million-rd-funds-power-semiconductors-critical-materials-2026-10-22",
+    "description": "US to award $389 million in R&D funds for power semiconductors, critical materials",
     "tags": [
       "tldr"
     ],
@@ -430,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The internet is in its guano years",
-    "url": "https://hrih.si/articles/the-internets-guano-years",
-    "description": "The internet is in its guano years",
+    "title": "We probably cannot automate the software engineer away",
+    "url": "https://thelastsoftwareengineer.substack.com/p/we-probably-cannot-automate-the-software",
+    "description": "We probably cannot automate the software engineer away",
     "tags": [
       "tldr"
     ],
@@ -440,19 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Top Anthropic engineer says Claude now writes 'literally all' her team's code",
-    "url": "https://www.businessinsider.com/anthropic-katelyn-lesse-team-shifted-to-ai-coding-entirely-2026-10",
-    "description": "Top Anthropic engineer says Claude now writes 'literally all' her team's code",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
-    "description": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "title": "We’ve decided to sunset Arc on December 22, 2026",
+    "url": "https://mailchi.mp/diabrowser/arc-sunset",
+    "description": "We’ve decided to sunset Arc on December 22, 2026",
     "tags": [
       "tldr"
     ],
@@ -470,29 +480,19 @@
     "site_name": "tldr"
   },
   {
+    "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+    "url": "https://www.latent.space/p/modal-d",
+    "description": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-22",
+    "site_name": "tldr"
+  },
+  {
     "title": "Xona Raises $250M Series D to Scale Commercial GPS Constellation",
     "url": "https://payloadspace.com/xona-raises-250m-series-d-to-scale-commercial-gps-constellation",
     "description": "Xona Raises $250M Series D to Scale Commercial GPS Constellation",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
-    "description": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-22",
-    "site_name": "tldr"
-  },
-  {
-    "title": "‘This effectively sets Russia far behind in the AI race’: Ukraine is wiping out data centers across the border",
-    "url": "https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race",
-    "description": "‘This effectively sets Russia far behind in the AI race’: Ukraine is wiping out data centers across the border",
     "tags": [
       "tldr"
     ],

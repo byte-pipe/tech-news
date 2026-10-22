@@ -35,7 +35,7 @@
     "date": "2026-10-22",
     "description": "Readers debate using AI as a communication shieldAdam - The Developer ✨Adam - The Developer ✨Adam - The Developer ✨FollowOct 22Don't Be a Proxy Betwee...",
     "tags": "#discuss, #ai, #career, #programming",
-    "reactions": "34 reactions",
+    "reactions": "45 reactions",
     "comments": "0",
     "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"
   },
@@ -45,7 +45,7 @@
     "date": "2026-10-18",
     "description": "Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Submission 💸Daniel BalcarekDaniel BalcarekDaniel BalcarekFollowOct 18Fine-Tuning Qwen3-8B w...",
     "tags": "#devchallenge, #hf26challenge, #ai, #machinelearning",
-    "reactions": "88 reactions",
+    "reactions": "90 reactions",
     "comments": "0",
     "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"
   },
@@ -55,7 +55,7 @@
     "date": "2026-10-21",
     "description": "Real experiences from recent events like JS PolandSylwia LaskowskaSylwia LaskowskaSylwia LaskowskaFollowOct 21How to Become a Tech Conference Speaker ...",
     "tags": "#techtalks, #career, #speaking",
-    "reactions": "125 reactions",
+    "reactions": "132 reactions",
     "comments": "0",
     "url": "https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink"
   },
@@ -65,17 +65,27 @@
     "date": "2026-10-21",
     "description": "Includes a Python script and curl examplesJulieJulieJulieFollowOct 21How to publish posts via the dev.to API#python#automation#beginners#productivity2...",
     "tags": "#python, #automation, #beginners, #productivity",
-    "reactions": "21 reactions",
+    "reactions": "24 reactions",
     "comments": "0",
     "url": "https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd"
   },
   {
-    "title": "I Got Tired of Coming into my Lab to Check the Pressure of my Cryocooler so I Built a Tool to do it for Me",
+    "title": "I Built slothd: A Local-First, Offline-Capable AI Daemon That Patiently Organizes Your Messy Workspace",
+    "author": "Dhruv Jani",
+    "date": "2026-10-21",
+    "description": "Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Submission 🦥Dhruv JaniDhruv JaniDhruv JaniFollowOct 21I Built slothd: A Local-First, Of...",
+    "tags": "#devchallenge, #hf26challenge, #opensource, #gemma",
+    "reactions": "46 reactions",
+    "comments": "Comments 11 comments",
+    "url": "https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7"
+  },
+  {
+    "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
     "author": "Paul Horton",
     "date": "2026-10-21",
-    "description": "Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Submission 🦥Paul HortonPaul HortonPaul HortonFollowOct 21I Got Tired of Coming into my ...",
+    "description": "Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Submission 🦥Paul HortonPaul HortonPaul HortonFollowOct 21I Got Tired of Coming Into My ...",
     "tags": "#devchallenge, #hf26challenge, #tigerdata, #githubcopilot",
-    "reactions": "51 reactions",
+    "reactions": "55 reactions",
     "comments": "0",
     "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7"
   },
@@ -100,22 +110,12 @@
     "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee?bb=264735"
   },
   {
-    "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
-    "author": "Giorgi Kobaidze",
-    "date": "2026-10-15",
-    "description": "Compares human grammar quirks to coding paradigmsGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowOct 15Natural Languages Have Design Trade-offs Too...",
-    "tags": "#programming, #writing, #design, #languages",
-    "reactions": "140 reactions",
-    "comments": "0",
-    "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi"
-  },
-  {
     "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
     "author": "Giorgi Kobaidze",
     "date": "2026-10-18",
     "description": "Over 10 hours of reading behind itGiorgi KobaidzeGiorgi KobaidzeGiorgi KobaidzeFollowOct 18Promise Delivered: Welcome to the DEV Hall of Fame (65 Auth...",
     "tags": "#discuss, #community, #showdev, #writing",
-    "reactions": "210 reactions",
+    "reactions": "212 reactions",
     "comments": "0",
     "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"
   },
@@ -125,8 +125,8 @@
     "date": "2026-10-20",
     "description": "Comments compare coding to cooking and runningJames AndersonJames AndersonJames AndersonFollowOct 20Somewhere, Coding Stopped Being Allowed to Be Fun#...",
     "tags": "#discuss, #career, #ai, #mentalhealth",
-    "reactions": "48 reactions",
-    "comments": "Comments 46 comments",
+    "reactions": "49 reactions",
+    "comments": "Comments 47 comments",
     "url": "https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe"
   },
   {
@@ -135,7 +135,7 @@
     "date": "2026-10-21",
     "description": "Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Submission 🦥Thomas BonnetThomas BonnetThomas BonnetFollowOct 21Stuck in the same dev.to...",
     "tags": "#devchallenge, #hf26challenge, #ai, #javascript",
-    "reactions": "45 reactions",
+    "reactions": "44 reactions",
     "comments": "0",
     "url": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc"
   },
@@ -186,7 +186,7 @@
     "description": "Heartwarming community pet photo threadHemapriya KanagalaHemapriya KanagalaHemapriya KanagalaFollowOct 18🐾 DEV Pet Corner #2: Show Us Your Pets!#discu...",
     "tags": "#discuss, #community, #watercooler, #pets",
     "reactions": "83 reactions",
-    "comments": "Comments 31 comments",
+    "comments": "Comments 33 comments",
     "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-2-show-us-your-pets-37nj"
   }
 ]
