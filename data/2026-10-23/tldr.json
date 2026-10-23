@@ -1,0 +1,502 @@
+[
+  {
+    "title": "AI Ushers In Era of Rapid-Fire Software Vulnerabilities",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-23/ai-ushers-in-era-of-rapid-fire-software-vulnerabilities",
+    "description": "AI Ushers In Era of Rapid-Fire Software Vulnerabilities",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI and Cybersecurity: Greg Brockman on Defending Critical Infrastructure",
+    "url": "https://x.com/a16z/status/2113404552439558377",
+    "description": "AI and Cybersecurity: Greg Brockman on Defending Critical Infrastructure",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI scope creep & productivity",
+    "url": "http://ayende.com/204195-a/ai-scope-creep-productivity?Key=1a5c4f1b-f771-4cae-9d09-517df279ef5f",
+    "description": "AI scope creep & productivity",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AWS Introduces Lambda Web Functions for Node.js Applications",
+    "url": "https://www.infoq.com/news/2026/10/aws-lambda-web-functions",
+    "description": "AWS Introduces Lambda Web Functions for Node.js Applications",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Admission Control for Distributed LLM Inference: Cache-Aware Routing, GPU-Aware Signals, and When to Say No",
+    "url": "https://www.fratepietro.com/2026/admission-control-distributed-llm-inference",
+    "description": "Admission Control for Distributed LLM Inference: Cache-Aware Routing, GPU-Aware Signals, and When to Say No",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/anthropic-ipo-to-drive-blockbuster-gains-for-iconiq-spark-gic",
+    "description": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic and UK AISI Investigate Claude Mythos 5 Alignment Issues",
+    "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+    "description": "Anthropic and UK AISI Investigate Claude Mythos 5 Alignment Issues",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple Has a DevRel Problem",
+    "url": "https://tej.as/blog/apple-has-a-devrel-problem",
+    "description": "Apple Has a DevRel Problem",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple overtakes Nvidia as most valuable company in the world on iPhone Duo launch day",
+    "url": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day",
+    "description": "Apple overtakes Nvidia as most valuable company in the world on iPhone Duo launch day",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Arc browser is shutting down in December. Long live, ya trailblazer!",
+    "url": "https://www.digitaltrends.com/computing/arc-browser-is-shutting-down-in-december-long-live-ya-trailblazer",
+    "description": "Arc browser is shutting down in December. Long live, ya trailblazer!",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "description": "Build more responsive apps with the Decisions API",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Building agents: When to fold subagents into your main agent loop | Claude by Anthropic",
+    "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+    "description": "Building agents: When to fold subagents into your main agent loop | Claude by Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Calif and Wiz find PHP RCE flaws with frontier AI (*)",
+    "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal",
+    "description": "Calif and Wiz find PHP RCE flaws with frontier AI (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+    "description": "Canva releases its first image generation model",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "China can make advanced chips without EUV, but the bill keeps growing",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-can-make-advanced-chips-without-euv-but-the-bill-keeps-growing-duv-multiple-patterning-means-bigger-dies-lower-yields-and-longer-manufacturing-times",
+    "description": "China can make advanced chips without EUV, but the bill keeps growing",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Claude Projects decoded: agents aren’t allowed to type anymore, and a brand new hearthbot MCP",
+    "url": "https://akshaychugh.xyz/writings/png/claude-projects-hearthbot",
+    "description": "Claude Projects decoded: agents aren’t allowed to type anymore, and a brand new hearthbot MCP",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "DeepSeek's Liang Wenfeng Just Open-Sourced His Money-Making Playbook",
+    "url": "https://chinatechbite.substack.com/p/deepseeks-liang-wenfeng-just-open",
+    "description": "DeepSeek's Liang Wenfeng Just Open-Sourced His Money-Making Playbook",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Diamond Transistor | Diamond Foundry",
+    "url": "https://www.df.com/diamond-transistor",
+    "description": "Diamond Transistor | Diamond Foundry",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Donating Agent Skills to the Agentic AI Foundation \\ Anthropic",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "description": "Donating Agent Skills to the Agentic AI Foundation \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Formally verifying real-world software with Claude \\ Anthropic",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "description": "Formally verifying real-world software with Claude \\ Anthropic",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Cerebras Deploys Trillion-Parameter AI Models",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "description": "How Cerebras Deploys Trillion-Parameter AI Models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Interactive World Simulation with Cosmos for Physical AI",
+    "url": "https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation",
+    "description": "Interactive World Simulation with Cosmos for Physical AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "MCP, AI agents, and Zero Trust: Verifying every tool call",
+    "url": "https://workos.com/blog/mcp-ai-agents-zero-trust",
+    "description": "MCP, AI agents, and Zero Trust: Verifying every tool call",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Meta's Muse Can't Be a Freeloader's Paradise Forever",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-10-23/meta-s-muse-can-t-be-a-freeloader-s-paradise-forever",
+    "description": "Meta's Muse Can't Be a Freeloader's Paradise Forever",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+    "description": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft’s new voice AI can start working out what you want before you finish speaking",
+    "url": "https://thenewstack.io/microsoft-streaming-speech-models",
+    "description": "Microsoft’s new voice AI can start working out what you want before you finish speaking",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Modular: Modular 26.7: Opening up MAX",
+    "url": "https://www.modular.com/blog/26-7",
+    "description": "Modular: Modular 26.7: Opening up MAX",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Ondřej Surý prepares PHP remote code patches after OpenAI-found flaws (*)",
+    "url": "https://www.theatlantic.com/technology/2026/10/man-who-saved-internet-php-vulnerability/689123",
+    "description": "Ondřej Surý prepares PHP remote code patches after OpenAI-found flaws (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI fires three safety researchers over Signal chats (*)",
+    "url": "https://x.com/_nathancalvin/status/2113458131087040572",
+    "description": "OpenAI fires three safety researchers over Signal chats (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "PHP2Shell (CVE-2026-109618 and CVE-2026-109619): Detecting unauthenticated remote code execution in PHP core",
+    "url": "https://webflow.sysdig.com/blog/php2shell-cve-2026-109618-and-cve-2026-109619-detecting-unauthenticated-remote-code-execution-in-php-core",
+    "description": "PHP2Shell (CVE-2026-109618 and CVE-2026-109619): Detecting unauthenticated remote code execution in PHP core",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Reasoning at Constant Memory: How a 4B Chinese Open Model Freezes the KV Cache at 72 MiB",
+    "url": "https://pub.towardsai.net/reasoning-at-constant-memory-how-a-4b-chinese-open-model-freezes-the-kv-cache-at-72-mib-771a06329587?source=rss----98111c9905da---4",
+    "description": "Reasoning at Constant Memory: How a 4B Chinese Open Model Freezes the KV Cache at 72 MiB",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Researchers find major PHP and Node.js vulnerabilities using AI (*)",
+    "url": "https://www.transformernews.ai/p/php-flaw-cyberpocalypse-is-here-sort-of",
+    "description": "Researchers find major PHP and Node.js vulnerabilities using AI (*)",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SK Data Center Arm in Talks to Fund $350 Billion AI Buildout",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
+    "description": "SK Data Center Arm in Talks to Fund $350 Billion AI Buildout",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Salesforce plans fees for outside AI agents like Claude using its apps",
+    "url": "https://zmedia.co/news/wire/cmvjv98d900edugumfgilx4zz-salesforce-customers-brace-for-new-fees-to-use-claude-in-its",
+    "description": "Salesforce plans fees for outside AI agents like Claude using its apps",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Solidigm to Discontinue Review of Potential IPO, Reaffirming Commitment to Long-Term Growth and Shareholder Value",
+    "url": "https://news.skhynix.com/en/fact-12",
+    "description": "Solidigm to Discontinue Review of Potential IPO, Reaffirming Commitment to Long-Term Growth and Shareholder Value",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX $40 billion debt deal gets pricey as AI fears spread",
+    "url": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
+    "description": "SpaceX $40 billion debt deal gets pricey as AI fears spread",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX aims to access 80,000 US cell sites for wireless network",
+    "url": "https://www.datacenterdynamics.com/en/news/spacex-aims-to-access-80000-us-cell-sites-for-wireless-network",
+    "description": "SpaceX aims to access 80,000 US cell sites for wireless network",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The AI Story Wall Street Doesn’t Want to Hear",
+    "url": "https://www.derekthompson.org/p/the-ai-story-wall-street-doesnt-want",
+    "description": "The AI Story Wall Street Doesn’t Want to Hear",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The AI notetaker risk is now an everywhere problem",
+    "url": "https://www.csoonline.com/article/4239372/the-ai-notetaker-risk-is-now-an-everywhere-problem.html",
+    "description": "The AI notetaker risk is now an everywhere problem",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Double Hockey Stick: Why 1% of Your Users Now Drive 75% of Your AI Costs, and What Figma, Clay, and Higgsfield Are Doing About It",
+    "url": "https://www.saastr.com/the-double-hockey-stick-why-1-of-your-users-now-drive-75-of-your-ai-costs-and-what-figma-clay-and-higgsfield-are-doing-about-it",
+    "description": "The Double Hockey Stick: Why 1% of Your Users Now Drive 75% of Your AI Costs, and What Figma, Clay, and Higgsfield Are Doing About It",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The New “Ask Your Developer” Is Ask Your Agent. And It’s The Marketing Battle You Have to Win Now",
+    "url": "https://www.saastr.com/the-new-ask-your-developer-is-ask-your-agent",
+    "description": "The New “Ask Your Developer” Is Ask Your Agent. And It’s The Marketing Battle You Have to Win Now",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+    "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+    "description": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Two Dollars and a Test Suite",
+    "url": "https://www.eetimes.com/two-dollars-and-a-test-suite",
+    "description": "Two Dollars and a Test Suite",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\"",
+    "url": "https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9",
+    "description": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\"",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+    "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear",
+    "description": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+    "url": "https://www.latent.space/p/modal-d",
+    "description": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why AI data centers are powering a boom in fuel-cell demand",
+    "url": "https://www.reuters.com/business/energy/why-ai-data-centers-are-powering-boom-fuel-cell-demand-2026-10-23",
+    "description": "Why AI data centers are powering a boom in fuel-cell demand",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why Datadog Is Eyeing a $4B Buy of Cloud Defense Firm Upwind",
+    "url": "https://www.bankinfosecurity.com/blogs/datadog-eyeing-4b-buy-cloud-defense-firm-upwind-p-4225",
+    "description": "Why Datadog Is Eyeing a $4B Buy of Cloud Defense Firm Upwind",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why the emergence of robotics APIs is a big deal for the industry",
+    "url": "https://www.understandingrobots.org/p/why-the-emergence-of-robotics-apis",
+    "description": "Why the emergence of robotics APIs is a big deal for the industry",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  },
+  {
+    "title": "iPhone Duo arrives at Apple Store locations worldwide",
+    "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide",
+    "description": "iPhone Duo arrives at Apple Store locations worldwide",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-23",
+    "site_name": "tldr"
+  }
+]
