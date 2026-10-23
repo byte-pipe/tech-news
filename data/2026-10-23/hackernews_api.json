@@ -1,45 +1,96 @@
 [
   {
-    "title": "A farewell to Arc browser",
-    "url": "https://arc.net/",
-    "author": "suhdonghwi",
-    "date": "2026-10-22",
-    "score": 274,
-    "comments": 235,
-    "id": 50197601,
-    "discussion_url": "https://news.ycombinator.com/item?id=50197601",
-    "description": "A farewell to Arc browser",
+    "title": "Apple Music 404 Not Found",
+    "url": "https://music.apple.com/this-url-doesnt-exist",
+    "author": "frizlab",
+    "date": "2026-10-23",
+    "score": 389,
+    "comments": 138,
+    "id": 50207910,
+    "discussion_url": "https://news.ycombinator.com/item?id=50207910",
+    "description": "Apple Music 404 Not Found",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147293"
+    "fetched_at": "2026-10-23T21:57:20.239817"
   },
   {
-    "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-    "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
-    "author": "robtherobber",
+    "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+    "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+    "author": "skadamat",
     "date": "2026-10-23",
-    "score": 246,
-    "comments": 222,
-    "id": 50205934,
-    "discussion_url": "https://news.ycombinator.com/item?id=50205934",
-    "description": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+    "score": 97,
+    "comments": 60,
+    "id": 50212320,
+    "discussion_url": "https://news.ycombinator.com/item?id=50212320",
+    "description": "Can we replace a $150k Looker with a bucket of HTML files?",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147166"
+    "fetched_at": "2026-10-23T21:57:20.239948"
+  },
+  {
+    "title": "Canadians are running out of time to oppose Bill C-22",
+    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+    "author": "hn_acker",
+    "date": "2026-10-22",
+    "score": 241,
+    "comments": 108,
+    "id": 50202114,
+    "discussion_url": "https://news.ycombinator.com/item?id=50202114",
+    "description": "Canadians are running out of time to oppose Bill C-22",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-23T21:57:20.239898"
+  },
+  {
+    "title": "Color Names",
+    "url": "https://names.color.pizza",
+    "author": "akkartik",
+    "date": "2026-10-20",
+    "score": 106,
+    "comments": 32,
+    "id": 50168850,
+    "discussion_url": "https://news.ycombinator.com/item?id=50168850",
+    "description": "Color Names",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-23T21:57:20.240041"
+  },
+  {
+    "title": "Dessa: the most authentic full-duplex speech model ever built",
+    "url": "https://block.xyz/dessa",
+    "author": "dsr12",
+    "date": "2026-10-23",
+    "score": 104,
+    "comments": 32,
+    "id": 50213925,
+    "discussion_url": "https://news.ycombinator.com/item?id=50213925",
+    "description": "Dessa: the most authentic full-duplex speech model ever built",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-23T21:57:20.239832"
   },
   {
     "title": "Docker is weird",
     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
     "author": "psxuaw",
     "date": "2026-10-22",
-    "score": 695,
-    "comments": 284,
+    "score": 812,
+    "comments": 338,
     "id": 50202681,
     "discussion_url": "https://news.ycombinator.com/item?id=50202681",
     "description": "Docker is weird",
@@ -48,32 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147100"
-  },
-  {
-    "title": "Dungeon generation in the Gnomish mines of NetHack",
-    "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
-    "author": "ibobev",
-    "date": "2026-10-19",
-    "score": 146,
-    "comments": 19,
-    "id": 50154109,
-    "discussion_url": "https://news.ycombinator.com/item?id=50154109",
-    "description": "Dungeon generation in the Gnomish mines of NetHack",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147283"
+    "fetched_at": "2026-10-23T21:57:20.239981"
   },
   {
     "title": "Every AI model has the same \"controversial\" take on humans",
     "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
     "author": "rakannimer",
     "date": "2026-10-22",
-    "score": 555,
-    "comments": 538,
+    "score": 610,
+    "comments": 590,
     "id": 50197313,
     "discussion_url": "https://news.ycombinator.com/item?id=50197313",
     "description": "Every AI model has the same \"controversial\" take on humans",
@@ -82,66 +116,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147201"
+    "fetched_at": "2026-10-23T21:57:20.240029"
   },
   {
-    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-    "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-    "author": "molind",
-    "date": "2026-10-22",
-    "score": 222,
-    "comments": 40,
-    "id": 50193170,
-    "discussion_url": "https://news.ycombinator.com/item?id=50193170",
-    "description": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "title": "Florida officer found dead man, impersonated him for years, renovated his home",
+    "url": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
+    "author": "Michelangelo11",
+    "date": "2026-10-23",
+    "score": 54,
+    "comments": 32,
+    "id": 50213826,
+    "discussion_url": "https://news.ycombinator.com/item?id=50213826",
+    "description": "Florida officer found dead man, impersonated him for years, renovated his home",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147272"
+    "fetched_at": "2026-10-23T21:57:20.239937"
   },
   {
-    "title": "Getting ready to operate GNU Taler in Germany",
-    "url": "https://www.taler.net/en/news/2026-13.html",
-    "author": "dewey",
-    "date": "2026-10-22",
-    "score": 339,
-    "comments": 155,
-    "id": 50197404,
-    "discussion_url": "https://news.ycombinator.com/item?id=50197404",
-    "description": "Getting ready to operate GNU Taler in Germany",
+    "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+    "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+    "author": "armcat",
+    "date": "2026-10-23",
+    "score": 85,
+    "comments": 14,
+    "id": 50209907,
+    "discussion_url": "https://news.ycombinator.com/item?id=50209907",
+    "description": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147162"
-  },
-  {
-    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-    "author": "maxilevi",
-    "date": "2026-10-22",
-    "score": 226,
-    "comments": 43,
-    "id": 50199389,
-    "discussion_url": "https://news.ycombinator.com/item?id=50199389",
-    "description": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147215"
+    "fetched_at": "2026-10-23T21:57:20.239929"
   },
   {
     "title": "How does Fable 5.1 hide messages in images?",
     "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
     "author": "gmays",
     "date": "2026-10-22",
-    "score": 165,
-    "comments": 49,
+    "score": 192,
+    "comments": 69,
     "id": 50201445,
     "discussion_url": "https://news.ycombinator.com/item?id=50201445",
     "description": "How does Fable 5.1 hide messages in images?",
@@ -150,49 +167,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147145"
+    "fetched_at": "2026-10-23T21:57:20.239941"
   },
   {
-    "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-    "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-    "author": "hubraumhugo",
+    "title": "How is music possible",
+    "url": "https://www.henrikkarlsson.xyz/p/music",
+    "author": "rafaelc",
     "date": "2026-10-23",
-    "score": 353,
-    "comments": 263,
-    "id": 50208837,
-    "discussion_url": "https://news.ycombinator.com/item?id=50208837",
-    "description": "Investor-owned utilities charge 23% more for electricity than public providers",
+    "score": 73,
+    "comments": 59,
+    "id": 50211719,
+    "discussion_url": "https://news.ycombinator.com/item?id=50211719",
+    "description": "How is music possible",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147212"
+    "fetched_at": "2026-10-23T21:57:20.239918"
   },
   {
-    "title": "Jailbreaking the Switch 2",
-    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-    "author": "ledoge",
-    "date": "2026-10-22",
-    "score": 792,
-    "comments": 287,
-    "id": 50192536,
-    "discussion_url": "https://news.ycombinator.com/item?id=50192536",
-    "description": "Jailbreaking the Switch 2",
+    "title": "I reverse engineered a board game",
+    "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+    "author": "wuemeli",
+    "date": "2026-10-21",
+    "score": 77,
+    "comments": 34,
+    "id": 50180799,
+    "discussion_url": "https://news.ycombinator.com/item?id=50180799",
+    "description": "I reverse engineered a board game",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147248"
+    "fetched_at": "2026-10-23T21:57:20.240033"
   },
   {
     "title": "Jank – The native Clojure dialect with seamless C++ interop",
     "url": "https://jank-lang.org/",
     "author": "giancarlostoro",
     "date": "2026-10-22",
-    "score": 142,
-    "comments": 25,
+    "score": 168,
+    "comments": 41,
     "id": 50202762,
     "discussion_url": "https://news.ycombinator.com/item?id=50202762",
     "description": "Jank – The native Clojure dialect with seamless C++ interop",
@@ -201,32 +218,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147184"
+    "fetched_at": "2026-10-23T21:57:20.239988"
   },
   {
-    "title": "LLMs are making formal software verification feasible at a much larger scale",
-    "url": "https://www.anthropic.com/research/formal-verification",
-    "author": "johnbender",
-    "date": "2026-10-22",
-    "score": 394,
-    "comments": 241,
-    "id": 50202217,
-    "discussion_url": "https://news.ycombinator.com/item?id=50202217",
-    "description": "LLMs are making formal software verification feasible at a much larger scale",
+    "title": "Job loss and cortisone mania",
+    "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+    "author": "speckx",
+    "date": "2026-10-23",
+    "score": 162,
+    "comments": 105,
+    "id": 50206840,
+    "discussion_url": "https://news.ycombinator.com/item?id=50206840",
+    "description": "Job loss and cortisone mania",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147197"
+    "fetched_at": "2026-10-23T21:57:20.239964"
+  },
+  {
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "author": "Jowsey",
+    "date": "2026-10-23",
+    "score": 568,
+    "comments": 341,
+    "id": 50212065,
+    "discussion_url": "https://news.ycombinator.com/item?id=50212065",
+    "description": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-23T21:57:20.239802"
   },
   {
     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
     "url": "https://edjefferson.com/localwiki/",
     "author": "sohkamyung",
     "date": "2026-10-22",
-    "score": 820,
-    "comments": 161,
+    "score": 1141,
+    "comments": 222,
     "id": 50202285,
     "discussion_url": "https://news.ycombinator.com/item?id=50202285",
     "description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -235,32 +269,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147105"
+    "fetched_at": "2026-10-23T21:57:20.239837"
   },
   {
-    "title": "No Need for Retirement When Utopia Is Around the Corner",
-    "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
-    "author": "speckx",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "author": "JustSkyfall",
     "date": "2026-10-23",
-    "score": 138,
-    "comments": 108,
-    "id": 50207050,
-    "discussion_url": "https://news.ycombinator.com/item?id=50207050",
-    "description": "No Need for Retirement When Utopia Is Around the Corner",
+    "score": 112,
+    "comments": 49,
+    "id": 50214218,
+    "discussion_url": "https://news.ycombinator.com/item?id=50214218",
+    "description": "Now Google says it might use your Gmail and Google Photos data to target ads",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147241"
+    "fetched_at": "2026-10-23T21:57:20.239902"
   },
   {
     "title": "OpenSSL 4.1.0",
     "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
     "author": "petecooper",
     "date": "2026-10-23",
-    "score": 128,
-    "comments": 28,
+    "score": 177,
+    "comments": 57,
     "id": 50208099,
     "discussion_url": "https://news.ycombinator.com/item?id=50208099",
     "description": "OpenSSL 4.1.0",
@@ -269,117 +303,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147089"
+    "fetched_at": "2026-10-23T21:57:20.240003"
   },
   {
-    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "url": "https://github.com/NVIDIA/OpenShell",
-    "author": "niemandhier",
-    "date": "2026-10-22",
-    "score": 459,
-    "comments": 205,
-    "id": 50198675,
-    "discussion_url": "https://news.ycombinator.com/item?id=50198675",
-    "description": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147117"
-  },
-  {
-    "title": "Quad9 to exit France",
-    "url": "https://quad9.net/news/blog/au-revoir-france/",
-    "author": "farrokhi",
-    "date": "2026-10-22",
-    "score": 1305,
-    "comments": 450,
-    "id": 50195959,
-    "discussion_url": "https://news.ycombinator.com/item?id=50195959",
-    "description": "Quad9 to exit France",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147170"
-  },
-  {
-    "title": "Remove pgrust: the entry is cheating",
+    "title": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
     "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
     "author": "f311a",
     "date": "2026-10-23",
-    "score": 138,
-    "comments": 74,
+    "score": 179,
+    "comments": 130,
     "id": 50205816,
     "discussion_url": "https://news.ycombinator.com/item?id=50205816",
-    "description": "Remove pgrust: the entry is cheating",
+    "description": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147113"
+    "fetched_at": "2026-10-23T21:57:20.240018"
   },
   {
-    "title": "Run full iOS 16.5 firmware on Android Devices",
-    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-    "author": "aghuang",
-    "date": "2026-10-22",
-    "score": 487,
-    "comments": 179,
-    "id": 50196718,
-    "discussion_url": "https://news.ycombinator.com/item?id=50196718",
-    "description": "Run full iOS 16.5 firmware on Android Devices",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147222"
-  },
-  {
-    "title": "Startup taps underwater volcano as energy source in “proof point” test",
-    "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-    "author": "wffurr",
-    "date": "2026-10-19",
-    "score": 133,
-    "comments": 58,
-    "id": 50157456,
-    "discussion_url": "https://news.ycombinator.com/item?id=50157456",
-    "description": "Startup taps underwater volcano as energy source in “proof point” test",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147289"
-  },
-  {
-    "title": "Swedish government offices to ban ChatGPT and Claude",
-    "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-    "author": "armcat",
+    "title": "Show HN: Making a smart TV dumb and then smart",
+    "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+    "author": "animalhot",
     "date": "2026-10-23",
-    "score": 283,
-    "comments": 98,
-    "id": 50207405,
-    "discussion_url": "https://news.ycombinator.com/item?id=50207405",
-    "description": "Swedish government offices to ban ChatGPT and Claude",
+    "score": 83,
+    "comments": 62,
+    "id": 50202865,
+    "discussion_url": "https://news.ycombinator.com/item?id=50202865",
+    "description": "Show HN: Making a smart TV dumb and then smart",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147109"
+    "fetched_at": "2026-10-23T21:57:20.239992"
+  },
+  {
+    "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+    "url": "https://github.com/dsmurrell/onkey",
+    "author": "dsmurrell",
+    "date": "2026-10-22",
+    "score": 204,
+    "comments": 86,
+    "id": 50195488,
+    "discussion_url": "https://news.ycombinator.com/item?id=50195488",
+    "description": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-23T21:57:20.239914"
+  },
+  {
+    "title": "The HTML-in-Canvas API origin trial",
+    "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+    "author": "andrewstuart",
+    "date": "2026-10-22",
+    "score": 115,
+    "comments": 56,
+    "id": 50200164,
+    "discussion_url": "https://news.ycombinator.com/item?id=50200164",
+    "description": "The HTML-in-Canvas API origin trial",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-23T21:57:20.240037"
+  },
+  {
+    "title": "The Real Kevin Bacon",
+    "url": "https://pudding.cool/2026/10/kevin-bacon/",
+    "author": "xnx",
+    "date": "2026-10-20",
+    "score": 190,
+    "comments": 56,
+    "id": 50169499,
+    "discussion_url": "https://news.ycombinator.com/item?id=50169499",
+    "description": "The Real Kevin Bacon",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-23T21:57:20.239861"
   },
   {
     "title": "The alien space of science: Coherent but cognitively unavailable directions",
     "url": "https://arxiv.org/abs/2603.01092",
     "author": "martincsweiss",
     "date": "2026-10-22",
-    "score": 147,
-    "comments": 51,
+    "score": 198,
+    "comments": 80,
     "id": 50195002,
     "discussion_url": "https://news.ycombinator.com/item?id=50195002",
     "description": "The alien space of science: Coherent but cognitively unavailable directions",
@@ -388,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147231"
+    "fetched_at": "2026-10-23T21:57:20.239960"
   },
   {
     "title": "The foolishness of \"natural language programming\" (1978)",
     "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
     "author": "xiaoyu2006",
     "date": "2026-10-23",
-    "score": 285,
-    "comments": 189,
+    "score": 353,
+    "comments": 238,
     "id": 50203161,
     "discussion_url": "https://news.ycombinator.com/item?id=50203161",
     "description": "The foolishness of \"natural language programming\" (1978)",
@@ -405,66 +422,83 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147178"
+    "fetched_at": "2026-10-23T21:57:20.240025"
   },
   {
-    "title": "Using LLM for confidence scoring is a bad idea",
-    "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-    "author": "jimauthors",
-    "date": "2026-10-21",
-    "score": 212,
-    "comments": 100,
-    "id": 50176082,
-    "discussion_url": "https://news.ycombinator.com/item?id=50176082",
-    "description": "Using LLM for confidence scoring is a bad idea",
+    "title": "This I Believe (1952)",
+    "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+    "author": "ctoth",
+    "date": "2026-10-23",
+    "score": 145,
+    "comments": 76,
+    "id": 50203759,
+    "discussion_url": "https://news.ycombinator.com/item?id=50203759",
+    "description": "This I Believe (1952)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147276"
+    "fetched_at": "2026-10-23T21:57:20.239976"
   },
   {
-    "title": "What Is Gridifcation",
-    "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-    "author": "gumby",
-    "date": "2026-10-19",
-    "score": 458,
-    "comments": 214,
-    "id": 50150163,
-    "discussion_url": "https://news.ycombinator.com/item?id=50150163",
-    "description": "What Is Gridifcation",
+    "title": "Today, we hacked what we'd set out to hack: the iPhone",
+    "url": "https://blog.calif.io/p/iphone",
+    "author": "pavel_lishin",
+    "date": "2026-10-23",
+    "score": 635,
+    "comments": 418,
+    "id": 50211474,
+    "discussion_url": "https://news.ycombinator.com/item?id=50211474",
+    "description": "Today, we hacked what we'd set out to hack: the iPhone",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147266"
+    "fetched_at": "2026-10-23T21:57:20.239827"
   },
   {
-    "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
-    "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
-    "author": "oidar",
-    "date": "2026-10-22",
-    "score": 650,
-    "comments": 673,
-    "id": 50194833,
-    "discussion_url": "https://news.ycombinator.com/item?id=50194833",
-    "description": "Woman charged with computer fraud due to scam CashApp account being in her name",
+    "title": "UUIDv7 doesn't have the properties you think it does",
+    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+    "author": "ibobev",
+    "date": "2026-10-23",
+    "score": 89,
+    "comments": 73,
+    "id": 50211746,
+    "discussion_url": "https://news.ycombinator.com/item?id=50211746",
+    "description": "UUIDv7 doesn't have the properties you think it does",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147306"
+    "fetched_at": "2026-10-23T21:57:20.239841"
+  },
+  {
+    "title": "We are all living inside of an obscure sci-fi film from 1970",
+    "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+    "author": "speckx",
+    "date": "2026-10-23",
+    "score": 57,
+    "comments": 28,
+    "id": 50214323,
+    "discussion_url": "https://news.ycombinator.com/item?id=50214323",
+    "description": "We are all living inside of an obscure sci-fi film from 1970",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-23T21:57:20.239822"
   },
   {
     "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
     "url": "https://simedw.com/2026/10/21/world-model-terminal/",
     "author": "alphax314",
     "date": "2026-10-22",
-    "score": 582,
-    "comments": 178,
+    "score": 608,
+    "comments": 181,
     "id": 50190363,
     "discussion_url": "https://news.ycombinator.com/item?id=50190363",
     "description": "WorldTUI: I trained a 360M model to pretend to be a terminal",
@@ -473,40 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147156"
-  },
-  {
-    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-    "author": "entryleveljobsc",
-    "date": "2026-10-22",
-    "score": 356,
-    "comments": 318,
-    "id": 50194009,
-    "discussion_url": "https://news.ycombinator.com/item?id=50194009",
-    "description": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147174"
-  },
-  {
-    "title": "eMudhra to exit global SSL/TLS certificate business",
-    "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-    "author": "bo0tzz",
-    "date": "2026-10-22",
-    "score": 1116,
-    "comments": 715,
-    "id": 50195110,
-    "discussion_url": "https://news.ycombinator.com/item?id=50195110",
-    "description": "eMudhra to exit global SSL/TLS certificate business",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-23T15:39:50.147191"
+    "fetched_at": "2026-10-23T21:57:20.239968"
   }
 ]
