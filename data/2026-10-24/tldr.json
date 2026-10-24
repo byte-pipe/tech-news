@@ -1,28 +1,8 @@
 [
   {
-    "title": "A reference architecture for MCP servers in production",
-    "url": "https://pournasserian.com/writing/mcp-2026-reference-architecture",
-    "description": "A reference architecture for MCP servers in production",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
     "title": "AI Goes Vulnerability Hunting",
     "url": "https://x.com/jaminball/status/2113658713345237419",
     "description": "AI Goes Vulnerability Hunting",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-    "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-    "description": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
     "tags": [
       "tldr"
     ],
@@ -50,9 +30,29 @@
     "site_name": "tldr"
   },
   {
+    "title": "AI wasn’t overhyped. Almost everyone underestimated it.",
+    "url": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last",
+    "description": "AI wasn’t overhyped. Almost everyone underestimated it.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
     "title": "Ai token prices demand",
     "url": "https://www.axios.com/2026/10/22/ai-token-prices-demand",
     "description": "Ai token prices demand",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Amazon CEO Andy Jassy on Why Amazon Is Investing $220 Billion in AI",
+    "url": "https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK",
+    "description": "Amazon CEO Andy Jassy on Why Amazon Is Investing $220 Billion in AI",
     "tags": [
       "tldr"
     ],
@@ -80,16 +80,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "An MCP governance checklist for the CTO",
-    "url": "https://pournasserian.com/writing/mcp-buyer-governance-checklist",
-    "description": "An MCP governance checklist for the CTO",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
     "title": "Anthropic and UK AISI Investigate Claude Mythos 5 Alignment Issues",
     "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
     "description": "Anthropic and UK AISI Investigate Claude Mythos 5 Alignment Issues",
@@ -110,49 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic launches Claude Duet research preview (*)",
-    "url": "https://claude.com/product/claude-duet",
-    "description": "Anthropic launches Claude Duet research preview (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Arc is being sunset on December 22, 2026",
-    "url": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
-    "description": "Arc is being sunset on December 22, 2026",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Behind the Scenes, Meta’s Board Is Battling With Mark Zuckerberg Over His Out-of-Control AI Spending",
-    "url": "https://futurism.com/artificial-intelligence/meta-board-zuckerberg-ai-spending-compensation",
-    "description": "Behind the Scenes, Meta’s Board Is Battling With Mark Zuckerberg Over His Out-of-Control AI Spending",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Black October Exposed the Remediation Bottleneck",
-    "url": "https://vinny.dev/blog/2026-10-24-black-october-exposed-the-remediation-bottleneck",
-    "description": "Black October Exposed the Remediation Bottleneck",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Building Reasoning Models from the Ground Up: A Video Course",
-    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "description": "Building Reasoning Models from the Ground Up: A Video Course",
+    "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+    "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia",
+    "description": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
     "tags": [
       "tldr"
     ],
@@ -170,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "DeepSeek raises €13bn to strengthen position in AI market",
-    "url": "https://www.techcentral.ie/deepseek-raises-e13bn-to-strengthen-position-in-ai-market",
-    "description": "DeepSeek raises €13bn to strengthen position in AI market",
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+    "description": "DeepSeek reportedly raises $15B days after US restrictions",
     "tags": [
       "tldr"
     ],
@@ -180,9 +130,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Donating Agent Skills to the Agentic AI Foundation \\ Anthropic",
+    "title": "Dessa - the Conversation Model trained only on speech",
+    "url": "https://block.xyz/dessa",
+    "description": "Dessa - the Conversation Model trained only on speech",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-    "description": "Donating Agent Skills to the Agentic AI Foundation \\ Anthropic",
+    "description": "Donating Agent Skills to the Agentic AI Foundation",
     "tags": [
       "tldr"
     ],
@@ -190,9 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
-    "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab",
-    "description": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
+    "title": "EU Governments Back GDPR Changes Allowing AI Data Use Without Consent",
+    "url": "https://x.com/intcyberdigest/status/2113669869262836001",
+    "description": "EU Governments Back GDPR Changes Allowing AI Data Use Without Consent",
     "tags": [
       "tldr"
     ],
@@ -200,9 +160,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Formally verifying real-world software with Claude \\ Anthropic",
+    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call",
+    "description": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+    "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+    "description": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+    "description": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Formally verifying real-world software with Claude",
     "url": "https://www.anthropic.com/research/formal-verification",
-    "description": "Formally verifying real-world software with Claude \\ Anthropic",
+    "description": "Formally verifying real-world software with Claude",
     "tags": [
       "tldr"
     ],
@@ -210,9 +200,29 @@
     "site_name": "tldr"
   },
   {
-    "title": "GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13 | GitLab Docs",
-    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released",
-    "description": "GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13 | GitLab Docs",
+    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
+    "description": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How LLM-Based Penetration Testing Harnesses Work",
+    "url": "https://utkusen.substack.com/p/how-llm-based-penetration-testing",
+    "description": "How LLM-Based Penetration Testing Harnesses Work",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "HuggingFaceBio/Carbon-X: An open 14B model for DNA understanding and generation",
+    "url": "https://huggingface.co/HuggingFaceBio/Carbon-X",
+    "description": "HuggingFaceBio/Carbon-X: An open 14B model for DNA understanding and generation",
     "tags": [
       "tldr"
     ],
@@ -223,6 +233,36 @@
     "title": "Inside Intel's Fabs: Transistors, EUV, and the Future of Chipmaking",
     "url": "https://www.dwarkesh.com/p/intel-tour",
     "description": "Inside Intel's Fabs: Transistors, EUV, and the Future of Chipmaking",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Insiders Reportedly Say Tesla-SpaceX Merger Must Close Before Trump Leaves Office",
+    "url": "https://gizmodo.com/insiders-reportedly-say-tesla-spacex-merger-must-close-before-trump-leaves-office-2000829228",
+    "description": "Insiders Reportedly Say Tesla-SpaceX Merger Must Close Before Trump Leaves Office",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+    "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber",
+    "description": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Interesting systemd features you may not know about",
+    "url": "https://martinalderson.com/posts/interesting-systemd-features",
+    "description": "Interesting systemd features you may not know about",
     "tags": [
       "tldr"
     ],
@@ -250,49 +290,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "MCP maturity in October 2026: what's stable, what's deprecated, what's still a bet",
-    "url": "https://pournasserian.com/writing/mcp-buyer-maturity-map",
-    "description": "MCP maturity in October 2026: what's stable, what's deprecated, what's still a bet",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "MCP server design patterns and anti-patterns",
-    "url": "https://pournasserian.com/writing/mcp-2026-design-patterns",
-    "description": "MCP server design patterns and anti-patterns",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta (META) Q3 2026 earnings report: Live updates",
-    "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
-    "description": "Meta (META) Q3 2026 earnings report: Live updates",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "description": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
-    "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-    "description": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
+    "title": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "description": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
     "tags": [
       "tldr"
     ],
@@ -310,16 +310,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it actually is",
-    "url": "https://www.xda-developers.com/nvidia-rtx-spark-npu-barely-mentions-spent-week-figuring-out",
-    "description": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it actually is",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
     "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
     "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
     "description": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
@@ -330,9 +320,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "OCP 2026 - Co-Designing an AI Cluster",
-    "url": "https://www.siliconcodesign.com/p/ocp-2026-co-designing-an-ai-cluster",
-    "description": "OCP 2026 - Co-Designing an AI Cluster",
+    "title": "OpenAI offers steep discounts to capture Anthropic's coding customers",
+    "url": "https://x.com/choblin29/status/2114040997101621454",
+    "description": "OpenAI offers steep discounts to capture Anthropic's coding customers",
     "tags": [
       "tldr"
     ],
@@ -340,9 +330,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
-    "url": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
-    "description": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
+    "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+    "description": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "PHP2Shell AI-discovered vulnerability sparks urgent patching (*)",
+    "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+    "description": "PHP2Shell AI-discovered vulnerability sparks urgent patching (*)",
     "tags": [
       "tldr"
     ],
@@ -353,16 +353,6 @@
     "title": "PHPeril: Never Send a Human to Do a Machine’s Job",
     "url": "https://www.galaxy.com/insights/research/phperil-never-send-a-human-to-do-a-machines-job",
     "description": "PHPeril: Never Send a Human to Do a Machine’s Job",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-24",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Recursive releases Flint open-weight AI coding model (*)",
-    "url": "https://recursive.com/updates/introducing-recursive-flint",
-    "description": "Recursive releases Flint open-weight AI coding model (*)",
     "tags": [
       "tldr"
     ],
@@ -420,9 +410,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture - Microsoft Research",
-    "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-    "description": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture - Microsoft Research",
+    "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+    "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+    "description": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
     "tags": [
       "tldr"
     ],
@@ -440,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The open-weight model that was trained to know less about security",
-    "url": "https://hitesh.in/2026/open-weight-model-trained-to-know-less",
-    "description": "The open-weight model that was trained to know less about security",
+    "title": "The five components of building a \"company harness\"",
+    "url": "https://x.com/hwchase17/status/2114041443836903662",
+    "description": "The five components of building a \"company harness\"",
     "tags": [
       "tldr"
     ],
@@ -450,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The “Lossless” Illusion: How Speculative Decoding Silently Changes What LLMs Say",
-    "url": "https://www.alphaxiv.org/abs/2610.speculative-decoding-distribution-shifts",
-    "description": "The “Lossless” Illusion: How Speculative Decoding Silently Changes What LLMs Say",
+    "title": "VentureBeat Intelligence finds GPUs idle 50% (*)",
+    "url": "https://x.com/garymarcus/status/2114026489520021582",
+    "description": "VentureBeat Intelligence finds GPUs idle 50% (*)",
     "tags": [
       "tldr"
     ],
@@ -480,9 +470,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
-    "description": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+    "title": "Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000 cards",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "description": "Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000 cards",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-24",
+    "site_name": "tldr"
+  },
+  {
+    "title": "iPhone Duo arrives at Apple Store locations worldwide",
+    "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide",
+    "description": "iPhone Duo arrives at Apple Store locations worldwide",
     "tags": [
       "tldr"
     ],

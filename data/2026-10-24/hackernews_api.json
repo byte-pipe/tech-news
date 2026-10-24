@@ -4,8 +4,8 @@
     "url": "https://danielball.com/notes/ai_image_generation.html",
     "author": "westsmith",
     "date": "2026-10-20",
-    "score": 151,
-    "comments": 49,
+    "score": 232,
+    "comments": 73,
     "id": 50171379,
     "discussion_url": "https://news.ycombinator.com/item?id=50171379",
     "description": "A practical guide to AI image generation, from diffusion to agents",
@@ -14,15 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091515"
+    "fetched_at": "2026-10-24T21:26:05.669287"
   },
   {
     "title": "Air Purifiers as White Noise Machines",
     "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
     "author": "luu",
     "date": "2026-10-23",
-    "score": 151,
-    "comments": 143,
+    "score": 166,
+    "comments": 154,
     "id": 50212507,
     "discussion_url": "https://news.ycombinator.com/item?id=50212507",
     "description": "Air Purifiers as White Noise Machines",
@@ -31,32 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091575"
-  },
-  {
-    "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-    "author": "amichail",
-    "date": "2026-10-24",
-    "score": 113,
-    "comments": 26,
-    "id": 50217683,
-    "discussion_url": "https://news.ycombinator.com/item?id=50217683",
-    "description": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091631"
+    "fetched_at": "2026-10-24T21:26:05.669382"
   },
   {
     "title": "Apple Music 404 Not Found",
     "url": "https://music.apple.com/this-url-doesnt-exist",
     "author": "frizlab",
     "date": "2026-10-23",
-    "score": 827,
-    "comments": 246,
+    "score": 909,
+    "comments": 266,
     "id": 50207910,
     "discussion_url": "https://news.ycombinator.com/item?id=50207910",
     "description": "Apple Music 404 Not Found",
@@ -65,15 +48,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091520"
+    "fetched_at": "2026-10-24T21:26:05.669358"
+  },
+  {
+    "title": "Apple Security Research Device",
+    "url": "https://security.apple.com/research-device/",
+    "author": "neom",
+    "date": "2026-10-24",
+    "score": 167,
+    "comments": 109,
+    "id": 50217903,
+    "discussion_url": "https://news.ycombinator.com/item?id=50217903",
+    "description": "Apple Security Research Device",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-24T21:26:05.669321"
   },
   {
     "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
     "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
     "author": "privacyishuman",
     "date": "2026-10-24",
-    "score": 329,
-    "comments": 80,
+    "score": 599,
+    "comments": 269,
     "id": 50217495,
     "discussion_url": "https://news.ycombinator.com/item?id=50217495",
     "description": "Around a dozen banking apps began specifically permitting GrapheneOS",
@@ -82,15 +82,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091452"
+    "fetched_at": "2026-10-24T21:26:05.669336"
   },
   {
     "title": "Bringing uv and ty together",
     "url": "https://astral.sh/blog/uv-ty-integration",
     "author": "Ravencentric",
     "date": "2026-10-20",
-    "score": 210,
-    "comments": 67,
+    "score": 281,
+    "comments": 92,
     "id": 50172962,
     "discussion_url": "https://news.ycombinator.com/item?id=50172962",
     "description": "Bringing uv and ty together",
@@ -99,15 +99,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091537"
+    "fetched_at": "2026-10-24T21:26:05.669295"
   },
   {
     "title": "C vs. C#: racing VLC's Gaussian blur",
     "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
     "author": "martz",
     "date": "2026-10-21",
-    "score": 109,
-    "comments": 32,
+    "score": 127,
+    "comments": 46,
     "id": 50176544,
     "discussion_url": "https://news.ycombinator.com/item?id=50176544",
     "description": "C vs. C#: racing VLC's Gaussian blur",
@@ -116,15 +116,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091550"
+    "fetched_at": "2026-10-24T21:26:05.669354"
   },
   {
     "title": "CVE Tracker",
     "url": "https://cve.0xosprey.com/",
     "author": "Group_B",
     "date": "2026-10-23",
-    "score": 190,
-    "comments": 69,
+    "score": 211,
+    "comments": 72,
     "id": 50215530,
     "discussion_url": "https://news.ycombinator.com/item?id=50215530",
     "description": "CVE Tracker",
@@ -133,32 +133,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091543"
+    "fetched_at": "2026-10-24T21:26:05.669343"
   },
   {
-    "title": "Canadians are running out of time to oppose Bill C-22",
-    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-    "author": "hn_acker",
-    "date": "2026-10-22",
-    "score": 458,
-    "comments": 242,
-    "id": 50202114,
-    "discussion_url": "https://news.ycombinator.com/item?id=50202114",
-    "description": "Canadians are running out of time to oppose Bill C-22",
+    "title": "Danish Government silently drops plan to dump MS Office",
+    "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+    "author": "lowkeyokay",
+    "date": "2026-10-24",
+    "score": 142,
+    "comments": 82,
+    "id": 50223844,
+    "discussion_url": "https://news.ycombinator.com/item?id=50223844",
+    "description": "Danish Government silently drops plan to dump MS Office",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091446"
+    "fetched_at": "2026-10-24T21:26:05.669201"
   },
   {
     "title": "Dessa: Conversation Model trained only on speech",
     "url": "https://block.xyz/dessa",
     "author": "dsr12",
     "date": "2026-10-23",
-    "score": 424,
-    "comments": 161,
+    "score": 494,
+    "comments": 186,
     "id": 50213925,
     "discussion_url": "https://news.ycombinator.com/item?id=50213925",
     "description": "Dessa: Conversation Model trained only on speech",
@@ -167,83 +167,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091523"
+    "fetched_at": "2026-10-24T21:26:05.669284"
   },
   {
-    "title": "Docker is weird",
-    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-    "author": "psxuaw",
-    "date": "2026-10-22",
-    "score": 851,
-    "comments": 364,
-    "id": 50202681,
-    "discussion_url": "https://news.ycombinator.com/item?id=50202681",
-    "description": "Docker is weird",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091628"
-  },
-  {
-    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-    "author": "sblank",
+    "title": "Dream-1",
+    "url": "https://dreamlabs.ai/research/dream-1/",
+    "author": "GaggiX",
     "date": "2026-10-24",
-    "score": 207,
-    "comments": 187,
-    "id": 50220913,
-    "discussion_url": "https://news.ycombinator.com/item?id=50220913",
-    "description": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+    "score": 112,
+    "comments": 58,
+    "id": 50223785,
+    "discussion_url": "https://news.ycombinator.com/item?id=50223785",
+    "description": "Dream-1",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091512"
+    "fetched_at": "2026-10-24T21:26:05.669205"
   },
   {
-    "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-    "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-    "author": "cowlevel",
-    "date": "2026-10-23",
-    "score": 175,
-    "comments": 93,
-    "id": 50216791,
-    "discussion_url": "https://news.ycombinator.com/item?id=50216791",
-    "description": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091613"
-  },
-  {
-    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-    "author": "testing22321",
+    "title": "FreeDNS",
+    "url": "https://freedns.afraid.org/",
+    "author": "esher",
     "date": "2026-10-24",
-    "score": 329,
-    "comments": 100,
-    "id": 50218633,
-    "discussion_url": "https://news.ycombinator.com/item?id=50218633",
-    "description": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+    "score": 211,
+    "comments": 56,
+    "id": 50222133,
+    "discussion_url": "https://news.ycombinator.com/item?id=50222133",
+    "description": "FreeDNS",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091540"
+    "fetched_at": "2026-10-24T21:26:05.669171"
+  },
+  {
+    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "author": "fragebogen",
+    "date": "2026-10-24",
+    "score": 143,
+    "comments": 54,
+    "id": 50219700,
+    "discussion_url": "https://news.ycombinator.com/item?id=50219700",
+    "description": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-24T21:26:05.669236"
   },
   {
     "title": "How close can pure functional programming get to C?",
     "url": "https://rtfeldman.com/fp-vs-c",
     "author": "stmonty",
     "date": "2026-10-24",
-    "score": 169,
-    "comments": 37,
+    "score": 241,
+    "comments": 79,
     "id": 50218195,
     "discussion_url": "https://news.ycombinator.com/item?id=50218195",
     "description": "How close can pure functional programming get to C?",
@@ -252,83 +235,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091533"
+    "fetched_at": "2026-10-24T21:26:05.669280"
   },
   {
-    "title": "How does Fable 5.1 hide messages in images?",
-    "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-    "author": "gmays",
-    "date": "2026-10-22",
-    "score": 204,
-    "comments": 73,
-    "id": 50201445,
-    "discussion_url": "https://news.ycombinator.com/item?id=50201445",
-    "description": "How does Fable 5.1 hide messages in images?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091642"
-  },
-  {
-    "title": "How is music possible",
-    "url": "https://www.henrikkarlsson.xyz/p/music",
-    "author": "rafaelc",
-    "date": "2026-10-23",
-    "score": 145,
-    "comments": 93,
-    "id": 50211719,
-    "discussion_url": "https://news.ycombinator.com/item?id=50211719",
-    "description": "How is music possible",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091585"
-  },
-  {
-    "title": "I Don't Understand Quantum Physics (2018)",
+    "title": "I don't understand quantum physics (2018)",
     "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
     "author": "rramadass",
     "date": "2026-10-24",
-    "score": 158,
-    "comments": 106,
+    "score": 245,
+    "comments": 182,
     "id": 50219666,
     "discussion_url": "https://news.ycombinator.com/item?id=50219666",
-    "description": "I Don't Understand Quantum Physics (2018)",
+    "description": "I don't understand quantum physics (2018)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091461"
-  },
-  {
-    "title": "Is this the new cyber normal?",
-    "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-    "author": "drewsberry",
-    "date": "2026-10-23",
-    "score": 179,
-    "comments": 211,
-    "id": 50207115,
-    "discussion_url": "https://news.ycombinator.com/item?id=50207115",
-    "description": "Is this the new cyber normal?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091604"
+    "fetched_at": "2026-10-24T21:26:05.669240"
   },
   {
     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
     "author": "Jowsey",
     "date": "2026-10-23",
-    "score": 986,
-    "comments": 585,
+    "score": 1055,
+    "comments": 646,
     "id": 50212065,
     "discussion_url": "https://news.ycombinator.com/item?id=50212065",
     "description": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
@@ -337,15 +269,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091474"
+    "fetched_at": "2026-10-24T21:26:05.669302"
   },
   {
     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
     "url": "https://edjefferson.com/localwiki/",
     "author": "sohkamyung",
     "date": "2026-10-22",
-    "score": 1442,
-    "comments": 238,
+    "score": 1520,
+    "comments": 240,
     "id": 50202285,
     "discussion_url": "https://news.ycombinator.com/item?id=50202285",
     "description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -354,15 +286,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091505"
+    "fetched_at": "2026-10-24T21:26:05.669232"
+  },
+  {
+    "title": "No Signs of AI Payoff Outside the Tech Sector",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "author": "the-mitr",
+    "date": "2026-10-24",
+    "score": 266,
+    "comments": 225,
+    "id": 50224463,
+    "discussion_url": "https://news.ycombinator.com/item?id=50224463",
+    "description": "No Signs of AI Payoff Outside the Tech Sector",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-24T21:26:05.669156"
+  },
+  {
+    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+    "author": "theanonymousone",
+    "date": "2026-10-24",
+    "score": 246,
+    "comments": 124,
+    "id": 50219177,
+    "discussion_url": "https://news.ycombinator.com/item?id=50219177",
+    "description": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-24T21:26:05.669191"
   },
   {
     "title": "OBS Studio 33",
     "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
     "author": "pentagrama",
     "date": "2026-10-24",
-    "score": 281,
-    "comments": 81,
+    "score": 423,
+    "comments": 151,
     "id": 50218430,
     "discussion_url": "https://news.ycombinator.com/item?id=50218430",
     "description": "OBS Studio 33",
@@ -371,15 +337,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091471"
+    "fetched_at": "2026-10-24T21:26:05.669209"
   },
   {
     "title": "Physicists trap a single antimatter particle for a month",
     "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
     "author": "mooreds",
     "date": "2026-10-21",
-    "score": 139,
-    "comments": 53,
+    "score": 256,
+    "comments": 77,
     "id": 50186450,
     "discussion_url": "https://news.ycombinator.com/item?id=50186450",
     "description": "Physicists trap a single antimatter particle for a month",
@@ -388,15 +354,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091483"
+    "fetched_at": "2026-10-24T21:26:05.669180"
+  },
+  {
+    "title": "Roku developer repositories moved from GitHub to GitLab",
+    "url": "https://blog.roku.com/developer/gitlab-move",
+    "author": "cxr",
+    "date": "2026-10-24",
+    "score": 210,
+    "comments": 140,
+    "id": 50222622,
+    "discussion_url": "https://news.ycombinator.com/item?id=50222622",
+    "description": "Roku developer repositories moved from GitHub to GitLab",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-24T21:26:05.669196"
+  },
+  {
+    "title": "Root shell on Samsung TV",
+    "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+    "author": "testing22321",
+    "date": "2026-10-24",
+    "score": 470,
+    "comments": 188,
+    "id": 50218633,
+    "discussion_url": "https://news.ycombinator.com/item?id=50218633",
+    "description": "Root shell on Samsung TV",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-24T21:26:05.669339"
   },
   {
     "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
     "url": "https://corgi.computer/",
     "author": "eiopa",
     "date": "2026-10-23",
-    "score": 106,
-    "comments": 29,
+    "score": 123,
+    "comments": 42,
     "id": 50214373,
     "discussion_url": "https://news.ycombinator.com/item?id=50214373",
     "description": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
@@ -405,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091569"
+    "fetched_at": "2026-10-24T21:26:05.669375"
   },
   {
     "title": "The Quake Fan who built the map editor everybody uses",
     "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
     "author": "klaussilveira",
     "date": "2026-10-22",
-    "score": 161,
-    "comments": 19,
+    "score": 181,
+    "comments": 23,
     "id": 50193677,
     "discussion_url": "https://news.ycombinator.com/item?id=50193677",
     "description": "The Quake Fan who built the map editor everybody uses",
@@ -422,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091563"
+    "fetched_at": "2026-10-24T21:26:05.669368"
   },
   {
     "title": "The Real Kevin Bacon",
     "url": "https://pudding.cool/2026/10/kevin-bacon/",
     "author": "xnx",
     "date": "2026-10-20",
-    "score": 336,
-    "comments": 83,
+    "score": 363,
+    "comments": 92,
     "id": 50169499,
     "discussion_url": "https://news.ycombinator.com/item?id=50169499",
     "description": "The Real Kevin Bacon",
@@ -439,15 +439,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091547"
+    "fetched_at": "2026-10-24T21:26:05.669317"
   },
   {
     "title": "Today, we hacked what we'd set out to hack: the iPhone",
     "url": "https://blog.calif.io/p/iphone",
     "author": "pavel_lishin",
     "date": "2026-10-23",
-    "score": 972,
-    "comments": 622,
+    "score": 1067,
+    "comments": 666,
     "id": 50211474,
     "discussion_url": "https://news.ycombinator.com/item?id=50211474",
     "description": "Today, we hacked what we'd set out to hack: the iPhone",
@@ -456,15 +456,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091488"
+    "fetched_at": "2026-10-24T21:26:05.669332"
   },
   {
     "title": "Twelve years of distributed SQLite",
     "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
     "author": "otoolep",
     "date": "2026-10-24",
-    "score": 276,
-    "comments": 42,
+    "score": 348,
+    "comments": 56,
     "id": 50217500,
     "discussion_url": "https://news.ycombinator.com/item?id=50217500",
     "description": "Twelve years of distributed SQLite",
@@ -473,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091495"
+    "fetched_at": "2026-10-24T21:26:05.669273"
   },
   {
     "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
     "url": "https://alexsci.com/blog/uuidv7-is-weird/",
     "author": "ibobev",
     "date": "2026-10-23",
-    "score": 160,
-    "comments": 130,
+    "score": 170,
+    "comments": 147,
     "id": 50211746,
     "discussion_url": "https://news.ycombinator.com/item?id=50211746",
     "description": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
@@ -490,15 +490,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091582"
+    "fetched_at": "2026-10-24T21:26:05.669393"
   },
   {
     "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
     "url": "https://simedw.com/2026/10/21/world-model-terminal/",
     "author": "alphax314",
     "date": "2026-10-22",
-    "score": 629,
-    "comments": 186,
+    "score": 637,
+    "comments": 188,
     "id": 50190363,
     "discussion_url": "https://news.ycombinator.com/item?id=50190363",
     "description": "WorldTUI: I trained a 360M model to pretend to be a terminal",
@@ -507,6 +507,6 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-24T14:29:33.091597"
+    "fetched_at": "2026-10-24T21:26:05.669386"
   }
 ]
