@@ -1,18 +1,8 @@
 [
   {
-    "title": "A reference architecture for MCP servers in production",
-    "url": "https://pournasserian.com/writing/mcp-2026-reference-architecture",
-    "description": "A reference architecture for MCP servers in production",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-    "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-    "description": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
+    "title": "AI Agents Solve Research-Level Theoretical Physics Problems",
+    "url": "https://x.com/rohanpaul_ai/status/2114306498658812026",
+    "description": "AI Agents Solve Research-Level Theoretical Physics Problems",
     "tags": [
       "tldr"
     ],
@@ -40,9 +30,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ai token prices demand",
-    "url": "https://www.axios.com/2026/10/22/ai-token-prices-demand",
-    "description": "Ai token prices demand",
+    "title": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+    "url": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail",
+    "description": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Agents removed the friction that built our technical literacy",
+    "url": "https://blog.mastykarz.nl/agents-friction-technical-literacy",
+    "description": "Agents removed the friction that built our technical literacy",
     "tags": [
       "tldr"
     ],
@@ -60,19 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot | AWS Security Blog",
-    "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot",
-    "description": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot | AWS Security Blog",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "An Interview with OpenAI’s Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
-    "url": "https://taekim.substack.com/p/an-interview-with-openais-richard",
-    "description": "An Interview with OpenAI’s Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
+    "title": "Amazon’s Trainium Takes a Strike at the Training King",
+    "url": "https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at",
+    "description": "Amazon’s Trainium Takes a Strike at the Training King",
     "tags": [
       "tldr"
     ],
@@ -100,9 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic launches Claude Duet research preview (*)",
-    "url": "https://claude.com/product/claude-duet",
-    "description": "Anthropic launches Claude Duet research preview (*)",
+    "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+    "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia",
+    "description": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
     "tags": [
       "tldr"
     ],
@@ -110,49 +100,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Anthropic’s Margin is OpenAI’s Opportunity",
-    "url": "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity",
-    "description": "Anthropic’s Margin is OpenAI’s Opportunity",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Arc is being sunset on December 22, 2026",
-    "url": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
-    "description": "Arc is being sunset on December 22, 2026",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Behind the Scenes, Meta’s Board Is Battling With Mark Zuckerberg Over His Out-of-Control AI Spending",
-    "url": "https://futurism.com/artificial-intelligence/meta-board-zuckerberg-ai-spending-compensation",
-    "description": "Behind the Scenes, Meta’s Board Is Battling With Mark Zuckerberg Over His Out-of-Control AI Spending",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Black October Exposed the Remediation Bottleneck",
-    "url": "https://vinny.dev/blog/2026-10-24-black-october-exposed-the-remediation-bottleneck",
-    "description": "Black October Exposed the Remediation Bottleneck",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
-    "url": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss",
-    "description": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+    "title": "Big bull case for AI is science",
+    "url": "https://www.marginpoints.com/issues/2026-10-25-big-bull-case-for-ai-is-science",
+    "description": "Big bull case for AI is science",
     "tags": [
       "tldr"
     ],
@@ -170,9 +120,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Compiling a Workflow into a 3B Model",
-    "url": "https://arpitbhayani.me/blogs/compiling-an-sop-into-a-3b-model",
-    "description": "Compiling a Workflow into a 3B Model",
+    "title": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+    "url": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns",
+    "description": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
     "tags": [
       "tldr"
     ],
@@ -180,9 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "DeepSeek raises €13bn to strengthen position in AI market",
-    "url": "https://www.techcentral.ie/deepseek-raises-e13bn-to-strengthen-position-in-ai-market",
-    "description": "DeepSeek raises €13bn to strengthen position in AI market",
+    "title": "Dessa - the Conversation Model trained only on speech",
+    "url": "https://block.xyz/dessa",
+    "description": "Dessa - the Conversation Model trained only on speech",
     "tags": [
       "tldr"
     ],
@@ -190,9 +140,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Donating Agent Skills to the Agentic AI Foundation \\ Anthropic",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-    "description": "Donating Agent Skills to the Agentic AI Foundation \\ Anthropic",
+    "description": "Donating Agent Skills to the Agentic AI Foundation",
     "tags": [
       "tldr"
     ],
@@ -200,9 +150,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call",
-    "description": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+    "title": "EU Governments Back GDPR Changes Allowing AI Data Use Without Consent",
+    "url": "https://x.com/intcyberdigest/status/2113669869262836001",
+    "description": "EU Governments Back GDPR Changes Allowing AI Data Use Without Consent",
     "tags": [
       "tldr"
     ],
@@ -210,9 +160,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
-    "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab",
-    "description": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
+    "title": "Every architecture is a receipt",
+    "url": "https://hrih.si/articles/every-architecture-is-a-receipt",
+    "description": "Every architecture is a receipt",
     "tags": [
       "tldr"
     ],
@@ -220,9 +170,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-    "description": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "title": "Exploring Apple's On-Device Model: Twenty Billion Parameters in Flash",
+    "url": "https://www.airealist.ai/p/exploring-apple-on-device-model",
+    "description": "Exploring Apple's On-Device Model: Twenty Billion Parameters in Flash",
     "tags": [
       "tldr"
     ],
@@ -230,9 +180,39 @@
     "site_name": "tldr"
   },
   {
-    "title": "Formally verifying real-world software with Claude \\ Anthropic",
+    "title": "Formally verifying real-world software with Claude",
     "url": "https://www.anthropic.com/research/formal-verification",
-    "description": "Formally verifying real-world software with Claude \\ Anthropic",
+    "description": "Formally verifying real-world software with Claude",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
+    "description": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google's C Binder Driver Removed With Rust Binder Ready For \"Few Billion Devices\"",
+    "url": "https://www.phoronix.com/news/Linux-7.4-Char-Misc",
+    "description": "Google's C Binder Driver Removed With Rust Binder Ready For \"Few Billion Devices\"",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google’s AI search changes upended online publishing",
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "description": "Google’s AI search changes upended online publishing",
     "tags": [
       "tldr"
     ],
@@ -250,9 +230,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Interesting systemd features you may not know about",
-    "url": "https://martinalderson.com/posts/interesting-systemd-features",
-    "description": "Interesting systemd features you may not know about",
+    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+    "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber",
+    "description": "Instacart reportedly discussed selling itself with DoorDash and Uber",
     "tags": [
       "tldr"
     ],
@@ -260,9 +240,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Introducing Agent Compute Engine and expanding agent governance",
-    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance?linkId=64202548",
-    "description": "Introducing Agent Compute Engine and expanding agent governance",
+    "title": "International investor plans to invest US$50bil in Malaysia’s tech sector, says PM",
+    "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/24/international-investor-plans-to-invest-us-50bil-in-malaysia-s-tech-sector-says-pm",
+    "description": "International investor plans to invest US$50bil in Malaysia’s tech sector, says PM",
     "tags": [
       "tldr"
     ],
@@ -280,9 +260,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "MCP maturity in October 2026: what's stable, what's deprecated, what's still a bet",
-    "url": "https://pournasserian.com/writing/mcp-buyer-maturity-map",
-    "description": "MCP maturity in October 2026: what's stable, what's deprecated, what's still a bet",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+    "description": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
     "tags": [
       "tldr"
     ],
@@ -290,9 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "MCP server design patterns and anti-patterns",
-    "url": "https://pournasserian.com/writing/mcp-2026-design-patterns",
-    "description": "MCP server design patterns and anti-patterns",
+    "title": "MiniMax M3.1 Flash is now on @tenstorrent Cloud -bringing frontier AI to Tensix silicon, Ethernet...",
+    "url": "https://x.com/minimax_ai/status/2113737885262471328",
+    "description": "MiniMax M3.1 Flash is now on @tenstorrent Cloud -bringing frontier AI to Tensix silicon, Ethernet...",
     "tags": [
       "tldr"
     ],
@@ -300,29 +280,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Meta (META) Q3 2026 earnings report: Live updates",
-    "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
-    "description": "Meta (META) Q3 2026 earnings report: Live updates",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "description": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
-    "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-    "description": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
+    "title": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "description": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
     "tags": [
       "tldr"
     ],
@@ -340,16 +300,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it actually is",
-    "url": "https://www.xda-developers.com/nvidia-rtx-spark-npu-barely-mentions-spent-week-figuring-out",
-    "description": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it actually is",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
     "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
     "description": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
@@ -360,9 +310,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "OCP 2026 - Co-Designing an AI Cluster",
-    "url": "https://www.siliconcodesign.com/p/ocp-2026-co-designing-an-ai-cluster",
-    "description": "OCP 2026 - Co-Designing an AI Cluster",
+    "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+    "url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers",
+    "description": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+    "description": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
     "tags": [
       "tldr"
     ],
@@ -380,49 +340,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Recursive releases Flint open-weight AI coding model (*)",
-    "url": "https://recursive.com/updates/introducing-recursive-flint",
-    "description": "Recursive releases Flint open-weight AI coding model (*)",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
     "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring",
     "description": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Sammy Hajhamid: Switch 2 Jailbreak (ns2jb) Technical Details",
-    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb",
-    "description": "Sammy Hajhamid: Switch 2 Jailbreak (ns2jb) Technical Details",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
-    "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-    "description": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Scoop: Visa in talks to acquire Fireblocks for around $2.5B",
-    "url": "https://www.axios.com/pro/fintech-deals/2026/10/22/visa-fireblocks-talks-2-billion",
-    "description": "Scoop: Visa in talks to acquire Fireblocks for around $2.5B",
     "tags": [
       "tldr"
     ],
@@ -440,9 +360,59 @@
     "site_name": "tldr"
   },
   {
-    "title": "The “Lossless” Illusion: How Speculative Decoding Silently Changes What LLMs Say",
-    "url": "https://www.alphaxiv.org/abs/2610.speculative-decoding-distribution-shifts",
-    "description": "The “Lossless” Illusion: How Speculative Decoding Silently Changes What LLMs Say",
+    "title": "Tesla’s Roadster Demo Is Tech Bros’ Oldest Trick in the Book",
+    "url": "https://galratner.substack.com/p/teslas-roadster-demo-is-tech-bros",
+    "description": "Tesla’s Roadster Demo Is Tech Bros’ Oldest Trick in the Book",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Goose Programming Language · Goose",
+    "url": "https://aardappel.github.io/goose",
+    "description": "The Goose Programming Language · Goose",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Year AI Ate Math",
+    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+    "description": "The Year AI Ate Math",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The alpha in served intelligence: what 155 trillion tokens a day really tells you",
+    "url": "https://flowtivity.ai/blog/served-intelligence-deepinfer-economics",
+    "description": "The alpha in served intelligence: what 155 trillion tokens a day really tells you",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The open garbage",
+    "url": "https://carette.xyz/posts/the_open_garbage",
+    "description": "The open garbage",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+    "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+    "description": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
     "tags": [
       "tldr"
     ],
@@ -460,6 +430,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo",
+    "description": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
     "url": "https://www.latent.space/p/modal-d",
     "description": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
@@ -470,9 +450,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
-    "description": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+    "title": "Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000 cards",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "description": "Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000 cards",
     "tags": [
       "tldr"
     ],
@@ -480,9 +460,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000 series cards",
-    "url": "https://github.com/Zagitta/gpu-unlock",
-    "description": "Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000 series cards",
+    "title": "iPhone Duo arrives at Apple Store locations worldwide",
+    "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide",
+    "description": "iPhone Duo arrives at Apple Store locations worldwide",
     "tags": [
       "tldr"
     ],
@@ -493,6 +473,26 @@
     "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
     "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
     "description": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "“Performance” Oryon: Qualcomm’s Little Core",
+    "url": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
+    "description": "“Performance” Oryon: Qualcomm’s Little Core",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "“We should be more ambitious with the software we build”",
+    "url": "https://danluu.com/ambitious",
+    "description": "“We should be more ambitious with the software we build”",
     "tags": [
       "tldr"
     ],
