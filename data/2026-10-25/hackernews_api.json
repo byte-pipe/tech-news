@@ -1,11 +1,45 @@
 [
   {
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "author": "sungam",
+    "date": "2026-10-25",
+    "score": 304,
+    "comments": 157,
+    "id": 50233779,
+    "discussion_url": "https://news.ycombinator.com/item?id=50233779",
+    "description": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-25T21:25:11.108103"
+  },
+  {
+    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+    "author": "romanhn",
+    "date": "2026-10-25",
+    "score": 152,
+    "comments": 233,
+    "id": 50233304,
+    "discussion_url": "https://news.ycombinator.com/item?id=50233304",
+    "description": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-25T21:25:11.108123"
+  },
+  {
     "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
     "author": "gnabgib",
     "date": "2026-10-24",
-    "score": 420,
-    "comments": 445,
+    "score": 491,
+    "comments": 527,
     "id": 50226419,
     "discussion_url": "https://news.ycombinator.com/item?id=50226419",
     "description": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
@@ -14,66 +48,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657471"
-  },
-  {
-    "title": "Apple Music 404 Not Found",
-    "url": "https://music.apple.com/this-url-doesnt-exist",
-    "author": "frizlab",
-    "date": "2026-10-23",
-    "score": 924,
-    "comments": 271,
-    "id": 50207910,
-    "discussion_url": "https://news.ycombinator.com/item?id=50207910",
-    "description": "Apple Music 404 Not Found",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657590"
-  },
-  {
-    "title": "Apple Security Research Device",
-    "url": "https://security.apple.com/research-device/",
-    "author": "neom",
-    "date": "2026-10-24",
-    "score": 181,
-    "comments": 126,
-    "id": 50217903,
-    "discussion_url": "https://news.ycombinator.com/item?id=50217903",
-    "description": "Apple Security Research Device",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657608"
-  },
-  {
-    "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-    "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-    "author": "privacyishuman",
-    "date": "2026-10-24",
-    "score": 655,
-    "comments": 318,
-    "id": 50217495,
-    "discussion_url": "https://news.ycombinator.com/item?id=50217495",
-    "description": "Around a dozen banking apps began specifically permitting GrapheneOS",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657586"
+    "fetched_at": "2026-10-25T21:25:11.108129"
   },
   {
     "title": "Bbtree: Fastest Ordered Map",
     "url": "https://bbtree.xiangpeng.systems/post/",
     "author": "aoli-al",
     "date": "2026-10-24",
-    "score": 139,
-    "comments": 17,
+    "score": 150,
+    "comments": 19,
     "id": 50223777,
     "discussion_url": "https://news.ycombinator.com/item?id=50223777",
     "description": "Bbtree: Fastest Ordered Map",
@@ -82,32 +65,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657526"
+    "fetched_at": "2026-10-25T21:25:11.108149"
   },
   {
-    "title": "C vs. C#: racing VLC's Gaussian blur",
-    "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
-    "author": "martz",
-    "date": "2026-10-21",
-    "score": 131,
-    "comments": 49,
-    "id": 50176544,
-    "discussion_url": "https://news.ycombinator.com/item?id=50176544",
-    "description": "C vs. C#: racing VLC's Gaussian blur",
+    "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+    "url": "https://broccoli2shell.com/",
+    "author": "theanonymousone",
+    "date": "2026-10-24",
+    "score": 389,
+    "comments": 209,
+    "id": 50219177,
+    "discussion_url": "https://news.ycombinator.com/item?id=50219177",
+    "description": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657604"
+    "fetched_at": "2026-10-25T21:25:11.108179"
   },
   {
     "title": "Cerebras Deploys Trillion-Parameter AI Models",
     "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
     "author": "gmays",
     "date": "2026-10-25",
-    "score": 248,
-    "comments": 82,
+    "score": 339,
+    "comments": 123,
     "id": 50227356,
     "discussion_url": "https://news.ycombinator.com/item?id=50227356",
     "description": "Cerebras Deploys Trillion-Parameter AI Models",
@@ -116,32 +99,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657383"
+    "fetched_at": "2026-10-25T21:25:11.107998"
   },
   {
-    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-    "url": "https://github.com/slee-persis/GVS5H",
-    "author": "rzk",
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "author": "jumploops",
     "date": "2026-10-25",
-    "score": 172,
-    "comments": 61,
-    "id": 50228167,
-    "discussion_url": "https://news.ycombinator.com/item?id=50228167",
-    "description": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+    "score": 222,
+    "comments": 38,
+    "id": 50234474,
+    "discussion_url": "https://news.ycombinator.com/item?id=50234474",
+    "description": "Dolly Parton's Imagination Library",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657615"
+    "fetched_at": "2026-10-25T21:25:11.107979"
   },
   {
     "title": "FreeDNS",
     "url": "https://freedns.afraid.org/",
     "author": "esher",
     "date": "2026-10-24",
-    "score": 319,
-    "comments": 85,
+    "score": 349,
+    "comments": 89,
     "id": 50222133,
     "discussion_url": "https://news.ycombinator.com/item?id=50222133",
     "description": "FreeDNS",
@@ -150,15 +133,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657377"
+    "fetched_at": "2026-10-25T21:25:11.108133"
   },
   {
     "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
     "url": "https://github.com/Zagitta/gpu-unlock",
     "author": "fragebogen",
     "date": "2026-10-24",
-    "score": 291,
-    "comments": 73,
+    "score": 331,
+    "comments": 76,
     "id": 50219700,
     "discussion_url": "https://news.ycombinator.com/item?id=50219700",
     "description": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
@@ -167,15 +150,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657499"
+    "fetched_at": "2026-10-25T21:25:11.108106"
+  },
+  {
+    "title": "How Japanese Dried Bonito Is Made",
+    "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+    "author": "bookofjoe",
+    "date": "2026-10-22",
+    "score": 174,
+    "comments": 48,
+    "id": 50193936,
+    "discussion_url": "https://news.ycombinator.com/item?id=50193936",
+    "description": "How Japanese Dried Bonito Is Made",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-25T21:25:11.108063"
   },
   {
     "title": "I don't understand quantum physics (2018)",
     "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
     "author": "rramadass",
     "date": "2026-10-24",
-    "score": 342,
-    "comments": 264,
+    "score": 370,
+    "comments": 300,
     "id": 50219666,
     "discussion_url": "https://news.ycombinator.com/item?id=50219666",
     "description": "I don't understand quantum physics (2018)",
@@ -184,15 +184,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657467"
+    "fetched_at": "2026-10-25T21:25:11.108113"
+  },
+  {
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "url": "https://talkweb.eu/openweb/4558/",
+    "author": "Tomte",
+    "date": "2026-10-25",
+    "score": 281,
+    "comments": 147,
+    "id": 50233929,
+    "discussion_url": "https://news.ycombinator.com/item?id=50233929",
+    "description": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-25T21:25:11.108009"
   },
   {
     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
     "author": "Jowsey",
     "date": "2026-10-23",
-    "score": 1068,
-    "comments": 665,
+    "score": 1079,
+    "comments": 668,
     "id": 50212065,
     "discussion_url": "https://news.ycombinator.com/item?id=50212065",
     "description": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
@@ -201,32 +218,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657548"
-  },
-  {
-    "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-    "url": "https://missileer.watch",
-    "author": "liotier",
-    "date": "2026-10-24",
-    "score": 183,
-    "comments": 119,
-    "id": 50224422,
-    "discussion_url": "https://news.ycombinator.com/item?id=50224422",
-    "description": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657575"
+    "fetched_at": "2026-10-25T21:25:11.108189"
   },
   {
     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
     "url": "https://edjefferson.com/localwiki/",
     "author": "sohkamyung",
     "date": "2026-10-22",
-    "score": 1626,
-    "comments": 251,
+    "score": 1673,
+    "comments": 253,
     "id": 50202285,
     "discussion_url": "https://news.ycombinator.com/item?id=50202285",
     "description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -235,32 +235,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657398"
-  },
-  {
-    "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-    "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-    "author": "vrganj",
-    "date": "2026-10-25",
-    "score": 428,
-    "comments": 280,
-    "id": 50229587,
-    "discussion_url": "https://news.ycombinator.com/item?id=50229587",
-    "description": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657579"
+    "fetched_at": "2026-10-25T21:25:11.108096"
   },
   {
     "title": "Neural chip decodes interactions between brain regions",
     "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
     "author": "giuliomagnifico",
     "date": "2026-10-24",
-    "score": 120,
-    "comments": 45,
+    "score": 134,
+    "comments": 47,
     "id": 50222525,
     "discussion_url": "https://news.ycombinator.com/item?id=50222525",
     "description": "Neural chip decodes interactions between brain regions",
@@ -269,49 +252,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657507"
+    "fetched_at": "2026-10-25T21:25:11.108143"
   },
   {
-    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-    "author": "theanonymousone",
-    "date": "2026-10-24",
-    "score": 352,
-    "comments": 171,
-    "id": 50219177,
-    "discussion_url": "https://news.ycombinator.com/item?id=50219177",
-    "description": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+    "author": "thunderbong",
+    "date": "2026-10-25",
+    "score": 125,
+    "comments": 60,
+    "id": 50229827,
+    "discussion_url": "https://news.ycombinator.com/item?id=50229827",
+    "description": "Nikon photography contest winner loses title after scientists spot signs of AI",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657440"
+    "fetched_at": "2026-10-25T21:25:11.108117"
   },
   {
-    "title": "OBS Studio 33",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-    "author": "pentagrama",
-    "date": "2026-10-24",
-    "score": 454,
-    "comments": 173,
-    "id": 50218430,
-    "discussion_url": "https://news.ycombinator.com/item?id=50218430",
-    "description": "OBS Studio 33",
+    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+    "author": "tdeck",
+    "date": "2026-10-25",
+    "score": 251,
+    "comments": 63,
+    "id": 50234232,
+    "discussion_url": "https://news.ycombinator.com/item?id=50234232",
+    "description": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657618"
+    "fetched_at": "2026-10-25T21:25:11.108120"
   },
   {
     "title": "Physicists trap a single antimatter particle for a month",
     "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
     "author": "mooreds",
     "date": "2026-10-21",
-    "score": 327,
-    "comments": 98,
+    "score": 341,
+    "comments": 101,
     "id": 50186450,
     "discussion_url": "https://news.ycombinator.com/item?id=50186450",
     "description": "Physicists trap a single antimatter particle for a month",
@@ -320,15 +303,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657510"
+    "fetched_at": "2026-10-25T21:25:11.108139"
   },
   {
     "title": "Roku developer repositories moved from GitHub to GitLab",
     "url": "https://blog.roku.com/developer/gitlab-move",
     "author": "cxr",
     "date": "2026-10-24",
-    "score": 296,
-    "comments": 208,
+    "score": 301,
+    "comments": 213,
     "id": 50222622,
     "discussion_url": "https://news.ycombinator.com/item?id=50222622",
     "description": "Roku developer repositories moved from GitHub to GitLab",
@@ -337,49 +320,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657522"
+    "fetched_at": "2026-10-25T21:25:11.108167"
   },
   {
-    "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-    "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-    "author": "mashally",
-    "date": "2026-10-25",
-    "score": 169,
-    "comments": 114,
-    "id": 50230181,
-    "discussion_url": "https://news.ycombinator.com/item?id=50230181",
-    "description": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657475"
-  },
-  {
-    "title": "Show HN: Steal My Bitcoin",
-    "url": "https://stealmybitcoin.com/",
-    "author": "cloudlandsdev",
+    "title": "Root shell on Samsung TV",
+    "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+    "author": "testing22321",
     "date": "2026-10-24",
-    "score": 540,
-    "comments": 334,
-    "id": 50224916,
-    "discussion_url": "https://news.ycombinator.com/item?id=50224916",
-    "description": "Show HN: Steal My Bitcoin",
+    "score": 700,
+    "comments": 539,
+    "id": 50218633,
+    "discussion_url": "https://news.ycombinator.com/item?id=50218633",
+    "description": "Root shell on Samsung TV",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657545"
+    "fetched_at": "2026-10-25T21:25:11.108052"
+  },
+  {
+    "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+    "url": "https://bigwhalehunting.com/workforce/",
+    "author": "vfxGer",
+    "date": "2026-10-25",
+    "score": 157,
+    "comments": 47,
+    "id": 50232312,
+    "discussion_url": "https://news.ycombinator.com/item?id=50232312",
+    "description": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-25T21:25:11.108070"
   },
   {
     "title": "Small Programs and Languages",
     "url": "https://ratfactor.com/cards/pl-small",
     "author": "andsoitis",
     "date": "2026-10-24",
-    "score": 145,
-    "comments": 20,
+    "score": 183,
+    "comments": 29,
     "id": 50225674,
     "discussion_url": "https://news.ycombinator.com/item?id=50225674",
     "description": "Small Programs and Languages",
@@ -388,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657448"
+    "fetched_at": "2026-10-25T21:25:11.108099"
   },
   {
     "title": "SpeedCrunch 1.1",
     "url": "https://www.speedcrunch.org/",
     "author": "LordNibbler",
     "date": "2026-10-24",
-    "score": 183,
-    "comments": 36,
+    "score": 220,
+    "comments": 49,
     "id": 50224210,
     "discussion_url": "https://news.ycombinator.com/item?id=50224210",
     "description": "SpeedCrunch 1.1",
@@ -405,15 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657459"
+    "fetched_at": "2026-10-25T21:25:11.108086"
   },
   {
     "title": "The Goose Programming Language",
     "url": "https://aardappel.github.io/goose/",
     "author": "bobbydigitales",
     "date": "2026-10-24",
-    "score": 484,
-    "comments": 292,
+    "score": 549,
+    "comments": 341,
     "id": 50224100,
     "discussion_url": "https://news.ycombinator.com/item?id=50224100",
     "description": "The Goose Programming Language",
@@ -422,15 +405,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657422"
+    "fetched_at": "2026-10-25T21:25:11.108059"
   },
   {
     "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
     "url": "https://de.numista.com/9866",
     "author": "schleck8",
     "date": "2026-10-24",
-    "score": 129,
-    "comments": 39,
+    "score": 136,
+    "comments": 48,
     "id": 50222927,
     "discussion_url": "https://news.ycombinator.com/item?id=50222927",
     "description": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
@@ -439,15 +422,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657518"
+    "fetched_at": "2026-10-25T21:25:11.108164"
   },
   {
     "title": "Today, we hacked what we'd set out to hack: the iPhone",
     "url": "https://blog.calif.io/p/iphone",
     "author": "pavel_lishin",
     "date": "2026-10-23",
-    "score": 1085,
-    "comments": 705,
+    "score": 1100,
+    "comments": 711,
     "id": 50211474,
     "discussion_url": "https://news.ycombinator.com/item?id=50211474",
     "description": "Today, we hacked what we'd set out to hack: the iPhone",
@@ -456,15 +439,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657560"
+    "fetched_at": "2026-10-25T21:25:11.108183"
+  },
+  {
+    "title": "Tool book of a Nuremberg knight from 1505",
+    "url": "https://loeffelholz-codex.org/en/",
+    "author": "edwardog",
+    "date": "2026-10-25",
+    "score": 159,
+    "comments": 79,
+    "id": 50230917,
+    "discussion_url": "https://news.ycombinator.com/item?id=50230917",
+    "description": "Tool book of a Nuremberg knight from 1505",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-25T21:25:11.108146"
   },
   {
     "title": "We should be more ambitious with the software we build",
     "url": "https://danluu.com/ambitious/",
     "author": "ltratt",
     "date": "2026-10-24",
-    "score": 550,
-    "comments": 505,
+    "score": 718,
+    "comments": 663,
     "id": 50225695,
     "discussion_url": "https://news.ycombinator.com/item?id=50225695",
     "description": "We should be more ambitious with the software we build",
@@ -473,31 +473,14 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657389"
-  },
-  {
-    "title": "Why is AI generated language so hard to understand?",
-    "url": "https://arxiv.org/abs/2610.29162",
-    "author": "canjobear",
-    "date": "2026-10-24",
-    "score": 216,
-    "comments": 177,
-    "id": 50223647,
-    "discussion_url": "https://news.ycombinator.com/item?id=50223647",
-    "description": "Why is AI generated language so hard to understand?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657552"
+    "fetched_at": "2026-10-25T21:25:11.108048"
   },
   {
     "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
     "url": "https://simedw.com/2026/10/21/world-model-terminal/",
     "author": "alphax314",
     "date": "2026-10-22",
-    "score": 645,
+    "score": 650,
     "comments": 192,
     "id": 50190363,
     "discussion_url": "https://news.ycombinator.com/item?id=50190363",
@@ -507,6 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-25T14:48:48.657572"
+    "fetched_at": "2026-10-25T21:25:11.108192"
+  },
+  {
+    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+    "url": "https://github.com/ihhub/fheroes2",
+    "author": "tosh",
+    "date": "2026-10-25",
+    "score": 185,
+    "comments": 66,
+    "id": 50230384,
+    "discussion_url": "https://news.ycombinator.com/item?id=50230384",
+    "description": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-25T21:25:11.108066"
   }
 ]

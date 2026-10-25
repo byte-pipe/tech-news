@@ -1,8 +1,38 @@
 [
   {
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis | Lynch Lab",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "description": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis | Lynch Lab",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A Fix for Softmax and Cross-Entropy",
+    "url": "https://arxiv.org/abs/2610.31642",
+    "description": "A Fix for Softmax and Cross-Entropy",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "AI Agents Solve Research-Level Theoretical Physics Problems",
     "url": "https://x.com/rohanpaul_ai/status/2114306498658812026",
     "description": "AI Agents Solve Research-Level Theoretical Physics Problems",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI Goes Vulnerability Hunting",
+    "url": "https://x.com/jaminball/status/2113658713345237419",
+    "description": "AI Goes Vulnerability Hunting",
     "tags": [
       "tldr"
     ],
@@ -20,9 +50,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "AI and Cybersecurity: Greg Brockman on Defending Critical Infrastructure",
-    "url": "https://x.com/a16z/status/2113404552439558377",
-    "description": "AI and Cybersecurity: Greg Brockman on Defending Critical Infrastructure",
+    "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+    "url": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+    "description": "AI Tools Are Generating Massive Attacks for Little Cost",
     "tags": [
       "tldr"
     ],
@@ -30,9 +60,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
-    "url": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail",
-    "description": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+    "title": "AI data center tenants are now demanding late-delivery penalties exceeding $5 million a day, up f...",
+    "url": "https://x.com/choblin29/status/2114429774789841054",
+    "description": "AI data center tenants are now demanding late-delivery penalties exceeding $5 million a day, up f...",
     "tags": [
       "tldr"
     ],
@@ -60,39 +90,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Amazon’s Trainium Takes a Strike at the Training King",
-    "url": "https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at",
-    "description": "Amazon’s Trainium Takes a Strike at the Training King",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Anthropic and UK AISI Investigate Claude Mythos 5 Alignment Issues",
     "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
     "description": "Anthropic and UK AISI Investigate Claude Mythos 5 Alignment Issues",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Anthropic builds its own custom source control system, Scion",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system",
-    "description": "Anthropic builds its own custom source control system, Scion",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-    "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia",
-    "description": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
     "tags": [
       "tldr"
     ],
@@ -110,19 +110,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Canva releases its first image generation model",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
-    "description": "Canva releases its first image generation model",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
-    "url": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns",
-    "description": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+    "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
+    "url": "https://broccoli2shell.com",
+    "description": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
     "tags": [
       "tldr"
     ],
@@ -140,29 +130,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Donating Agent Skills to the Agentic AI Foundation",
-    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-    "description": "Donating Agent Skills to the Agentic AI Foundation",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "EU Governments Back GDPR Changes Allowing AI Data Use Without Consent",
-    "url": "https://x.com/intcyberdigest/status/2113669869262836001",
-    "description": "EU Governments Back GDPR Changes Allowing AI Data Use Without Consent",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Every architecture is a receipt",
-    "url": "https://hrih.si/articles/every-architecture-is-a-receipt",
-    "description": "Every architecture is a receipt",
+    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call",
+    "description": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
     "tags": [
       "tldr"
     ],
@@ -190,9 +160,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-    "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
-    "description": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "title": "From overeliciting to undereliciting LLM propensities in just a few months",
+    "url": "https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in",
+    "description": "From overeliciting to undereliciting LLM propensities in just a few months",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs",
+    "url": "https://www.infoq.com/news/2026/10/google-ml-drift",
+    "description": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs",
     "tags": [
       "tldr"
     ],
@@ -220,9 +200,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "Inside Intel's Fabs: Transistors, EUV, and the Future of Chipmaking",
-    "url": "https://www.dwarkesh.com/p/intel-tour",
-    "description": "Inside Intel's Fabs: Transistors, EUV, and the Future of Chipmaking",
+    "title": "How I work with Agents",
+    "url": "https://x.com/thorstenball/status/2114386050638336082",
+    "description": "How I work with Agents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Large is the AI Circle?",
+    "url": "https://tomtunguz.com/how-large-is-the-ai-circle",
+    "description": "How Large is the AI Circle?",
     "tags": [
       "tldr"
     ],
@@ -260,9 +250,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
-    "description": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "title": "It's a trap: testing coding agents on a language with surprising semantics | Csongor Kiss",
+    "url": "https://blog.csongor.co.uk/loom",
+    "description": "It's a trap: testing coding agents on a language with surprising semantics | Csongor Kiss",
     "tags": [
       "tldr"
     ],
@@ -280,19 +270,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
-    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "description": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
-    "title": "Node2Shell evolves to HTTP2Shell. Brotli flaw (CVE-2026-111497) blast radius affects many libraries & apps using HTTPs.",
-    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-    "description": "Node2Shell evolves to HTTP2Shell. Brotli flaw (CVE-2026-111497) blast radius affects many libraries & apps using HTTPs.",
+    "title": "Musk says SpaceX (SPCX) closed $40 billion of GPU debt, and 'not many' neoclouds will make it through",
+    "url": "https://aistockwire.com/blog/elon-musk-spacex-spcx-40-billion-gpu-debt-closed-neoclouds-consolidation-october",
+    "description": "Musk says SpaceX (SPCX) closed $40 billion of GPU debt, and 'not many' neoclouds will make it through",
     "tags": [
       "tldr"
     ],
@@ -340,16 +320,6 @@
     "site_name": "tldr"
   },
   {
-    "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-    "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring",
-    "description": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-    "tags": [
-      "tldr"
-    ],
-    "date": "2026-10-25",
-    "site_name": "tldr"
-  },
-  {
     "title": "Securing our frontier model training environment",
     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "description": "Securing our frontier model training environment",
@@ -370,6 +340,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "The Economic Boom and Risks of AI Inference Providers",
+    "url": "https://x.com/deedydas/status/2114195317860266432",
+    "description": "The Economic Boom and Risks of AI Inference Providers",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "The Goose Programming Language · Goose",
     "url": "https://aardappel.github.io/goose",
     "description": "The Goose Programming Language · Goose",
@@ -380,9 +360,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "The Year AI Ate Math",
-    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-    "description": "The Year AI Ate Math",
+    "title": "The Hidden Economy of Your Internet Connection",
+    "url": "https://spur.us/blog/hidden-economy-residential-proxies",
+    "description": "The Hidden Economy of Your Internet Connection",
     "tags": [
       "tldr"
     ],
@@ -390,9 +370,19 @@
     "site_name": "tldr"
   },
   {
-    "title": "The alpha in served intelligence: what 155 trillion tokens a day really tells you",
-    "url": "https://flowtivity.ai/blog/served-intelligence-deepinfer-economics",
-    "description": "The alpha in served intelligence: what 155 trillion tokens a day really tells you",
+    "title": "The State of Context Engineering",
+    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+    "description": "The State of Context Engineering",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Year AI Ate Math",
+    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+    "description": "The Year AI Ate Math",
     "tags": [
       "tldr"
     ],
@@ -420,6 +410,16 @@
     "site_name": "tldr"
   },
   {
+    "title": "Unprivileged Containers Are Not Unprivileged",
+    "url": "https://multikernel.io/2026/10/25/unprivileged-containers-are-not-unprivileged",
+    "description": "Unprivileged Containers Are Not Unprivileged",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-25",
+    "site_name": "tldr"
+  },
+  {
     "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
     "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear",
     "description": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
@@ -430,9 +430,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
-    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo",
-    "description": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "title": "What Anthropic’s IPO Filing Means for Your Claude Rate Limits",
+    "url": "https://pub.towardsai.net/what-anthropics-ipo-filing-means-for-your-claude-rate-limits-a34569cb580f?source=rss----98111c9905da---4",
+    "description": "What Anthropic’s IPO Filing Means for Your Claude Rate Limits",
     "tags": [
       "tldr"
     ],
@@ -440,9 +440,9 @@
     "site_name": "tldr"
   },
   {
-    "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-    "url": "https://www.latent.space/p/modal-d",
-    "description": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+    "title": "Why I’m Short the AI Buildout Even Though I’m Long Computers",
+    "url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
+    "description": "Why I’m Short the AI Buildout Even Though I’m Long Computers",
     "tags": [
       "tldr"
     ],
