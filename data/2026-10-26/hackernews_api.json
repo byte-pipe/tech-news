@@ -1,45 +1,11 @@
 [
   {
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "url": "https://lynchlab.net/llm-skin-cancer",
-    "author": "sungam",
-    "date": "2026-10-25",
-    "score": 641,
-    "comments": 265,
-    "id": 50233779,
-    "discussion_url": "https://news.ycombinator.com/item?id=50233779",
-    "description": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743425"
-  },
-  {
-    "title": "Amazon’s “digital pacifier” for toddlers",
-    "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
-    "author": "jumploops",
-    "date": "2026-10-21",
-    "score": 273,
-    "comments": 392,
-    "id": 50185534,
-    "discussion_url": "https://news.ycombinator.com/item?id=50185534",
-    "description": "Amazon’s “digital pacifier” for toddlers",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743401"
-  },
-  {
     "title": "Anthropic S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
     "author": "SiNTEx",
     "date": "2026-10-26",
-    "score": 978,
-    "comments": 885,
+    "score": 1432,
+    "comments": 1396,
     "id": 50242939,
     "discussion_url": "https://news.ycombinator.com/item?id=50242939",
     "description": "Anthropic S-1",
@@ -48,32 +14,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743229"
-  },
-  {
-    "title": "Attention Is Not What You Need (2025)",
-    "url": "https://arxiv.org/abs/2512.19428",
-    "author": "westurner",
-    "date": "2026-10-25",
-    "score": 174,
-    "comments": 61,
-    "id": 50237224,
-    "discussion_url": "https://news.ycombinator.com/item?id=50237224",
-    "description": "Attention Is Not What You Need (2025)",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743380"
+    "fetched_at": "2026-10-26T23:45:30.397676"
   },
   {
     "title": "Behind the scenes at the NeXT Computer office",
     "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
     "author": "Austin_Conlon",
     "date": "2026-10-26",
-    "score": 222,
-    "comments": 129,
+    "score": 244,
+    "comments": 150,
     "id": 50238763,
     "discussion_url": "https://news.ycombinator.com/item?id=50238763",
     "description": "Behind the scenes at the NeXT Computer office",
@@ -82,15 +31,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743342"
+    "fetched_at": "2026-10-26T23:45:30.397797"
   },
   {
     "title": "Birdwatching rewires the brain and slows cognitive decline",
     "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
     "author": "cisc",
     "date": "2026-10-23",
-    "score": 369,
-    "comments": 149,
+    "score": 492,
+    "comments": 193,
     "id": 50215997,
     "discussion_url": "https://news.ycombinator.com/item?id=50215997",
     "description": "Birdwatching rewires the brain and slows cognitive decline",
@@ -99,49 +48,151 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743279"
+    "fetched_at": "2026-10-26T23:45:30.397751"
   },
   {
-    "title": "Dolly Parton's Imagination Library",
-    "url": "https://imaginationlibrary.com/",
-    "author": "jumploops",
-    "date": "2026-10-25",
-    "score": 647,
-    "comments": 106,
-    "id": 50234474,
-    "discussion_url": "https://news.ycombinator.com/item?id=50234474",
-    "description": "Dolly Parton's Imagination Library",
+    "title": "Blaise Pascal invented fixed route public transport (2024)",
+    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+    "author": "skadamat",
+    "date": "2026-10-22",
+    "score": 255,
+    "comments": 135,
+    "id": 50200152,
+    "discussion_url": "https://news.ycombinator.com/item?id=50200152",
+    "description": "Blaise Pascal invented fixed route public transport (2024)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743293"
+    "fetched_at": "2026-10-26T23:45:30.397738"
   },
   {
-    "title": "F-Zero X on Nintendo 3DS",
-    "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-    "author": "bpierre",
-    "date": "2026-10-25",
+    "title": "CSS-Tricks has a new owner",
+    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "author": "edent",
+    "date": "2026-10-26",
+    "score": 360,
+    "comments": 83,
+    "id": 50245831,
+    "discussion_url": "https://news.ycombinator.com/item?id=50245831",
+    "description": "CSS-Tricks has a new owner",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-26T23:45:30.397680"
+  },
+  {
+    "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+    "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+    "author": "cdrnsf",
+    "date": "2026-10-26",
+    "score": 207,
+    "comments": 79,
+    "id": 50247630,
+    "discussion_url": "https://news.ycombinator.com/item?id=50247630",
+    "description": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-26T23:45:30.397765"
+  },
+  {
+    "title": "Colorfigures",
+    "url": "https://april-zhu.com/colorfigures",
+    "author": "the-mitr",
+    "date": "2026-10-23",
+    "score": 127,
+    "comments": 19,
+    "id": 50209573,
+    "discussion_url": "https://news.ycombinator.com/item?id=50209573",
+    "description": "Colorfigures",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-26T23:45:30.397768"
+  },
+  {
+    "title": "Concerning behavior from a popular open-weight AI model",
+    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+    "author": "matthieu_bl",
+    "date": "2026-10-26",
+    "score": 245,
+    "comments": 101,
+    "id": 50246658,
+    "discussion_url": "https://news.ycombinator.com/item?id=50246658",
+    "description": "Concerning behavior from a popular open-weight AI model",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-26T23:45:30.397735"
+  },
+  {
+    "title": "CorridorKey 2.0",
+    "url": "https://corridorkey.com/",
+    "author": "ravenical",
+    "date": "2026-10-26",
     "score": 149,
-    "comments": 88,
-    "id": 50237078,
-    "discussion_url": "https://news.ycombinator.com/item?id=50237078",
-    "description": "F-Zero X on Nintendo 3DS",
+    "comments": 49,
+    "id": 50251127,
+    "discussion_url": "https://news.ycombinator.com/item?id=50251127",
+    "description": "CorridorKey 2.0",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743431"
+    "fetched_at": "2026-10-26T23:45:30.397672"
+  },
+  {
+    "title": "Fixing Tool-Call Accuracy in vLLM",
+    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "author": "coffeemug",
+    "date": "2026-10-26",
+    "score": 144,
+    "comments": 64,
+    "id": 50242870,
+    "discussion_url": "https://news.ycombinator.com/item?id=50242870",
+    "description": "Fixing Tool-Call Accuracy in vLLM",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-26T23:45:30.397731"
+  },
+  {
+    "title": "GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "author": "meetpateltech",
+    "date": "2026-10-26",
+    "score": 466,
+    "comments": 291,
+    "id": 50248124,
+    "discussion_url": "https://news.ycombinator.com/item?id=50248124",
+    "description": "GPT-6.1 Terra",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-26T23:45:30.397637"
   },
   {
     "title": "Growing Trees",
     "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
     "author": "ibobev",
     "date": "2026-10-23",
-    "score": 168,
-    "comments": 24,
+    "score": 190,
+    "comments": 26,
     "id": 50209278,
     "discussion_url": "https://news.ycombinator.com/item?id=50209278",
     "description": "Growing Trees",
@@ -150,66 +201,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743355"
+    "fetched_at": "2026-10-26T23:45:30.397826"
   },
   {
-    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-    "url": "https://talkweb.eu/openweb/4558/",
-    "author": "Tomte",
-    "date": "2026-10-25",
-    "score": 531,
-    "comments": 261,
-    "id": 50233929,
-    "discussion_url": "https://news.ycombinator.com/item?id=50233929",
-    "description": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743443"
-  },
-  {
-    "title": "IBM CEO says open weight models are now good and cheap on-prem",
-    "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-    "author": "Betelbuddy",
+    "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+    "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+    "author": "Frieren",
     "date": "2026-10-26",
-    "score": 394,
-    "comments": 295,
-    "id": 50238088,
-    "discussion_url": "https://news.ycombinator.com/item?id=50238088",
-    "description": "IBM CEO says open weight models are now good and cheap on-prem",
+    "score": 262,
+    "comments": 149,
+    "id": 50248005,
+    "discussion_url": "https://news.ycombinator.com/item?id=50248005",
+    "description": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743408"
+    "fetched_at": "2026-10-26T23:45:30.397697"
   },
   {
-    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "url": "https://edjefferson.com/localwiki/",
-    "author": "sohkamyung",
+    "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+    "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+    "author": "janandonly",
     "date": "2026-10-22",
-    "score": 1695,
-    "comments": 253,
-    "id": 50202285,
-    "discussion_url": "https://news.ycombinator.com/item?id=50202285",
-    "description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "score": 133,
+    "comments": 61,
+    "id": 50200957,
+    "discussion_url": "https://news.ycombinator.com/item?id=50200957",
+    "description": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743469"
+    "fetched_at": "2026-10-26T23:45:30.397829"
   },
   {
     "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
     "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
     "author": "doctorzook",
     "date": "2026-10-26",
-    "score": 237,
-    "comments": 186,
+    "score": 690,
+    "comments": 593,
     "id": 50245524,
     "discussion_url": "https://news.ycombinator.com/item?id=50245524",
     "description": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
@@ -218,100 +252,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743290"
+    "fetched_at": "2026-10-26T23:45:30.397632"
   },
   {
-    "title": "OLED iPad Mini",
-    "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
-    "author": "etothet",
+    "title": "Nietzschian Debugger",
+    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+    "author": "dilawargopang",
     "date": "2026-10-26",
-    "score": 144,
-    "comments": 198,
-    "id": 50243646,
-    "discussion_url": "https://news.ycombinator.com/item?id=50243646",
-    "description": "OLED iPad Mini",
+    "score": 116,
+    "comments": 37,
+    "id": 50247493,
+    "discussion_url": "https://news.ycombinator.com/item?id=50247493",
+    "description": "Nietzschian Debugger",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743359"
+    "fetched_at": "2026-10-26T23:45:30.397687"
   },
   {
-    "title": "One of the Greatest Inventions in the History of Human Transport",
-    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-    "author": "skadamat",
-    "date": "2026-10-22",
-    "score": 174,
-    "comments": 73,
-    "id": 50200152,
-    "discussion_url": "https://news.ycombinator.com/item?id=50200152",
-    "description": "One of the Greatest Inventions in the History of Human Transport",
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "author": "enlyth",
+    "date": "2026-10-26",
+    "score": 243,
+    "comments": 151,
+    "id": 50248055,
+    "discussion_url": "https://news.ycombinator.com/item?id=50248055",
+    "description": "Oldest GUI application that still runs on Windows 11",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743334"
-  },
-  {
-    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "url": "https://minimaxir.com/2026/10/cheap-llms/",
-    "author": "minimaxir",
-    "date": "2026-10-25",
-    "score": 395,
-    "comments": 405,
-    "id": 50236102,
-    "discussion_url": "https://news.ycombinator.com/item?id=50236102",
-    "description": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743481"
-  },
-  {
-    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-    "author": "tdeck",
-    "date": "2026-10-25",
-    "score": 502,
-    "comments": 140,
-    "id": 50234232,
-    "discussion_url": "https://news.ycombinator.com/item?id=50234232",
-    "description": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743466"
-  },
-  {
-    "title": "Overgrown, when plants invade your abandoned tabs",
-    "url": "https://charliegerard.dev/blog/overgrown-extension/",
-    "author": "speckx",
-    "date": "2026-10-22",
-    "score": 380,
-    "comments": 127,
-    "id": 50197108,
-    "discussion_url": "https://news.ycombinator.com/item?id=50197108",
-    "description": "Overgrown, when plants invade your abandoned tabs",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743352"
+    "fetched_at": "2026-10-26T23:45:30.397690"
   },
   {
     "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
     "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
     "author": "vardhan1237",
     "date": "2026-10-26",
-    "score": 214,
-    "comments": 77,
+    "score": 226,
+    "comments": 81,
     "id": 50238739,
     "discussion_url": "https://news.ycombinator.com/item?id=50238739",
     "description": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
@@ -320,32 +303,49 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743345"
+    "fetched_at": "2026-10-26T23:45:30.397800"
   },
   {
-    "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-    "author": "textlanes33",
+    "title": "Pharo 14",
+    "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+    "author": "xkriva11",
     "date": "2026-10-26",
-    "score": 186,
-    "comments": 118,
-    "id": 50237712,
-    "discussion_url": "https://news.ycombinator.com/item?id=50237712",
-    "description": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+    "score": 233,
+    "comments": 59,
+    "id": 50241925,
+    "discussion_url": "https://news.ycombinator.com/item?id=50241925",
+    "description": "Pharo 14",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743453"
+    "fetched_at": "2026-10-26T23:45:30.397653"
+  },
+  {
+    "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+    "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+    "author": "zdw",
+    "date": "2026-10-25",
+    "score": 162,
+    "comments": 51,
+    "id": 50236681,
+    "discussion_url": "https://news.ycombinator.com/item?id=50236681",
+    "description": "SIMD-accelerated computer vision on a $2 microcontroller",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-26T23:45:30.397721"
   },
   {
     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
     "author": "sgiannopoulos",
     "date": "2026-10-26",
-    "score": 201,
-    "comments": 17,
+    "score": 517,
+    "comments": 76,
     "id": 50245138,
     "discussion_url": "https://news.ycombinator.com/item?id=50245138",
     "description": "Sebastian Raschka's from-scratch video course on building reasoning models",
@@ -354,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743215"
+    "fetched_at": "2026-10-26T23:45:30.397645"
   },
   {
     "title": "Show HN: A Truly Modular Keyboard",
     "url": "https://github.com/notaroomba/keybytes",
     "author": "NotARoomba",
     "date": "2026-10-25",
-    "score": 248,
-    "comments": 87,
+    "score": 272,
+    "comments": 98,
     "id": 50228115,
     "discussion_url": "https://news.ycombinator.com/item?id=50228115",
     "description": "Show HN: A Truly Modular Keyboard",
@@ -371,15 +371,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743349"
+    "fetched_at": "2026-10-26T23:45:30.397790"
   },
   {
     "title": "Show HN: TitleArt – Make text like it's 1997",
     "url": "https://titleart.dvy.io/",
     "author": "davidbarker",
     "date": "2026-10-26",
-    "score": 355,
-    "comments": 68,
+    "score": 387,
+    "comments": 73,
     "id": 50238708,
     "discussion_url": "https://news.ycombinator.com/item?id=50238708",
     "description": "Show HN: TitleArt – Make text like it's 1997",
@@ -388,32 +388,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743338"
-  },
-  {
-    "title": "Steal My Bitcoin CTF PoC",
-    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-    "author": "davikr",
-    "date": "2026-10-26",
-    "score": 160,
-    "comments": 44,
-    "id": 50237379,
-    "discussion_url": "https://news.ycombinator.com/item?id=50237379",
-    "description": "Steal My Bitcoin CTF PoC",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743411"
+    "fetched_at": "2026-10-26T23:45:30.397851"
   },
   {
     "title": "Switzerland. Block by block. At 1:1 scale",
     "url": "https://blocks.manifold3d.ch/",
     "author": "theanonymousone",
     "date": "2026-10-26",
-    "score": 388,
-    "comments": 181,
+    "score": 455,
+    "comments": 213,
     "id": 50240922,
     "discussion_url": "https://news.ycombinator.com/item?id=50240922",
     "description": "Switzerland. Block by block. At 1:1 scale",
@@ -422,32 +405,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743246"
+    "fetched_at": "2026-10-26T23:45:30.397724"
   },
   {
-    "title": "The State of Context Engineering",
-    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-    "author": "pchristensen",
-    "date": "2026-10-25",
-    "score": 244,
-    "comments": 60,
-    "id": 50235780,
-    "discussion_url": "https://news.ycombinator.com/item?id=50235780",
-    "description": "The State of Context Engineering",
+    "title": "The EPA Is Quietly Killing Its Web Archive",
+    "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+    "author": "robtherobber",
+    "date": "2026-10-26",
+    "score": 202,
+    "comments": 35,
+    "id": 50249275,
+    "discussion_url": "https://news.ycombinator.com/item?id=50249275",
+    "description": "The EPA Is Quietly Killing Its Web Archive",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743391"
+    "fetched_at": "2026-10-26T23:45:30.397701"
+  },
+  {
+    "title": "Type Server Protocol",
+    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "author": "adamnemecek",
+    "date": "2026-10-26",
+    "score": 178,
+    "comments": 130,
+    "id": 50248371,
+    "discussion_url": "https://news.ycombinator.com/item?id=50248371",
+    "description": "Type Server Protocol",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-26T23:45:30.397649"
+  },
+  {
+    "title": "US designates helium as a critical material",
+    "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+    "author": "rbanffy",
+    "date": "2026-10-26",
+    "score": 162,
+    "comments": 96,
+    "id": 50248665,
+    "discussion_url": "https://news.ycombinator.com/item?id=50248665",
+    "description": "US designates helium as a critical material",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-26T23:45:30.397714"
   },
   {
     "title": "We should be more ambitious with the software we build",
     "url": "https://danluu.com/ambitious/",
     "author": "ltratt",
     "date": "2026-10-24",
-    "score": 867,
-    "comments": 755,
+    "score": 882,
+    "comments": 764,
     "id": 50225695,
     "discussion_url": "https://news.ycombinator.com/item?id=50225695",
     "description": "We should be more ambitious with the software we build",
@@ -456,15 +473,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743362"
+    "fetched_at": "2026-10-26T23:45:30.397814"
   },
   {
     "title": "Websites Should Be Printable",
     "url": "https://brennenputh.me/blog/printable-websites/",
     "author": "bagatelle",
     "date": "2026-10-26",
-    "score": 188,
-    "comments": 137,
+    "score": 256,
+    "comments": 167,
     "id": 50241664,
     "discussion_url": "https://news.ycombinator.com/item?id=50241664",
     "description": "Websites Should Be Printable",
@@ -473,40 +490,23 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743287"
+    "fetched_at": "2026-10-26T23:45:30.397775"
   },
   {
-    "title": "What goes into making an animated film?",
-    "url": "https://www.disneyanimation.com/process/",
-    "author": "embedding-shape",
-    "date": "2026-10-25",
-    "score": 168,
-    "comments": 75,
-    "id": 50235738,
-    "discussion_url": "https://news.ycombinator.com/item?id=50235738",
-    "description": "What goes into making an animated film?",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743463"
-  },
-  {
-    "title": "Why I Am a Programmer",
-    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-    "author": "jruohonen",
-    "date": "2026-10-25",
-    "score": 303,
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "author": "jonluca",
+    "date": "2026-10-26",
+    "score": 224,
     "comments": 94,
-    "id": 50235017,
-    "discussion_url": "https://news.ycombinator.com/item?id=50235017",
-    "description": "Why I Am a Programmer",
+    "id": 50251344,
+    "discussion_url": "https://news.ycombinator.com/item?id=50251344",
+    "description": "Working with academic communities to build scientific understanding",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-26T17:15:58.743384"
+    "fetched_at": "2026-10-26T23:45:30.397622"
   }
 ]
