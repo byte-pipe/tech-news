@@ -1,79 +1,79 @@
 [
   {
-    "title": "Anthropic S-1",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-    "author": "SiNTEx",
+    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "url": "https://github.com/otya128/winevdm",
+    "author": "doener",
     "date": "2026-10-27",
-    "score": 1333,
-    "comments": 1314,
-    "id": 50242939,
-    "discussion_url": "https://news.ycombinator.com/item?id=50242939",
-    "description": "Anthropic S-1",
+    "score": 122,
+    "comments": 30,
+    "id": 50253529,
+    "discussion_url": "https://news.ycombinator.com/item?id=50253529",
+    "description": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161377"
+    "fetched_at": "2026-10-27T16:46:48.996156"
   },
   {
-    "title": "Behind the scenes at the NeXT Computer office",
-    "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-    "author": "Austin_Conlon",
+    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+    "author": "aray07",
     "date": "2026-10-26",
-    "score": 240,
-    "comments": 148,
-    "id": 50238763,
-    "discussion_url": "https://news.ycombinator.com/item?id=50238763",
-    "description": "Behind the scenes at the NeXT Computer office",
+    "score": 206,
+    "comments": 88,
+    "id": 50247928,
+    "discussion_url": "https://news.ycombinator.com/item?id=50247928",
+    "description": "A Man from the Future: Why Johnny Can't Stop Abstracting",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161732"
+    "fetched_at": "2026-10-27T16:46:48.996159"
   },
   {
-    "title": "Birdwatching rewires the brain and slows cognitive decline",
-    "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-    "author": "cisc",
-    "date": "2026-10-24",
-    "score": 468,
-    "comments": 182,
-    "id": 50215997,
-    "discussion_url": "https://news.ycombinator.com/item?id=50215997",
-    "description": "Birdwatching rewires the brain and slows cognitive decline",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161557"
-  },
-  {
-    "title": "Blaise Pascal invented fixed route public transport (2024)",
-    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-    "author": "skadamat",
+    "title": "A Printer Printing onto Paper",
+    "url": "https://twitter.com/macrofying/status/2112904628509528219",
+    "author": "MrBuddyCasino",
     "date": "2026-10-23",
-    "score": 241,
-    "comments": 125,
-    "id": 50200152,
-    "discussion_url": "https://news.ycombinator.com/item?id=50200152",
-    "description": "Blaise Pascal invented fixed route public transport (2024)",
+    "score": 186,
+    "comments": 45,
+    "id": 50204697,
+    "discussion_url": "https://news.ycombinator.com/item?id=50204697",
+    "description": "A Printer Printing onto Paper",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161637"
+    "fetched_at": "2026-10-27T16:46:48.996138"
+  },
+  {
+    "title": "AI promised less work. I've never worked more",
+    "url": "https://oioannou.com/blog/ai-promised-less-work/",
+    "author": "oorestisime",
+    "date": "2026-10-27",
+    "score": 565,
+    "comments": 500,
+    "id": 50257325,
+    "discussion_url": "https://news.ycombinator.com/item?id=50257325",
+    "description": "AI promised less work. I've never worked more",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.996180"
   },
   {
     "title": "CSS-Tricks has a new owner",
     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
     "author": "edent",
-    "date": "2026-10-27",
-    "score": 310,
-    "comments": 69,
+    "date": "2026-10-26",
+    "score": 537,
+    "comments": 110,
     "id": 50245831,
     "discussion_url": "https://news.ycombinator.com/item?id=50245831",
     "description": "CSS-Tricks has a new owner",
@@ -82,100 +82,32 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161361"
+    "fetched_at": "2026-10-27T16:46:48.996128"
   },
   {
-    "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-    "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-    "author": "cdrnsf",
-    "date": "2026-10-27",
-    "score": 174,
-    "comments": 56,
-    "id": 50247630,
-    "discussion_url": "https://news.ycombinator.com/item?id=50247630",
-    "description": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161228"
-  },
-  {
-    "title": "Concerning behavior from a popular open-weight AI model",
-    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-    "author": "matthieu_bl",
-    "date": "2026-10-27",
-    "score": 202,
-    "comments": 76,
-    "id": 50246658,
-    "discussion_url": "https://news.ycombinator.com/item?id=50246658",
-    "description": "Concerning behavior from a popular open-weight AI model",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161137"
-  },
-  {
-    "title": "DOJ says presidents should be able to sell secrets on eBay",
-    "url": "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/",
-    "author": "_____k",
-    "date": "2026-10-27",
-    "score": 163,
-    "comments": 79,
-    "id": 50243762,
-    "discussion_url": "https://news.ycombinator.com/item?id=50243762",
-    "description": "DOJ says presidents should be able to sell secrets on eBay",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.162010"
-  },
-  {
-    "title": "Dolly Parton's Imagination Library",
-    "url": "https://imaginationlibrary.com/",
-    "author": "jumploops",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "author": "wondersky",
     "date": "2026-10-26",
-    "score": 667,
-    "comments": 107,
-    "id": 50234474,
-    "discussion_url": "https://news.ycombinator.com/item?id=50234474",
-    "description": "Dolly Parton's Imagination Library",
+    "score": 173,
+    "comments": 71,
+    "id": 50252159,
+    "discussion_url": "https://news.ycombinator.com/item?id=50252159",
+    "description": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161841"
-  },
-  {
-    "title": "Fixing Tool-Call Accuracy in vLLM",
-    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-    "author": "coffeemug",
-    "date": "2026-10-26",
-    "score": 138,
-    "comments": 64,
-    "id": 50242870,
-    "discussion_url": "https://news.ycombinator.com/item?id=50242870",
-    "description": "Fixing Tool-Call Accuracy in vLLM",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161158"
+    "fetched_at": "2026-10-27T16:46:48.996145"
   },
   {
     "title": "GPT-6.1 Terra",
     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
     "author": "meetpateltech",
-    "date": "2026-10-27",
-    "score": 369,
-    "comments": 221,
+    "date": "2026-10-26",
+    "score": 615,
+    "comments": 394,
     "id": 50248124,
     "discussion_url": "https://news.ycombinator.com/item?id=50248124",
     "description": "GPT-6.1 Terra",
@@ -184,83 +116,100 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161540"
+    "fetched_at": "2026-10-27T16:46:48.996193"
   },
   {
-    "title": "Growing Trees",
-    "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
-    "author": "ibobev",
-    "date": "2026-10-24",
-    "score": 186,
-    "comments": 26,
-    "id": 50209278,
-    "discussion_url": "https://news.ycombinator.com/item?id=50209278",
-    "description": "Growing Trees",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161684"
-  },
-  {
-    "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-    "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-    "author": "Frieren",
+    "title": "Genie 4",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "author": "acossta",
     "date": "2026-10-27",
-    "score": 168,
-    "comments": 91,
-    "id": 50248005,
-    "discussion_url": "https://news.ycombinator.com/item?id=50248005",
-    "description": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+    "score": 119,
+    "comments": 50,
+    "id": 50261319,
+    "discussion_url": "https://news.ycombinator.com/item?id=50261319",
+    "description": "Genie 4",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161590"
+    "fetched_at": "2026-10-27T16:46:48.995968"
   },
   {
-    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "url": "https://edjefferson.com/localwiki/",
-    "author": "sohkamyung",
-    "date": "2026-10-23",
-    "score": 1701,
-    "comments": 254,
-    "id": 50202285,
-    "discussion_url": "https://news.ycombinator.com/item?id=50202285",
-    "description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161933"
-  },
-  {
-    "title": "Meta Employees Denounce Interference in Brazilian Elections",
-    "url": "https://www.panamericandispatch.org/p/meta-employees-denounce-interference",
-    "author": "guitcastro",
+    "title": "Gforth 1.0",
+    "url": "https://gforth.org/manual/1.0/NEWS.html",
+    "author": "joshcsimmons",
     "date": "2026-10-27",
-    "score": 289,
-    "comments": 128,
-    "id": 50248061,
-    "discussion_url": "https://news.ycombinator.com/item?id=50248061",
-    "description": "Meta Employees Denounce Interference in Brazilian Elections",
+    "score": 105,
+    "comments": 6,
+    "id": 50256952,
+    "discussion_url": "https://news.ycombinator.com/item?id=50256952",
+    "description": "Gforth 1.0",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161995"
+    "fetched_at": "2026-10-27T16:46:48.996068"
+  },
+  {
+    "title": "How to grow a cacao tree at home (2024)",
+    "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+    "author": "felipevb",
+    "date": "2026-10-26",
+    "score": 137,
+    "comments": 39,
+    "id": 50240465,
+    "discussion_url": "https://news.ycombinator.com/item?id=50240465",
+    "description": "How to grow a cacao tree at home (2024)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.996142"
+  },
+  {
+    "title": "I still teach OpenGL ES 3.0",
+    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "author": "majorchord",
+    "date": "2026-10-27",
+    "score": 122,
+    "comments": 78,
+    "id": 50253939,
+    "discussion_url": "https://news.ycombinator.com/item?id=50253939",
+    "description": "I still teach OpenGL ES 3.0",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.996131"
+  },
+  {
+    "title": "Is my data used for model training?",
+    "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+    "author": "jonpizza",
+    "date": "2026-10-27",
+    "score": 152,
+    "comments": 71,
+    "id": 50259406,
+    "discussion_url": "https://news.ycombinator.com/item?id=50259406",
+    "description": "Is my data used for model training?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.995994"
   },
   {
     "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
     "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
     "author": "doctorzook",
-    "date": "2026-10-27",
-    "score": 557,
-    "comments": 486,
+    "date": "2026-10-26",
+    "score": 1014,
+    "comments": 1037,
     "id": 50245524,
     "discussion_url": "https://news.ycombinator.com/item?id=50245524",
     "description": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
@@ -269,15 +218,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161748"
+    "fetched_at": "2026-10-27T16:46:48.996183"
+  },
+  {
+    "title": "New 14‑inch MacBook Pro with M6",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "author": "meetpateltech",
+    "date": "2026-10-27",
+    "score": 122,
+    "comments": 134,
+    "id": 50258521,
+    "discussion_url": "https://news.ycombinator.com/item?id=50258521",
+    "description": "New 14‑inch MacBook Pro with M6",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.996103"
+  },
+  {
+    "title": "New iMac with M6",
+    "url": "https://www.apple.com/imac/",
+    "author": "notfried",
+    "date": "2026-10-27",
+    "score": 144,
+    "comments": 126,
+    "id": 50258538,
+    "discussion_url": "https://news.ycombinator.com/item?id=50258538",
+    "description": "New iMac with M6",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.995989"
+  },
+  {
+    "title": "Nietzschian Debugger",
+    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+    "author": "dilawargopang",
+    "date": "2026-10-26",
+    "score": 206,
+    "comments": 64,
+    "id": 50247493,
+    "discussion_url": "https://news.ycombinator.com/item?id=50247493",
+    "description": "Nietzschian Debugger",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.996170"
   },
   {
     "title": "Oldest GUI application that still runs on Windows 11",
     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
     "author": "enlyth",
-    "date": "2026-10-27",
-    "score": 167,
-    "comments": 90,
+    "date": "2026-10-26",
+    "score": 506,
+    "comments": 301,
     "id": 50248055,
     "discussion_url": "https://news.ycombinator.com/item?id=50248055",
     "description": "Oldest GUI application that still runs on Windows 11",
@@ -286,66 +286,66 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161622"
+    "fetched_at": "2026-10-27T16:46:48.996110"
   },
   {
-    "title": "Overgrown, when plants invade your abandoned tabs",
-    "url": "https://charliegerard.dev/blog/overgrown-extension/",
-    "author": "speckx",
-    "date": "2026-10-23",
-    "score": 398,
-    "comments": 134,
-    "id": 50197108,
-    "discussion_url": "https://news.ycombinator.com/item?id=50197108",
-    "description": "Overgrown, when plants invade your abandoned tabs",
+    "title": "PHP2Shell: Exploitation attempts and remediation trends",
+    "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+    "author": "acossta",
+    "date": "2026-10-27",
+    "score": 141,
+    "comments": 47,
+    "id": 50259343,
+    "discussion_url": "https://news.ycombinator.com/item?id=50259343",
+    "description": "PHP2Shell: Exploitation attempts and remediation trends",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161949"
+    "fetched_at": "2026-10-27T16:46:48.996050"
   },
   {
-    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-    "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-    "author": "vardhan1237",
-    "date": "2026-10-26",
-    "score": 225,
-    "comments": 81,
-    "id": 50238739,
-    "discussion_url": "https://news.ycombinator.com/item?id=50238739",
-    "description": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+    "title": "Python's experimental JIT to be removed",
+    "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+    "author": "f311a",
+    "date": "2026-10-27",
+    "score": 281,
+    "comments": 147,
+    "id": 50257419,
+    "discussion_url": "https://news.ycombinator.com/item?id=50257419",
+    "description": "Python's experimental JIT to be removed",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161668"
+    "fetched_at": "2026-10-27T16:46:48.996036"
   },
   {
-    "title": "Pharo 14",
-    "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-    "author": "xkriva11",
-    "date": "2026-10-26",
-    "score": 212,
-    "comments": 52,
-    "id": 50241925,
-    "discussion_url": "https://news.ycombinator.com/item?id=50241925",
-    "description": "Pharo 14",
+    "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+    "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+    "author": "choult",
+    "date": "2026-10-27",
+    "score": 408,
+    "comments": 235,
+    "id": 50256985,
+    "discussion_url": "https://news.ycombinator.com/item?id=50256985",
+    "description": "Roblox downloaded 145GB models from us (including adult content) without asking",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161653"
+    "fetched_at": "2026-10-27T16:46:48.996097"
   },
   {
     "title": "SIMD-accelerated computer vision on a $2 microcontroller",
     "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
     "author": "zdw",
-    "date": "2026-10-26",
-    "score": 145,
-    "comments": 47,
+    "date": "2026-10-25",
+    "score": 226,
+    "comments": 65,
     "id": 50236681,
     "discussion_url": "https://news.ycombinator.com/item?id=50236681",
     "description": "SIMD-accelerated computer vision on a $2 microcontroller",
@@ -354,15 +354,15 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161491"
+    "fetched_at": "2026-10-27T16:46:48.996177"
   },
   {
     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
     "author": "sgiannopoulos",
-    "date": "2026-10-27",
-    "score": 464,
-    "comments": 63,
+    "date": "2026-10-26",
+    "score": 805,
+    "comments": 106,
     "id": 50245138,
     "discussion_url": "https://news.ycombinator.com/item?id=50245138",
     "description": "Sebastian Raschka's from-scratch video course on building reasoning models",
@@ -371,142 +371,142 @@
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161082"
+    "fetched_at": "2026-10-27T16:46:48.996090"
   },
   {
-    "title": "Show HN: A Truly Modular Keyboard",
-    "url": "https://github.com/notaroomba/keybytes",
-    "author": "NotARoomba",
-    "date": "2026-10-25",
-    "score": 266,
-    "comments": 96,
-    "id": 50228115,
-    "discussion_url": "https://news.ycombinator.com/item?id=50228115",
-    "description": "Show HN: A Truly Modular Keyboard",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161700"
-  },
-  {
-    "title": "Show HN: TitleArt – Make text like it's 1997",
-    "url": "https://titleart.dvy.io/",
-    "author": "davidbarker",
-    "date": "2026-10-26",
-    "score": 384,
-    "comments": 72,
-    "id": 50238708,
-    "discussion_url": "https://news.ycombinator.com/item?id=50238708",
-    "description": "Show HN: TitleArt – Make text like it's 1997",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161825"
-  },
-  {
-    "title": "Steal My Bitcoin CTF PoC",
-    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-    "author": "davikr",
-    "date": "2026-10-26",
-    "score": 161,
-    "comments": 50,
-    "id": 50237379,
-    "discussion_url": "https://news.ycombinator.com/item?id=50237379",
-    "description": "Steal My Bitcoin CTF PoC",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161918"
-  },
-  {
-    "title": "Switzerland. Block by block. At 1:1 scale",
-    "url": "https://blocks.manifold3d.ch/",
-    "author": "theanonymousone",
-    "date": "2026-10-26",
-    "score": 438,
-    "comments": 208,
-    "id": 50240922,
-    "discussion_url": "https://news.ycombinator.com/item?id=50240922",
-    "description": "Switzerland. Block by block. At 1:1 scale",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161175"
-  },
-  {
-    "title": "The EPA Is Quietly Killing Its Web Archive",
-    "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-    "author": "robtherobber",
+    "title": "Software may be getting worse, but it used to be horrible",
+    "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+    "author": "jakevoytko",
     "date": "2026-10-27",
-    "score": 144,
-    "comments": 17,
-    "id": 50249275,
-    "discussion_url": "https://news.ycombinator.com/item?id=50249275",
-    "description": "The EPA Is Quietly Killing Its Web Archive",
+    "score": 225,
+    "comments": 180,
+    "id": 50257548,
+    "discussion_url": "https://news.ycombinator.com/item?id=50257548",
+    "description": "Software may be getting worse, but it used to be horrible",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161507"
+    "fetched_at": "2026-10-27T16:46:48.996083"
   },
   {
-    "title": "We should be more ambitious with the software we build",
-    "url": "https://danluu.com/ambitious/",
-    "author": "ltratt",
-    "date": "2026-10-25",
-    "score": 878,
-    "comments": 762,
-    "id": 50225695,
-    "discussion_url": "https://news.ycombinator.com/item?id=50225695",
-    "description": "We should be more ambitious with the software we build",
-    "tags": [
-      "hackernews",
-      "trending"
-    ],
-    "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161809"
-  },
-  {
-    "title": "Websites Should Be Printable",
-    "url": "https://brennenputh.me/blog/printable-websites/",
-    "author": "bagatelle",
+    "title": "Solar power is becoming bigger than nuclear",
+    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "author": "geox",
     "date": "2026-10-26",
-    "score": 246,
-    "comments": 163,
-    "id": 50241664,
-    "discussion_url": "https://news.ycombinator.com/item?id=50241664",
-    "description": "Websites Should Be Printable",
+    "score": 498,
+    "comments": 675,
+    "id": 50245385,
+    "discussion_url": "https://news.ycombinator.com/item?id=50245385",
+    "description": "Solar power is becoming bigger than nuclear",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161311"
+    "fetched_at": "2026-10-27T16:46:48.996114"
   },
   {
-    "title": "Where the Romans Fought (interactive map)",
-    "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-    "author": "endorphine",
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "author": "vok",
     "date": "2026-10-26",
-    "score": 144,
-    "comments": 55,
-    "id": 50234879,
-    "discussion_url": "https://news.ycombinator.com/item?id=50234879",
-    "description": "Where the Romans Fought (interactive map)",
+    "score": 750,
+    "comments": 270,
+    "id": 50251661,
+    "discussion_url": "https://news.ycombinator.com/item?id=50251661",
+    "description": "The Exponential Time Hypothesis Is False [pdf]",
     "tags": [
       "hackernews",
       "trending"
     ],
     "site_name": "hackernews_api",
-    "fetched_at": "2026-10-27T08:18:26.161964"
+    "fetched_at": "2026-10-27T16:46:48.996079"
+  },
+  {
+    "title": "The Mythical Man-Month in the Age of AI",
+    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "author": "ilreb",
+    "date": "2026-10-27",
+    "score": 352,
+    "comments": 229,
+    "id": 50255298,
+    "discussion_url": "https://news.ycombinator.com/item?id=50255298",
+    "description": "The Mythical Man-Month in the Age of AI",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.996053"
+  },
+  {
+    "title": "The US government is hiding secret court ruling about how it spies on Americans",
+    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+    "author": "helterskelter2",
+    "date": "2026-10-27",
+    "score": 309,
+    "comments": 76,
+    "id": 50259604,
+    "discussion_url": "https://news.ycombinator.com/item?id=50259604",
+    "description": "The US government is hiding secret court ruling about how it spies on Americans",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.996001"
+  },
+  {
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "author": "jonluca",
+    "date": "2026-10-26",
+    "score": 1077,
+    "comments": 619,
+    "id": 50251344,
+    "discussion_url": "https://news.ycombinator.com/item?id=50251344",
+    "description": "Three new discoveries in mathematics, computer science, and physics",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.996028"
+  },
+  {
+    "title": "Type Server Protocol",
+    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "author": "adamnemecek",
+    "date": "2026-10-26",
+    "score": 263,
+    "comments": 173,
+    "id": 50248371,
+    "discussion_url": "https://news.ycombinator.com/item?id=50248371",
+    "description": "Type Server Protocol",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.996135"
+  },
+  {
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "author": "rbanffy",
+    "date": "2026-10-27",
+    "score": 261,
+    "comments": 117,
+    "id": 50257326,
+    "discussion_url": "https://news.ycombinator.com/item?id=50257326",
+    "description": "Wikipedia's Cleanup of AI-Generated Content",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-10-27T16:46:48.995980"
   }
 ]
