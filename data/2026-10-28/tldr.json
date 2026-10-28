@@ -1,0 +1,502 @@
+[
+  {
+    "title": "1000+ specs, ~500k lines of code, none written by hand: how I do spec-first development with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1xh40ny/1000_specs_500k_lines_of_code_none_written_by",
+    "description": "1000+ specs, ~500k lines of code, none written by hand: how I do spec-first development with Claude Code",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "11,840 TPS on a single GPU",
+    "url": "https://cline.ghost.io/11-840-tps-on-a-single-gpu",
+    "description": "11,840 TPS on a single GPU",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "8 examples of Gemini 4 Argon in action",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action",
+    "description": "8 examples of Gemini 4 Argon in action",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AMD and Meta Advance Strategic Partnership to Power Meta’s Superintelligence Infrastructure",
+    "url": "https://ir.amd.com/news-events/press-releases/detail/1302/amd-and-meta-advance-strategic-partnership-to-power-metas-superintelligence-infrastructure",
+    "description": "AMD and Meta Advance Strategic Partnership to Power Meta’s Superintelligence Infrastructure",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Amazon Secures FCC Approval for Globalstar Acquisition",
+    "url": "https://www.satellitetoday.com/connectivity/2026/10/27/amazon-secures-fcc-approval-for-globalstar-acquisition",
+    "description": "Amazon Secures FCC Approval for Globalstar Acquisition",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "An update from Amazon engineering leadership on the role of the developer in the age of AI",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+    "description": "An update from Amazon engineering leadership on the role of the developer in the age of AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+    "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop",
+    "description": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Announcing our $100M raise | Hex",
+    "url": "https://hex.tech/blog/hex-new-era",
+    "description": "Announcing our $100M raise | Hex",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic IPO: S1 Breakdown",
+    "url": "https://www.mostlymetrics.com/p/anthropic-ipo-s1-breakdown",
+    "description": "Anthropic IPO: S1 Breakdown",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic Said to Pick JPMorgan to Lead IPO's US Retail Offering",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-s-us-retail-offering",
+    "description": "Anthropic Said to Pick JPMorgan to Lead IPO's US Retail Offering",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic illegally trained Claude with Stanford professors’ books",
+    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+    "description": "Anthropic illegally trained Claude with Stanford professors’ books",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic outranks most IPOs in history",
+    "url": "https://protos.com/anthropic-outranks-most-ipos-in-history",
+    "description": "Anthropic outranks most IPOs in history",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic was keeping its IPO share price secret — footnote reveals $71.43",
+    "url": "https://protos.com/anthropic-was-keeping-its-ipo-share-price-secret-footnote-reveals-71-43",
+    "description": "Anthropic was keeping its IPO share price secret — footnote reveals $71.43",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic's S-1 just revealed only 250 customers are spending over $10M on AI: Early Anthropic i...",
+    "url": "https://x.com/thepeelpod/status/2115119090461233303",
+    "description": "Anthropic's S-1 just revealed only 250 customers are spending over $10M on AI: Early Anthropic i...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic's S-1, Checked Against Amazon, Google, Microsoft and Broadcom Filings",
+    "url": "https://equibles.com/research/anthropics-s-1-checked-against-amazon-google-microsoft-and-broadcom-filings",
+    "description": "Anthropic's S-1, Checked Against Amazon, Google, Microsoft and Broadcom Filings",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic’s S-1 Hands Enterprise AI Buyers Better Leverage",
+    "url": "https://www.forrester.com/blogs/anthropics-s-1-hands-enterprise-ai-buyers-better-leverage",
+    "description": "Anthropic’s S-1 Hands Enterprise AI Buyers Better Leverage",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic’s S-1 shows inference revenue per megawatt nearly quadrupling in a year. “Inference re...",
+    "url": "https://x.com/semianalysis_/status/2115175550465507710",
+    "description": "Anthropic’s S-1 shows inference revenue per megawatt nearly quadrupling in a year. “Inference re...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Anthropic’s S-1 | Key Takeaways",
+    "url": "https://lesbarclays.substack.com/p/anthropics-s-1-key-takeaways",
+    "description": "Anthropic’s S-1 | Key Takeaways",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple introduces the new 14-inch MacBook Pro with M6 - Apple",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+    "description": "Apple introduces the new 14-inch MacBook Pro with M6 - Apple",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple unveils new iMac with M6",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6",
+    "description": "Apple unveils new iMac with M6",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Chipmaker Onsemi in Talks to Buy Startup for About $1 Billion",
+    "url": "https://www.theinformation.com/articles/chipmaker-onsemi-talks-buy-startup-1-billion",
+    "description": "Chipmaker Onsemi in Talks to Buy Startup for About $1 Billion",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth",
+    "description": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+    "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+    "description": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Early progress on accelerating drug development with Claude",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "description": "Early progress on accelerating drug development with Claude",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Etzioni on AI: Is Anthropic worth $2 trillion? Do the napkin math with this handy calculator",
+    "url": "https://www.geekwire.com/2026/etzioni-on-ai-is-anthropic-worth-2-trillion-do-the-napkin-math",
+    "description": "Etzioni on AI: Is Anthropic worth $2 trillion? Do the napkin math with this handy calculator",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Five thoughts on the Anthropic IPO",
+    "url": "https://www.axios.com/2026/10/27/anthropic-ipo-cash",
+    "description": "Five thoughts on the Anthropic IPO",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "description": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+    "description": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Genie 4: A new generation of world simulation — Google DeepMind",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+    "description": "Genie 4: A new generation of world simulation — Google DeepMind",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Google and Oracle are partnering to bring Google TPUs to Oracle Cloud Infrastructure",
+    "url": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure",
+    "description": "Google and Oracle are partnering to bring Google TPUs to Oracle Cloud Infrastructure",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How AI agents shape experts’ judgment calls",
+    "url": "https://www.anthropic.com/research/agents-judgment-calls",
+    "description": "How AI agents shape experts’ judgment calls",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+    "url": "https://latent.space/p/opus55",
+    "description": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing LFM3: Every Modality for Specialized Intelligence | Blog | Liquid AI",
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "description": "Introducing LFM3: Every Modality for Specialized Intelligence | Blog | Liquid AI",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing the AI Chip Imports explorer",
+    "url": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer",
+    "description": "Introducing the AI Chip Imports explorer",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Is Anduril Worth $120 Billion?",
+    "url": "https://www.theinformation.com/articles/anduril-worth-120-billion",
+    "description": "Is Anduril Worth $120 Billion?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Mac Studio vs DGX Spark vs RTX 5090",
+    "url": "https://theaiengineer.substack.com/p/mac-studio-vs-dgx-spark-vs-rtx-5090",
+    "description": "Mac Studio vs DGX Spark vs RTX 5090",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Microsoft Maia 300 Shown at OCP 2026",
+    "url": "https://www.servethehome.com/microsoft-maia-300-shown-at-ocp-2026",
+    "description": "Microsoft Maia 300 Shown at OCP 2026",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+    "description": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+    "description": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing",
+    "url": "https://www.businessinsider.com/anthropic-ipo-filing-reveals-looming-threat-to-nvidia-pricing-power-2026-10",
+    "description": "Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "description": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Oracle unveils its first in-house Image/Video Models",
+    "url": "https://blogs.oracle.com/ai-and-datascience/oracle-ai-media-models",
+    "description": "Oracle unveils its first in-house Image/Video Models",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+    "description": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Physical Intelligence in Talks to Raise $1B at $20B Valuation",
+    "url": "https://x.com/rohanpaul_ai/status/2115180665335611452",
+    "description": "Physical Intelligence in Talks to Raise $1B at $20B Valuation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+    "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b",
+    "description": "Re:Build, which spun out Slate Auto, raises $2.1B",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The gigawatt question",
+    "url": "https://jamesthomason.com/the-gigawatt-question",
+    "description": "The gigawatt question",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+    "description": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Why Anthropic’s Rivals are Rooting for its IPO",
+    "url": "https://www.wsj.com/tech/ai/why-anthropics-rivals-are-rooting-for-its-ipo-ce347cd6",
+    "description": "Why Anthropic’s Rivals are Rooting for its IPO",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Will Anthropic’s post-IPO governance really protect its safety mission?",
+    "url": "https://www.transformernews.ai/p/anthropics-post-ipo-governance-trust",
+    "description": "Will Anthropic’s post-IPO governance really protect its safety mission?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  },
+  {
+    "title": "anthropics/formal-math: Refuting the Exponential Time Hypothesis with AI-generated Lean 4 proofs",
+    "url": "https://github.com/anthropics/formal-math/tree/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth",
+    "description": "anthropics/formal-math: Refuting the Exponential Time Hypothesis with AI-generated Lean 4 proofs",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-10-28",
+    "site_name": "tldr"
+  }
+]
