@@ -1,0 +1,118 @@
+---
+title: The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes | WIRED
+url: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+site_name: hackernews_api
+content_file: hackernews_api-the-63-billion-binance-hack-was-pulled-off-in-just
+fetched_at: '2026-10-31T19:03:20.132021'
+original_url: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+author: Matt Burgess
+date: '2026-10-30'
+published_date: '2026-10-30T11:36:52.444Z'
+description: Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.
+tags:
+- hackernews
+- trending
+---
+
+Save Story
+Save this story
+Save Story
+Save this story
+
+Cryptocurrency firms andinvestigators are racing to freeze and track down billions of dollars ofstolen digital cashfollowing what appears to be the largest crypto heist of all time. On Thursday, starting at around 4pm ET, hackers started quickly siphoning around $6.3 billion in cryptocurrencies, spread across multiple blockchains, from wallets belonging to crypto exchangeBinance.
+
+Following the theft, Binance almost immediately suspended all deposits and withdrawals from its services as part of its investigation into the hack andsaysit is working to identify who was behind the breach. The company, along with other crypto firms, says it has so far been able to freeze around half of the stolen funds—essentially stopping hackers moving the money further or trying to cash it out. Much of the remaining crypto may not be possible to freeze, however.
+
+Three crypto tracing firms have been quick to link the attack potentially to North Korean hackers. “We think North Korea is likely responsible,” Tom Robinson, chief scientist and cofounder of Elliptic, tells WIRED. “If North Korea is behind it, this one theft would almost double everything the regime has stolen in crypto to date.”
+
+The majority of the stolen crypto was taken in a period of around 20 minutes on October 29, according to analysis by crypto tracing firm TRM Labs. Wallets belonging to Binance across at least ten blockchains—including Ethereum, Bitcoin, Tron and Solana—were drained and sent to multiple addresses controlled by a single attacker, according to TRM’sanalysis. “Preparation began at least 36 hours before the theft,” TRM says in a blog post. The company says one of the attacker’s wallets received three small withdrawals during a test period, before later expanding the operations.
+
+“Early on October 29, the operator deployed a first piece of code for the attack and tested it on two wallets,” TRM says. “Later that day, it rehearsed the final version on a third wallet, then routed the test funds back to itself. Four hours after that rehearsal, the same code was installed on a Binance hot wallet.” Hot wallets are cryptocurrency wallets that are internet connected and allow crypto exchanges to handle customer withdrawals. Analysts say the funds were drained from hot wallets across the impacted blockchains.
+
+The tactics used in the hack appear to mimic previous methods used by an elite subset of North Korean hackers, known by the nameTraderTraitor. Crypto tracing firms TRM Labs and Chainalysis both say they believe TraderTraitor may be behind the attack, while Robinson says Elliptic hasn’t specifically tied it to the group but sees overlaps in the activity.
+
+Neither Binance nor law enforcement officials have named any suspected links between the attack and North Korean hackers. Over recent years, North Korean hackers have repeatedly targeted cryptocurrency firms andstolen hundreds of millionsin crypto heists. Multiple North Korean hacking groups can target companies in the sector, but TraderTraitor have become specialists, pulling off infrequent but high profile attacks.
+
+Within North Korea’ssprawlinghackingoperations—often designed to earn money for the highly sanctioned and repressive regime—TraderTraitor has stood out in recent years for its sophistication and targeting of crypto and decentralized finance companies. Last year, the FBInamedTraderTraitor as being responsible for the $1.5 billion hack against crypto exchange Bybit.
+
+Binance did not answer WIRED’s questions about whether it believes North Korean hackers are behind the colossal heist, pointing towards astatementsaying it will cover all losses from the hack and is working with law enforcement officials to identify who is responsible.
+
+“Our initial investigation suggested that the security incident may have involved a compromised laptop, however, our subsequent investigation has uncovered additional points of breach,” the company says in a statement. “This was a complex attack, and we are doing all we can in coordination with law enforcement to resolve it.”
+
+“These folks in particular are somewhat artists in terms of getting into these distributed finance organizations,” Rafe Pilling, a senior director of threat intelligence at security company Sophos, tells WIRED. “TraderTraitor seems to focus on these larger operations. In the past, they’ve developed their own fake applications and tried to use those to get inside organizations.”
+
+TRM andChainalysishave initially linked the attack to TraderTraitor and say the determinations are based on their analysis of both on-chain and off-chain activity. “​​The strongest evidence emerged when Chainalysis investigators observed, in real time, funds stolen from Binance commingling with funds stolen in last month’sBitget exploit, which had been attributed to North Korean actors,” a research blog from Chainalysis says.
+
+“Binance says the attack began with a compromised engineer’s laptop. Targeting crypto company staff is a TraderTraitor hallmark,” Elliptic’s Robinson says. “The attacker funded their wallet through Tornado Cash and rehearsed the attack in advance, as in Bybit.”
+
+While around $3 billion of cryptocurrency was initially frozen in the aftermath of the attack, it is likely those behind it could still potentially take away huge sums as not all of the stolen crypto can be frozen. Research from Chainalysis says the company is seeing money “laundering patterns we have not seen before” and that thousands of transactions being quickly processed indicates that they are using “automation to obscure the trail of funds.”
+
+Elliptic’s Robinson says that around $2.8 billion, or around 44 percent of the total amount stolen, has been frozen by crypto companies and exchanges so far, with almost all of this being stablecoins. “The remaining $3.3 billion is mostly Bitcoin, Ether, and XRP, which no one can freeze,” Robinson says. “It can only be stopped when it reaches an exchange or other service. Some will be caught over the coming months, but I don’t expect the frozen share to rise much further.”
+
+## Comments
+
+Back to top
+Join the discussion
+
+## Comments
+
+Back to top
+Triangle
+
+## You Might Also Like
+
+* In your inbox:For life-tested picks, sign up for our Gear newsletters
+* Airbnb hosts are furiousthey can no longer make guests do their chores
+* big story:cool kids write inall lowercase—does that make you mad?
+* I worked for a whole day using only the iPhone Duo
+* WIRED event:The technologies, people, and ideas transforming our world
+Matt Burgess
+ is a senior writer at WIRED focused on information security, privacy, and data regulation in Europe. He graduated from the University of Sheffield with a degree in journalism and now lives in London. Send tips to 
+[email protected]
+. ... 
+Read More
+Senior writer
+* X
+Topics
+Binance
+bitcoin
+breaches
+hackers
+cryptocurrency
+north korea
+A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards
+Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.
+Ben Dowsett
+‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads
+Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.
+Matt Burgess
+A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System
+Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.
+Vittoria Elliott
+AI Is Getting Really Good at Messing With Cybercriminals
+Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.
+Lily Hay Newman
+Polymarket Halted International Trading After Hackers Drained Accounts
+The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.
+Kate Knibbs
+The Secrets of a US Spyware King
+In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company’s promise to keep bad actors from abusing its powerful espionage tool.
+Kim Zetter
+A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse
+The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.
+Dan Goodin, Ars Technica
+Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw
+The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.
+Dan Goodin, Ars Technica
+Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents
+The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.
+Dhruv Mehrotra
+Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched
+Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.
+Lily Hay Newman
+Don’t Let a Crypto Inheritance Get Stuck on the Blockchain
+Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.
+Jill Duffy
+‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire
+The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.
+Matt Burgess
