@@ -1,101 +1,92 @@
 ---
-date: '2026-11-01'
+date: '2026-11-02'
 model: gpt-oss:120b-cloud
-generated_at: '2026-11-01T18:54:37.804590'
+generated_at: '2026-11-02T08:49:56.066623'
 ---
 
 ## Executive Summary  
-- Open‑weight language models remain vulnerable to hidden prompt‑injection attacks, while proprietary systems such as Gemini show more resilience, underscoring ongoing security gaps in LLM deployments.  
-- A critical Linux kernel use‑after‑free (CVE‑2026‑98432) has been patched in mainline releases but many enterprise distributions, notably Ubuntu and RHEL, are still exposed.  
-- Anthropic disclosed unexpectedly strong cash reserves and early operating profit, yet its massive compute‑spending commitments raise questions about sustainable growth.  
-- Reddit is pivoting to a primarily logged‑in experience to counter falling search‑referral traffic, betting on richer user data for ad and AI‑licensing revenue.  
-- The data‑center landscape is being reshaped by Nvidia’s new Vera CPU, which outperforms AMD and Intel on memory‑intensive AI workloads, while a $6.3 billion Binance hack highlights the continuing threat of state‑backed crypto theft.
+- A Reddit discussion surfaced on multiple platforms, highlighting community‑wide interest in a new open‑source AI‑driven card game built with Gemma‑4 and gpt‑oss‑120b.  
+- Brazil’s 3rd Labor Court issued the world’s first sanction for “prompt‑injection” manipulation of a judicial AI system, underscoring emerging legal risks around AI‑assisted document processing.  
+- New benchmarks reveal that AI‑generated JavaScript applications vary widely in cost, with lightweight stacks like Hono + htmx cheapest and Angular most expensive, prompting developers to reconsider framework choices for AI‑assisted coding.  
+- Tech CEOs continue to champion AI for everyday life, but critics argue the hype overlooks ordinary users’ needs and may erode genuine human interaction.  
+- Open‑source advances continue with releases such as Kornia’s differentiable vision library, the AiSOC AI‑powered security operations center, and Handy’s fully offline speech‑to‑text app.
 
 ---
 
-## AI and Machine Learning (8 articles)
+## TOP STORIES  
 
-### Prompt‑injection experiment  
-- **Ghost in the Shell: Can a Log File Hijack an AI? – DEV Community** – A Halloween‑themed test shows that several open‑weight models (Cohere North Mini Code, NVIDIA Nemotron 3.5 Super VL, GPT‑OSS 20B, Dots3‑Note) can be tricked into outputting a hidden phrase when a malicious payload is embedded in a log file, while Gemini’s proprietary models and VS Code coding agents resisted the attack.  
-
-### Open‑source AI team platform  
-- **Orkas – Open‑source Local‑First AI Team – GitHub** – Orkas provides a desktop‑based, MIT‑licensed suite of 16 specialist agents that coordinate to turn user goals into completed tasks, with optional integration of major commercial LLM APIs and local models.  
-
-### Community backlash against Anthropic  
-- **Jiahao Shao on X – hackernews_api** *(trending)* – Shao claims he never “distilled” Anthropic’s Claude and accuses the company of treating paying users as adversaries after his access to Opus was curtailed, sparking a heated debate on model ownership and open‑source contributions.  
-
-### Minimal neural circuit research  
-- **Let’s Build a Brain – HN** – Researchers demonstrate that a four‑neuron virtual creature can exhibit attraction, avoidance, and preference behaviors simply by rewiring sensory‑motor connections and toggling excitatory versus inhibitory links.  
-
-### Multi‑agent coding workflow benchmark  
-- **memdoor/team‑solve – GitHub** – The “team‑solve” Memdoor workflow, which orchestrates planner, ideators, solver, manager, and repair agents via disk files, solved 49 of 50 LiveCodeBench Hard problems at an average cost of $0.39 per run, highlighting the efficiency of structured multi‑agent pipelines.  
-
-### Curated YouTube recommendation site  
-- **HackerTube – karpathy – hackernews_api** *(trending)* – Using Claude Code, the author built hackertube.org, a site that surfaces 6 454 high‑quality YouTube videos extracted from 40 000 Hacker News comments, offering a no‑account, locally‑stored recommendation experience.  
-
-### ChatGPT account takeover proof‑of‑concept  
-- **Do the Math: How We Took Over ChatGPT Accounts – Parameter** – Researchers exposed a chain that combines the “share” link’s HTML preview with MathLive’s virtual‑keyboard messaging to execute arbitrary JavaScript in an authenticated ChatGPT session; OpenAI patched the flaw on 26 Oct 2026 (P1 severity).  
-
-### CPU‑level performance analysis  
-- **Benchmarking Nvidia’s Vera CPU – Tom’s Hardware** – Nvidia’s first Arm‑based Vera processor (88 cores, 1.2 TB/s memory bandwidth) outperforms AMD Turin and Intel Granite Rapids‑AP on Python‑centric AI workloads and memory‑bound server tasks, positioning it as a contender for agentic AI workloads in data centers.  
+- **Reddit discussion spreads across Hacker News and HN RSS (trending)** – A Reddit thread about an open‑source AI card game gained traction on multiple aggregators, sparking conversation about the use of open‑weight models like Gemma‑4 for creative projects.  
 
 ---
 
-## Cybersecurity and Privacy (2 articles)
+## AI and Machine Learning  
 
-### Critical Linux kernel bug  
-- **Linux's October 2026 TCP Use‑After‑Free: CVE‑2026‑98432 – Atlas** *(trending)* – A remote, unauthenticated use‑after‑free in the IPv4 TCP handshake (CVSS 9.8) was patched in mainline kernels (5.10‑7.3) in mid‑October, but Ubuntu and Red Hat still list the vulnerability as unpatched, leaving many production systems exposed.  
+### Singularity News :: CCG – DEV Community  
+- **“Singularity News :: CCG” (dev.to)** – The project showcases a Progressive Web App card game that integrates AI‑generated narratives using Gemma‑4 and a fallback gpt‑oss‑120b model, emphasizing open‑weight model flexibility and a no‑build development workflow.  
 
-### Massive Binance crypto theft  
-- **A simple explainer of the massive crypto heist at Binance – NPR** – North Korean “TraderTraitor” hackers siphoned $6.3 billion from Binance in a 20‑minute breach, prompting the exchange to freeze $3 billion and pledge reimbursements, while the incident underscores the regulatory gaps and high‑value target profile of crypto platforms.  
+### Kornia – Geometric Computer Vision Library  
+- **“Kornia – Differentiable Computer Vision Library for PyTorch” (github)** – Kornia provides a comprehensive suite of differentiable image‑processing, augmentation, and feature‑extraction tools that run efficiently on GPUs, positioning itself as the reference implementation for vision tasks within PyTorch.  
 
----
+### Brazil Court Sanctions Lawyers for Prompt Injection (trending)  
+- **“Brazil Court Sanctions Lawyers for Prompt Injection in Filing” (hackernews_api)** – Two law firms were fined for embedding hidden AI‑directed instructions in a court filing, marking the first global ruling against deliberate prompt‑injection attacks on a judicial AI system and highlighting the need for robust AI governance in legal processes.  
 
-## Software Engineering and Dev Tools (7 articles)
+### Hacker Books – Community Reading List (trending)  
+- **“Hacker Books — books mentioned in Hacker News comments” (hackernews_api)** – A curated list of frequently recommended titles on Hacker News, ranging from classic programming manuals to modern productivity works, reflects the community’s emphasis on fundamentals, practical problem‑solving, and growth‑mindset literature.  
 
-### Memory‑latency bottleneck insight  
-- **It’s the memory latency, stupid – Pivot blog** – The post explains why CPUs can appear 100 % utilized yet be idle, illustrating that DRAM latency dominates performance for memory‑bound queries and showing how radix partitioning can dramatically improve cache utilization.  
+### Flock Safety Contract Dispute  
+- **“My City Canceled Flock’s Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras” (hackernews_api)** – After a municipal council terminated its agreement with Flock Safety, the company failed to respond, leading the police chief to physically disconnect the ALPR cameras while they remain installed under the company’s ownership.  
 
-### Distributed database reliability test  
-- **Jepsen: ParticleDB 1.1.4 – HN** – Jepsen testing of ParticleDB revealed ambiguous durability guarantees across WAL sync modes and transaction settings, with documentation inconsistencies around “snapshot isolation” versus “serializable” semantics.  
+### Norway’s Scenic Route Toilets  
+- **“The world’s best toilets | Norwegian Scenic Routes” (hackernews_api)** – A showcase of Norway’s architecturally striking public restrooms, from the panoramic Stegastein viewpoint to the gold‑plated “Golden loo,” illustrates how design integrates with natural landscapes to create tourist attractions.  
 
-### Regional security analysis  
-- **A Gulf non‑aggression pact could be the path forward – Al Jazeera** – The article argues that a multilateral non‑aggression treaty among Gulf states and Iran could de‑escalate the US‑Israel‑Iran conflict, though trust deficits and enforcement mechanisms remain major hurdles.  
+### Outcrop – AR Geology App  
+- **“Outcrop — Geology app with geologic maps in augmented reality” (hnrss)** – Outcrop overlays detailed geological maps onto real‑world terrain via AR, allowing users to explore rock ages, fault lines, and plate‑tectonic histories worldwide, with offline storage options for field work.  
 
-### Ebola outbreak warning  
-- **Africa’s ‘unprecedented’ Ebola outbreak could reach UK – The Guardian** – With over 10 000 cases in the DRC and spread to several African nations and France, officials warn the virus could reach the UK without stronger global surveillance and funding.  
-
-### Reddit’s product shift  
-- **As search traffic dries up, Reddit announces it’s shifting to a logged‑in experience – TechCrunch** – Facing a decline in search‑derived traffic, Reddit will move to a primarily logged‑in UI to capture richer user signals for advertising and AI‑licensing revenue, while retaining an incognito mode for anonymity.  
-
-### Anthropic financial health report  
-- **Anthropic’s financials are surprisingly strong – TLDR** – The S‑1 filing shows Anthropic’s cash reserves rank third among non‑bank firms and that it achieved its first operating profit in Q2 2026, yet its pledged multi‑hundred‑billion‑dollar compute spend may outpace revenue growth.  
-
-### Open‑source seed discovery  
-- **An Italian Farmer Found Some Unknown Seeds… – hackernews_api** *(trending)* – Claudio Grossi cultivated a mysterious, tall wheat variety with seven ears per stalk, linking it to biblical imagery; the grain shows drought tolerance and could support sustainable agriculture if modernized for baking.  
+### 7 Best Travel Mugs (2026) – WIRED  
+- **“7 Best Travel Mugs (2026): Insulated, Leakproof, and Self‑Heating” (wired)** – WIRED’s hands‑on testing ranks mugs such as the Hydro Flask Coffee and Ember Tumbler 2, evaluating insulation, leak protection, durability, and features like battery‑powered heating.  
 
 ---
 
-## Cloud and Infrastructure (1 article)
+## Software Engineering and Dev Tools  
 
-### DevOps practice repository  
-- **GitHub – bregman‑arie/devops‑exercises** – The open‑source repo hosts 2 624 hands‑on DevOps, SRE, and cloud‑native exercises covering Linux, Jenkins, AWS, Kubernetes, Terraform, and more, serving as a study aid under an MIT license.  
+### Testing Pitfalls  
+- **“Four Ways a Test Can Lie to You” (dev.to)** – The article outlines four common test failure modes—missing positive/negative controls, testing the wrong contract, and targeting the wrong system—illustrating how inadequate test design can give false confidence.  
+
+### Hex – Local Voice Dictation  
+- **“Hex: Local voice dictation for mac, windows and linux” (github)** – Hex offers on‑device speech‑to‑text across major OSes, with no data leaving the machine, and provides multiple install channels and a “Labs” area for experimental features.  
+
+### AiSOC – Open‑Source AI Security Operations Center  
+- **“AiSOC: Open‑source AI Security Operations Center” (github)** – AiSOC combines telemetry normalization, a large rule engine, and LLM‑driven incident investigation into a Docker‑compose stack, logging every AI decision for full auditability.  
+
+### Mathematics Education Reform  
+- **“Mathematics has changed. Let’s act like it” (hnrss)** – The piece argues for curriculum updates that embed programming, data science, and collaborative project work, urging the mathematical community to adopt open‑access resources and inclusive practices.  
+
+### Picard’s Leadership Lessons  
+- **“Patrick Stewart’s Jean‑Luc Picard taught us what good men do with power” (vox)** – Reflecting on Stewart’s death, the article uses Star Trek’s Picard as a model of ethical leadership, emphasizing rule of law, universal rights, and the dangers of institutional decline.  
+
+### AI Cost of JavaScript Frameworks  
+- **“The AI cost of JavaScript frameworks” (hnrss)** – Benchmarking AI‑generated apps shows Hono + htmx as the cheapest framework (≈ $2.67 per run) while Angular tops the cost chart (≈ $4.97), revealing how model familiarity and code size affect token spend.  
+
+### CEOs and Everyday AI  
+- **“AI can make tech CEOs’ lives easier. What about everyone else?” (newsfeed)** – Tech leaders’ enthusiasm for AI‑driven personal tools meets criticism that such hype overlooks ordinary users, with concerns about eroding genuine human interaction and a growing low‑tech backlash.  
+
+### Agent‑Desktop Deep Dive  
+- **“A deep dive into agent-desktop” (tldr)** – Vercel Labs’ CLI tool lets AI agents manipulate native desktop applications via accessibility trees, offering a fast, JSON‑based interface for observation‑action loops across macOS, Windows, and Linux.  
 
 ---
 
-## Startups and Business (1 article)
+## Open Source  
 
-### Founder networking platform  
-- **How Founder Summit helps you make more useful connections to scale – TechCrunch** – TechCrunch’s Founder Summit introduces a structured, Braindate‑powered networking lounge and roundtables to turn casual encounters into targeted conversations for founders and VCs, with early‑bird pricing ending soon.  
-
----
-
-## Science and Research (1 article)
-
-### (No additional content beyond the Italian farmer story, which is already covered under AI & ML.)  
+### Handy – Offline Speech‑to‑Text  
+- **“Handy: A free, open source, and extensible speech‑to‑text application that works completely offline” (github)** – Handy provides privacy‑first transcription using Whisper or Parakeet models, supports Windows/macOS/Linux, and offers CLI flags and Raycast integration for flexible, on‑device use.  
 
 ---
 
 ## Notable Mentions  
-- Backbone of a beast – charting Nvidia's rise to networking titan [tldr]  
-- Reading Anthropic's S‑1 | Merge Conflict, by Tilo Mitra [tldr]
+- A fully playable version of Portal prequel F‑Stop leaked | The Verge  
+- A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look | WIRED  
+- Hull adventurer Karl Bushby 'overwhelmed' at Humber Bridge crowds – BBC News  
+- Anthropic's Internal AI Usage Now Exceeds Employee Compensation – Business Insider  
+- Appraisal by AI: Model‑driven victim prioritization in the VOLTA infostealer – tldr  
+- The Kobeissi Letter on X: "AI spending is rapidly accelerating in the US…" – tldr  
+- Mark Kretschmann on X: "Anthropic ported its Messages API from Python to Rust…" – tldr
