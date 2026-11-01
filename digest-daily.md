@@ -1,88 +1,101 @@
 ---
-date: '2026-10-31'
+date: '2026-11-01'
 model: gpt-oss:120b-cloud
-generated_at: '2026-10-31T21:23:19.665463'
+generated_at: '2026-11-01T18:54:37.804590'
 ---
 
-## Executive Summary
-- A malicious Claude Code extension compromised thousands of developers’ machines, highlighting growing supply‑chain risks in AI‑powered tooling.  
-- Binance suffered a $6.3 billion crypto theft in just 20 minutes, the largest exchange hack to date, while Northflank disclosed a breach of AI API keys.  
-- Experts warn that AI‑driven automation is deskilling Site Reliability Engineers, echoing historic automation paradoxes.  
-- Nissan unveiled its 2027 Rogue Hybrid, delivering EV‑like performance without a plug, and AI‑first law firm Crosby entered a bid for the assets of collapsing Weil Gotshal.  
-- Community‑focused pieces examined multi‑agent coordination in Minecraft, the cultural legacy of Captain Picard, and the ongoing challenge of making tech welcoming to beginners.
-
----
-
-## AI and Machine Learning
-
-### What was your win this week? – DEV Community  
-Members were invited to share personal “wins,” from promotions to fixing bugs, fostering a supportive, celebratory atmosphere on the platform.
-
-### Agents in Games · Labs – Hacker News  
-Researchers built open‑source Minecraft and Mindustry environments to study multi‑agent dynamics, observing emergent hierarchies, risk‑averse behavior, and shared resource ledgers among 50 GPT‑6.1 agents.
-
-### **AI Isn't Replacing SREs. It's Deskilling Them. – Hacker News** (trending)  
-Automation of 95 % of incident response is eroding SRE expertise, mirroring historic automation paradoxes; the article recommends deliberate “skill‑maintenance” drills and manual incident handling to preserve intuition.
-
-### **Official Claude Code Extension Compromise: Security Advisory | Phorion – Hacker News** (trending)  
-Phorion identified a backdoored Claude Code VS Code extension that drops persistent SSH keys on macOS, Linux, and Windows; users should remove affected versions, revoke keys, and audit for unauthorized SSH activity.
-
-### Remembering Patrick Stewart: What Captain Picard taught us – HNRSS  
-An homage to Patrick Stewart’s impact, emphasizing Picard’s moral clarity, vulnerability, and role as a “space dad” figure for generations of viewers.
-
-### 2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved – Ars Technica  
-Nissan’s new series‑hybrid Rogue delivers EV‑like acceleration and strong regenerative braking without charging infrastructure, achieving 38 mpg combined and priced from $41,490.
-
-### A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices – WIRED  
-A rogue Claude Code extension was briefly listed on Cursor’s marketplace, exposing up to 5,000 users to a backdoor; the flaw limited widespread exploitation but underscored AI tool supply‑chain vulnerabilities.
-
-### AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal – TechCrunch  
-Two‑year‑old AI‑first firm Crosby submitted a bid to acquire Weil Gotshal’s assets and talent, positioning AI at the forefront of a major restructuring in the legal industry.
+## Executive Summary  
+- Open‑weight language models remain vulnerable to hidden prompt‑injection attacks, while proprietary systems such as Gemini show more resilience, underscoring ongoing security gaps in LLM deployments.  
+- A critical Linux kernel use‑after‑free (CVE‑2026‑98432) has been patched in mainline releases but many enterprise distributions, notably Ubuntu and RHEL, are still exposed.  
+- Anthropic disclosed unexpectedly strong cash reserves and early operating profit, yet its massive compute‑spending commitments raise questions about sustainable growth.  
+- Reddit is pivoting to a primarily logged‑in experience to counter falling search‑referral traffic, betting on richer user data for ad and AI‑licensing revenue.  
+- The data‑center landscape is being reshaped by Nvidia’s new Vera CPU, which outperforms AMD and Intel on memory‑intensive AI workloads, while a $6.3 billion Binance hack highlights the continuing threat of state‑backed crypto theft.
 
 ---
 
-## Cybersecurity and Privacy
+## AI and Machine Learning (8 articles)
 
-### **The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes – WIRED** (trending)  
-Hackers drained $6.3 billion from Binance hot wallets in a rapid, automated attack linked to North Korean group TraderTraitor; Binance will cover losses while roughly half the stolen assets remain unfrozen.
+### Prompt‑injection experiment  
+- **Ghost in the Shell: Can a Log File Hijack an AI? – DEV Community** – A Halloween‑themed test shows that several open‑weight models (Cohere North Mini Code, NVIDIA Nemotron 3.5 Super VL, GPT‑OSS 20B, Dots3‑Note) can be tricked into outputting a hidden phrase when a malicious payload is embedded in a log file, while Gemini’s proprietary models and VS Code coding agents resisted the attack.  
 
-### Breaking the Open Web Won’t Stop the Bad Bots – TechPolicy.Press  
-A critique of proposed “Stealth Bot” legislation, arguing that mandatory bot identification harms legitimate high‑frequency crawling and that technical standards and existing laws are more effective safeguards.
+### Open‑source AI team platform  
+- **Orkas – Open‑source Local‑First AI Team – GitHub** – Orkas provides a desktop‑based, MIT‑licensed suite of 16 specialist agents that coordinate to turn user goals into completed tasks, with optional integration of major commercial LLM APIs and local models.  
 
-### Bitcoin (BTC) today: $6B Binance hack hits prices. What next? – TLDR  
-The Binance breach triggered a >3 % drop in Bitcoin and liquidations of $1.5 billion in futures; analysts predict continued bearish pressure and a shift toward decentralized exchanges.
+### Community backlash against Anthropic  
+- **Jiahao Shao on X – hackernews_api** *(trending)* – Shao claims he never “distilled” Anthropic’s Claude and accuses the company of treating paying users as adversaries after his access to Opus was curtailed, sparking a heated debate on model ownership and open‑source contributions.  
 
----
+### Minimal neural circuit research  
+- **Let’s Build a Brain – HN** – Researchers demonstrate that a four‑neuron virtual creature can exhibit attraction, avoidance, and preference behaviors simply by rewiring sensory‑motor connections and toggling excitatory versus inhibitory links.  
 
-## Software Engineering and Dev Tools
+### Multi‑agent coding workflow benchmark  
+- **memdoor/team‑solve – GitHub** – The “team‑solve” Memdoor workflow, which orchestrates planner, ideators, solver, manager, and repair agents via disk files, solved 49 of 50 LiveCodeBench Hard problems at an average cost of $0.39 per run, highlighting the efficiency of structured multi‑agent pipelines.  
 
-### Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is? – DEV Community  
-Survey data shows a significant portion of developers fear judgment, especially women; the piece calls for genuine supportive responses rather than lip‑service to improve inclusion.
+### Curated YouTube recommendation site  
+- **HackerTube – karpathy – hackernews_api** *(trending)* – Using Claude Code, the author built hackertube.org, a site that surfaces 6 454 high‑quality YouTube videos extracted from 40 000 Hacker News comments, offering a no‑account, locally‑stored recommendation experience.  
 
-### We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It) – DEV Community  
-The OmniGuard Chrome extension uses Gemini 3.7 Flash to detect visual dark‑patterns in real time, overlaying warnings while preserving privacy through a zero‑DB architecture.
+### ChatGPT account takeover proof‑of‑concept  
+- **Do the Math: How We Took Over ChatGPT Accounts – Parameter** – Researchers exposed a chain that combines the “share” link’s HTML preview with MathLive’s virtual‑keyboard messaging to execute arbitrary JavaScript in an authenticated ChatGPT session; OpenAI patched the flaw on 26 Oct 2026 (P1 severity).  
 
-### **Northflank – Status – Hacker News** (trending)  
-Northflank reported unauthorized use of AI API keys, prompting immediate secret rotation, audit‑log activation, and guidance to treat all environment variables as compromised.
-
-### My favourite PowerMac is a Nintendo Wii – Virtually Fun  
-A hobbyist successfully booted classic Mac OS 7.6 and 9.2.2 on Nintendo Wii hardware, overcoming firmware and memory‑mapping challenges without AI assistance.
-
-### The federated code forge · The Tangled Blog – HNRSS  
-Tangled introduces a federated, AT‑Protocol‑based code forge with edge‑deployed Svelte front‑end and Rust “bobbin” indexers, enabling self‑hosted yet globally collaborative development.
+### CPU‑level performance analysis  
+- **Benchmarking Nvidia’s Vera CPU – Tom’s Hardware** – Nvidia’s first Arm‑based Vera processor (88 cores, 1.2 TB/s memory bandwidth) outperforms AMD Turin and Intel Granite Rapids‑AP on Python‑centric AI workloads and memory‑bound server tasks, positioning it as a contender for agentic AI workloads in data centers.  
 
 ---
 
-## Open Source
+## Cybersecurity and Privacy (2 articles)
 
-### GitHub – kevinraymond/florilegium – HNRSS  
-The Florilegium package generates procedural Delft‑blue floral margins for LuaLaTeX, offering customizable themes, seasonal aging, and animated growth sequences entirely via Lua code.
+### Critical Linux kernel bug  
+- **Linux's October 2026 TCP Use‑After‑Free: CVE‑2026‑98432 – Atlas** *(trending)* – A remote, unauthenticated use‑after‑free in the IPv4 TCP handshake (CVSS 9.8) was patched in mainline kernels (5.10‑7.3) in mid‑October, but Ubuntu and Red Hat still list the vulnerability as unpatched, leaving many production systems exposed.  
+
+### Massive Binance crypto theft  
+- **A simple explainer of the massive crypto heist at Binance – NPR** – North Korean “TraderTraitor” hackers siphoned $6.3 billion from Binance in a 20‑minute breach, prompting the exchange to freeze $3 billion and pledge reimbursements, while the incident underscores the regulatory gaps and high‑value target profile of crypto platforms.  
 
 ---
 
-## Notable Mentions
-- ‘The necktie is dead’: How US midterm candidates are dressing for votes – BBC News  
-- AI Arms Race Puts Sovereign Supply Chains in the Spotlight – TLDR  
-- Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says – TechCrunch  
-- Anthropic S‑1, the Claude Loop and Economics of Frontier AI – TLDR  
-- Automated Subtle Emergent Misalignment Research – TLDR
+## Software Engineering and Dev Tools (7 articles)
+
+### Memory‑latency bottleneck insight  
+- **It’s the memory latency, stupid – Pivot blog** – The post explains why CPUs can appear 100 % utilized yet be idle, illustrating that DRAM latency dominates performance for memory‑bound queries and showing how radix partitioning can dramatically improve cache utilization.  
+
+### Distributed database reliability test  
+- **Jepsen: ParticleDB 1.1.4 – HN** – Jepsen testing of ParticleDB revealed ambiguous durability guarantees across WAL sync modes and transaction settings, with documentation inconsistencies around “snapshot isolation” versus “serializable” semantics.  
+
+### Regional security analysis  
+- **A Gulf non‑aggression pact could be the path forward – Al Jazeera** – The article argues that a multilateral non‑aggression treaty among Gulf states and Iran could de‑escalate the US‑Israel‑Iran conflict, though trust deficits and enforcement mechanisms remain major hurdles.  
+
+### Ebola outbreak warning  
+- **Africa’s ‘unprecedented’ Ebola outbreak could reach UK – The Guardian** – With over 10 000 cases in the DRC and spread to several African nations and France, officials warn the virus could reach the UK without stronger global surveillance and funding.  
+
+### Reddit’s product shift  
+- **As search traffic dries up, Reddit announces it’s shifting to a logged‑in experience – TechCrunch** – Facing a decline in search‑derived traffic, Reddit will move to a primarily logged‑in UI to capture richer user signals for advertising and AI‑licensing revenue, while retaining an incognito mode for anonymity.  
+
+### Anthropic financial health report  
+- **Anthropic’s financials are surprisingly strong – TLDR** – The S‑1 filing shows Anthropic’s cash reserves rank third among non‑bank firms and that it achieved its first operating profit in Q2 2026, yet its pledged multi‑hundred‑billion‑dollar compute spend may outpace revenue growth.  
+
+### Open‑source seed discovery  
+- **An Italian Farmer Found Some Unknown Seeds… – hackernews_api** *(trending)* – Claudio Grossi cultivated a mysterious, tall wheat variety with seven ears per stalk, linking it to biblical imagery; the grain shows drought tolerance and could support sustainable agriculture if modernized for baking.  
+
+---
+
+## Cloud and Infrastructure (1 article)
+
+### DevOps practice repository  
+- **GitHub – bregman‑arie/devops‑exercises** – The open‑source repo hosts 2 624 hands‑on DevOps, SRE, and cloud‑native exercises covering Linux, Jenkins, AWS, Kubernetes, Terraform, and more, serving as a study aid under an MIT license.  
+
+---
+
+## Startups and Business (1 article)
+
+### Founder networking platform  
+- **How Founder Summit helps you make more useful connections to scale – TechCrunch** – TechCrunch’s Founder Summit introduces a structured, Braindate‑powered networking lounge and roundtables to turn casual encounters into targeted conversations for founders and VCs, with early‑bird pricing ending soon.  
+
+---
+
+## Science and Research (1 article)
+
+### (No additional content beyond the Italian farmer story, which is already covered under AI & ML.)  
+
+---
+
+## Notable Mentions  
+- Backbone of a beast – charting Nvidia's rise to networking titan [tldr]  
+- Reading Anthropic's S‑1 | Merge Conflict, by Tilo Mitra [tldr]
