@@ -1,0 +1,44 @@
+---
+title: '''All this food is now useless'': Piles of rubbish after shop freezers hit by cyber-attack - BBC News'
+url: https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss
+site_name: newsfeed
+content_file: newsfeed-all-this-food-is-now-useless-piles-of-rubbish-afte
+fetched_at: '2026-11-03T06:07:47.519345'
+original_url: https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss
+date: '2026-11-02'
+description: Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.
+tags:
+- bbc
+---
+
+# 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
+
+## To play this video you need to enable JavaScript in your browser.
+
+This video can not be played
+
+'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
+Close
+
+In dozens of supermarkets across several European countries, a huge amount of food has been dumped after refrigerators and freezers were targeted in a cyber-attack.
+
+Belgium and Luxemburg saw some of the worst damage, with 40 Delhaize supermarkets affected, and incidents also took place in stores across Sweden, Ireland, the Netherlands, Estonia and Finland.
+
+In a branch of supermarket Delhaize in Hoeilaart, just outside the Belgian capital Brussels, the BBC's Europe correspondent Nick Beake found frozen pizzas and ice cream among a mountain of food having to be scrapped. This branch estimated the cost of the damage running to more than €100,000 (£83,500).
+
+* SubsectionEurope
+* Published1 hour ago
+Share
+close panel
+Share page
+Copy link
+About sharing
+
+## Related topics
+
+* SupermarketsFollowSupermarkets
+* Cyber-attacksFollowCyber-attacks
+* Cyber-securityFollowCyber-security
+* BrusselsFollowBrussels
+* BelgiumFollowBelgium
+Read description
