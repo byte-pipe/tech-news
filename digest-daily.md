@@ -1,88 +1,108 @@
 ---
-date: '2026-11-03'
+date: '2026-11-05'
 model: gpt-oss:120b-cloud
-generated_at: '2026-11-03T21:46:16.430849'
+generated_at: '2026-11-05T15:25:24.676603'
 ---
 
 ## Executive Summary  
-- **42AI** raised $62.5 million as it exits stealth, unveiling a world‑model that claims to predict human behavior.  
-- Researchers demonstrated **agentic robotics**, where large language models generate low‑level controller code, dramatically improving robot success rates on benchmark tasks.  
-- A coordinated **cyber‑attack on supermarket refrigeration** across several European countries forced the disposal of hundreds of thousands of euros worth of food, highlighting OT‑security gaps.  
-- The open‑source community criticized **Ubuntu** for lagging on a critical kernel vulnerability patch, while **PostgreSQL 19** slips to November as AI‑driven bug hunting overloads reviewers.  
-- Investigations revealed **AI‑powered apps** slipping sexual and violent deep‑fakes into major app stores, prompting removals and renewed calls for continuous post‑approval monitoring.
+- AMD’s Q4 outlook projects $17 billion in revenue, positioning the company to outsell Intel for the first time and underscoring the rapid shift toward data‑center CPUs and AI accelerators.  
+- State‑backed actors demonstrated the growing potency of AI‑enabled cyber‑attacks, with a North Korean‑linked group stealing $6.3 billion from Binance and AI‑generated PHP web‑shells raising new security alarms.  
+- AI’s societal reach deepened: a developer reflected on parenting in the age of generative AI, while political PACs poured millions into AI‑related election campaigns with mixed results.  
+- Open‑source momentum accelerated, highlighted by the release of massive multimodal models (Kimi K3.1 Pro, Ripple‑65B) and tools such as PR‑Agent and Floci that democratize AI‑driven development and cloud emulation.  
+- Developers grappled with practical challenges—from Linux performance on Nvidia RTX Spark laptops to on‑device coding assistants on Windows PCs—illustrating the trade‑offs between hardware capability, cost, and accessibility.
 
 ---
 
-## TOP STORIES (appeared across multiple sources)
+## AI and Machine Learning  
 
-- **42AI emerges from stealth with $62.5M and a “human‑behavior‑predicting” world model** [TechCrunch]  
-  The startup announced a sizable Series A round and introduced a multimodal model that claims to anticipate user actions, positioning itself as a competitor in the next wave of generative AI platforms.
+### My reflections on raising a daughter in the age of AI – DEV Community  
+A personal essay argues for teaching children critical verification skills and staged AI assistance, citing a 2025 Turkish study that shows unguarded GPT‑4 use harms test performance.  
 
----
+### PR‑Agent open‑source code reviewer – GitHub  
+The PR‑Agent project offers a fast, low‑cost, multi‑platform LLM‑based pull‑request reviewer that can run on any major cloud model via LiteLLM, emphasizing data‑privacy through self‑hosting.  
 
-## AI and Machine Learning
+### **AMD expects to outsell Intel in Q4 – Tom’s Hardware (trending)**  
+AMD projects $17 billion in Q4 revenue, driven by a 97 % YoY surge in data‑center sales and AI accelerators, promising to surpass Intel’s $15‑$16 billion forecast and reshape the server market.  
 
-- **DEV Pet Corner #4 invites community‑wide animal sharing** [dev.to]  
-  The weekly DEV series encourages readers to post photos, stories or links about any animal that brings joy, fostering a light‑hearted, inclusive corner of the developer community.
+### Kimi K3.1 Pro model release – Hugging Face  
+Moonshot AI unveiled Kimi K3.1 Pro, a 2.8 T‑parameter multimodal MoE model with a 1‑million‑token context window, achieving top scores on coding and agentic benchmarks.  
 
-- **“Every App Eventually Becomes a Dashboard. Please Make It Stop.” – a critique of feature creep** [dev.to]  
-  The essay argues that incremental additions—analytics, widgets, AI assistants—transform simple tools into bloated dashboards, urging product teams to prioritize removal over expansion.
+### Recursive Self‑Improvement for Chip Design – Ricursive Intelligence  
+The Ripple‑65B Preview model, trained on 12 trillion tokens, reaches state‑of‑the‑art agentic coding performance (TerminalBench 2.1 = 80.5) while costing only $32 M to develop.  
 
-- **“18 Best Gifts for PC Gamers (2026)” – curated hardware guide** [WIRED]  
-  Wired lists headsets, keyboards, mice, speakers and novelty items (e.g., a cat‑ear headset) with price‑drop highlights, advising shoppers to verify preferences or fall back on Steam gift cards.
+### 17 better ways Elon Musk could have wasted $446 million – The Verge  
+A satirical piece lists extravagant alternatives to Musk’s $446 M political spend, from buying a private island to gifting every Texan a $14.67 gift card, highlighting the backlash over his AI‑aligned political moves.  
 
-- **“All this food is now useless” – cyber‑attack disables supermarket freezers** [BBC News]  
-  Hackers compromised refrigeration controllers in dozens of stores across Belgium, Luxembourg, Sweden, Ireland, the Netherlands, Estonia and Finland, causing temperature spikes and food waste estimated at over €100 k at a single Delhaize outlet.
+### A thousand fewer paths to root – OpenAI (TL;DR)  
+OpenAI’s automated pipeline discovered 948 Linux kernel LPE exploits at a cost of $1.28 k each, demonstrating that frontier models can generate high‑value vulnerabilities far cheaper than traditional bounty programs.  
 
-- **Agentic Robotics Flips the Build Order – LLM‑generated low‑level code outperforms trained policies** [tldr]  
-  By letting a high‑level language model write the fast‑loop controller code, systems like FORCA and GPT‑6 Astra achieved record success rates on RoboDojo benchmarks, suggesting a paradigm shift in robot programming.
-
-- **Anthropic IPO: International Retail Brokers and Selling Agents** [tldr]  
-  The upcoming Nasdaq‑listed offering will be sold through a curated list of brokers in Australia, Canada, the EEA, Japan, Switzerland and the UK, with detailed jurisdiction‑specific disclosures.
-
----
-
-## Cybersecurity and Privacy
-
-- **⚡Trending – Shop fridges and freezers across Europe hit by fresh suspected cyber‑attack** [The Guardian]  
-  Temperature‑spiking attacks on refrigeration units in Belgium, Sweden, the Netherlands, Finland, Estonia, Ireland and Luxembourg appear to be sabotage, prompting EU officials to label them deliberate attempts to disrupt food supply chains.
-
-- **⚡Trending – “WTF Ubuntu?” – critical kernel vulnerability left unpatched** [hackernews_api]  
-  CVE‑2026‑98432, a remote‑code‑execution flaw in the Linux kernel since 2016, was patched by Debian but remains unfixed in all supported Ubuntu releases weeks after disclosure, eroding trust in Canonical’s security promises.
-
-- **AI apps with hidden sexual and violent deep‑fake features made it into the App Store** [tldr]  
-  An investigation uncovered >400 apps from a single Chinese operator that switch to illicit deep‑fake generators after ad clicks; Apple removed 19 apps and Meta disabled over 10 000 related ad accounts, exposing weaknesses in post‑approval monitoring.
+### Advancing the Quality‑Efficiency Frontier for Coding AI on Windows PCs – Microsoft Foundry (TL;DR)  
+Microsoft showcased MAI‑Code‑1.1‑Flash, a 137.9 B‑parameter MoE coding model quantized to 2.87‑3.31 bits/weight, delivering 51 tokens/s on RTX Spark laptops with 120 K‑token contexts, proving on‑device coding AI is now viable.  
 
 ---
 
-## Software Engineering and Dev Tools
+## Cybersecurity and Privacy  
 
-- **Last Witness: an AI detective for a dead 1999 website, graded on its ghosts** [dev.to]  
-  The open‑source game lets players interrogate a locally‑run LLM (Gemma) that must cite archival fragments to reconstruct a vanished online community, highlighting the challenges of AI‑generated claims and source verification.
+### North Korean fake job interview led to $6.3 B Binance heist – Hacker News API  
+A Lazarus‑linked group used a staged job interview to deliver malicious code, compromising Binance’s internal AI tools and stealing $6.3 billion, prompting a full security overhaul and new AI‑security research fund.  
 
-- **agent‑desktop: Computer‑use CLI for AI agents** [GitHub]  
-  This cross‑platform tool lets AI agents interact with desktop applications via accessibility‑tree snapshots, offering JSON‑based commands for reliable UI manipulation without pixel‑matching.
-
-- **OmniDiff: Fast, robust, accurate diffing** [GitHub]  
-  A Rust‑based diff engine claims 99.95 % coverage of code changes with sub‑100 ms latency, providing TUI, web, and JSON outputs and seamless Git integration for developers.
-
-- **⚡Trending – Robert Haas: Postgres 19 is late, and it’s AI’s fault** [hackernews_api]  
-  The PostgreSQL community attributes the postponed November release to a surge in LLM‑identified bugs, which, while improving quality, have overloaded reviewers and forced feature rollbacks.
-
-- **13. BSD Unix, Part 3 – The Beginning of BSD Unix** [hnrss]  
-  The article recounts Berkeley’s early 1970s efforts—1BSD, 2BSD, and the VAX‑enabled 3BSD—that laid the groundwork for modern Unix distributions.
-
-- **If you love a website, back it up – The Future Is Now** [hnrss]  
-  The author advocates personal web archiving using free tools like ArchiveWeb.page, Browsertrix and WARC/WACZ formats, providing step‑by‑step guidance to preserve beloved sites.
-
-- **Linux System Call Tables by Architecture** [hnrss]  
-  A comprehensive, searchable database lists syscall numbers, argument registers and histories for 27 architectures, with an API for programmatic queries.
-
-- **Subvocal — The Subvocal Company** [hnrss]  
-  *Content not provided; unable to summarize.*
+### **PHP2Shell Is a Wakeup Call for AI in Cybersecurity – IEEE Spectrum (trending)**  
+The repurposing of the PHP2Shell code‑generation tool into an automated web‑shell creator illustrates how LLMs can mass‑produce exploits, forcing defenders to adopt AI‑aware detection and threat‑intel sharing.  
 
 ---
 
-## Notable Mentions
-- 2 days till Founder Summit in Boston [TechCrunch]  
-- 6 things to watch for on election night [NPR]
+## Software Engineering and Dev Tools  
+
+### “// DO NOT TOUCH” AI necromancer – DEV Community  
+GitSéance uses multiple LLM agents (TabPFN, Gemma, SerpApi) to interrogate legacy code flagged as “do not touch,” providing mortality scores, spoken confessions, and automated dependency upgrades.  
+
+### 3D Nigerian childhood game – DEV Community  
+A non‑developer built “Pikin Days,” a browser‑based 3D game using Three.js, Mixamo, and AI‑generated code, illustrating rapid prototyping with AI assistance despite early scaling bugs.  
+
+### Presage SmartSpectra SDK Challenge – DEV Community  
+The challenge invites solo developers to create human‑signal‑responsive apps using the SmartSpectra SDK, offering $3 000 in prizes across creative, real‑world, and overall categories.  
+
+### Let’s see where you code! – DEV Community  
+A community post showcases a personal workstation setup, encouraging others to share photos, non‑tech desk items, and relaxation habits to foster a supportive developer culture.  
+
+### Kimi K3 inference in C – GitHub  
+FareedKhan‑dev released a portable C99 implementation of the 2.78‑trillion‑parameter Kimi K3 model, enabling CPU‑only inference with just 8.24 GB RAM and no external libraries.  
+
+### Horizon AI‑powered news radar – GitHub  
+Horizon aggregates RSS, Hacker News, Reddit, X, and other feeds, applying configurable profiles for scoring, deduplication, and multilingual summarization, outputting daily bilingual briefings.  
+
+### Linux on Nvidia RTX Spark laptop – MindStudio (Hacker News API)  
+Dual‑booting Linux on RTX Spark laptops yields full desktop support but suffers a GPU clock‑speed throttling issue that drops token‑generation speed from ~65 t/s (Windows) to ~14 t/s (Linux) unless power‑management firmware is adjusted.  
+
+### GitHub Status incident – HNRSS  
+On 4 Nov 2026 GitHub experienced elevated error rates across Pull Requests, Issues, Actions, and API services; the outage was resolved within three hours after mitigation work.  
+
+---
+
+## Open Source  
+
+### 90DaysOfDevOps learning journey – GitHub  
+MichaelCade’s repository chronicles a 90‑day public DevOps study, now a community‑maintained, CC‑BY‑NC‑SA 4.0 resource covering DevOps, DevSecOps, and offering multilingual video sessions.  
+
+---
+
+## Cloud and Infrastructure  
+
+### Floci – free local AWS emulator – GitHub  
+Floci provides a lightweight, Docker‑based AWS emulator that runs without an AWS account, offering near‑real service fidelity, rapid startup (≈24 ms), and a tiny memory footprint compared with LocalStack.  
+
+---
+
+## World News and Geopolitics  
+
+### AI PACs spent millions trying to shape Congress – TechCrunch  
+Pro‑industry and pro‑regulation AI political action committees collectively spent over $10 million in the 2024 midterms, but high‑spending candidates often lost, suggesting primary battles are the more effective arena for AI policy influence.  
+
+---
+
+## Notable Mentions  
+- AI agents run this automated biology lab that sequences DNA and more | Nature (TL;DR)  
+- Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent – 99% Invisible (HNRSS)  
+- A guide to Nature Index tables – Nature (newsfeed)  
+- A new Go API for JSON – The Go Programming Language (TL;DR)  
+- AI on the Ballot – Stratechery by Ben Thompson (TL;DR)

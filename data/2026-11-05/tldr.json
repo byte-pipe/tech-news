@@ -1,0 +1,512 @@
+[
+  {
+    "title": "A new Go API for JSON",
+    "url": "https://go.dev/blog/jsonv2",
+    "description": "A new Go API for JSON",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "A thousand fewer paths to root",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "description": "A thousand fewer paths to root",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI agents run this automated biology lab that sequences DNA and more",
+    "url": "https://www.nature.com/articles/d41586-026-03552-8",
+    "description": "AI agents run this automated biology lab that sequences DNA and more",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "AI on the Ballot",
+    "url": "https://stratechery.com/2026/ai-on-the-ballot",
+    "description": "AI on the Ballot",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Advancing the Quality-Efficiency Frontier for Coding AI on Windows PCs - Microsoft Foundry on Windows Blog Coding AI on Windows: The Quality–Efficiency Frontier",
+    "url": "https://devblogs.microsoft.com/foundry-on-windows/coding-ai-on-windows-pcs-quality-efficiency",
+    "description": "Advancing the Quality-Efficiency Frontier for Coding AI on Windows PCs - Microsoft Foundry on Windows Blog Coding AI on Windows: The Quality–Efficiency Frontier",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+    "description": "Apple is reportedly cutting budgets for its internal AI usage",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Binance heist: what we know, and what RL sees in TraderTraitor's toolkit",
+    "url": "https://www.reversinglabs.com/blog/binance-heist-what-we-know-and-what-rl-sees-in-tradertraitors-toolkit",
+    "description": "Binance heist: what we know, and what RL sees in TraderTraitor's toolkit",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Broadcom TPU compute shipments doubled from Q2 to Q3 2026, reaching 2 million H100-equivalents",
+    "url": "https://epoch.ai/data-insights/tpu-production-doubling",
+    "description": "Broadcom TPU compute shipments doubled from Q2 to Q3 2026, reaching 2 million H100-equivalents",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Building vector search at billion scale",
+    "url": "https://builders.abnormal.ai/p/building-vector-search-at-billion",
+    "description": "Building vector search at billion scale",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Chinese chipmaker YMTC puts $4.9b IPO on hold in weak market",
+    "url": "https://www.dealstreetasia.com/stories/chinese-chipmaker-ymtc-puts-4-9b-ipo-on-hold-in-weak-market-500226",
+    "description": "Chinese chipmaker YMTC puts $4.9b IPO on hold in weak market",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Conductor is joining Meta",
+    "url": "https://www.conductor.build/announcement",
+    "description": "Conductor is joining Meta",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "CrowdStrike’s AI SOC vision evolves as agentic uncertainty adds new twist",
+    "url": "https://www.csoonline.com/article/4244299/crowdstrikes-ai-soc-vision-evolves-as-agentic-uncertainty-adds-new-twist.html",
+    "description": "CrowdStrike’s AI SOC vision evolves as agentic uncertainty adds new twist",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Discord is killing its Electron app that can eat 4GB of RAM on Windows 11, and the Rust rebuild uses just 290MB",
+    "url": "https://www.windowslatest.com/2026/11/05/discord-is-killing-its-electron-app-that-can-eat-4gb-of-ram-on-windows-11-and-the-rust-rebuild-uses-just-290mb",
+    "description": "Discord is killing its Electron app that can eat 4GB of RAM on Windows 11, and the Rust rebuild uses just 290MB",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Exclusive: Microsoft Lowered Data Center Spending Following Delays By Cloud Firm Iren",
+    "url": "https://www.theinformation.com/briefings/exclusive-microsoft-lowered-data-center-spending-following-delays-cloud-firm-iren",
+    "description": "Exclusive: Microsoft Lowered Data Center Spending Following Delays By Cloud Firm Iren",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal",
+    "description": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How Fern Made Docs Sites Faster by Going Static",
+    "url": "https://buildwithfern.com/post/static-docs",
+    "description": "Fern Docssites are now prebuilt as static pages. On customer sites like Cash App, average mobile Lighthouse scores rose from 60 to 98. Pages paint about 1.7x faster, publishing no longer slows sites down, and pages have a stricter security policy.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "How to make flash models even faster: optimizing DeepSeek V4.1 Flash 1017",
+    "url": "https://x.com/thealexker/status/2117989442090598798",
+    "description": "How to make flash models even faster: optimizing DeepSeek V4.1 Flash 1017",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "I spent a morning with Meta VR Glasses and wish I never had to take them off",
+    "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/i-spent-a-morning-with-meta-vr-glasses-and-wish-i-never-had-to-take-them-off",
+    "description": "I spent a morning with Meta VR Glasses and wish I never had to take them off",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+    "url": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+    "description": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing Images 2.6",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "description": "Introducing Images 2.6",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Introducing SWE-2 Flash, our new fast & efficient coding model. On leading evals, it outperforms...",
+    "url": "https://x.com/cognition/status/2118069614521241739",
+    "description": "Introducing SWE-2 Flash, our new fast & efficient coding model. On leading evals, it outperforms...",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Is AI compute tight now, and will it stay tight?",
+    "url": "https://hxu296.github.io/ai-compute-landscape",
+    "description": "Is AI compute tight now, and will it stay tight?",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Isomorphic Labs in Talks for About $5 Billion in Funding",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding",
+    "description": "Isomorphic Labs in Talks for About $5 Billion in Funding",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Kimi K3.1 Pro Recalls and Enforces Hidden Test Rules [pdf]",
+    "url": "https://r40.org/papers/kimi_k31_benchmark_audit.pdf",
+    "description": "Kimi K3.1 Pro Recalls and Enforces Hidden Test Rules [pdf]",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Lambda to build new data center in Lowndes County, Alabama, investing more than $33 billion in state",
+    "url": "https://lambda.ai/blog/lambda-to-invest-33-billion-in-alabama-with-new-data-center",
+    "description": "Lambda to build new data center in Lowndes County, Alabama, investing more than $33 billion in state",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Latest Fundraising Efforts Show OpenAI & Anthropic on Divergent Paths",
+    "url": "https://www.newcomer.co/p/latest-fundraising-efforts-show-openai",
+    "description": "Latest Fundraising Efforts Show OpenAI & Anthropic on Divergent Paths",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Micron details ambitious DRAM and NAND roadmap — 3D NAND, High-NA EUV, new materials, and custom silicon makes a comeback",
+    "url": "https://www.tomshardware.com/pc-components/dram/micron-details-ambitious-dram-and-nand-roadmap-3d-nand-high-na-euv-new-materials-and-custom-silicon-makes-a-comeback",
+    "description": "Micron details ambitious DRAM and NAND roadmap — 3D NAND, High-NA EUV, new materials, and custom silicon makes a comeback",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Nobody here writes code by hand any more",
+    "url": "https://gonzoml.substack.com/p/nobody-here-writes-code-by-hand-any",
+    "description": "Nobody here writes code by hand any more",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI to Acquire Pierre Computer Company, Inc",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "description": "OpenAI to Acquire Pierre Computer Company, Inc",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "OpenAI: Astra covertly underperforms on safety research",
+    "url": "https://www.lesswrong.com/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research",
+    "description": "OpenAI: Astra covertly underperforms on safety research",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Palo Alto Networks in Talks to Pay $500 Million for AI Security Startup",
+    "url": "https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup",
+    "description": "Palo Alto Networks in Talks to Pay $500 Million for AI Security Startup",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Rebuilding the global town square from scratch",
+    "url": "https://news.ycombinator.com/item?id=50370478",
+    "description": "Rebuilding the global town square from scratch",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Recovering an LLM prompt from VRAM",
+    "url": "https://sigreturn.com/blog/recovering-llm-prompts-from-vram",
+    "description": "Recovering an LLM prompt from VRAM",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Recursive Self-Improvement via AI for Chip Design & Chip Design for AI - Ricursive Intelligence",
+    "url": "https://www.ricursive.com/ripple",
+    "description": "Recursive Self-Improvement via AI for Chip Design & Chip Design for AI - Ricursive Intelligence",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+    "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank",
+    "description": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Runway Characters: Serving a 57B Video Diffusion Transformer for Real-Time Conversation",
+    "url": "https://arxiv.org/abs/2611.05642",
+    "description": "Runway Characters: Serving a 57B Video Diffusion Transformer for Real-Time Conversation",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Sequoia hits rewind, undoing 20 years of expansion",
+    "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion",
+    "description": "Sequoia hits rewind, undoing 20 years of expansion",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Serving GLM-5.3-Flash on Trainium2 with NKI Layer Megakernels",
+    "url": "https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels",
+    "description": "Serving GLM-5.3-Flash on Trainium2 with NKI Layer Megakernels",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "SpaceX to Use Qualcomm's Dragonwing Tech to Help Launch Starlink Mobile",
+    "url": "https://www.pcmag.com/news/spacex-to-use-qualcomms-dragonwing-tech-to-help-launch-starlink-mobile",
+    "description": "SpaceX to Use Qualcomm's Dragonwing Tech to Help Launch Starlink Mobile",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+    "description": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The AI boom has sparked a fiber frenzy, and suppliers like Corning are racing to keep up",
+    "url": "https://www.businessinsider.com/fiber-manufacturers-are-ramping-up-to-meet-data-center-demand-2026-11",
+    "description": "The AI boom has sparked a fiber frenzy, and suppliers like Corning are racing to keep up",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The AI race is raising companies' bills, from GPUs to memory to Microsoft 365",
+    "url": "https://venturebeat.com/infrastructure/the-ai-race-is-raising-companies-bills-from-gpus-to-memory-to-microsoft-365",
+    "description": "The AI race is raising companies' bills, from GPUs to memory to Microsoft 365",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "The Next Era of Notion",
+    "url": "https://x.com/ivanhzhao/status/2118030537101361168",
+    "description": "The Next Era of Notion",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Tiny's new AI workstation is anything but — packing in 16 TB SSD array and 128 GB GPU memory, but with an eye-watering price tag to boot",
+    "url": "https://www.techradar.com/pro/tinys-new-ai-workstation-is-anything-but-packing-in-16-tb-ssd-array-and-128-gb-gpu-memory-but-with-an-eye-watering-price-tag-to-boot",
+    "description": "Tiny's new AI workstation is anything but — packing in 16 TB SSD array and 128 GB GPU memory, but with an eye-watering price tag to boot",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Together Compiler: Continuous Compilation for AI inference",
+    "url": "https://www.together.ai/blog/together-compiler-continuous-compilation-for-ai-inference",
+    "description": "Together Compiler: Continuous Compilation for AI inference",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "US Banking Diverges on AI Agents as Major Firms Restrict Access While Smaller Banks Build Support",
+    "url": "https://x.com/rohanpaul_ai/status/2118152451073458631",
+    "description": "US Banking Diverges on AI Agents as Major Firms Restrict Access While Smaller Banks Build Support",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Verne V0.5 — Verne Robotics",
+    "url": "https://vernerobotics.com/research/verne-v0-5",
+    "description": "Verne V0.5 — Verne Robotics",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "Watts in Store for 2027 : The AI Ceiling",
+    "url": "https://tomtunguz.com/watts-in-store-for-2027-inference",
+    "description": "Watts in Store for 2027 : The AI Ceiling",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "We Stopped Feeding LLMs Raw HTML: Cutting Agent Scraping Costs by 74% Across 10,000 Targets",
+    "url": "https://hackernoon.com/we-stopped-feeding-llms-raw-html-cutting-agent-scraping-costs-by-74percent-across-10000-targets?source=rss",
+    "description": "We Stopped Feeding LLMs Raw HTML: Cutting Agent Scraping Costs by 74% Across 10,000 Targets",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "What even is code mode? · Polylane",
+    "url": "https://polylane.com/blog/what-even-is-code-mode",
+    "description": "What even is code mode? · Polylane",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  },
+  {
+    "title": "daniel-madrid-07/weeping-of-the-empire: A mostly agent-written Zelda: Tears of the Kingdom PC port",
+    "url": "https://github.com/daniel-madrid-07/weeping-of-the-empire",
+    "description": "daniel-madrid-07/weeping-of-the-empire: A mostly agent-written Zelda: Tears of the Kingdom PC port",
+    "tags": [
+      "tldr"
+    ],
+    "date": "2026-11-05",
+    "site_name": "tldr"
+  }
+]
