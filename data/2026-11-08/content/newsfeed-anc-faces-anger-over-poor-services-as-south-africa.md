@@ -1,0 +1,95 @@
+---
+title: ANC faces anger over poor services as South Africans vote in local elections | South Africa | The Guardian
+url: https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts
+site_name: newsfeed
+content_file: newsfeed-anc-faces-anger-over-poor-services-as-south-africa
+fetched_at: '2026-11-08T09:03:25.485180'
+original_url: https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts
+date: '2026-11-04'
+published_date: '2026-11-04T14:50:47.000Z'
+description: Party expected to get less than a third of the vote amid frustration over water outages and power cuts
+tags:
+- guardian
+- south africa
+- anc (african national congress)
+- africa
+---
+
+A voter casts their ballot in Lawley township, south of Johannesburg, South Africa.
+ Photograph: Oupa Nkosi/Reuters
+View image in fullscreen
+A voter casts their ballot in Lawley township, south of Johannesburg, South Africa.
+ Photograph: Oupa Nkosi/Reuters
+
+# ANC faces anger over poor services as South Africans vote in local elections
+
+Party expected to get less than a third of the vote amid frustration over water outages and power cuts
+
+The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.
+
+The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party. However, polls showed it getting less than a third of the vote, down from 45.6% at thelast municipal electionsin 2021 and 40.2% in2024’s national elections.
+
+In Kensington, a diverse Johannesburg suburb that has sustained repeated water and power outages in recent weeks, voters said they wanted to see change. The city is currently led by Dada Morero, the ANC mayor, in coalition with the far-left Economic Freedom Fighters (EFF) and the rightwing populist Patriotic Alliance (PA).
+
+“Service delivery is bad, it’s horrible,” said Tshepiso Makotse, 26, a call centre worker. “Water, electricity – everything, basically.”
+
+Makotse said she had split her two votes, casting one for the centre-right Democratic Alliance (DA) local councillor and her party vote for the leftwing uMkhonto weSizwe (MK) party of the former ANC president Jacob Zuma. “I just want change,” she said.
+
+Terrence Pieters, a retired boilermaker, said: “The infrastructure in Johannesburg is shot.” He declined to say which party he had voted for, other than it was “one of the offshoots of the DA”.
+
+View image in fullscreen
+An ANC poster in Langa township in Cape Town.
+ Photograph: Esa Alexander/Reuters
+
+“I would like to see things get better and great people in charge,” said the 72-year-old. “But … there’s no one party that’s going to take over here. It’s going to be a circus, it’s going to be a coalition.”
+
+Vote fragmentation means the ANC could still end up leading many city coalition governments while losing control of others.
+
+Unstable coalitions are already a feature of many of South Africa’s 257 municipalities, and analysts point to their high turnover as amajor reason for poor service delivery.
+
+Johannesburg, a city of 4.8 million people that hasfaced water shortages for more than a week, has had 10 mayors in as many years. The neighbouring municipality of Ekurhuleni has had three mayors since 2021. To the north, in Tshwane, which contains the capital, Pretoria, the mayoralty has rotated between parties four times since 2020. In October, more than 800 peoplecontracted a gastrointestinal illnessfrom contaminated water in Bronkhorstspruit, in east Tshwane.
+
+The ANC’s national leadership is open to working with the DA in Gauteng, accordingto South African media, mirroring the government of national unity, where the two parties are the largest in the national coalition. However, local ANC leaders are reportedly not in favour of a DA tie-up. Currently, the ANC governs in various coalitions across the province’s three metros, including under an ActionSA mayor in Tshwane.
+
+View image in fullscreen
+Helen Zille is campaigning to become mayor of Johannesburg.
+ Photograph: Kim Ludbrook/EPA
+
+In Johannesburg, the DA’s Helen Zille has led a spirited campaign, with viral stunts including the 75-year-old snorkelling in a pothole and kayaking along a flooded street. However, the former Cape Town mayor is still viewed with suspicion by many, especially black voters, due to past comments appearing to excuse colonialism. Some voters also point tosoaring housing costs in Cape Town, which has been run by the DA since 2006, as a reason not to vote for Zille.
+
+The former Johannesburg DA mayor Herman Mashaba, who now leads ActionSA, which is polling around 10%, has ruled out working with Zille in Johannesburg. Mashaba has called Zille a “racist”, an allegation she has always fervently denied. The ANC, for its part, has three possible mayoral candidates for the city, amid factional infighting.
+
+View image in fullscreen
+Jacob Zuma addresses an election rally in KwaMashu, north of Durban, on Sunday.
+ Photograph: AP
+
+In eThekwini metro, which contains the port city of Durban, the MK party was polling above 40%. Zuma, its 84-year-old leader, who has weathered and denied numerous corruption allegations, is set to take many of the votes of his former party, which won 42% in eThekwini in 2021 and is now polling around 10%.
+
+The DA looks set to retain its majority in Cape Town, although probably with less than the 58% of the vote it won in 2021, as unaffordable housing turns more voters against the party.
+
+South Africa’s electoral commission will have a week to announce the final results of Wednesday’s vote, which chooses councillors and parties, with mayors not directly elected. Parties will then have two weeks from the announcement to form councils and elect mayors.
+
+Explore more on these topics
+* South Africa
+* ANC (African National Congress)
+* Africa
+* news
+Share
+Reuse this content
+
+## More on this story
+
+## More on this story
+
+* ### ANC faces bruising defeat in South African local elections with 80% of ballots counted
+* ### Piles of rubbish, power cuts and potholes: anger grows over Johannesburg’s run-down infrastructure
+* ### double quotation markNelson Mandela held a mirror to humanity – and showed us what solidarity means
+* ### Beaten, robbed and driven out: violent demonstrations target immigrants in South Africa
+* ### double quotation markThe Guardian view on xenophobic violence in South Africa: anti-migrant politics can’t fix domestic problems
+* ### False claims Afrikaners are persecuted threaten South Africa’s sovereignty, says president
+* ### Trump’s ‘white genocide’ claims ignore the reality of life and crime in South Africa
+* ### Musk’s AI Grok bot rants about ‘white genocide’ in South Africa in unrelated chats
+
+## Most viewed
+
+## Most viewed

@@ -1,0 +1,254 @@
+---
+title: 'GitHub - mbillow/localthings: Control your Samsung appliances from Home Assistant over your home network, with no cloud account. · GitHub'
+url: https://github.com/mbillow/localthings
+site_name: github
+content_file: github-github-mbillowlocalthings-control-your-samsung-app
+fetched_at: '2026-11-08T09:02:55.101059'
+original_url: https://github.com/mbillow/localthings
+author: mbillow
+description: Control your Samsung appliances from Home Assistant over your home network, with no cloud account. - mbillow/localthings
+---
+
+main
+Branches
+Tags
+Go to file
+Code
+Open more actions menu
+
+## Latest commit
+
+ 
+
+## History
+
+1,165 Commits
+1,165 Commits
+
+## Folders and files
+
+Name
+Name
+Last commit message
+Last commit date
+.claude/
+skills/
+adding-device-support
+.claude/
+skills/
+adding-device-support
+ 
+ 
+.github
+.github
+ 
+ 
+custom_components/
+localthings
+custom_components/
+localthings
+ 
+ 
+docs
+docs
+ 
+ 
+tests
+tests
+ 
+ 
+.gitignore
+.gitignore
+ 
+ 
+AGENTS.md
+AGENTS.md
+ 
+ 
+CONTRIBUTING.md
+CONTRIBUTING.md
+ 
+ 
+Dockerfile
+Dockerfile
+ 
+ 
+LICENSE
+LICENSE
+ 
+ 
+README.md
+README.md
+ 
+ 
+docker-compose.yml
+docker-compose.yml
+ 
+ 
+hacs.json
+hacs.json
+ 
+ 
+pyproject.toml
+pyproject.toml
+ 
+ 
+requirements-dev.txt
+requirements-dev.txt
+ 
+ 
+View all files
+
+## Repository files navigation
+
+# LocalThings
+
+Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
+
+LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other appliances that work with the SmartThings app. It talks to each appliance on your local network.
+
+* Updates are fast.Appliances that support push send changes as they happen. LocalThings checks the rest every 30 seconds.
+* It works without the internet.After setup, LocalThings never contacts Samsung's servers.
+* Your data stays home.LocalThings sends nothing to Samsung. The appliance itself still keeps its own connection to Samsung, and LocalThings doesn't change that.
+* Setup needs an IP address.For most appliances, you enter the address and LocalThings works out the type and model, then creates matching controls and sensors.
+
+## What it supports
+
+Appliance
+
+Appliance
+
+Air conditioner, including multi-unit systems
+
+Microwave
+
+Air dresser
+
+Oven
+
+Air monitor
+
+Range and range hood
+
+Air purifier
+
+Refrigerator, kimchi refrigerator, wine cellar
+
+Cooktop, gas, radiant electric and induction; some models read-only
+
+Robot vacuum, early support
+
+Dehumidifier
+
+Soundbar, settings and status
+
+Dishwasher
+
+Vacuum clean station
+
+Dryer
+
+Washer and washer-dryer
+
+EHS heat pump
+
+Water purifier
+
+What you see depends on what each appliance reports. Typical controls and sensors include power, program or mode selection, start, pause and stop, temperatures and setpoints, time remaining and finish time, door and child-lock state, energy use, filter status and alarms.
+
+Most Samsung appliances from about 2022 onward work, and so do some earlier washers, air conditioners and wall ovens that use an older local interface. SeeOlder appliances on TCP 8888. Setup detects which interface an appliance has, and tells you if it finds none.
+
+If an appliance sets up but LocalThings doesn't recognize it, or a control is missing, Home Assistant shows a notice asking for a diagnostics download. That download is usually all the maintainers need to add support. SeeReporting a capability gap.
+
+## Built on open standards
+
+LocalThings uses the standards the appliances implement:
+
+* OCF, theOpen Connectivity Foundationspecification.Samsung's connected appliances are OCF devices. LocalThings discovers each appliance's resources through/oic/resand reads its device type, such asoic.d.washer, from/oic/d. Where an appliance offers both a standard OCF resource and a Samsung extension for the same state, LocalThings uses the standard one.
+* CoAP over DTLS.LocalThings sends Constrained Application Protocol requests, defined inRFC 7252, over an encrypted DTLS session with an X.509 client certificate. It uses CoAP Observe,RFC 7641, for push updates, and block-wise transfer,RFC 7959, for large responses. Thesmartthings-locallibrary implements the protocol layer.
+* Home Assistant's own patterns.Setup, reconfigure and reauthentication run in the UI config flow. A data-update coordinator combines push and polling. DHCP discovery follows an appliance to a new IP address. Repairs notices report gaps. LocalThings redacts diagnostics downloads and translates entity names into ten languages.
+* Declarative appliance maps.Each appliance type is a table that maps the resources an appliance reports to Home Assistant entities. Tests check the tables against 90+ captures from real appliances, so a new model usually needs a table entry and no protocol code.
+
+## Install
+
+1. InHACS, go toIntegrations, search forLocalThings, and selectDownload. LocalThings is in HACS's default list, so you don't need to add a custom repository.Without HACS, copycustom_components/localthings/into thecustom_components/folder of your Home Assistant config.
+2. Restart Home Assistant.
+
+## Add an appliance
+
+1. Go toSettings > Devices & Services > Add Integration > LocalThings.
+2. Enter the appliance's IP address. For most appliances, that's the whole setup.
+3. LocalThings connects, reads the appliance's type and model, and adds one Home Assistant device for it.
+
+When you add your first appliance, LocalThings contacts Samsung's servers once to read a public identifier. It uses no account or login. Later appliances reuse that identifier, so adding them needs only an IP address and no internet access.
+
+A few appliances need one more step:
+
+* Some appliances refuse the automatic certificate.Setup then offers to import a pre-shared key, which LocalThings can't obtain for you.Credential acquisitioncovers where one comes from. We're still working to understand these appliances, and#435has the plan, what we've found so far, and a place to report how it went. Setup also offers the publicAC14K_MCA certificate, which thesmartthings-localproject'ssetup_cert.py --fallbackshows how to get, but no appliance that refused the automatic certificate has been reported to accept it.
+* Older appliances on TCP 8888 ask for a device token.SeeOlder appliances on TCP 8888.
+
+You can rename devices. LocalThings identifies each appliance by its OCF device ID, not by its name or serial number. Some models ship the same serial number on every unit.
+
+## Per-device settings
+
+Each appliance has aConfigureoption inSettings > Devices & Services, with these settings underDevice settings:
+
+* "Allow writes even when remote control is reported off".By default, LocalThings refuses a command while the appliance reports remote control off, and shows an error, because the appliance would ignore the command without saying so. Some appliances accept certain commands anyway. Turn this on only after you confirm yours does.
+* "Estimated finish -- minimum change (minutes)".LocalThings holds a washer's, dryer's or dishwasher's finish time until the appliance's estimate changes by at least this many minutes. This keeps one-minute jitter out of your history. The default is 3. Set 0 to report every change.
+* "Remember modes the device reports but doesn't advertise".Some appliances run in a mode they never list as available. With this setting on, which is the default, LocalThings remembers such a mode and keeps offering it.Forget remembered modesin the same menu clears the list.
+
+An appliance that exposes more than one device, such as each indoor unit of a multi-split system or each cavity of a dual oven, also getsSubdevicesin the same menu. Some appliances report an extra slot that isn't real hardware, which shows up as a duplicate or empty device. Untick it there: LocalThings removes that device and stops reading it. Tick it again to bring it back.
+
+## Known device behavior
+
+Brief disconnects are normal.Samsung appliances drop their connection for a moment now and then. LocalThings reconnects, and entities keep their last value meanwhile. If reconnects happen several times a minute, check the appliance's Wi-Fi signal. Also check that nothing else on your network holds a connection to it, because an appliance accepts one connection at a time.
+
+Keep appliances registered in SmartThings.If you remove an appliance from SmartThings, it resets its network settings the next time it reaches Samsung's servers. It then drops off Wi-Fi until you set it up in the app again. This happens even if you block its internet access most of the time.
+
+Some washers and dryers stop counting energy without SmartThings.On the DA_WM_TP2_20_COMMON board (for example the WW80T654ALX and DV80T6220LX), the energy total stops increasing while the appliance can't reach SmartThings, and resumes once it reconnects. LocalThings can only show what the appliance records, so if your energy sensor stays at one value while cycles run, check that the appliance can reach Samsung's servers.
+
+### Restarting while an appliance is powered off
+
+If Home Assistant restarts while an appliance is off, LocalThings loads the appliance's device and entities from the last successful setup. They showunavailableuntil the appliance answers, then recover without any action from you. This works for any appliance LocalThings has reached at least once. A new appliance must be reachable to set it up.
+
+### When an appliance's IP address changes
+
+About half of Samsung's appliances report their Wi-Fi MAC address. For those, Home Assistant's DHCP discovery spots the new address and LocalThings updates the entry. For other appliances, selectReconfigureon the entry and enter the new address. LocalThings checks that the appliance at that address is the right one, and keeps its entities, history and automations. Deleting and re-adding the appliance would lose all three.
+
+### Older appliances on TCP 8888
+
+Some appliances from about 2018 to 2022 have a different local interface, HTTPS on TCP port 8888. So far this covers a WW6500 washer, TP6X air conditioners, an NV51K777OS Flex Duo wall oven, an NQ70M6650DS microwave/oven combo, NZ36K7570R and NZ30K7570RS cooktops, and an RF28K9380SR refrigerator. Setup detects the interface from the IP address and then asks for adevice token. Leave the field empty and the appliance issues a token, sending it back to Home Assistant on port 8889. For that to work, switch Remote Control on at the appliance with the door closed, and make sure the appliance can reach Home Assistant on port 8889. If the appliance later rejects its token, Home Assistant asks for a new one.
+
+On the RF28K9380SR refrigerator, when setup asks for the token, holdLighting / Control Lockfor about 5 seconds, until "on" shows in the freezer temperature display. It refuses the automatic certificate, so setup then asks for an AC14K_M CA certificate and key, and it needs both to finish.
+
+For the tested NZ36K7570R and NZ30K7570RS cooktops, NV51K777OS oven and NQ70M6650DS combo,if Smart Connect is already on, no token will be returned. Turn it off, request a token in LocalThings, then turn it on.
+
+On these appliances, a chosen cycle, temperature, rinse count or spin speed takes effect only when the cycle starts. The selects hold your choice, and theStartbutton sends it. If you turn the dial on the appliance, the dial's setting replaces the held choice.
+
+This interface speaks only TLS 1.0 and presents a certificate LocalThings can't verify, so LocalThings accepts both on this one connection. No other part of LocalThings relaxes TLS.
+
+### Starting an oven, range or microwave
+
+An oven only starts when the mode, temperature and cook time arrive together. While it's idle, the mode select, setpoint and cook time hold your choice, starting from the mode's own defaults, and theStart cookingbutton sends them. Thelocalthings.start_cookingaction does the same in one call, with any value you leave out taken from the mode's defaults. Once a cook is running, changes to the setpoint and cook time go straight to the oven.
+
+Each appliance reports which of its modes a remote may start, and the temperature and time limits for each. LocalThings follows that list, and only offers the modes the oven can run right now. The button appears only on an appliance that reports at least one mode it can start, and a start outside those limits is refused with the allowed range. On a range with two ovens, each oven has its own Start cooking button and starts separately. Some modes can't be started remotely by design: on every microwave seen so far, none of the microwave-power modes can be. Remote Control has to be on at the appliance, and it switches off after a power cut.
+
+### Multi-unit air conditioners
+
+Some installations run several indoor units from one outdoor unit, all at one IP address. LocalThings finds the extra units after its first connection. Each unit gets its own Home Assistant device and climate card, linked to the main unit. LocalThings skips the unused slots some systems report. If a unit you expect is missing, attach a diagnostics download to an issue.
+
+## Reporting a capability gap
+
+If LocalThings doesn't recognize an appliance, or the appliance reports something LocalThings doesn't handle yet, a notice appears underSettings > System > Repairs. It points you toDownload diagnosticson the device. LocalThings removes personal and network details from that download before you save it. It removes the account email, tokens, device IDs, MAC addresses, serial numbers, the Wi-Fi network name and password, the device's name, the name of a paired phone and the device's on/off history. You can attach the file to adevice-support issue, and that is the fastest way to get an appliance supported.
+
+A diagnostics download can't show whether a command sticks or what order commands need. Thelocalthings.read_resourceandlocalthings.write_resourceactions answer those questions by reading and writing an appliance's resources without going through its entities. SeeReading and writing resources directly.
+
+## Contributing
+
+We welcome patches, especially:
+
+* Support for appliance types LocalThings doesn't cover yet, or for models that don't fully work. Start from a diagnostics download.CONTRIBUTING.mdcovers adding a type.
+* Reports that confirm or rule out more models of a supported type.
+* Protocol-level fixes. These belong upstream insmartthings-local. Fixes to entities, setup, the coordinator or the registry belong here.
+
+Please don't include real device UUIDs, MAC addresses, serial numbers, IP addresses or private keys in a pull request.CONTRIBUTING.mdcovers the dev environment, the checks to run, the repo layout, and the rules for comments and commits.
