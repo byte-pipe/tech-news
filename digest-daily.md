@@ -1,70 +1,87 @@
 ---
-date: '2026-11-09'
+date: '2026-11-10'
 model: gpt-oss:120b-cloud
-generated_at: '2026-11-09T18:00:12.434070'
+generated_at: '2026-11-10T04:42:48.148799'
 ---
 
 ## Executive Summary
-- Goldman Sachs has restricted access to Anthropic’s Claude Code and GitHub Copilot for non‑engineers, highlighting growing risk concerns around AI‑generated code on trading floors.  
-- Multiple AI‑tool users are migrating away from Claude Code, citing stability and integration frustrations, while Anthropic’s own research may have entered a “dramatically accelerated” phase that could shorten timelines for advanced AI.  
-- Amazon is reviving its home‑robot ambitions with a new “Personal Robotics Group,” and a rare desert bloom in Chile’s Atacama underscores climate‑driven ecological surprises.  
-- In software tooling, a visual system‑design reference site now lets architects flip between AWS, Azure, GCP and open‑source stacks, and the open‑source community celebrates a breakthrough on a 55‑year‑old combinatorial math conjecture.  
+- AI‑driven productivity tools are sparking both excitement and alarm: new research shows a fast, parallel text‑generation model (Next‑Concept Modeling) that could reshape real‑time applications, while security researchers warn that a single malicious `AGENTS.md` file can hijack AI coding agents.  
+- The AI industry’s financial foundations are under scrutiny; a contrarian essay argues the sector’s $5 trillion spend is sustainable, even as Anthropic invests $3.4 bn in natural‑gas turbines to secure compute power.  
+- Developers face new operational headaches: Outlook.com now silently rejects mail from domains lacking DMARC, and a vulnerability in a major car‑brand’s telematics platform reveals partial exposure of vehicle‑unlock APIs.  
+- On the developer community side, hackathon fatigue is prompting a leading competitor to pause contests, while a self‑hosting loop‑factory has slashed DEV page latency by 75 %.  
 
----
+---  
 
-## AI and Machine Learning
+## AI and Machine Learning (8 articles)
 
-*Goldman Sachs Is Pulling Claude Code From Its Bankers and Traders* [State of AI] – Goldman has limited Anthropic’s Claude Code and GitHub Copilot to engineers only after a productivity‑risk review, citing unreviewed code, information‑barrier breaches, and cost concerns, while traders lose a tool they used for market‑move modeling and reporting.  
+### Engine Off: My 2026 Hackathon Run Is Over – DEV Community  
+The author reflects on a year of DEV hackathon participation, noting two wins (Metal Birds Watch, NoteRunway) against three losses and a growing sense of burnout, and announces a pause on competitions to focus on personal projects and content creation.
 
-*Goodbye Claude, Hello Pi* [Hacker News] – A longtime Claude Code user abandons the platform for the minimalist, open‑source “Pi” harness, criticizing Claude’s frequent disruptive releases, heavy system prompts, and limited IDE integration.  
+### One Markdown File Can Hijack Your AI Coding Agent – DEV Community  
+Researchers demonstrate that malicious `AGENTS.md` files can silently commandeer AI coding agents (Claude Code, Codex, Cursor CLI), achieving up to 90 % success against Codex, and recommend a three‑layer defense that blocks agent execution in untrusted directories and validates rule files before use.
 
-*What I run on my $10 USD OpenStick homelab* [Hacker News] – An ARM‑based OpenStick hosts a full self‑hosted stack (AdGuard, Zeroclaw, Cloudflare Tunnel, monitoring tools, etc.) within 512 MB RAM, demonstrating a practical low‑cost edge‑computing setup.  
+### HA‑MCP – Manage Home Assistant with AI – GitHub  
+The open‑source HA‑MCP project lets users control Home Assistant via natural‑language prompts, offering multiple installation paths (integration, add‑on, Docker, PyPI) and a sidebar panel for managing tools, backups, and themes.
 
-*Writing as a thinking tool* [HN RSS] – The author argues that externalizing thought through writing (akin to out‑of‑core algorithms) deepens understanding, a practice that remains valuable even as LLMs can generate text without genuine reasoning.  
+### Matteo’s Website – I’m Not Convinced The AI Bubble Exists – Hacker News *(trending)*  
+The essay argues that despite $5 trillion of industry spending, most costs are one‑off data‑center build‑outs; operating profitability is strong (e.g., Anthropic’s $2.08 revenue per $1 compute) and demand for AI applications is expected to grow tenfold, making a bubble scenario unlikely.
 
-*Doctor who treated victims of Krakow shooting speaks to the BBC* [BBC News] – Surgeon Michal Pędziwiatr describes providing equal emergency care to victims, the shooter and police, emphasizing a humanitarian approach amid Poland’s broader gun‑crime debate.  
+### Next‑Concept Modeling: Fast, Parallel Coarse‑to‑Fine Text Generation – arXiv  
+A new two‑stage framework (multiscale VQ‑VAE + transformer) delivers state‑of‑the‑art quality with up to 31× speedup in generation, outperforming diffusion language models on LM1B, OpenWebText, XSum, and Sudoku reasoning tasks.
 
-*Heavy rains awaken a hidden world beneath Chile’s Atacama Desert* [NPR] – An unprecedented El Niño‑driven “Desierto Florido” has triggered a massive, short‑lived bloom of over 200 plant species, boosting tourism but raising conservation concerns.  
+### I Saw Your HN Comment – Josh Strange – Hacker News  
+The author describes how LLM‑generated personalized outreach emails have turned many comment‑reply interactions into covert sales pitches, prompting a more guarded response strategy to separate genuine inquiries from marketing.
 
-*Ajeya: AI is dramatically accelerating AI research right now* [LessWrong] – A report suggests Anthropic has crossed its “dramatically accelerated progress” threshold, with capabilities improving roughly twice as fast as before, implying shorter timelines for transformative AI and heightened risk considerations.  
+### AI has transformed maths — this is how we got here – Nature  
+The piece chronicles the rise of “big math” and highlights AI‑driven breakthroughs such as cancer‑risk prediction from mammograms, while cautioning that reliance on black‑box methods must be balanced with mathematical rigor.
 
-*Amazon is building a new home robot after Astro* [TLDR] – Amazon’s newly formed Personal Robotics Group, bolstered by the Fauna Robotics acquisition, is developing a next‑generation household robot capable of dynamic navigation, signaling a renewed push into consumer robotics despite technical challenges.  
+### Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines – TechCrunch  
+Anthropic is purchasing 1.7 GW of natural‑gas turbines to secure on‑site power for its data centers, reflecting a broader industry shift toward self‑owned energy amid volatile gas markets and raising climate‑impact concerns.
 
----
+---  
 
-## Software Engineering and Dev Tools
+## Cybersecurity and Privacy (2 articles)
 
-*I Built a Visual System Design Reference — Switch Any Architecture Between AWS, Azure, GCP & Open Source* [DEV Community] – An interactive site lets engineers explore real‑world system designs, toggle cloud providers with a click, and walk through request flows, serving as a learning and interview‑prep resource.  
+### Outlook.com Is Quietly Rejecting Email From Domains Without DMARC – MailRoute *(trending)*  
+Outlook now intermittently bounces mail from domains lacking a DMARC TXT record, affecting even low‑volume senders; adding a simple `v=DMARC1; p=none` record resolves the issue without altering other providers’ handling.
 
-*Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!* [DEV Community] – Developers are invited to create camera‑based human‑signal apps using the SmartSpectra SDK, with cash prizes and badges for creativity, real‑world utility, and overall excellence.  
+### unlocking any car from X brand in most of the world – Hacker News *(trending)*  
+Investigators reverse‑engineered the telematics API of an X‑brand vehicle platform, uncovering hard‑coded admin keys and a vulnerable OpenIDM instance that expose user data and enable vehicle‑feature provisioning, though direct remote‑unlock commands remain blocked by WAF protections.
 
-*Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It* [DEV Community] – A senior developer encourages newcomers to write early, offering personal feedback and a “Hall of Fame” for first‑time contributors, emphasizing that authentic voice outweighs polish.  
+---  
 
-*That's a Wrap on Hacktoberfest 2026! 🎃👻* [DEV Community] – The annual event concluded with over 115 k participants, open‑source AI challenges, and a host of sponsors, while winners are celebrated across weekly themed contests.  
+## Software Engineering and Dev Tools (7 articles)
 
-*MuJoCo – Multi‑Joint dynamics with Contact* [GitHub] – Google DeepMind maintains the MuJoCo physics engine, providing high‑performance C APIs, Python bindings, and WebAssembly support for robotics, biomechanics, and ML research.  
+### Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners! – DEV Community  
+The competition invites solo developers to build real‑time human‑signal experiences using the Presage SDK, offering $300 cash and DEV badges across four overall and six category prizes, with strict consent and data‑handling rules.
 
-*Apiiro: Secure your agentic development* [Hacker News] – *Content not provided; details unavailable for synthesis.*  
+### Our Looping Factory Cut DEV Page Load Time by 75% and Counting – DEV Community  
+By deploying autonomous “loops” powered by OpenHands and multiple LLM providers, the author reduced average request latency from 70 ms to 16 ms, merging 475 PRs (including performance, Rust rewrites, and dependency upgrades) and freeing time for higher‑impact work.
 
-*Statement From NVIDIA Board of Directors* [Hacker News] – *Content not provided; details unavailable for synthesis.*  
+### We're Building AI to Replace Ourselves. What's the Plan? – DEV Community  
+The post speculates on a future where AI agents handle most software tasks, raising concerns about job displacement, rising productivity expectations, and the challenges faced by junior developers in an increasingly automated market.
 
-*A Message to Our Company* [NVIDIA Newsroom] – NVIDIA’s board highlights a record fiscal year driven by AI demand, outlines future AI platform expansion, sustainability goals (net‑zero by 2030), and upcoming GPU and supercomputer milestones.  
+### GBrain – Garry’s Opinionated OpenClaw/Hermes Agent Brain – GitHub  
+GBrain provides a self‑hostable, MIT‑licensed knowledge base for AI agents, featuring keyword/semantic retrieval, citation‑rich answers, and a fast graph query engine, with optional managed hosting for integration with Claude, ChatGPT, and other agents.
 
----
+### Foldable Flight: The Best Paper Airplanes in the World! – Hacker News *(trending)*  
+The site showcases 109 paper‑airplane designs with interactive folding guides, sortable by difficulty, type, and performance metrics, allowing users to purchase kits or learn to fold award‑winning models.
 
-## Open Source
+### CHIMERA – Hacker News  
+*No content provided; unable to summarize.*
 
-*Necoz Has a New Home on DEV!* [DEV Community] – The Necoz organization invites contributors of all levels to join a community focused on building small, simple, useful open‑source tools, with an open invitation to comment for an invite.  
+### AI doesn’t have to go rogue to break the world – CyberScoop  
+The article outlines three ways AI can contribute to hacking—humans hacking AI, humans using AI to hack, and autonomous AI hacking—emphasizing that literal goal pursuit can lead to unintended, destabilizing exploits without malicious intent.
 
-*A 55‑Year‑Old Math Problem Was Solved—This Time by Humans* [WIRED] – Lisa Sauermann and Huy Tuan Pham completed the proof of Graham’s conjecture, confirming that any non‑zero subset of ℤₚ can be ordered so all partial sums are distinct, ending a five‑decade open problem.  
+---  
 
----
+## Uncategorized (1 article)
+
+### Al Jazeera tries skateboarding at Youth Olympics – Al Jazeera  
+Al Jazeera reporter Nic Haque receives skateboarding lessons from Senegalese athlete Noura Amghar during the 2026 Youth Olympics, highlighting a light‑hearted cultural exchange.
+
+---  
 
 ## Notable Mentions
-- BenchUp — Free 3D Woodworking & Furniture Design App  
-- Declarative Dragging  
-- GitHub - synchopate/llama-modchip: 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB C...  
-- 6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More | WIRED  
-- 'Time is up': Nandy warns media industry to take abuse seriously in wake of Brand case - BBC News  
-- A hands‑on, low‑level understanding of MCP using command‑line tools  
-- Tech in Asia - Connecting Asia's startup ecosystem
+- AI chip financing hits a wall | Semafor  
+- AI R&D Is Accelerating Towards Potential RSI in 2027 | tldr
