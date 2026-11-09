@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Agent memory needs its OpenTelemetry moment",
+    "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "author": "mthines",
+    "date": "2026-11-08",
+    "score": 177,
+    "comments": 105,
+    "id": 50411467,
+    "discussion_url": "https://news.ycombinator.com/item?id=50411467",
+    "description": "Agent memory needs its OpenTelemetry moment",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191128"
+  },
+  {
+    "title": "Chimera Vocal Synth",
+    "url": "https://chimera-vocal-synth.vercel.app/",
+    "author": "nmstoker",
+    "date": "2026-11-09",
+    "score": 143,
+    "comments": 22,
+    "id": 50418182,
+    "discussion_url": "https://news.ycombinator.com/item?id=50418182",
+    "description": "Chimera Vocal Synth",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191012"
+  },
+  {
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "author": "shmulc",
+    "date": "2026-11-08",
+    "score": 596,
+    "comments": 406,
+    "id": 50407882,
+    "discussion_url": "https://news.ycombinator.com/item?id=50407882",
+    "description": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190895"
+  },
+  {
+    "title": "Clj.rs – a Clojure dialect implemented in Rust",
+    "url": "https://clj.rs/",
+    "author": "simonpure",
+    "date": "2026-11-05",
+    "score": 169,
+    "comments": 66,
+    "id": 50366902,
+    "discussion_url": "https://news.ycombinator.com/item?id=50366902",
+    "description": "Clj.rs – a Clojure dialect implemented in Rust",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191078"
+  },
+  {
+    "title": "Declarative Dragging",
+    "url": "https://declarative-dragging.github.io/",
+    "author": "smusamashah",
+    "date": "2026-11-05",
+    "score": 424,
+    "comments": 54,
+    "id": 50368481,
+    "discussion_url": "https://news.ycombinator.com/item?id=50368481",
+    "description": "Declarative Dragging",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191039"
+  },
+  {
+    "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "url": "https://duxlabs.dev/",
+    "author": "indigodaddy",
+    "date": "2026-11-09",
+    "score": 228,
+    "comments": 72,
+    "id": 50416053,
+    "discussion_url": "https://news.ycombinator.com/item?id=50416053",
+    "description": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190985"
+  },
+  {
+    "title": "GitHub New pull request overview page in public preview",
+    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "author": "xiaoyu2006",
+    "date": "2026-11-08",
+    "score": 188,
+    "comments": 124,
+    "id": 50408931,
+    "discussion_url": "https://news.ycombinator.com/item?id=50408931",
+    "description": "GitHub New pull request overview page in public preview",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191199"
+  },
+  {
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "author": "TheWiggles",
+    "date": "2026-11-09",
+    "score": 673,
+    "comments": 381,
+    "id": 50415628,
+    "discussion_url": "https://news.ycombinator.com/item?id=50415628",
+    "description": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191021"
+  },
+  {
+    "title": "Goodbye Claude, hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "author": "karagenit",
+    "date": "2026-11-08",
+    "score": 719,
+    "comments": 445,
+    "id": 50410107,
+    "discussion_url": "https://news.ycombinator.com/item?id=50410107",
+    "description": "Goodbye Claude, hello Pi",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190845"
+  },
+  {
+    "title": "How I Fight AI Brain Fry",
+    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "author": "kyunez",
+    "date": "2026-11-09",
+    "score": 190,
+    "comments": 152,
+    "id": 50416363,
+    "discussion_url": "https://news.ycombinator.com/item?id=50416363",
+    "description": "How I Fight AI Brain Fry",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190855"
+  },
+  {
+    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+    "url": "https://github.com/dmunozv04/isponsorblocktv",
+    "author": "xnx",
+    "date": "2026-11-08",
+    "score": 129,
+    "comments": 57,
+    "id": 50410249,
+    "discussion_url": "https://news.ycombinator.com/item?id=50410249",
+    "description": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191185"
+  },
+  {
+    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "url": "https://ketchup3d.github.io/app/",
+    "author": "dcoulmbe",
+    "date": "2026-11-09",
+    "score": 321,
+    "comments": 89,
+    "id": 50418176,
+    "discussion_url": "https://news.ycombinator.com/item?id=50418176",
+    "description": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190912"
+  },
+  {
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "author": "joshcsimmons",
+    "date": "2026-11-08",
+    "score": 393,
+    "comments": 175,
+    "id": 50411961,
+    "discussion_url": "https://news.ycombinator.com/item?id=50411961",
+    "description": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190977"
+  },
+  {
+    "title": "Making any integer with four 2s (2025)",
+    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "author": "germanrabbit",
+    "date": "2026-11-08",
+    "score": 207,
+    "comments": 56,
+    "id": 50408713,
+    "discussion_url": "https://news.ycombinator.com/item?id=50408713",
+    "description": "Making any integer with four 2s (2025)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191153"
+  },
+  {
+    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "author": "antiuniverse",
+    "date": "2026-11-08",
+    "score": 391,
+    "comments": 105,
+    "id": 50406222,
+    "discussion_url": "https://news.ycombinator.com/item?id=50406222",
+    "description": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191176"
+  },
+  {
+    "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+    "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "author": "vincentchau",
+    "date": "2026-11-09",
+    "score": 451,
+    "comments": 337,
+    "id": 50416801,
+    "discussion_url": "https://news.ycombinator.com/item?id=50416801",
+    "description": "Nvidia Board of Directors Is Investigating Jensen Huang",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191137"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+    "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+    "author": "karimf",
+    "date": "2026-11-09",
+    "score": 437,
+    "comments": 475,
+    "id": 50418016,
+    "discussion_url": "https://news.ycombinator.com/item?id=50418016",
+    "description": "Nvidia CEO Jensen Huang's letter to staff about affair",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190922"
+  },
+  {
+    "title": "Outlook.com is rejecting email from domains without DMARC",
+    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "author": "xmddmx",
+    "date": "2026-11-09",
+    "score": 309,
+    "comments": 221,
+    "id": 50416158,
+    "discussion_url": "https://news.ycombinator.com/item?id=50416158",
+    "description": "Outlook.com is rejecting email from domains without DMARC",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190945"
+  },
+  {
+    "title": "Person of Interest",
+    "url": "https://krthr.co/person-of-interest/",
+    "author": "krthr",
+    "date": "2026-11-08",
+    "score": 295,
+    "comments": 188,
+    "id": 50412318,
+    "discussion_url": "https://news.ycombinator.com/item?id=50412318",
+    "description": "Person of Interest",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191230"
+  },
+  {
+    "title": "Petered",
+    "url": "https://aworkinglibrary.com/writing/petered",
+    "author": "adrianhoward",
+    "date": "2026-11-08",
+    "score": 161,
+    "comments": 92,
+    "id": 50412152,
+    "discussion_url": "https://news.ycombinator.com/item?id=50412152",
+    "description": "Petered",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191208"
+  },
+  {
+    "title": "Porting Android 16 to my blind mother's keypad phone",
+    "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+    "author": "z1xus",
+    "date": "2026-11-05",
+    "score": 165,
+    "comments": 50,
+    "id": 50366821,
+    "discussion_url": "https://news.ycombinator.com/item?id=50366821",
+    "description": "Porting Android 16 to my blind mother's keypad phone",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191053"
+  },
+  {
+    "title": "RIP, Harvest",
+    "url": "https://aphyr.com/posts/427-rip-harvest",
+    "author": "zdw",
+    "date": "2026-11-09",
+    "score": 147,
+    "comments": 51,
+    "id": 50420035,
+    "discussion_url": "https://news.ycombinator.com/item?id=50420035",
+    "description": "RIP, Harvest",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190780"
+  },
+  {
+    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "url": "https://github.com/hedgerow-dev/coldframe",
+    "author": "hedgerow-dev",
+    "date": "2026-11-08",
+    "score": 280,
+    "comments": 64,
+    "id": 50406292,
+    "discussion_url": "https://news.ycombinator.com/item?id=50406292",
+    "description": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191160"
+  },
+  {
+    "title": "Show HN: Vegetable Gardening for Engineers",
+    "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+    "author": "jrcplus",
+    "date": "2026-11-04",
+    "score": 182,
+    "comments": 37,
+    "id": 50362963,
+    "discussion_url": "https://news.ycombinator.com/item?id=50362963",
+    "description": "Show HN: Vegetable Gardening for Engineers",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190871"
+  },
+  {
+    "title": "The $8 Linux Computer (2022)",
+    "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+    "author": "zenincognito",
+    "date": "2026-11-08",
+    "score": 258,
+    "comments": 97,
+    "id": 50404599,
+    "discussion_url": "https://news.ycombinator.com/item?id=50404599",
+    "description": "The $8 Linux Computer (2022)",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191253"
+  },
+  {
+    "title": "Unlocking any car from X brand in most of the world",
+    "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+    "author": "infosecau",
+    "date": "2026-11-09",
+    "score": 162,
+    "comments": 61,
+    "id": 50419215,
+    "discussion_url": "https://news.ycombinator.com/item?id=50419215",
+    "description": "Unlocking any car from X brand in most of the world",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190937"
+  },
+  {
+    "title": "Uranium cubes reveal why the German nuclear project failed",
+    "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+    "author": "rbanffy",
+    "date": "2026-11-05",
+    "score": 207,
+    "comments": 162,
+    "id": 50377661,
+    "discussion_url": "https://news.ycombinator.com/item?id=50377661",
+    "description": "Uranium cubes reveal why the German nuclear project failed",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191145"
+  },
+  {
+    "title": "We know 15k websites are infected. how do we tell them?",
+    "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+    "author": "speckx",
+    "date": "2026-11-07",
+    "score": 224,
+    "comments": 184,
+    "id": 50396064,
+    "discussion_url": "https://news.ycombinator.com/item?id=50396064",
+    "description": "We know 15k websites are infected. how do we tell them?",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191266"
+  },
+  {
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "url": "https://blog.bosscher.ch/posts/openstick/",
+    "author": "LaurensBER",
+    "date": "2026-11-08",
+    "score": 778,
+    "comments": 134,
+    "id": 50406670,
+    "discussion_url": "https://news.ycombinator.com/item?id=50406670",
+    "description": "What I run on my $10 USD OpenStick homelab",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.191238"
+  },
+  {
+    "title": "Writing as a thinking tool",
+    "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "author": "jruohonen",
+    "date": "2026-11-08",
+    "score": 310,
+    "comments": 83,
+    "id": 50412067,
+    "discussion_url": "https://news.ycombinator.com/item?id=50412067",
+    "description": "Writing as a thinking tool",
+    "tags": [
+      "hackernews",
+      "trending"
+    ],
+    "site_name": "hackernews_api",
+    "fetched_at": "2026-11-09T16:00:24.190814"
+  }
+]
